@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>我的股票监控</title>
+<style>
+  :root{
+    --bg:#f4f6f8; --card:#ffffff; --ink:#1a1f2b; --muted:#6b7280; --line:#e7eaef;
+    --up:#0f9d58; --down:#e5484d; --accent:#3b6ef5;
+    --warn5:#f2b705; --warn10:#f28705; --warn20:#e5484d; --warn30:#b4232a;
+    --shadow:0 1px 3px rgba(16,24,40,.06),0 1px 2px rgba(16,24,40,.04);
+  }
+  @media (prefers-color-scheme: dark){
+    :root{
+      --bg:#0e1117; --card:#171b22; --ink:#e6e9ef; --muted:#9aa4b2; --line:#242a33;
+      --up:#3fb950; --down:#f85149; --accent:#4f8bff;
+      --shadow:0 1px 3px rgba(0,0,0,.4);
+    }
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--ink);
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"PingFang SC","Microsoft YaHei",Helvetica,Arial,sans-serif;
+    -webkit-font-smoothing:antialiased;padding:20px 16px 60px}
+  .wrap{max-width:1080px;margin:0 auto}
+  header{display:flex;flex-wrap:wrap;align-items:baseline;gap:12px;margin-bottom:6px}
+  h1{font-size:22px;margin:0;font-weight:800;letter-spacing:.2px}
+  .updated{color:var(--muted);font-size:13px}
+  .sub{color:var(--muted);font-size:13px;margin:2px 0 18px}
+  .legend{display:flex;flex-wrap:wrap;gap:14px;font-size:12px;color:var(--muted);margin:0 0 18px}
+  .legend b{color:var(--ink)}
+  .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:14px}
+  .card{background:var(--card);border:1px solid var(--line);border-left:4px solid var(--line);border-radius:14px;padding:16px 16px 14px;box-shadow:var(--shadow)}
+  .card.severe{box-shadow:0 0 0 1px var(--down) inset,var(--shadow)}
+  .crow{display:flex;justify-content:space-between;align-items:flex-start;gap:10px}
+  .name{font-weight:700;font-size:16px;line-height:1.2}
+  .sym{color:var(--muted);font-size:12px;margin-top:3px}
+  .price{font-size:22px;font-weight:800;text-align:right;line-height:1.1}
+  .cur{font-size:12px;color:var(--muted);font-weight:600}
+  .day{font-size:13px;font-weight:700;text-align:right;margin-top:3px}
+  .up{color:var(--up)} .down{color:var(--down)}
+  .metrics{margin-top:14px}
+  .mlabel{display:flex;justify-content:space-between;font-size:12px;color:var(--muted);margin-bottom:5px}
+  .mlabel b{color:var(--ink);font-weight:700}
+  .bar{height:8px;border-radius:6px;background:var(--line);overflow:hidden}
+  .bar > i{display:block;height:100%;border-radius:6px}
+  .hi52{font-size:12px;color:var(--muted);margin-top:8px}
+  .news{margin-top:12px;border-top:1px dashed var(--line);padding-top:10px}
+  .news h4{margin:0 0 6px;font-size:12px;color:var(--muted);font-weight:600;text-transform:uppercase;letter-spacing:.5px}
+  .news a{display:block;color:var(--ink);text-decoration:none;font-size:13px;line-height:1.35;margin-bottom:7px;padding-left:12px;position:relative}
+  .news a:before{content:"›";position:absolute;left:0;color:var(--accent)}
+  .news a:hover{color:var(--accent)}
+  .news .meta{color:var(--muted);font-size:11px}
+  .none{color:var(--muted);font-size:12px}
+  .err{color:var(--down);font-size:13px;margin-top:10px}
+  .pill{display:inline-block;padding:2px 8px;border-radius:999px;font-size:11px;font-weight:700;background:var(--down);color:#fff;margin-left:8px}
+  footer{color:var(--muted);font-size:12px;text-align:center;margin-top:30px}
+  .dot{width:8px;height:8px;border-radius:50%;display:inline-block;margin-right:5px;vertical-align:middle;background:var(--up)}
+  .dot.stale{background:var(--warn10)}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>📈 我的股票监控</h1>
+    <span class="updated" id="updated">加载中…</span>
+  </header>
+  <div class="sub" id="cfgline"></div>
+  <div class="legend">
+    <span><span class="dot" id="livedot"></span><span id="livetxt">数据状态</span></span>
+    <span>日涨跌：<b class="up">绿=涨</b> / <b class="down">红=跌</b></span>
+    <span>回撤条 = 距 52 周最高点的跌幅，越满越接近告警档</span>
+  </div>
+  <div class="grid" id="grid"></div>
+  <footer id="foot"></footer>
+</div>
+
+<script>
+const DATA_URL = "./data/quotes.json";
+const REFRESH_MS = 60000;
+
+function pct(x, signed){ if(x==null||isNaN(x)) return "—";
+  return (signed && x>0?"+":"") + x.toFixed(2) + "%"; }
+function price(p, cur){ if(p==null) return "—";
+  return Number(p).toLocaleString(undefined,{minimumFractionDigits:2,maximumFractionDigits:2}) +
+    " <span class='cur'>"+(cur||"")+"</span>"; }
+function esc(s){ return (s||"").replace(/[&<>"]/g, c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c])); }
+
+// 回撤颜色分级
+function ddColor(dd){
+  if(dd==null) return "var(--muted)";
+  if(dd>=30) return "var(--warn30)";
+  if(dd>=20) return "var(--warn20)";
+  if(dd>=10) return "var(--warn10)";
+  if(dd>=5)  return "var(--warn5)";
+  return "var(--up)";
+}
+
+function render(payload){
+  const q = payload.quotes||[];
+  const cfg = payload.config||{};
+  document.getElementById("updated").textContent = "更新于 " + (payload.updated_at_display||"—");
+  const bands = (cfg.drawdown_bands_pct||[]).join("% / ")+"%";
+  document.getElementById("cfgline").textContent =
+    `告警规则：距 52 周高点每跌破 ${bands} 发一封；单日跌幅 ≥ ${cfg.intraday_plunge_pct}% 额外发『今日大跌』。`;
+
+  // 数据新鲜度
+  const dot = document.getElementById("livedot"), txt=document.getElementById("livetxt");
+  let ageMin = 999;
+  if(payload.updated_at){ ageMin = (Date.now()-new Date(payload.updated_at).getTime())/60000; }
+  if(ageMin > 40){ dot.className="dot stale"; txt.textContent = `数据较旧（约 ${Math.round(ageMin)} 分钟前，可能非交易时段）`; }
+  else { dot.className="dot"; txt.textContent = "数据新鲜"; }
+
+  const firstBand = (cfg.drawdown_bands_pct&&cfg.drawdown_bands_pct[0])||5;
+  const grid = document.getElementById("grid");
+  grid.innerHTML = q.map(s=>{
+    if(s.error){
+      return `<div class="card"><div class="crow"><div><div class="name">${esc(s.name||s.symbol)}</div>
+        <div class="sym">${esc(s.symbol)}</div></div></div>
+        <div class="err">⚠️ 拉取失败：${esc(String(s.error)).slice(0,80)}<br><span class="none">检查代码是否正确</span></div></div>`;
+    }
+    const dd = s.drawdown_pct;
+    const dc = s.day_change_pct;
+    const col = ddColor(dd);
+    // 进度条：以最深告警档(如50%)为满格；同时保证跌破首档时已明显可见
+    const maxBand = (cfg.drawdown_bands_pct||[50]).slice(-1)[0]||50;
+    const fill = dd==null?0:Math.max(0,Math.min(100, dd/maxBand*100));
+    const isAlert = dd!=null && dd>=firstBand;
+    const isSevere = dd!=null && dd>=20;
+    const news = (s.news||[]).map(n=>`<a href="${esc(n.link)}" target="_blank" rel="noopener">
+        ${esc(n.title)}<span class="meta"> · ${esc(n.source||"")}</span></a>`).join("") ||
+        `<span class="none">暂无近期新闻</span>`;
+    return `<div class="card ${isSevere?'severe':''}" style="border-left-color:${col}">
+      <div class="crow">
+        <div><div class="name">${esc(s.name||s.symbol)}${isAlert?`<span class="pill" style="background:${col}">-${dd.toFixed(0)}%</span>`:''}</div>
+          <div class="sym">${esc(s.symbol)} · ${esc(s.exchange||"")}</div></div>
+        <div><div class="price">${price(s.price,s.currency)}</div>
+          <div class="day ${dc>=0?'up':'down'}">${pct(dc,true)} 今日</div></div>
+      </div>
+      <div class="metrics">
+        <div class="mlabel"><span>距 52 周高点</span><b style="color:${col}">-${dd==null?'—':dd.toFixed(1)+'%'}</b></div>
+        <div class="bar"><i style="width:${fill}%;background:${col}"></i></div>
+        <div class="hi52">52 周最高：${price(s.high_52w,s.currency)}　·　昨收：${price(s.prev_close,s.currency)}</div>
+      </div>
+      <div class="news"><h4>消息面</h4>${news}</div>
+    </div>`;
+  }).join("");
+
+  document.getElementById("foot").textContent =
+    `共 ${q.length} 只 · 网页每 60 秒自动刷新数据 · 后台每 ~15 分钟更新一次行情与告警`;
+}
+
+async function load(){
+  try{
+    const r = await fetch(DATA_URL + "?t=" + Date.now(), {cache:"no-store"});
+    if(!r.ok) throw new Error("HTTP "+r.status);
+    render(await r.json());
+  }catch(e){
+    document.getElementById("updated").textContent = "暂无数据（等待后台首次更新）";
+    document.getElementById("foot").textContent = "读取 data/quotes.json 失败：" + e.message;
+  }
+}
+load();
+setInterval(load, REFRESH_MS);
+</script>
+</body>
+</html>

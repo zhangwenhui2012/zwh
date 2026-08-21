@@ -1,0 +1,17 @@
+{
+  "updated_at": "2026-08-21T18:30:00+00:00",
+  "updated_at_display": "示例数据 · 首次运行后自动更新",
+  "config": { "drawdown_bands_pct": [5,10,15,20,25,30,40,50], "intraday_plunge_pct": 5.0 },
+  "quotes": [
+    {"symbol":"NVDA","name":"NVIDIA","exchange":"NasdaqGS","currency":"USD","price":94.20,"prev_close":100.30,"high_52w":153.13,"day_change_pct":-6.08,"drawdown_pct":38.48,
+     "news":[{"title":"(示例) 首次运行后这里会显示真实新闻","link":"https://news.google.com","source":"Google News","pub":""}]},
+    {"symbol":"META","name":"Meta Platforms","exchange":"NasdaqGS","currency":"USD","price":712.40,"prev_close":705.10,"high_52w":796.25,"day_change_pct":1.04,"drawdown_pct":10.53,"news":[]},
+    {"symbol":"AVGO","name":"Broadcom","exchange":"NasdaqGS","currency":"USD","price":268.10,"prev_close":270.00,"high_52w":295.00,"day_change_pct":-0.70,"drawdown_pct":9.12,"news":[]},
+    {"symbol":"AMD","name":"AMD","exchange":"NasdaqGS","currency":"USD","price":158.30,"prev_close":166.90,"high_52w":227.30,"day_change_pct":-5.15,"drawdown_pct":30.36,"news":[]},
+    {"symbol":"RKLB","name":"Rocket Lab","exchange":"NasdaqCM","currency":"USD","price":41.20,"prev_close":42.00,"high_52w":53.50,"day_change_pct":-1.90,"drawdown_pct":22.99,"news":[]},
+    {"symbol":"IREN","name":"IREN","exchange":"NasdaqGS","currency":"USD","price":18.40,"prev_close":18.10,"high_52w":19.80,"day_change_pct":1.66,"drawdown_pct":7.07,"news":[]},
+    {"symbol":"MILDEF.ST","name":"MilDef Group","exchange":"Stockholm","currency":"SEK","price":268.50,"prev_close":271.00,"high_52w":312.00,"day_change_pct":-0.92,"drawdown_pct":13.94,"news":[]},
+    {"symbol":"IVSO.ST","name":"Invisio","exchange":"Stockholm","currency":"SEK","price":312.00,"prev_close":310.50,"high_52w":330.00,"day_change_pct":0.48,"drawdown_pct":5.45,"news":[]},
+    {"symbol":"NOTEK.ST","name":"Norditek Group (代码待确认)","exchange":"Stockholm","currency":"SEK","price":41.10,"prev_close":41.50,"high_52w":48.00,"day_change_pct":-0.96,"drawdown_pct":14.38,"news":[]}
+  ]
+}
