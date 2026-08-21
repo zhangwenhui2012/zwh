@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-08-21T19:35:26.690049+00:00",
-  "updated_at_display": "2026-08-21 19:35 UTC",
+  "updated_at": "2026-08-21T19:55:26.013330+00:00",
+  "updated_at_display": "2026-08-21 19:55 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 215.01,
+      "price": 214.91,
       "prev_close": 216.85000610351562,
       "high_52w": 236.54,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -0.8485155876072643,
-      "drawdown_pct": 9.102054620782955,
+      "day_change_pct": -0.8946304122258341,
+      "drawdown_pct": 9.144330768580366,
       "name": "NVIDIA",
       "news": [
         {
@@ -21,35 +21,35 @@
           "source": "Morningstar"
         },
         {
-          "title": "Big week coming up with PCE, Nvidia earnings and then Jackson Hole. Here's what to expect - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWUF5cVVGcVhtWlpsRFlabG52NFZDcDdZdUFfX3ZyemttcVdZN1lxUGMyeG93TkI1bk1CVkhZaTZ1OHQyb2k2RWtwcDhuaElvUE55Q3M2X2RfbldHSXdHSzhQVjJMVmFmMnZtb2paTWRjUFgzUzR1aF9IbzlZMF95MUhXVW55MVhGdnZ4MENzZw?oc=5",
-          "pub": "Fri, 21 Aug 2026 18:45:13 GMT",
-          "source": "CNBC"
+          "title": "Advanced Micro Devices (AMD) Posts Record Sales, But Musk’s NVIDIA (NVDA) Pledge Sinks the Stock - Yahoo! Finance Canada",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNajBuQjFkUVZOQWlvWmxlWWlITVpjWF9BTk15eWpHVW9NS0hyMTFkSlJ6aGhhTGhUc2t2ZVo0dEFzczlseG9KcjFwSVE0eVlfYmtvbGxEekN6YWZZc0c1QXZISHl1V09GNllhTEtabXFZc0lBVjhvY2V5RnNnd2hlVkY1dnZxVkxh?oc=5",
+          "pub": "Fri, 21 Aug 2026 19:48:27 GMT",
+          "source": "Yahoo! Finance Canada"
         },
         {
-          "title": "Wall St Week Ahead Nvidia earnings, Jackson Hole to test pillars of stock rally - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeTRXSGR0N2FUbGhlTWN5NFFQWkc0OS1TX1dhS0RtQkNySkxWWDBWQVktajFIWWJwTzBoR2pOczFKdjYwWlRsWVBmODR6M2IzSWM4VzlMblk3cHNwQ21pdXVlbERIZDhlanhFT19UT214OWxBUFJHMk81cjlOajRRTm9pamlEb05VeHVVZEtpQmNLMC1rSnhmbmZCWWY1WEQtZDkxUWV4MDFHR1dqWmhSVmQ2Y3R0dW1U?oc=5",
-          "pub": "Fri, 21 Aug 2026 10:15:25 GMT",
-          "source": "Reuters"
+          "title": "Something Big Could Happen To NVIDIA Stock on August 26 - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOa28zUW8zb3c2Mk03b1p3RTFLOHRLTVFQR0Zoc0s5T1ZkRUNYQmxOalUwbzA0bmVNZUloRHdQbV9jZWJMQ0lDd3dJdjlfZDM1WFBSUExKY0t2Y1FKZF9KLWlHWFE3VXF2T0tNU1dIVlVPam1GZTBrMFd2X2dBRjVHa0F0SU04V25mY0pQU1B4Z044VDBqTGZxQnl3TzE4UEU?oc=5",
+          "pub": "Fri, 21 Aug 2026 12:00:49 GMT",
+          "source": "Yahoo Finance"
         },
         {
-          "title": "Nvidia, Micron among 10 stocks initiated with bullish views at BMO Capital - Seeking Alpha",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOX2tVRXZKNVk2NEpOaFJJZ1B2eVNidTNmNkxtckRDX05mRjFjckpTcThSVHc2dmtreDBZbkhpY0tBcUE3VlI1bER1dGhzcGh2NlQtN1pHa29fMWpjcHVaYkxFYkdfX09SbHFwaW5FeVowT0ZOQ0lYRGNtcXZLV0lVNlQ2bEZucjB6RW93Z2dud0FaRDBkQmczRzdRT0ZkeFFTbEdmZks5TkZzRmhyRWlNbg?oc=5",
-          "pub": "Fri, 21 Aug 2026 14:37:58 GMT",
-          "source": "Seeking Alpha"
+          "title": "Going Into Earnings, Is Nvidia Stock a Buy, a Sell, or Fairly Valued? - Morningstar",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPb0VOQm9kVnMtUWdwakFBUWNBU25nU3Z1ZzJfcjE0c1FIRndqRXJiV3VKNGV1S1VhTzc2aGdfaXBmZENTR00wdmlWa1RLR2hmNVlQTW5vMmtLa1JSSU5wMzE4SEk3ei1JX2FFN0k3eFFRNzRJX1RXQ2NsMC04TU9RTDVvd3Y5NE1vTE8yWlI2ODZHMkpQQXJvLXBGWDFyUjQ?oc=5",
+          "pub": "Wed, 19 Aug 2026 10:00:21 GMT",
+          "source": "Morningstar"
         }
       ]
     },
     {
       "symbol": "META",
-      "price": 549.67,
+      "price": 549.68,
       "prev_close": 545.8300170898438,
       "high_52w": 790.8,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 0.7035125936513211,
-      "drawdown_pct": 30.491906929691453,
+      "day_change_pct": 0.7053446658508874,
+      "drawdown_pct": 30.49064238745574,
       "name": "Meta Platforms",
       "news": [
         {
@@ -80,14 +80,14 @@
     },
     {
       "symbol": "AVGO",
-      "price": 368.255,
+      "price": 367.65,
       "prev_close": 364.0299987792969,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 1.1606189695549358,
-      "drawdown_pct": 25.605050505050507,
+      "day_change_pct": 0.9944238751866785,
+      "drawdown_pct": 25.727272727272734,
       "name": "Broadcom",
       "news": [
         {
@@ -118,14 +118,14 @@
     },
     {
       "symbol": "AMD",
-      "price": 472.01,
+      "price": 473.915,
       "prev_close": 469.4599914550781,
       "high_52w": 584.73,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 0.5431790975452851,
-      "drawdown_pct": 19.277273271424423,
+      "day_change_pct": 0.9489644753568288,
+      "drawdown_pct": 18.951481880526053,
       "name": "AMD",
       "news": [
         {
@@ -135,10 +135,10 @@
           "source": "Barchart.com"
         },
         {
-          "title": "Nvidia, AMD, and Intel: Wall Street Says to Buy 2 and Avoid 1. I Disagree. - Currently.com",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOaVFLODREc2hZMjV0Tk9nUGRLX2Y1TXY5cUJCcFcxbzBpa1V0MTE2dHpXUnhLR2d5c0llamxnN0ktZUFoVkdFOEdXNWM3LXA3bXVTVDJNbW9mMkxPNXprdzM0TDg0bm9Uc1hFLWJyaVp5eHo1Tlc1T1FPUXZNcXl1YVhFcDk0Zw?oc=5",
-          "pub": "Fri, 21 Aug 2026 02:20:00 GMT",
-          "source": "Currently.com"
+          "title": "Advanced Micro Devices (AMD) Posts Record Sales, But Musk’s NVIDIA (NVDA) Pledge Sinks the Stock - Yahoo! Finance Canada",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNajBuQjFkUVZOQWlvWmxlWWlITVpjWF9BTk15eWpHVW9NS0hyMTFkSlJ6aGhhTGhUc2t2ZVo0dEFzczlseG9KcjFwSVE0eVlfYmtvbGxEekN6YWZZc0c1QXZISHl1V09GNllhTEtabXFZc0lBVjhvY2V5RnNnd2hlVkY1dnZxVkxh?oc=5",
+          "pub": "Fri, 21 Aug 2026 19:48:27 GMT",
+          "source": "Yahoo! Finance Canada"
         },
         {
           "title": "Earn 17% On AMD Stock Now, For Capping Your Upside At 24% - Trefis",
@@ -147,23 +147,23 @@
           "source": "Trefis"
         },
         {
-          "title": "Prediction: AMD Stock Will Hit $650 on This Date - 24/7 Wall St.",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOR2xUS3lyVjJ3WkNiQlB1U2hKejktX3c3SWx0MGRvZ2w1TTljRndiYWc3MkRpdkpPYXI1eUk2SEpPa2JBcXlmZ2x4c1ZMTWdQMnB1bldBTDhvR3ItRERvLTFoYkhzRHN6N0ZvajFKY2tkSU1XTWt3MjhGcU1IQXYyc21NdUhqWVByZHBBYldSVkRiYmNX?oc=5",
-          "pub": "Thu, 20 Aug 2026 17:00:02 GMT",
-          "source": "24/7 Wall St."
+          "title": "Nvidia, AMD, and Intel: Wall Street Says to Buy 2 and Avoid 1. I Disagree. - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcUxqVXhsazdWN05hT3VFbUNLTGItS3ctOVlqa1Z6WkF4S3lkVGF1OXp3My1QNzltNG43UlJrek5LemZkRDlFVUZoN2kyRkpRbVd0aWVjN1FsSUpXdVM4a3ZyUzlTdTNaQWs4Rmo3UmNDczdoUVVyNXduWUMtNnM3MFhuT2o2ZkhfZnRacmJZNzA2NjdGTHk4Qw?oc=5",
+          "pub": "Fri, 21 Aug 2026 03:00:00 GMT",
+          "source": "The Motley Fool"
         }
       ]
     },
     {
       "symbol": "RKLB",
-      "price": 73.11,
+      "price": 72.8,
       "prev_close": 72.94999694824219,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 0.2193324995905533,
-      "drawdown_pct": 51.58278145695364,
+      "day_change_pct": -0.20561611311459374,
+      "drawdown_pct": 51.78807947019868,
       "name": "Rocket Lab",
       "news": [
         {
@@ -194,14 +194,14 @@
     },
     {
       "symbol": "IREN",
-      "price": 41.45,
+      "price": 41.81,
       "prev_close": 42.599998474121094,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": -2.6995270312502453,
-      "drawdown_pct": 46.077795604289804,
+      "day_change_pct": -1.8544565784456648,
+      "drawdown_pct": 45.60947247805445,
       "name": "IREN",
       "news": [
         {
