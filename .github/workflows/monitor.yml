@@ -37,8 +37,18 @@ jobs:
           git add docs/data/quotes.json state.json
           if git diff --cached --quiet; then
             echo "no data change, skip commit."
-          else
-            git commit -m "chore: update quotes & state [skip ci]"
-            git pull --rebase --autostash origin ${GITHUB_REF_NAME} || true
-            git push
+            exit 0
           fi
+          git commit -m "chore: update quotes & state [skip ci]"
+          for i in 1 2 3 4 5; do
+            if git push origin HEAD:main; then
+              echo "pushed."
+              exit 0
+            fi
+            echo "push rejected, syncing with origin (attempt $i)..."
+            git fetch origin main
+            git rebase -X theirs origin/main || git rebase --abort
+            sleep 2
+          done
+          echo "push still failing after retries"
+          exit 1
