@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-08-21T17:56:19.928379+00:00",
-  "updated_at_display": "2026-08-21 17:56 UTC",
+  "updated_at": "2026-08-21T18:27:37.812261+00:00",
+  "updated_at_display": "2026-08-21 18:27 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 215.76,
+      "price": 215.57,
       "prev_close": 216.85000610351562,
       "high_52w": 236.54,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -0.5026544029679705,
-      "drawdown_pct": 8.78498351230236,
+      "day_change_pct": -0.5902725697432571,
+      "drawdown_pct": 8.865308193117443,
       "name": "NVIDIA",
       "news": [
         {
@@ -42,14 +42,14 @@
     },
     {
       "symbol": "META",
-      "price": 549.675,
+      "price": 549.09,
       "prev_close": 545.8300170898438,
       "high_52w": 790.8,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 0.7044286297511043,
-      "drawdown_pct": 30.491274658573598,
+      "day_change_pct": 0.5972524060763935,
+      "drawdown_pct": 30.565250379362663,
       "name": "Meta Platforms",
       "news": [
         {
@@ -80,52 +80,52 @@
     },
     {
       "symbol": "AVGO",
-      "price": 366.335,
+      "price": 365.64,
       "prev_close": 364.0299987792969,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 0.6331899097416349,
-      "drawdown_pct": 25.992929292929297,
+      "day_change_pct": 0.44227157819463625,
+      "drawdown_pct": 26.133333333333336,
       "name": "Broadcom",
       "news": [
         {
-          "title": "Marvell vs. Broadcom: One AI Stock Is a Better Buy After Google's Deal - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPLUJXZkxNQVBBSm1tbnJNYWRVX1RqbC1zNXpEblZ5LVo4VzIwLUdvZ184RHF0QjhUUzZ4eDF0MDZfaEVLd2RaTFU0N3RXd0V1ZEd0dFBNaG94SGFXcDhCYVg5LXo0Ym0xZjJUa3V6T1R4RVN2dHN1UGV2Q0VwZ2l1bm5oNXNSYWRIYWdQTVRLTmw4MVJSOUE?oc=5",
-          "pub": "Thu, 20 Aug 2026 19:00:00 GMT",
+          "title": "Broadcom vs. Marvell: Broadcom Stock Is Still the Better Buy After Alphabet's Announcement - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWkN2X0hVUWVRX3BvdkltaGw2NkNMUWdud1ZyMlRrT0hTSS1MelRJZ01BVDY5MjlIYzVzVERxQ3c1RE5ibkpJelNDZGVUa3RUZERPSWhONVlreGt1d1VqRWswemFMbXFITzhHSGs2MDhqRDFVVFFpcXRZZXZwMkRPV3l0eHR5NDNMQjdya3RMcDVueHVoU3VOUXJ1WTF5M1BQ?oc=5",
+          "pub": "Fri, 21 Aug 2026 16:13:00 GMT",
           "source": "Yahoo Finance"
         },
         {
-          "title": "Marvell Sinks 6% as Google Warrant Dilution Overtakes the Deal Rally; Broadcom Ticks Up - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcUtsWHlLYjM4Q0ZUTVJyWUJaLTFYVDVJTG5EQlpWVU15aHVhMWtISVhCZDFDaVpfbXMzTGxZUXhzQ290djZkU1MzZzE4NlRtaThLbDJ4cVFBV2FsejlQZXl6S19GR3JGSGRZdW9TU0c0cHF3NkxPS0dnbHRwQ1ZsQkNHNUlUT3JPYzY3YlU2UTd5UGgyWUQ4eE9WVQ?oc=5",
-          "pub": "Fri, 21 Aug 2026 16:06:09 GMT",
-          "source": "Yahoo Finance"
+          "title": "2 AI Stocks, 1 Winner: Which Has More Upside? - 24/7 Wall St.",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUnRDTXA0RzRkZWZoTENiSk9WdUdTUXhrakZwRUxmTDNNbVVrcXRwNHVTeTlUcTNnN19laDhheFBVM0NtZGtzcGRpVDJlQTMxc1F1OTRrMlIzZ3ZXOVVJQTFFX19FQlZoV3NnbEVoZTQ4ZzlwTlNjMEotUUNNU1VrR1JjM2stc1BsYk10Tmdxcw?oc=5",
+          "pub": "Thu, 20 Aug 2026 18:00:08 GMT",
+          "source": "24/7 Wall St."
         },
         {
-          "title": "Buying Marvell Before Broadcom Is A Big Mistake (NASDAQ:AVGO) - Seeking Alpha",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWktnM0tBRG0zZzFRS3R6enFkTENFMHJyaVVRbnFUT3ljMF9mdnVUMEhfMXROQnlGYm52ZnR6aEVFQlRWbjgxc01YQkhvMzc4Qmw1UmFjZS16b3I0SUFFZ1B1UjAwM1QyNFZoM3JBMEs1WjNWb0gyQzNEcnNzTHBRclRiQWtqSjNJRE5OUEEzdVVHUQ?oc=5",
-          "pub": "Fri, 21 Aug 2026 12:36:41 GMT",
+          "title": "Broadcom: You Snooze, You Lose (NASDAQ:AVGO) - Seeking Alpha",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5XNzZVblBJdU5fN1dodzdRUVJCY3I1MnFXTXRpcC01eUdnMi1Ec2o3M3Y1Vy1LWG1zb1FULTBPQ1Y0d2pBbnhsbmRrdng4TzdxdVFSWnNFSG1BUlU3RzI1LVBEWk44Y1JSNVFNdi1YeFdkbkVneEtrVg?oc=5",
+          "pub": "Fri, 21 Aug 2026 17:24:43 GMT",
           "source": "Seeking Alpha"
         },
         {
-          "title": "Why the AI Cycle Means Broadcom Stock Has 25% Upside After the Recent Selloff - Barron's",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9GcVhoMGNiNTdLMWQ3UkJHWExMOHRwY0ZlSlNVd1BtVGhKMllxeVZRRzlKTm5haVRIVjEwNEpZbVRKMTVrdXpVT0R1c3JRNjJxbG5USEl4dkJmemNkQXRSYWUyWWdkOVBFVFBXcE11UkhUVFFl?oc=5",
-          "pub": "Fri, 21 Aug 2026 12:28:00 GMT",
-          "source": "Barron's"
+          "title": "Broadcom Stock (AVGO) Gains on Reported $100 Billion AI Financing Deal - TipRanks",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdUt4SzBHYnQ4UWZHem5kc0ZYLVJSQ2NtOC1XeGphT0wwV1dvNkRWTE1vWVZJT0s5Sko3ZDgzMTFDa1laeFhqdWRtR0hvaVVGNG0zNUV6RzV0d1NkNFFIRWhtamZyS3ZuQklEZVZmUjVUY1UtMkJBaWV1WU5SVmlJRXVnaThPRzBhNlVTbjVQay1IeWtnaEV6YkxYWEtLdw?oc=5",
+          "pub": "Thu, 20 Aug 2026 21:38:23 GMT",
+          "source": "TipRanks"
         }
       ]
     },
     {
       "symbol": "AMD",
-      "price": 471.51,
+      "price": 471.68,
       "prev_close": 469.4599914550781,
       "high_52w": 584.73,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 0.4366737490383199,
-      "drawdown_pct": 19.362782822841314,
+      "day_change_pct": 0.47288556753069144,
+      "drawdown_pct": 19.33370957535957,
       "name": "AMD",
       "news": [
         {
@@ -141,35 +141,41 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "Nvidia, AMD, and Intel: Wall Street Says to Buy 2 and Avoid 1. I Disagree. - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcUxqVXhsazdWN05hT3VFbUNLTGItS3ctOVlqa1Z6WkF4S3lkVGF1OXp3My1QNzltNG43UlJrek5LemZkRDlFVUZoN2kyRkpRbVd0aWVjN1FsSUpXdVM4a3ZyUzlTdTNaQWs4Rmo3UmNDczdoUVVyNXduWUMtNnM3MFhuT2o2ZkhfZnRacmJZNzA2NjdGTHk4Qw?oc=5",
-          "pub": "Fri, 21 Aug 2026 03:00:00 GMT",
-          "source": "The Motley Fool"
-        },
-        {
           "title": "Earn 17% On AMD Stock Now, For Capping Your Upside At 24% - Trefis",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQb1I4NG95eG9aZTdnd2E0S3JhQ3h3dGJxbHhfdHpWSDlJazFzemgzSi1iU0xHVFpnVFZLZHAzWG9zOFhzYTJTVzd3MzQ4ZjBlazFlNWZ6S0NkWEFBbFNEOWdDSUpiODdHV1FxTTE5ZUlaX3pHcTN1TnNtZmZzZjJEak1jSmk5bDFEeGY5LWM4dmZxZFdNQjFyaklQQzNqY096QXNfaUxiVEtvVEdscm5LVXM0SXQ?oc=5",
           "pub": "Thu, 20 Aug 2026 21:40:50 GMT",
           "source": "Trefis"
+        },
+        {
+          "title": "Nvidia, AMD, and Intel: Wall Street Says to Buy 2 and Avoid 1. I Disagree. - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcUxqVXhsazdWN05hT3VFbUNLTGItS3ctOVlqa1Z6WkF4S3lkVGF1OXp3My1QNzltNG43UlJrek5LemZkRDlFVUZoN2kyRkpRbVd0aWVjN1FsSUpXdVM4a3ZyUzlTdTNaQWs4Rmo3UmNDczdoUVVyNXduWUMtNnM3MFhuT2o2ZkhfZnRacmJZNzA2NjdGTHk4Qw?oc=5",
+          "pub": "Fri, 21 Aug 2026 03:00:00 GMT",
+          "source": "The Motley Fool"
         }
       ]
     },
     {
       "symbol": "RKLB",
-      "price": 74.19,
+      "price": 73.53,
       "prev_close": 72.94999694824219,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 1.6997986341762135,
-      "drawdown_pct": 50.867549668874176,
+      "day_change_pct": 0.7950693297072021,
+      "drawdown_pct": 51.3046357615894,
       "name": "Rocket Lab",
       "news": [
         {
-          "title": "RKLB Stock Eyes Worst Week In Over A Month — CEO Says Rocket Lab Won’t Compete Directly With SpaceX - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcVpxZE9CWFMzVUl6aWdMRzh3OXRnbGxvMzR0M0EwMmR4RE1FNk9MYzUwX3B6aEE3a0VlZ0ltVmZmUlFPOTdod0RmYTNaV0dkV0tHd1JZaVMyQzlydXNUTl8xdFJyWW93d1A4SXk5bVFBN1R6bGY5SXEySnhSa2lRTjJ3X0lsM1ROd19BUURvNmpQa19pNnc?oc=5",
-          "pub": "Thu, 20 Aug 2026 02:56:00 GMT",
+          "title": "SpaceX vs. Rocket Lab: Which Space Stock Does Wall Street Prefer? - TipRanks",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPamUxeUxtS04tblVrMERfMTkxYjhwTThwM0E0X2ZRc3oxMVFZMzhnSFRNRXM4TUFjTWhUcXQ2X0lPN3ZyRlZaOUtYQ00wTWtZa3M2c0V2eV9QdW9tTFlyeDh5UjlwZTdpSVJZMG84dFdyb1Y1TC11Y21tSGdxT2NXOUpVMFc4YmoyVUFYNV9seUpoUnVGUlBB?oc=5",
+          "pub": "Wed, 19 Aug 2026 17:36:49 GMT",
+          "source": "TipRanks"
+        },
+        {
+          "title": "RKLB Stock In Focus After Rocket Lab Launches 93rd Electron Mission - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPY3UxRFBRT0tLQjlyT01XYmc5UjlVRlBCblBIV3Q5Y3hiSmYwQnNYblczSHJhYUJnampSMER4b2kwTFhDQTYtZUZNM1VXZnQyQzVIYmlqS3FKelZnbFlxeWpLM2VIYjl0M1M4bHdWa09NWFpwVEV0MnlaaVJlQzQ1ZDNBMXJnTDJsemJQNzV2aEVXU0d5NTBV?oc=5",
+          "pub": "Thu, 20 Aug 2026 18:15:15 GMT",
           "source": "Yahoo Finance"
         },
         {
@@ -183,31 +189,25 @@
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMTNuQzFmcVhVc1oxNGl6WVY3UkREdWhIUDlqNmNnblA2TnBwLU1RRkFRb0diRHhNV213cFRJZUIwWWZfY1ppaUxMdWxfbk53WUwzWGdEdXJEUUM3eW1wUWdTUXR5VnRFRjR3TlZ6Z3JwNm1qLVNfZ2UyeXEwdE9fVTRNTmZ2aEdDbGNxejYyZmpOSlpBQlF3UA?oc=5",
           "pub": "Thu, 20 Aug 2026 20:05:00 GMT",
           "source": "The Motley Fool"
-        },
-        {
-          "title": "BlackRock Inc. Acquires New Position in Rocket Lab Corporation $RKLB - MarketBeat",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQV21ZTHhxMjNWVUktWDBJckxBejU4Y0wwbjJtOU81TjRwbjJHc1VSMFJNZDl2LTJmYkhCUlR1V183bTc1TFNKVmg1RUthb3hxeVllcm02T1Z2SjRYQ1d0Q3NITUtzdE9fRzFJZkxxODRPTXJKdVFVWkgzanNtLVdVNVJpSkxTdEdYc0sxSDlRSl93dU1LNVNfQUplS1ZFemZSSU55Y3duMXBCRDkySTZvYjM1TjNyWjM0RXRETGRaRVdyRklxbGc?oc=5",
-          "pub": "Wed, 19 Aug 2026 07:31:05 GMT",
-          "source": "MarketBeat"
         }
       ]
     },
     {
       "symbol": "IREN",
-      "price": 41.339,
+      "price": 41.695,
       "prev_close": 42.599998474121094,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": -2.960090420865001,
-      "drawdown_pct": 46.22219523487905,
+      "day_change_pct": -2.124409639758244,
+      "drawdown_pct": 45.75907569893519,
       "name": "IREN",
       "news": [
         {
-          "title": "IREN Jumps 6% but Then Gives Up Gains as Microsoft Accepts Horizon 1; TeraWulf Ticks Up, Cipher Digital Drops 5% - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcF9fN1lrMExTTVpoMTlTbG9GRzYwVG8tMjRGa1lEQmNOUzVBaDNFM2k3VG1UcVNtUG9mSzFKdV9yUTNtSDdOT3VGOFpOYURlR3l5bUgxM05OMjVweDdBdmhITmR4alE5alY0TjNtZGFUU0J4aHFlNkZ5NXgxUEpqenRsSkFFM3E1UFAtM3JNZUhYdw?oc=5",
-          "pub": "Fri, 21 Aug 2026 14:20:09 GMT",
+          "title": "Hut 8 Craters 11% Despite a $19.6B Beacon Point Backlog, TeraWulf Falls 5%, IREN Drops 3%: What’s Pressuring These AI Miner Stocks? - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVElEOGxoVFZxejNCV1RRSmpIdy16d2RFM1VQUlFhQ3JHX2ZHV0RvdUdGOXFqb3A5OC1BdGNlQTk2U3BLcVJaMnJxVXhrdmlsRG9PS2dVSXdyc05TV3RKS19ZWDl5NXVXNjB5UHFlOVhLRzNBSms3dDAyek1FOEpoelo2UlBKUmo0Unp2LTFiVkdNaFE?oc=5",
+          "pub": "Fri, 21 Aug 2026 16:10:48 GMT",
           "source": "Yahoo Finance"
         },
         {
