@@ -76,18 +76,33 @@ def fetch_quote(symbol):
     res = data["chart"]["result"][0]
     meta = res["meta"]
 
-    price = meta.get("regularMarketPrice")
-    prev_close = meta.get("chartPreviousClose") or meta.get("previousClose")
     currency = meta.get("currency") or ""
     name = meta.get("shortName") or meta.get("longName") or symbol
     exchange = meta.get("fullExchangeName") or meta.get("exchangeName") or ""
 
-    # 52周最高：取日内 high 序列 与 meta.fiftyTwoWeekHigh 的最大值
-    highs = []
+    # 从日线序列取 收盘价 与 最高价
+    highs, closes = [], []
     try:
-        highs = [h for h in res["indicators"]["quote"][0]["high"] if h is not None]
+        q0 = res["indicators"]["quote"][0]
+        highs = [h for h in q0.get("high", []) if h is not None]
+        closes = [c for c in q0.get("close", []) if c is not None]
     except Exception:
         pass
+
+    # 当前价：优先用实时价，缺失则用最近一根日线收盘
+    price = meta.get("regularMarketPrice")
+    if price is None and closes:
+        price = closes[-1]
+
+    # 昨收：日线序列里“上一个已完成交易日”的收盘价 = 倒数第二根
+    # (注意：不能用 meta.chartPreviousClose，它在 range=1y 时是一年前的收盘价)
+    prev_close = None
+    if len(closes) >= 2:
+        prev_close = closes[-2]
+    elif meta.get("previousClose"):
+        prev_close = meta.get("previousClose")
+
+    # 52周最高：取日内 high 序列 与 meta.fiftyTwoWeekHigh 的最大值
     high_52w = max(highs) if highs else None
     mh = meta.get("fiftyTwoWeekHigh")
     if mh:

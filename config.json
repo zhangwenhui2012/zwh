@@ -19,7 +19,7 @@
     { "symbol": "IREN",      "name": "IREN" },
     { "symbol": "MILDEF.ST", "name": "MilDef Group" },
     { "symbol": "IVSO.ST",   "name": "Invisio" },
-    { "symbol": "NOTEK.ST",  "name": "Norditek Group (代码待你确认)" }
+    { "symbol": "NORBT.OL",  "name": "Norbit ASA" }
   ],
-  "_tickers_help": "symbol 用 Yahoo Finance 的代码：美股直接写代码(NVDA)；瑞典股加 .ST 后缀(MILDEF.ST)。若某只查不到，去 https://finance.yahoo.com 搜公司名，用它显示的代码。NORDIT 我按 Norditek Group=NOTEK.ST 填的，请你核对一下。"
+  "_tickers_help": "symbol 用 Yahoo Finance 的代码：美股直接写代码(NVDA)；瑞典股加 .ST(MILDEF.ST)；挪威股加 .OL(NORBT.OL)。若某只查不到，去 https://finance.yahoo.com 搜公司名，用它显示的代码。"
 }
