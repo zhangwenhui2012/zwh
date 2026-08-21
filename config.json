@@ -4,7 +4,7 @@
   "alert_to": "",
   "_alert_to_help": "收告警邮件的邮箱。留空则默认发到你自己的 Gmail (GMAIL_USER)。",
 
-  "drawdown_bands_pct": [5, 10, 15, 20, 25, 30, 40, 50],
+  "drawdown_bands_pct": [5, 10, 15, 20, 25, 30, 35, 40, 45, 50],
   "_drawdown_help": "距52周最高点的回撤分档(%)。每当某只股票【首次跌破】一个新档位，就发一封邮件。例如先跌破5%发一封，继续恶化到跌破10%再发一封。避免同一情况反复刷屏。",
 
   "intraday_plunge_pct": 5.0,
