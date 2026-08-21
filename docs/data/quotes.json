@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-08-21T19:55:26.013330+00:00",
-  "updated_at_display": "2026-08-21 19:55 UTC",
+  "updated_at": "2026-08-21T20:15:42.797684+00:00",
+  "updated_at_display": "2026-08-21 20:15 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 214.91,
+      "price": 214.72,
       "prev_close": 216.85000610351562,
       "high_52w": 236.54,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -0.8946304122258341,
-      "drawdown_pct": 9.144330768580366,
+      "day_change_pct": -0.9822485790011208,
+      "drawdown_pct": 9.22465544939545,
       "name": "NVIDIA",
       "news": [
         {
@@ -33,23 +33,23 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "Going Into Earnings, Is Nvidia Stock a Buy, a Sell, or Fairly Valued? - Morningstar",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPb0VOQm9kVnMtUWdwakFBUWNBU25nU3Z1ZzJfcjE0c1FIRndqRXJiV3VKNGV1S1VhTzc2aGdfaXBmZENTR00wdmlWa1RLR2hmNVlQTW5vMmtLa1JSSU5wMzE4SEk3ei1JX2FFN0k3eFFRNzRJX1RXQ2NsMC04TU9RTDVvd3Y5NE1vTE8yWlI2ODZHMkpQQXJvLXBGWDFyUjQ?oc=5",
-          "pub": "Wed, 19 Aug 2026 10:00:21 GMT",
-          "source": "Morningstar"
+          "title": "Nvidia's stock has started to come alive. Here's 3 reasons why it can continue - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYjJCajA4aDNSSU9MaExrYy1EbERVZG53RVlOYXh3RmlqTzJBNjdzZ2gxMGU2UGxLMnI0RkllNHNXbHlkUThmamwxSmlmcmJGdXN5WDBpbF9QQUhkcDBfZmZrRWRGUFhYTnRKSzlDRzdQM2NZX3diSG9EdXYyTzd0aHk4Y1MxWlFOdFZPZTY0a09YSWloWlZNQV82SF9MLU5hMVhKYk9COHRuV3F3ZFdtUWxTZw?oc=5",
+          "pub": "Mon, 17 Aug 2026 20:07:26 GMT",
+          "source": "CNBC"
         }
       ]
     },
     {
       "symbol": "META",
-      "price": 549.68,
+      "price": 549.9,
       "prev_close": 545.8300170898438,
       "high_52w": 790.8,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 0.7053446658508874,
-      "drawdown_pct": 30.49064238745574,
+      "day_change_pct": 0.7456502542413872,
+      "drawdown_pct": 30.462822458270107,
       "name": "Meta Platforms",
       "news": [
         {
@@ -80,14 +80,14 @@
     },
     {
       "symbol": "AVGO",
-      "price": 367.65,
+      "price": 368.45,
       "prev_close": 364.0299987792969,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 0.9944238751866785,
-      "drawdown_pct": 25.727272727272734,
+      "day_change_pct": 1.214185983442222,
+      "drawdown_pct": 25.565656565656568,
       "name": "Broadcom",
       "news": [
         {
@@ -118,14 +118,14 @@
     },
     {
       "symbol": "AMD",
-      "price": 473.915,
+      "price": 473.25,
       "prev_close": 469.4599914550781,
       "high_52w": 584.73,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 0.9489644753568288,
-      "drawdown_pct": 18.951481880526053,
+      "day_change_pct": 0.8073123618425607,
+      "drawdown_pct": 19.065209583910526,
       "name": "AMD",
       "news": [
         {
@@ -156,14 +156,14 @@
     },
     {
       "symbol": "RKLB",
-      "price": 72.8,
+      "price": 72.57,
       "prev_close": 72.94999694824219,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -0.20561611311459374,
-      "drawdown_pct": 51.78807947019868,
+      "day_change_pct": -0.5209005677022867,
+      "drawdown_pct": 51.940397350993386,
       "name": "Rocket Lab",
       "news": [
         {
@@ -194,14 +194,14 @@
     },
     {
       "symbol": "IREN",
-      "price": 41.81,
+      "price": 41.88,
       "prev_close": 42.599998474121094,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": -1.8544565784456648,
-      "drawdown_pct": 45.60947247805445,
+      "day_change_pct": -1.6901373237336623,
+      "drawdown_pct": 45.51840964795313,
       "name": "IREN",
       "news": [
         {
@@ -249,16 +249,16 @@
           "source": "GuruFocus"
         },
         {
-          "title": "Mirabella Financial Services no longer a public short seller in Mildef - marketscreener.com",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcDVhaE1vcFktYmp5M1pUMk50NE1nTzZYb0l3elhvdG9KNldyUGFiN3F5ZjZSTzk1RnJ1MjF4YVVzemx5YmhfRm5mUl9QZkRGNC1pUW5JbGxvdnI5ckpCemxCeEtCQ284RGpNX2ZmVTg4TExxN0JWaGRwNGQtSVNnaGFrYjBQMktLb01wc0RKYWx4N0tfeGw1bzBqTWhTelVVakdPRVgxamlCd1JEeWdRcV8wNUxadFA3VllQalhUTG4?oc=5",
-          "pub": "Tue, 18 Aug 2026 05:47:37 GMT",
-          "source": "marketscreener.com"
-        },
-        {
           "title": "MILDEF Stock Price and Chart — OMXSTO:MILDEF - TradingView",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5zV2pPMV9QMDktZlJ1N0NmNGtYYUlrQXNfU0VhYjhtMWpJdjc4ZUpaVTUzZ2QwN29ZcE9TMVZkVm1GRWpwTFdXSHh1UkJvd3lLSTg5NUJod3dRYWtpMGxr?oc=5",
           "pub": "Mon, 16 Feb 2026 08:00:00 GMT",
           "source": "TradingView"
+        },
+        {
+          "title": "Mirabella Financial Services no longer a public short seller in Mildef - marketscreener.com",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcDVhaE1vcFktYmp5M1pUMk50NE1nTzZYb0l3elhvdG9KNldyUGFiN3F5ZjZSTzk1RnJ1MjF4YVVzemx5YmhfRm5mUl9QZkRGNC1pUW5JbGxvdnI5ckpCemxCeEtCQ284RGpNX2ZmVTg4TExxN0JWaGRwNGQtSVNnaGFrYjBQMktLb01wc0RKYWx4N0tfeGw1bzBqTWhTelVVakdPRVgxamlCd1JEeWdRcV8wNUxadFA3VllQalhUTG4?oc=5",
+          "pub": "Tue, 18 Aug 2026 05:47:37 GMT",
+          "source": "marketscreener.com"
         },
         {
           "title": "MilDef Group (OM:MILDEF) Stock Turnaround To Profitability Tests Bullish Narratives After Q2 Earnings - simplywall.st",
