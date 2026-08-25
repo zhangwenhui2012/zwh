@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-08-25T17:14:31.509834+00:00",
-  "updated_at_display": "2026-08-25 17:14 UTC",
+  "updated_at": "2026-08-25T17:45:49.017730+00:00",
+  "updated_at_display": "2026-08-25 17:45 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 211.89,
+      "price": 212.25,
       "prev_close": 208.47999572753906,
       "high_52w": 236.54,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 1.6356505863120954,
-      "drawdown_pct": 10.421070432062233,
+      "day_change_pct": 1.8083290242330625,
+      "drawdown_pct": 10.268876299991542,
       "name": "NVIDIA",
       "news": [
         {
@@ -21,10 +21,10 @@
           "source": "Reuters"
         },
         {
-          "title": "The stocks that tend to move with Nvidia earnings, and the ones that don't - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRFNFUXNJX0ZDdGU1WXNSSWpTbkVqU3FoUkpFUllVaXRFOEhhTXMtRGNiOXcwRXBBaWhTSUQ4czhYVE81Qno5OUNvdV9icWlqcWxWZGg4bGF4WTZHYnlocnFaYmFaUmN6LWttUC03NHZkd3gwR3dYZzRBclh4d010c1RqSDAydlJQQTFTZHpIclRCZGpFOFJRR2owaXktM1BMTUNEQzdhaWJRNTJkRlE?oc=5",
-          "pub": "Tue, 25 Aug 2026 15:46:44 GMT",
-          "source": "CNBC"
+          "title": "AMD Stock Gets a ‘Strong Buy’ Upgrade: Why It Could Outperform Nvidia - Barron's",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZUVRQy1Xb3Brb3haWUNuTHhibXVHNFdoQlZNb3lyY01qQVhHdlVqc0sydDc3ZVZGbnBfMEJWaUhyU0pYQkk0UjZJVGgzaFZhS0NiZHp5dGhUT3A4ZERQSXNBeWh0UUpvc0ZSdTU0clpnSVE1YVU1VTR0SXRuSlQ0TFdrQ0tvek9BMkNJ?oc=5",
+          "pub": "Tue, 25 Aug 2026 17:38:00 GMT",
+          "source": "Barron's"
         },
         {
           "title": "Why Nvidia rival AMD may see a 40% rip in its stock - Yahoo Finance",
@@ -42,14 +42,14 @@
     },
     {
       "symbol": "META",
-      "price": 566.48,
+      "price": 564.67,
       "prev_close": 559.02001953125,
       "high_52w": 790.8,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 1.3344746535205247,
-      "drawdown_pct": 28.366211431461803,
+      "day_change_pct": 1.010693762539593,
+      "drawdown_pct": 28.595093576125443,
       "name": "Meta Platforms",
       "news": [
         {
@@ -80,14 +80,14 @@
     },
     {
       "symbol": "AVGO",
-      "price": 358.5,
+      "price": 357.335,
       "prev_close": 358.760009765625,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -0.07247456755140079,
-      "drawdown_pct": 27.575757575757574,
+      "day_change_pct": -0.39720418297345006,
+      "drawdown_pct": 27.811111111111114,
       "name": "Broadcom",
       "news": [
         {
@@ -97,42 +97,48 @@
           "source": "TipRanks"
         },
         {
-          "title": "These 2 Artificial Intelligence (AI) Stocks Could Soar by 66% and 46%, According to Wall Street - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPeDRqdXNxbHZqZHJNLUd3dzVXcXZoQldNb1NxTGR3bTVBRkxGY2pGUHZoWHJkZmxnaEVib1JOQzhuaV9XWGlSY2FFRWlhbjFJQktib09yamZSNkJLdV9BVURCbXF1elpGMWFZc0lRamxaaDFrTUJHQzlJUVlLWUtHaW1zMjNiYm9yVm12bkZSMHo0MnR5QUNPaTJBVVRldWpaZjk5LWo2c1JTT2FKNXhzNUxBWThRb1g1NXc4aUNVNnZSQnkzYm4wV2VMWnhWUQ?oc=5",
-          "pub": "Tue, 25 Aug 2026 14:15:00 GMT",
-          "source": "The Motley Fool"
-        },
-        {
           "title": "These 2 Artificial Intelligence (AI) Stocks Could Soar by 66% and 46%, According to Wall Street - The Globe and Mail",
           "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPY0Z2aEhkc0xFWHN3N3QwVm51SmlGQlJWcFFuUFBsUVZLTGxrSXg2Wnh0UGVIYUJxVzJBN1hXdTBvWUJRLU5SWmQ5Rms0bG5Sdm1ZMjRlb25sWmlnVDk2RDZEYTFqV1BXYk9RWVJFVF8yWFZSVEZEM2xmYW96d2ZDaUNMXzc4a21fbzg4ZnBiQ3ozb3lVUEtMUTFtcks3YVV2bEhVTUczWExKOTM3OXZ0MzVOZ1NIMmNHb2p1NjRUaDJFN0hXUlo0SkZrb0gzUG4xOU1oRVB4Z1ZYQUIyV2JsdFlielNrYUdIOU9uWXNMR2RNQmIxVU5jRXl6Wm1mV0dNTGhsZTh3?oc=5",
           "pub": "Tue, 25 Aug 2026 13:55:48 GMT",
           "source": "The Globe and Mail"
         },
         {
-          "title": "Is Broadcom in Trouble Now That Alphabet Is Getting Chips From Marvell Too? - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSHpvZllGVWJPbERvendGREQ0UGNBTEFxdzNpekhaclRqeDVzMk1zRlZwdkF5enROWUFndkgxTWZ4dEtUSEVkUkRYLUdEUHVsd1FhaVhOQWc5UUh2dEFQMGJFc2tFMlh3QlNERzFWSDBROVVESmxfMWNFcVZGRkdCcUlRQWNNdHNSS0djZmNITVVUcEp2Q3VZVDQ2TGVkV0I5d2ZxZg?oc=5",
-          "pub": "Tue, 25 Aug 2026 11:35:00 GMT",
-          "source": "Yahoo Finance"
+          "title": "Billionaire Investor Stanley Druckenmiller Sold Broadcom, Intel, and Micron and Bought Another Chip Stock That Expects to Double Data Center Sales in 2027 - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQenpXWjRic1I5cEE3Sm9sXzZONktIVjBjM3lGMF9KUkhtX1NkUW1fcjNsRlZzMlExQ2lMZ2pNekZSbll2OWJxZFBwa3dCbUVOR1IxQ1FqV0htb24tSGVBaS1tM3JqRXZ6V2Fic1hURkdLeTFyTS0xcUloREMtN2FKWHVjMjEwSTdvT1NRM08xNEYtdmMtX0wwMg?oc=5",
+          "pub": "Mon, 24 Aug 2026 06:45:00 GMT",
+          "source": "The Motley Fool"
+        },
+        {
+          "title": "After Its Recent Stumble, Is Broadcom Stock An Opportunity Or A Trap? - Trefis",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRFc2WjJwWW51bTQwdjhiUm0xQmhKN1RZbWpKTkc5TUtGcklsT0NrUlFoRVFOOUtDLXhVWHhTakYzWWNnQTFMTnR4WDMxOWVwUzIxankyTjJxcmxMWHpFY2RMclplZEhaaTlGcHdQOTktbFh2bFJhNDEzaEZzanNrYzByOFpBcUhTS0wzUzEyREhOeVNVazlNdUNUM1RlLVF5a1ltLVRxWUU0VDIzUVU0a0t1TnBaeXZtREwwN2NwdWlNXzdaaGhz?oc=5",
+          "pub": "Mon, 24 Aug 2026 21:34:29 GMT",
+          "source": "Trefis"
         }
       ]
     },
     {
       "symbol": "AMD",
-      "price": 476.5,
+      "price": 476.475,
       "prev_close": 456.75,
       "high_52w": 584.73,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 4.324028461959497,
-      "drawdown_pct": 18.509397499700718,
+      "day_change_pct": 4.318555008210185,
+      "drawdown_pct": 18.513672977271558,
       "name": "AMD",
       "news": [
         {
-          "title": "Advanced Micro Devices Shares Rise After Raymond James Upgrades Stock to Strong Buy - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTTJPZTdzemJ5c25Wc3VUalllaUZFYl9sanFaN2xaenJWZmNCcjdfT3RueGhORUtRZ1EzMHRlZE43TDIzTEx3QTNaeUFWLXJrcEpPT2NWSFltZHFGaENEZUhqRFhWX2xFd29NTDNxcFhKR0phQnRwY0tsTTQycURaYVN5UXU1cmlYR3RIRHFjd21Cb3FXVlBtbWpvRlpmZ2RE?oc=5",
-          "pub": "Tue, 25 Aug 2026 11:10:55 GMT",
-          "source": "Yahoo Finance"
+          "title": "AMD Stock Upgraded To Strong Buy. Here’s Why. - Investor's Business Daily",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcGxxZE5Kc0MzcWdtdkw5NmZwZ0xvcWE2bEtmamlzZXBpUkpxNWREajVrM3R5aFU5QlF6YUxtSnhJbDB3M19XN1dZbGZzZUdrdEhRSmdHdTBkQmZWZ0UwMlRweFdUdzJrX1ZiTHNEYkhMSTlLYUZTTVVTdzhaOHBMaXNZamRNcENIOVdHbVpUUzViQWQzNXU1NC13bw?oc=5",
+          "pub": "Tue, 25 Aug 2026 14:00:00 GMT",
+          "source": "Investor's Business Daily"
+        },
+        {
+          "title": "AMD Stock Gets a ‘Strong Buy’ Upgrade: Why It Could Outperform Nvidia - Barron's",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZUVRQy1Xb3Brb3haWUNuTHhibXVHNFdoQlZNb3lyY01qQVhHdlVqc0sydDc3ZVZGbnBfMEJWaUhyU0pYQkk0UjZJVGgzaFZhS0NiZHp5dGhUT3A4ZERQSXNBeWh0UUpvc0ZSdTU0clpnSVE1YVU1VTR0SXRuSlQ0TFdrQ0tvek9BMkNJ?oc=5",
+          "pub": "Tue, 25 Aug 2026 17:38:00 GMT",
+          "source": "Barron's"
         },
         {
           "title": "Stocks making the biggest moves premarket: Dick's Sporting Goods, Advanced Micro Devices, Kura Oncology & more - CNBC",
@@ -141,29 +147,23 @@
           "source": "CNBC"
         },
         {
-          "title": "Semiconductor Stocks Slide Ahead of NVIDIA Earnings: Intel Falls 5%, AMD Slides 4%, Taiwan Semiconductor Slips 3% - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaDBmM0FRUG1yQU9HbC1CQmkycUNUTkp2XzVpY0F6ZW01c2F2RTdxOC1LSHNsMW9weUtDLU9jZVY0aFlBMi1MLXBUV2p3TmFMa2JjMzYtUXhZVHFYVGFDUC1CSVRmRkRBeHRpc0p3ZnowV0xOU1Bqak1kNXdjZm5EZHNBSU90ekdadElkMEprbEJyTVJFVE94N2pMWXpGZ3N0QWNwM1lzVQ?oc=5",
-          "pub": "Mon, 24 Aug 2026 14:43:50 GMT",
-          "source": "Yahoo Finance"
-        },
-        {
-          "title": "Beyond Nvidia, AMD, and Broadcom: Why This Chip Stock Will Emerge as the Biggest Winner of the AI Semiconductor Boom - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTWJhbHpIQ1k4UF96ZTgwQnR1dkpLelRhWWphRWQtMlhjNnFhamZ1aVhVOEo5SS0yNEgza2taMWhDZmVJbHJ5dWRuWk9ZVm1PS2JIRngzS29GWmJIbGxqeVM2VkpoUTBxZkdRQUUzaUdEd3ByOVlOUmVXbXZTOXRQb1ZYX0M0XzhMOVBxa0hfeHljbEduS0hxMA?oc=5",
-          "pub": "Mon, 24 Aug 2026 10:15:00 GMT",
-          "source": "The Motley Fool"
+          "title": "Why Advanced Micro Devices (AMD) Stock Is Gaining Ground Today - StockInvest.us",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOb3F1ZmlUUEs3VlhXdVpURkhnWmxEbWFLT1NYR3d4WVdhZV9lZGpDZnhxX0FZYkNERzRwcHpIWk9pOGNSc1RtdWlPYlB5RmIzUGxBY040WXFqRi1jd2p3LVJIZ3FZWHJndEQzRHAtZ3prbzFwSk1wMWkzZG5RWUZCX24zUC1rTGxZUFhuUkl1cUhzMV9j?oc=5",
+          "pub": "Tue, 25 Aug 2026 11:08:49 GMT",
+          "source": "StockInvest.us"
         }
       ]
     },
     {
       "symbol": "RKLB",
-      "price": 67.35,
+      "price": 67.485,
       "prev_close": 68.27999877929688,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -1.362036900883579,
-      "drawdown_pct": 55.39735099337749,
+      "day_change_pct": -1.1643216073664115,
+      "drawdown_pct": 55.307947019867555,
       "name": "Rocket Lab",
       "news": [
         {
@@ -179,29 +179,29 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "Rocket Lab Stock: Launch This Bear Put Spread That Aims For A $295 Profit - Investor's Business Daily",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYnRuT3dKUmN0RHRjTnZ2eUFWREszM3pFY1QxcFZjMlpRNjRfN0pBR1F1ajVNbjY5NjBGYjVEdnFUdWVGa19VYzdfbWRLVFluZHhNdkRmaEtiNGlRQUNvNmhFVFVpaUhreHlPNWtUQkZzY1VQM0d1eWEtR2tISTVTeC1QQjlzWV9SR2RTblQxZzVNZmpwLWRpcUF4MmpzalhrNkh1dEtLUmtmYVV6UWota1hvZmZXRGhmSWEyMlQ3U2c?oc=5",
-          "pub": "Tue, 25 Aug 2026 15:55:00 GMT",
-          "source": "Investor's Business Daily"
-        },
-        {
           "title": "Why I’m Buying Rocket Lab Over SpaceX (NASDAQ:RKLB) - Seeking Alpha",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdHgzUXNLYnJoeUFULXU2MHhObzg3X1FvMXVOYkZ2NU40TlBIUlBoNEUtNUxCWmdjWlFkbkdQUWFxWkpGeUJBc1ZzWGgyOV9qSFpmQ2tFLUNRRmFtQzFEWUFiSTNFc3lwZWZidXZhSXJ6OGxuY0lfa1FhWi1jcW85TlJBaw?oc=5",
           "pub": "Mon, 24 Aug 2026 20:26:24 GMT",
           "source": "Seeking Alpha"
+        },
+        {
+          "title": "Rocket Lab Stock: Launch This Bear Put Spread That Aims For A $295 Profit - Investor's Business Daily",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYnRuT3dKUmN0RHRjTnZ2eUFWREszM3pFY1QxcFZjMlpRNjRfN0pBR1F1ajVNbjY5NjBGYjVEdnFUdWVGa19VYzdfbWRLVFluZHhNdkRmaEtiNGlRQUNvNmhFVFVpaUhreHlPNWtUQkZzY1VQM0d1eWEtR2tISTVTeC1QQjlzWV9SR2RTblQxZzVNZmpwLWRpcUF4MmpzalhrNkh1dEtLUmtmYVV6UWota1hvZmZXRGhmSWEyMlQ3U2c?oc=5",
+          "pub": "Tue, 25 Aug 2026 15:55:00 GMT",
+          "source": "Investor's Business Daily"
         }
       ]
     },
     {
       "symbol": "IREN",
-      "price": 42.185,
+      "price": 42.035,
       "prev_close": 39.810001373291016,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": 5.96583407380237,
-      "drawdown_pct": 45.121635888225946,
+      "day_change_pct": 5.589044335481379,
+      "drawdown_pct": 45.316770524157356,
       "name": "IREN",
       "news": [
         {
@@ -233,12 +233,12 @@
     {
       "symbol": "MILDEF.ST",
       "price": 209.8,
-      "prev_close": 204.60000610351562,
+      "prev_close": 199.60000610351562,
       "high_52w": 238.0,
       "currency": "SEK",
       "yahoo_name": "Mildef Group AB",
       "exchange": "Stockholm",
-      "day_change_pct": 2.5415414180650093,
+      "day_change_pct": 5.110217226744228,
       "drawdown_pct": 11.848739495798315,
       "name": "MilDef Group",
       "news": [
@@ -271,12 +271,12 @@
     {
       "symbol": "IVSO.ST",
       "price": 231.4,
-      "prev_close": 227.60000610351562,
+      "prev_close": 222.60000610351562,
       "high_52w": 344.0,
       "currency": "SEK",
       "yahoo_name": "INVISIO AB",
       "exchange": "Stockholm",
-      "day_change_pct": 1.6695930556153376,
+      "day_change_pct": 3.9532765746610634,
       "drawdown_pct": 32.73255813953489,
       "name": "Invisio",
       "news": [
@@ -309,12 +309,12 @@
     {
       "symbol": "NORBT.OL",
       "price": 164.6,
-      "prev_close": 171.10000610351562,
+      "prev_close": 164.6999969482422,
       "high_52w": 244.8000030517578,
       "currency": "NOK",
       "yahoo_name": "NORBIT",
       "exchange": "Oslo",
-      "day_change_pct": -3.7989514153395896,
+      "day_change_pct": -0.060714602364939765,
       "drawdown_pct": 32.76143874671489,
       "name": "Norbit ASA",
       "news": [
