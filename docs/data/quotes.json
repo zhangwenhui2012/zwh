@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-26T07:37:58.790018+00:00",
-  "updated_at_display": "2026-08-26 07:37 UTC",
+  "updated_at": "2026-08-26T08:22:35.111723+00:00",
+  "updated_at_display": "2026-08-26 08:22 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
@@ -27,16 +27,16 @@
           "source": "Reuters"
         },
         {
-          "title": "Stock Market Today: Dow, S&P 500 and Nasdaq set for steady start ahead of PCE inflation data as Nvidia, Salesforce and CrowdStrike to report after close - MarketWatch",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSWVqeUE4QUV1d0RGQ3ROYVVGUEJobzVCcU95RGcwd3Q5bXh0b3h6YmVWM2dJQVlCZENPTW04ZlRvV1BTcDBqZFUyYUo5Q0RRc0s3YWU3dGpRZmhNUHJzdk5pQkZHX0w2ZWEyTFp0VGxGVnZxY1cxQzNvRlNXVG1pbVJmajhKVWpQZG5xT282cTU2WVRZdDJsa0I0MnVoWmpTSUNkdFNBenlMRDV0NXhCRjRROWRsbEtvZTRqcFpCV2dIWDVwOERndjVNY1VZUENtamNtUEZKaw?oc=5",
-          "pub": "Wed, 26 Aug 2026 07:29:00 GMT",
-          "source": "MarketWatch"
+          "title": "Stock Market Today: Brent Crude Drops to $85, Investors Await Nvidia Earnings — Live Updates - WSJ",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOb0pfSDcyZUtLRG5pdTFIeGhRMzVEWWhhaVlrMmtRY1Q3djNheXpfWU5UWkRJVWlfZ0hxby1MV0NENHgtc2d1Y3BzRkV0TnVSaVdxMnM0ejJzT0hkRDM1NnZ4dTlDb2x5b3dFV2tPbDlVQVh2dmIteXZubkFpZVcyTzlzdmc?oc=5",
+          "pub": "Wed, 26 Aug 2026 08:16:00 GMT",
+          "source": "WSJ"
         },
         {
-          "title": "Stock futures are little changed as traders await key inflation report, Nvidia earnings: Live updates - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ZX2RnSl8weEVVTzFFVlNXZGh3amRPX1p6b21sNVotYXRCSThrMGxScXRyLUQxOVd1UEFaRkRJQXBiUzh4Tjc1ejNlVmhFdjZsd01YVU13TWlqM1NyUTZuRUxmREFpRUNuT3BMWEhZVVNFRTVQZzB30gF8QVVfeXFMTjVpeU1yaHZUX0ZDVW5wNjRKcEk4TlBDYlE2Z1pwZkRxeDhwbE1DWE9JTi13a0JkLThKWHBYYzlsTUtpVXhYT3VMWENIbjRmc1h6dWFUUFUwc1hoRzdCRnZfNkNLN2UwcHNGU1A4czI5MGh0TGZIMFM1R3kxTg?oc=5",
-          "pub": "Mon, 24 Aug 2026 07:00:00 GMT",
-          "source": "CNBC"
+          "title": "Stock Market Today: Dow, S&P 500 and Nasdaq set for steady start ahead of PCE inflation data as Nvidia, Salesforce and CrowdStrike to report after close - MarketWatch",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSWVqeUE4QUV1d0RGQ3ROYVVGUEJobzVCcU95RGcwd3Q5bXh0b3h6YmVWM2dJQVlCZENPTW04ZlRvV1BTcDBqZFUyYUo5Q0RRc0s3YWU3dGpRZmhNUHJzdk5pQkZHX0w2ZWEyTFp0VGxGVnZxY1cxQzNvRlNXVG1pbVJmajhKVWpQZG5xT282cTU2WVRZdDJsa0I0MnVoWmpTSUNkdFNBenlMRDV0NXhCRjRROWRsbEtvZTRqcFpCV2dIWDVwOERndjVNY1VZUENtamNtUEZKaw?oc=5",
+          "pub": "Wed, 26 Aug 2026 07:46:00 GMT",
+          "source": "MarketWatch"
         }
       ]
     },
@@ -270,14 +270,14 @@
     },
     {
       "symbol": "IVSO.ST",
-      "price": 232.8,
+      "price": 231.6,
       "prev_close": 222.60000610351562,
       "high_52w": 344.0,
       "currency": "SEK",
       "yahoo_name": "INVISIO AB",
       "exchange": "Stockholm",
-      "day_change_pct": 4.582207375026345,
-      "drawdown_pct": 32.325581395348834,
+      "day_change_pct": 4.043123831856098,
+      "drawdown_pct": 32.67441860465116,
       "name": "Invisio",
       "news": [
         {
@@ -308,14 +308,14 @@
     },
     {
       "symbol": "NORBT.OL",
-      "price": 161.9,
+      "price": 161.6,
       "prev_close": 164.6999969482422,
       "high_52w": 244.8000030517578,
       "currency": "NOK",
       "yahoo_name": "NORBIT",
       "exchange": "Oslo",
-      "day_change_pct": -1.7000588950357391,
-      "drawdown_pct": 33.86437990943584,
+      "day_change_pct": -1.8822082608880575,
+      "drawdown_pct": 33.98692892751596,
       "name": "Norbit ASA",
       "news": [
         {
