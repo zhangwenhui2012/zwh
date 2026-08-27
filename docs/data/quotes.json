@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-08-27T14:30:27.971588+00:00",
-  "updated_at_display": "2026-08-27 14:30 UTC",
+  "updated_at": "2026-08-27T15:00:35.093328+00:00",
+  "updated_at_display": "2026-08-27 15:00 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 225.685,
+      "price": 226.97,
       "prev_close": 209.66000366210938,
       "high_52w": 236.54,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 7.643325411611032,
-      "drawdown_pct": 4.5890758434091445,
+      "day_change_pct": 8.256222472354635,
+      "drawdown_pct": 4.045827344212392,
       "name": "NVIDIA",
       "news": [
         {
@@ -33,23 +33,23 @@
           "source": "Morningstar"
         },
         {
-          "title": "NVIDIA Announces Financial Results for Second Quarter Fiscal 2027 - NVIDIA Newsroom",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcjZPeVV6eC01Z2tWOHlyVEhmMG9uZDgyaXdvVTV3MVVMWGdKVVhJdlNiRHBvejd0UnlSNFJfTFA4dXAxUk9fVi1RQ2h2VU1kd2FkSUoydEJheDVMNWRnYUdMa2RFcG8zcTROTl9ZX1lJQ0tRU1VZR2pkQjFRdEtkM0tpUUlOcXhsYTFGcGY5RHFQYWZyNkh6LXVCSmN0Y1J3WWc?oc=5",
-          "pub": "Wed, 26 Aug 2026 20:25:18 GMT",
-          "source": "NVIDIA Newsroom"
+          "title": "UBS raises Nvidia stock price target to $300 on strong results - Investing.com",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVDUtS2hnR2VqX1VFb2xpb1RBODBUN05pOE43cVFXNUlTWHU3WTFWMDhCV3lKSXVkcGRzbzgyTFZ6SzBZZHJnblVjT0NCVHZBcHdKMVhhUklGWkdEdUh5VGNLdFJGSXNkOHpfaWZ0anpzZGQ3OTZCR0dXeGN5alFCTVh1NGc3d2dsV0o4S2hLakNpX0pVdjU1MUR4UjgzSnVXcVZYR2tYTDdteUhnNjhYbVBYZlgwcnRSZ2VFT2xn?oc=5",
+          "pub": "Thu, 27 Aug 2026 13:42:21 GMT",
+          "source": "Investing.com"
         }
       ]
     },
     {
       "symbol": "META",
-      "price": 578.26,
+      "price": 573.3,
       "prev_close": 576.1400146484375,
       "high_52w": 790.8,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 0.3679635674769288,
-      "drawdown_pct": 26.876580677794635,
+      "day_change_pct": -0.49293827476477775,
+      "drawdown_pct": 27.503793626707136,
       "name": "Meta Platforms",
       "news": [
         {
@@ -65,29 +65,29 @@
           "source": "Benzinga"
         },
         {
-          "title": "Meta Platforms Almost Slashed 60% of Jobs in AI Push. What Comes Next for META Stock. - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcnprUHljSTRSYmkySG9mVkZMT1hBRjZ5cE5lV3lfSnN6M0doZUNCMEZzNHV3U0dHdDM1dU1mRkVZUU4yLVBWamIzVWZYSkhSVFdJUTlXajc0Z01ZMmxwNTBXeXZMMG9jTHU3ZUdycVBuc2dwRDRtV2p6NW5WeUVvdDhVaTNWYXhULW1zYzMzSURRZ3NZYlVIaENWejFtQQ?oc=5",
-          "pub": "Wed, 26 Aug 2026 21:03:16 GMT",
-          "source": "Yahoo Finance"
-        },
-        {
           "title": "Jim Cramer calls the Meta settlement a 'big break,' says the stock reaction is 'ridiculous' - CNBC",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOalYxOHBsc1JfRkw3ZXpIUGdid0sxOHZZYWRJVnAtZTVkN21iblpUaEN3ZXBlZjZQdklyM2FPek12eGNESmxWMUg1WkpKRTE1WFQzNDdieDJWN2tSZU84ZU50eC1CTXVndld6WUFDdEY1RGpWeEswbHk1TjJLd3EyWTN6cWV4T29MZ1J6SWtHcVVsN1VlUEh3THhXMU1vV3ViWDJGZ3JpOGJNbzhjUWRSUw?oc=5",
           "pub": "Wed, 26 Aug 2026 17:09:17 GMT",
           "source": "CNBC"
+        },
+        {
+          "title": "Meta Platforms Almost Slashed 60% of Jobs in AI Push. What Comes Next for META Stock. - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcnprUHljSTRSYmkySG9mVkZMT1hBRjZ5cE5lV3lfSnN6M0doZUNCMEZzNHV3U0dHdDM1dU1mRkVZUU4yLVBWamIzVWZYSkhSVFdJUTlXajc0Z01ZMmxwNTBXeXZMMG9jTHU3ZUdycVBuc2dwRDRtV2p6NW5WeUVvdDhVaTNWYXhULW1zYzMzSURRZ3NZYlVIaENWejFtQQ?oc=5",
+          "pub": "Wed, 26 Aug 2026 21:03:16 GMT",
+          "source": "Yahoo Finance"
         }
       ]
     },
     {
       "symbol": "AVGO",
-      "price": 367.81,
+      "price": 369.19,
       "prev_close": 355.5899963378906,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 3.4365431502458863,
-      "drawdown_pct": 25.694949494949494,
+      "day_change_pct": 3.824630558275409,
+      "drawdown_pct": 25.416161616161613,
       "name": "Broadcom",
       "news": [
         {
@@ -103,29 +103,29 @@
           "source": "Yahoo Finance"
         },
         {
+          "title": "Why is Broadcom stock rallying today? By Investing.com - Investing.com UK",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOTYyeldrRHdNekV4WmtReVZFWHBzckt6anFSbklKc204eVAyNWZSMDh6amhBVlZKVWZDOFhqdWwyTWhYbjkyQmZYcl9yZXlRX3ZOemJpbjRQeG5ERDFXNV9URzZIb3V5anhjeFlOWHRHWDhXbDVuWDN6N3VXbEl0U0tzd2x1bkNiaFppTFJBcEJ2NWxVZ1pjdE1GV084dw?oc=5",
+          "pub": "Thu, 27 Aug 2026 14:52:00 GMT",
+          "source": "Investing.com UK"
+        },
+        {
           "title": "Broadcom Looks Expensive Until You Price The Order Book - Trefis",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSS00bVVyUEJEN2JOX2tWM1RKTzNoSmNzX29TNklUUmdwLXhuYVdNNlBNeTdXbF96MGhNWmxPLTBfOVlseWExT19xNjM5ck1qVFV6QUlSdUJjOVZyOUdkaWFNYXJJaDRRY3B3eWJ0RF9PeldKaXh4NmFLMTkwUTVqM1FqTXZ3enQ5Y29RS0gxNnc1V2xQc1NuZjRqZlF0anY4akx5ajE5YlBRNDhKS091SmItS25URms?oc=5",
           "pub": "Thu, 27 Aug 2026 13:44:08 GMT",
           "source": "Trefis"
-        },
-        {
-          "title": "Here are Wednesday's biggest analyst calls: Nvidia, SpaceX, Broadcom, SolarEdge, Nike, Oracle & more - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTExqTlVyeDcwUldVUDQxeU54ejZPaFJKNDg1NGhZVEVNcVNxRWVvNlBPOFpkUnFtWEdoNlFMOHp0TERmUHJjaWlmY3VtNGVqRUd0OEZYRERfS3h2X3ZLZzBoUUNNMmxvQUVfVlQtMlFyZGs1eVVqYjVRZ2FDVndIVjFZclRrQ0h2MURMczNwY25NYzBX?oc=5",
-          "pub": "Wed, 26 Aug 2026 12:21:15 GMT",
-          "source": "CNBC"
         }
       ]
     },
     {
       "symbol": "AMD",
-      "price": 477.685,
+      "price": 476.975,
       "prev_close": 480.92999267578125,
       "high_52w": 584.73,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -0.674732856174528,
-      "drawdown_pct": 18.306739862842683,
+      "day_change_pct": -0.8223634907393859,
+      "drawdown_pct": 18.428163425854667,
       "name": "AMD",
       "news": [
         {
@@ -156,14 +156,14 @@
     },
     {
       "symbol": "RKLB",
-      "price": 66.58,
+      "price": 66.37,
       "prev_close": 66.18000030517578,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 0.6044117452095781,
-      "drawdown_pct": 55.907284768211916,
+      "day_change_pct": 0.28709533688135064,
+      "drawdown_pct": 56.04635761589404,
       "name": "Rocket Lab",
       "news": [
         {
@@ -194,27 +194,27 @@
     },
     {
       "symbol": "IREN",
-      "price": 41.191,
+      "price": 41.09,
       "prev_close": 39.58000183105469,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": 4.0702326791741505,
-      "drawdown_pct": 46.41472807566469,
+      "day_change_pct": 3.8150533074522577,
+      "drawdown_pct": 46.546118730525166,
       "name": "IREN",
       "news": [
-        {
-          "title": "CRWV, NBIS, IREN Stocks Jump Overnight On Nvidia’s Blowout Q2 — But Palo Alto CEO Predicts Neocloud Price Crash Is Coming - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVFJtUEJ5c2dCZUJwUzVTb1FBZ3haMzlDZW5DNWVoYk5ZVUlMejdZeEQ0ekVpQkFFR0hXM3BPVDNIcXI4Zm1udXBfSURkWWFoenE0T0J3TEdsY2paa3dCbkdiNVRHLWpEaTVQNFItTF9xS3o0RkdlT0FRaDRDaU81emR0MVh6c2k2M1FGX0lkZG84SzNJUEE?oc=5",
-          "pub": "Thu, 27 Aug 2026 02:28:00 GMT",
-          "source": "Yahoo Finance"
-        },
         {
           "title": "Bitcoin Price Tests $80K In 'Powerful Setup.' IREN Earnings Due. - Investor's Business Daily",
           "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNnA1STJua1paTTNGMkM1ZExmWTlacDBPZWVUVHJjUFpiUUFqVHVrN2gzMlJhWkx1a2VNNndRSU43V0JDWjRzM1p3U3ZyZVc2UE5QUHFGZzdncGlFWWRKMmhHbThPZ1h5ZXNzQkZ4dmlZUXNQUXBPNlY3MXFmRmQ5c214UGtBQ25UUXVNejVmaWJsSG1fOWdMMWJwNEFtY0RwSG8yczlEX3o0d2pBSkFHcGNHVUJPTGxpX2RneHJxMEs5TTZsMERNQjcxbHg1X28wWGR3dExMNUUwS2ZYenBuQkQ3Yw?oc=5",
           "pub": "Thu, 27 Aug 2026 14:25:00 GMT",
           "source": "Investor's Business Daily"
+        },
+        {
+          "title": "CRWV, NBIS, IREN Stocks Jump Overnight On Nvidia’s Blowout Q2 — But Palo Alto CEO Predicts Neocloud Price Crash Is Coming - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVFJtUEJ5c2dCZUJwUzVTb1FBZ3haMzlDZW5DNWVoYk5ZVUlMejdZeEQ0ekVpQkFFR0hXM3BPVDNIcXI4Zm1udXBfSURkWWFoenE0T0J3TEdsY2paa3dCbkdiNVRHLWpEaTVQNFItTF9xS3o0RkdlT0FRaDRDaU81emR0MVh6c2k2M1FGX0lkZG84SzNJUEE?oc=5",
+          "pub": "Thu, 27 Aug 2026 02:28:00 GMT",
+          "source": "Yahoo Finance"
         },
         {
           "title": "IREN to Report Q4 Earnings: Should You Buy, Sell or Hold the Stock? - Yahoo Finance",
@@ -232,14 +232,14 @@
     },
     {
       "symbol": "MILDEF.ST",
-      "price": 227.7,
+      "price": 226.6,
       "prev_close": 206.3000030517578,
       "high_52w": 238.0,
       "currency": "SEK",
       "yahoo_name": "Mildef Group AB",
       "exchange": "Stockholm",
-      "day_change_pct": 10.373241217487143,
-      "drawdown_pct": 4.32773109243698,
+      "day_change_pct": 9.840037153634551,
+      "drawdown_pct": 4.789915966386557,
       "name": "MilDef Group",
       "news": [
         {
@@ -270,14 +270,14 @@
     },
     {
       "symbol": "IVSO.ST",
-      "price": 241.4,
+      "price": 240.8,
       "prev_close": 231.39999389648438,
       "high_52w": 344.0,
       "currency": "SEK",
       "yahoo_name": "INVISIO AB",
       "exchange": "Stockholm",
-      "day_change_pct": 4.321523927087519,
-      "drawdown_pct": 29.825581395348838,
+      "day_change_pct": 4.062232649721106,
+      "drawdown_pct": 30.0,
       "name": "Invisio",
       "news": [
         {
@@ -293,29 +293,29 @@
           "source": "simplywall.st"
         },
         {
+          "title": "What To Expect From Invisio AB (OSTO:IVSO) Q2 2026 Earnings - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSEJuQ3lGaERNcllUNVIyemRWSFFoVzlhSHpCdURfWTlDeW5aZFNkbTNmNWVQYUxkTUNiNEJaNWJtTms2V2VUUmRpMEpER3dOOENqN1RmY2JLMEhYM3I5RDZLaUhFNHZtckk5djROYU9SSzF1SnN2bXQ2ZmxxTUpOZkxyZTllTkhNM0hWc0dwQUN3R3haUl80?oc=5",
+          "pub": "Thu, 16 Jul 2026 07:00:00 GMT",
+          "source": "Yahoo Finance"
+        },
+        {
           "title": "IVSO Forecast — Price Target — Prediction for 2027 - TradingView",
           "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1keUhnMUVzX0VnclVQS3Ywd29Ka1hUdVMzRndVV01Qb2xGYllhOFlfb0IyNEk1Q2VGYWViMkJXSVZDYi1FQWdLRzZqQTFlUnVocmdGRDM5ejdhaF9mQWlhaGVDZ29rZE9hdnNzU0FzVnpPX1pENHlDbl9n?oc=5",
           "pub": "Thu, 25 Jun 2026 19:04:11 GMT",
           "source": "TradingView"
-        },
-        {
-          "title": "Earnings call transcript: INVISIO posts strong Q2 2026 growth as U.S. delays linger - Investing.com",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOc1V0M2pBMUVxTkN0TnV4NGUwUFNpV181cVpQR1ZkY3ZFb0lhQm1vcU91TVZwcTM5THB2RGFuVUJSMG5FMWU5VmswdDR6cXhabHBaaGN3SXNINEdDVVpjN0lTSlBnRDY5Sy1rbkhfVXlNdVNYRy05NE5UMTJLaWtPZ0lnSWpwalBTaUM4dENrdkNHRWRFVDdoWkFLVDJ1cjFSMmtXazU4NEdlT3cxTkY4MkhDckdSckhabU1IQUt6a0R4dDQ3Zkh0U0xIc3lTM1RsVlE?oc=5",
-          "pub": "Fri, 17 Jul 2026 07:00:00 GMT",
-          "source": "Investing.com"
         }
       ]
     },
     {
       "symbol": "NORBT.OL",
-      "price": 165.4,
+      "price": 165.0,
       "prev_close": 163.10000610351562,
       "high_52w": 244.8000030517578,
       "currency": "NOK",
       "yahoo_name": "NORBIT",
       "exchange": "Oslo",
-      "day_change_pct": 1.4101740100638809,
-      "drawdown_pct": 32.434641365167934,
+      "day_change_pct": 1.1649257053236988,
+      "drawdown_pct": 32.59804005594141,
       "name": "Norbit ASA",
       "news": [
         {
