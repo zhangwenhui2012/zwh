@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-08-28T15:00:36.704793+00:00",
-  "updated_at_display": "2026-08-28 15:00 UTC",
+  "updated_at": "2026-08-28T15:30:29.780226+00:00",
+  "updated_at_display": "2026-08-28 15:30 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 226.685,
+      "price": 223.777,
       "prev_close": 227.97999572753906,
       "high_52w": 236.54,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -0.5680304201280543,
-      "drawdown_pct": 4.166314365435017,
+      "day_change_pct": -1.8435809309173397,
+      "drawdown_pct": 5.395704743383786,
       "name": "NVIDIA",
       "news": [
         {
@@ -33,23 +33,23 @@
           "source": "Reuters"
         },
         {
-          "title": "US stocks rise on strong Nvidia earnings - Anadolu Ajansı",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQ3c0V0VUU1VpM3h1VElFMFdWa3JYVFlJU0RhODhKLW1VZ2ZJQjdQUnE0T3JGRFA0endYLTl3WGtJTEt4R1dOb1ZEWW43VmZQUXk2eFdXbldXNkNkQTZqS3plWjJWUFZIYU5rem53QlJzcVZOb1hSYU9mXzFPMWJzM1BuUFVFS3Vs?oc=5",
-          "pub": "Fri, 28 Aug 2026 13:05:59 GMT",
-          "source": "Anadolu Ajansı"
+          "title": "Nvidia's Margin Pressure Is Micron's Revenue Boost - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeUVVbkwtYkxZZGg4dDBFY3ktaW5fVXNXTU01RVBWVFNybkVsMzlvTHE5eFBpTDQxNVJKd3NrQm5zQWRKM1I2a2hxS0NjZEtNZGtMRVhPUmlnUWd5X2F1VGVvUHQwbXRnUVNoVnpaaVhDZkpqa3dZYjRPSVIwczNiLTU0YUxmUlp3M0ttdjB3dUJ5eUcxTGc?oc=5",
+          "pub": "Fri, 28 Aug 2026 12:57:00 GMT",
+          "source": "The Motley Fool"
         }
       ]
     },
     {
       "symbol": "META",
-      "price": 584.525,
+      "price": 584.935,
       "prev_close": 571.0999755859375,
       "high_52w": 790.8,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 2.350731043244865,
-      "drawdown_pct": 26.084344967121904,
+      "day_change_pct": 2.4225223262998705,
+      "drawdown_pct": 26.032498735457764,
       "name": "Meta Platforms",
       "news": [
         {
@@ -65,10 +65,10 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "Meta dodges ‘Big Tobacco’ nightmare with $18 billion settlement in child-safety lawsuit - MarketWatch",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPd0xvS1drbGZkd3JRRjd0bW9paFlCVTVVc19XQ1dSdEZ0QU44cWZPQ19NaWpPSThKR0F2Zlk2dEh2bFJZSy1Hb1huM3hGRm8zRkZHY0RCS1ltMUlNT0hhalljVGVDRVRDTVBWVUxmOC12TzlPSHpUZDYyXzJBdHNkWTdaVEszNlRHTl84THg1WkY4ODdrQXV1T3hjQTBtN0xoS2VUcXA2S0hGZS1sdTFBZlpuWkljdw?oc=5",
-          "pub": "Wed, 26 Aug 2026 21:58:00 GMT",
-          "source": "MarketWatch"
+          "title": "Meta: Disappointing Settlement, But Cost Of Doing Business (NASDAQ:META) - Seeking Alpha",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdV9KNy1vM2x3QlRNY1htVU5CQmIyMUE1SWRYMjZqSlAxQlgySVFsQ2tWTUtXY3cydEFWUjZNSENhU0ZiYzZYWFlSeEIzTVAwejhpTTNSVVh6ME9jTE5ra1NwZVhLaXJIcXQ2X2tCOWlCejh4OU5MNlU3SUVaNy1HYUVfc3JEWmUtdDhpU1NUdkFwRXduTVZ5SQ?oc=5",
+          "pub": "Fri, 28 Aug 2026 00:00:00 GMT",
+          "source": "Seeking Alpha"
         },
         {
           "title": "Meta Stock Could Have 50% Upside. Here’s the Bull Case - 24/7 Wall St.",
@@ -80,14 +80,14 @@
     },
     {
       "symbol": "AVGO",
-      "price": 373.285,
+      "price": 373.318,
       "prev_close": 371.5400085449219,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 0.469664481602435,
-      "drawdown_pct": 24.588888888888885,
+      "day_change_pct": 0.47854643219752646,
+      "drawdown_pct": 24.582222222222224,
       "name": "Broadcom",
       "news": [
         {
@@ -97,10 +97,10 @@
           "source": "The Motley Fool"
         },
         {
-          "title": "What's Going On With Broadcom Stock Thursday? - Benzinga",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSzhuRWM3M0FWSUZINTVRZlpnU2VjVE9OVHJyVzJoY1NzaVNtSEJnNWJDUlBMZ3ZydDNNMXI1TDFFb0JST182RDFEMFBwR0JlNlBzd0Q5eEZ1OUdVbEFGLVl4NXFROVRqczY1NVhLWlROSmtDaDN1cm5VTmhVTUtiOTZ3QXQ4MEltSHpnYmxzNm9jcmU3MlNFWmdBS0NmMGs?oc=5",
-          "pub": "Thu, 27 Aug 2026 13:33:37 GMT",
-          "source": "Benzinga"
+          "title": "Mizuho is bullish on Broadcom ahead of Sept. 2 earnings, citing 30-quarter streak - Investing.com Nigeria",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSGh4bHNKYmRlLTRuSU1TeV9kLXlCMFhLMEhZS2VFeDJKN2U4QVV1aDlxakQzLU5ncGVpeHZ4czV1N2RNa0xvRmt5Z1d2VzYyN3RHaFZnbmd0WUE1RDQxYVBIOTNEU0x2d3ZnNF80RmVnbHhYV3B6NlpFaURMbFNQQU9fRW5mbmNsdHlhakFXeUFjUEVKTlJjSmNmbm1GOEp1emdHcUVCbkRpU3daeHFHTjVabW10UjhmSU5aX3Bjd3d3Znl2T0xETExKbFlsTDg?oc=5",
+          "pub": "Fri, 28 Aug 2026 14:33:54 GMT",
+          "source": "Investing.com Nigeria"
         },
         {
           "title": "Wall St Week Ahead Jobs report, Broadcom results pose next hurdles for stock market rally - Reuters",
@@ -118,14 +118,14 @@
     },
     {
       "symbol": "AMD",
-      "price": 478.18,
+      "price": 474.74,
       "prev_close": 476.6700134277344,
       "high_52w": 584.73,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 0.31677817562034527,
-      "drawdown_pct": 18.222085406939957,
+      "day_change_pct": -0.4048950790622717,
+      "drawdown_pct": 18.810391120688184,
       "name": "AMD",
       "news": [
         {
@@ -141,9 +141,9 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "What AMD Stock Was Telling You About Its AI Ramp - Trefis",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPb09BS2VhdjhodGh1azdpcTJVSlZLRi1Pb3U4MDBhbHBhNnplc294T0JiU0s0aWVZckY3WFZLN2FaNGJjMDMwZEZIQnc1Z1JmT1IwTFlXeTJSX1I2V1pZa3h1SkNJekt4aktGSUUxb3l3Y2RBa3V1V2xQVzBvRnI2ZlRPYzRLVEZuQmFnenFISER3YkxHdDB4ZGxFRmxsdnV5RmVLZ29zR3FXVzlDM3FJdTZwcHYtYU15?oc=5",
-          "pub": "Fri, 28 Aug 2026 11:32:09 GMT",
+          "title": "Advanced Micro Devices Stock Ran The Roadmap It Had Already Published - Trefis",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVHo4bFhRYkk3dTVtb2xXU2s4aUVldmpwRi1pY1R6Y0JvSWgxMDBqVHFLMEhKUm5VTUVIdkdybmdvQVFuQ3d1ZmtrdVZoX2UzMjNGUjI1LWhUdkhaTzVqSm1vSmxDd1BCdW5aM1JRbzVFY2Ewck01RkplUFQyUEFXYnNaZ3VtSGJGdk5Pc0dLZHRIS1Fwbm11VjFLNERUUG91Ny1WeVNNejlMNXAwb0pRdUxVUFkxOWRCZE44?oc=5",
+          "pub": "Fri, 28 Aug 2026 15:06:44 GMT",
           "source": "Trefis"
         },
         {
@@ -156,14 +156,14 @@
     },
     {
       "symbol": "RKLB",
-      "price": 65.61,
+      "price": 65.481,
       "prev_close": 67.52999877929688,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -2.8431790522784706,
-      "drawdown_pct": 56.549668874172184,
+      "day_change_pct": -3.0342052663046335,
+      "drawdown_pct": 56.63509933774835,
       "name": "Rocket Lab",
       "news": [
         {
@@ -185,23 +185,23 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "Here's Why Rocket Lab Corporation (RKLB) Could be Great Choice for a Bottom Fisher - Zacks Investment Research",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxON0R0enFJMDVCa2tYaWRrbkpNdUpkaE5JUTNZaE5NVFVyeDQzYkxseDkzNFdzSHVib2ZPQ2ROTzBwOGtDbFo2N3FWbkxnR0pMbng2N2xySmVJRjBqcW5hUG5ZVmZGdEZrVXRWVUJ6eUd5UWlDN044Z2Jjbkp2OE9jeFBjVl9mdFhacFdmZ2FQbS1rM2d2RkYyZGNPS1VDQzYxX29fT3dxV3lVZWZJZmJUZTZXUVk0anBKMV9YMA?oc=5",
-          "pub": "Fri, 28 Aug 2026 13:03:30 GMT",
-          "source": "Zacks Investment Research"
+          "title": "Is RKLB Stock A Buy Or A High-Beta Trap? - Trefis",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdTEzZXBMNGlIc1c5QVBJcDlZTEx2WjZkQzk3RUlldEtwUzlGbG1uekxPcVlPcVFoZHBldzJIbklReHd3b3J2NDF3MEhOTi00QWpvUG5qbWxlOU01VG5GWktFdGpkMGZFYW1OTG10bXFxczJONUxCN0NyY3E4SFBzOEJzb25LYjhKdUUyejBGRE1wdHNtbzcxcmtkQnNLSmJzdFE?oc=5",
+          "pub": "Thu, 27 Aug 2026 16:38:39 GMT",
+          "source": "Trefis"
         }
       ]
     },
     {
       "symbol": "IREN",
-      "price": 36.58,
+      "price": 36.231,
       "prev_close": 40.529998779296875,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": -9.74586454050074,
-      "drawdown_pct": 52.41316678419593,
+      "day_change_pct": -10.606955116645215,
+      "drawdown_pct": 52.86718003712964,
       "name": "IREN",
       "news": [
         {
@@ -232,14 +232,14 @@
     },
     {
       "symbol": "MILDEF.ST",
-      "price": 231.2,
+      "price": 230.0,
       "prev_close": 227.5,
       "high_52w": 238.0,
       "currency": "SEK",
       "yahoo_name": "Mildef Group AB",
       "exchange": "Stockholm",
-      "day_change_pct": 1.6263736263736215,
-      "drawdown_pct": 2.857142857142862,
+      "day_change_pct": 1.098901098901099,
+      "drawdown_pct": 3.361344537815126,
       "name": "MilDef Group",
       "news": [
         {
@@ -270,14 +270,14 @@
     },
     {
       "symbol": "IVSO.ST",
-      "price": 234.6,
+      "price": 233.8,
       "prev_close": 240.39999389648438,
       "high_52w": 344.0,
       "currency": "SEK",
       "yahoo_name": "INVISIO AB",
       "exchange": "Stockholm",
-      "day_change_pct": -2.4126431130367845,
-      "drawdown_pct": 31.80232558139535,
+      "day_change_pct": -2.745421823648758,
+      "drawdown_pct": 32.03488372093023,
       "name": "Invisio",
       "news": [
         {
