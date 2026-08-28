@@ -1,55 +1,55 @@
 {
-  "updated_at": "2026-08-28T19:30:30.330508+00:00",
-  "updated_at_display": "2026-08-28 19:30 UTC",
+  "updated_at": "2026-08-28T20:00:33.088831+00:00",
+  "updated_at_display": "2026-08-28 20:00 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 217.25,
+      "price": 217.48,
       "prev_close": 227.97999572753906,
       "high_52w": 236.54,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -4.706551420574012,
-      "drawdown_pct": 8.155068910120907,
+      "day_change_pct": -4.605665376048043,
+      "drawdown_pct": 8.057833770186862,
       "name": "NVIDIA",
       "news": [
         {
-          "title": "Stock Market News, Aug. 27, 2026: Nvidia’s Bullish Forecast Lifts Investors’ Spirits - WSJ",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdm9wcnRGcW1mTkt4M3VVRER6UXI2VUc4Mi1CbnV0X3pkdWw1UUVDdzd2UkFwV1o4UFNmUDEwVDZaeTV6RXBBeEZMV2tXX2xQZC1vRGktcl94c1pOZ1EzNk5zWmtFaGhSNUs3Y3lVcnhZdUEyVjVBR2JCT1B2MDhvNF9YM0lOWVU?oc=5",
-          "pub": "Fri, 28 Aug 2026 00:00:00 GMT",
-          "source": "WSJ"
+          "title": "Nvidia adds more than $400 billion in value after blowout earnings boost AI confidence - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1wT0tKVG5QdjJIV3RXNmZNYUROM1dJYWJ3d3VOUzdKUEZjTFgweTFXNlhFT3RwLUoxZ1E4SXYzQ0g4LUFYdW9tNkNVUmE5OE5TendnYU02ekhBeThSZDRpTVBwcmlCRXdkcDVoetIBckFVX3lxTFBTYXloWFBxMWUxVXBhV1VLdkJzbWpITXdabzh3b00zYXlnb0ZHcEZlRjFqRHRtWmF4QjA2ei1Id3hTQ3N3X1lQcGZyQkJKRzhZalpsbmZrd3lRd2gxQXRpMWpQUUpiVTFxTHJ3N0NEY0k1Zw?oc=5",
+          "pub": "Thu, 27 Aug 2026 08:04:33 GMT",
+          "source": "CNBC"
         },
         {
-          "title": "Amazon Just Committed to 2 Million More Nvidia GPUs, and the Stock Traded Lower - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdk5JRHhvd1RGbWh4ajJzazJyVFFUbDZEQkpCZHU1RGhDNmRyTzZkSE4xSU1Ba0JkTjNiMHRDLWUwUDVXLWZGM0VSMDNHUDVjZXlVUEl6RkxfTlFobG12dXhrY2MxVHFUcWozTlBuSFJYMHdBUC1OT2dUOTVRRmROVFdJNTBnU180cHQxTG1wUFBQNWF0LThiLUtMOA?oc=5",
-          "pub": "Fri, 28 Aug 2026 17:29:01 GMT",
-          "source": "Yahoo Finance"
-        },
-        {
-          "title": "Nvidia vs. AMD: The Charts Point to a Clear Winner - Barron's",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVDhzZWx4RHJUTFQtMjRsd25Tc1lsb0M5dFJ2aWRtY3lqZ1ljZ3E5dWhacHExVWFZTzgxcFgySF9QQm0yYmU2YTNfd3NwbmlRMEIzWERoLUVCSVpvS3VITjBqcm5ta0hiYlJ2REFJcVVkaXViRmdrZzB6bHRoSDMtQzdCOXM3WVpYV0FRMkJR?oc=5",
-          "pub": "Fri, 28 Aug 2026 17:55:00 GMT",
+          "title": "Nvidia Stock Is Too Cheap. Apple Once Had the Same Problem. - Barron's",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVUd0NThwNElUVlBkb1VrQXRBVDRPaHhqdFRNbzl6RmE3RHZMNEhoS0xkamFvSDNwdWpqODFIRXZlRnpEVVotUTZUMUotXy11RmFLZllaSG1yMDlBOWhwbGN0MzloX0hqTVJWMmVteG50elJjSmo1bkxKb1BYa2VXejRGQ1NubDgya3prc2ZHTExNa1JHS1VZel9TNGM?oc=5",
+          "pub": "Fri, 28 Aug 2026 12:38:00 GMT",
           "source": "Barron's"
         },
         {
-          "title": "Nvidia CEO Jensen Huang Jokes His Dinner Plans Can Double a Stock—His Track Record Says He’s Not Wrong - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQaFo4dHB0blk0bmFGbnZDLXVMR181MkxGQ2h5d2llZTBnbEtpaDZUMFJhWW1rSFozVDRjTFhTajlxUzZCdy01MXZiSXlONFVxYkt5TVp5Y0c2dTYzNTIxSDJTQlFLRkhqblpiVHFQRzd1VXpiWF9qME5hZVZoVDRyLVppRnVZX0ZfVHpwYXVRbml1bS1kSEVGTG93?oc=5",
-          "pub": "Fri, 28 Aug 2026 16:31:07 GMT",
+          "title": "Amazon Jumps 4% on Expanded AWS Chip Deal: Why Is NVIDIA Falling 4%? - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOWg1TUQtUUswOV9VZENURkFnd3lhNm1FYVltOGNFb0JIeFZwdFV2VjlnenlJTG5nb1ZXYU00QXJkdG5YLUxHRXpQV2kyby11ZXJvSVA3YTVsNWlQU1ZaclpXYWZqMHlxeVhpZ0NNNlYwaDdlOGtMV18wZlRQMHBuenBuUnY5QmdxdnRXUWtJa1ZwUHd4c1E?oc=5",
+          "pub": "Fri, 28 Aug 2026 17:57:47 GMT",
           "source": "Yahoo Finance"
+        },
+        {
+          "title": "Why is NVIDIA stock sliding today? By Investing.com - Investing.com UK",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSHNGU2hYOEp5a1YzaWhmOEdmQnZ4TUEzbVRpb3BKajZscmJSeGdKd0pZY0ktdXNQeFQ5b3pST3QxQklSNi1PWHlvVGVoV0diaEFrbVVfS2tXQmRNd0JrQTg2RHpkLVB6X3VjdlRvMVc5RmFOMnI1TWFQcXZCMVV6Ri1WSXhZZXlJcGdBTkJzNzZPY0NCSVFIQ0dB?oc=5",
+          "pub": "Fri, 28 Aug 2026 18:30:00 GMT",
+          "source": "Investing.com UK"
         }
       ]
     },
     {
       "symbol": "META",
-      "price": 577.22,
+      "price": 578.02,
       "prev_close": 571.0999755859375,
       "high_52w": 790.8,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 1.0716205000330286,
-      "drawdown_pct": 27.008093070308544,
+      "day_change_pct": 1.2117010523354814,
+      "drawdown_pct": 26.90692969145169,
       "name": "Meta Platforms",
       "news": [
         {
@@ -80,14 +80,14 @@
     },
     {
       "symbol": "AVGO",
-      "price": 368.675,
+      "price": 368.79,
       "prev_close": 371.5400085449219,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -0.7711171015316008,
-      "drawdown_pct": 25.520202020202014,
+      "day_change_pct": -0.740164849457756,
+      "drawdown_pct": 25.49696969696969,
       "name": "Broadcom",
       "news": [
         {
@@ -118,14 +118,14 @@
     },
     {
       "symbol": "AMD",
-      "price": 469.26,
+      "price": 465.58,
       "prev_close": 476.6700134277344,
       "high_52w": 584.73,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -1.554537356870631,
-      "drawdown_pct": 19.747575804217334,
+      "day_change_pct": -2.326559908391572,
+      "drawdown_pct": 20.37692610264567,
       "name": "AMD",
       "news": [
         {
@@ -141,29 +141,29 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "Why Is AMD Stock Sliding on Friday? - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMkhpLWo4Tkc4V1Q0MTlJZUVIWDZleG92R0czanZ0SHVEbUtfdjVDX001RDR2WmFUZ2dWOXpzTkx2ZUVaLThSRXh6TDdiREdpN1VuMFZoeWloY3h2VEdKb3MtRHBQUW1YNnFkbzZ2TkR3dHdzaGhtMDFNM2dIaURDV3UwVlQ0OF9oaXczaEJYaEFieTVMMnZyZQ?oc=5",
-          "pub": "Fri, 28 Aug 2026 16:04:38 GMT",
-          "source": "Yahoo Finance"
-        },
-        {
           "title": "Broadcom vs. AMD: Which AI Chip Stock Has the Better Risk-Reward? - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPX29GbTVWRVpKZ2d1WFJLVS1JTHBNMHd5Sng3V2xBei1iTktpRGtSdjh2cWZnUnIyektIMEZYbi0xRXl5LS1WVkp2VWRyLXplTHpQX3BQYW9pQzYtLXJsMUpIN0otNlh3andlc0RvX21WbVY0TEFKTTR2WVdaVDdZRy1rUmswOTNNTmdWcmJ5TFQ?oc=5",
           "pub": "Fri, 28 Aug 2026 19:00:00 GMT",
           "source": "Yahoo Finance"
+        },
+        {
+          "title": "Nvidia vs. AMD: The Charts Point to a Clear Winner - Barron's",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVDhzZWx4RHJUTFQtMjRsd25Tc1lsb0M5dFJ2aWRtY3lqZ1ljZ3E5dWhacHExVWFZTzgxcFgySF9QQm0yYmU2YTNfd3NwbmlRMEIzWERoLUVCSVpvS3VITjBqcm5ta0hiYlJ2REFJcVVkaXViRmdrZzB6bHRoSDMtQzdCOXM3WVpYV0FRMkJR?oc=5",
+          "pub": "Fri, 28 Aug 2026 17:55:00 GMT",
+          "source": "Barron's"
         }
       ]
     },
     {
       "symbol": "RKLB",
-      "price": 64.51,
+      "price": 64.39,
       "prev_close": 67.52999877929688,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -4.47208475327669,
-      "drawdown_pct": 57.27814569536424,
+      "day_change_pct": -4.649783557021958,
+      "drawdown_pct": 57.35761589403974,
       "name": "Rocket Lab",
       "news": [
         {
@@ -173,35 +173,35 @@
           "source": "Investor's Business Daily"
         },
         {
+          "title": "RKLB Stock Heads For Third Weekly Loss After 7 Bruising Sessions: SpaceX Raises Red Flag Over Iridium Deal - TradingView",
+          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPYW5hOHB6cHBvLXJDU1BjNmdEZ0gyYmdOUzd1WEE1TVFBXzZ5cDBVZ2wwVnp0SzlZd2pBaXI1RjVHWmw1ZnVZN3cwVDhOUDBEY3M2RDA0aXJMb3Z5anptdGRHYTVnQ2M2LTNLVmExMzRXS25PVTJNWmg4ZDM0RTdmMDdaeEZzN0VqRzdwcDJJQi02dWFiMjdUdGtrUlpUdFU1dV9lNVNILUM0VkhoSmtyNFFRc0daaF84MmdndDNqUldQbF94YjhpWWFjVy1wU1h6OGhYbkFQQUdUbjFWSlkwcFF5Qm9RWmdnbkNCS0ZGZDRNb1d5b2JhUzVR?oc=5",
+          "pub": "Fri, 28 Aug 2026 01:51:00 GMT",
+          "source": "TradingView"
+        },
+        {
+          "title": "Rocket Lab CFO Sells Nearly 10,000 Shares Amid a Rising Stock Price - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTjJBa3JZWWdfbVA1aklETkZTZHZ3TDY1dlNmUkhFQ2wwVHZqSUh6ZWtjYUtyeEdSZnR5Ty1wX3lqWnlLRXdZUTRrOFpkSkZDMF9TaGw5TWtRX2ZQQkpMZVZNelptTXlCX0I2TkJrMmczX2VmMjgwMVY4NHdnZzdVei1jZXJGcmtsemp1RFdLRW5EM1lRTnRJ?oc=5",
+          "pub": "Thu, 27 Aug 2026 21:20:01 GMT",
+          "source": "Yahoo Finance"
+        },
+        {
           "title": "Rocket Lab Stock Rises Even as Insiders Sell $5.49 Million in Shares – Here’s What Investors Should Know - TipRanks",
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZkUxLVpxenJLb0wxMms0NnZaZDV3M0VlYkJ3SGV4X2dZRm9zc1BWSnU0WF84NnZZcUhCRWNJYW1UWEdHbHhUNmp5dE4tNGwyOHFKcGJHOXFnMy1SbUw3Zm8zWWZ3WVMySVdDWGpwZWt0MmR0dWVDWGFVeVVkdEtXVUxvWTVBSTlvcV9nMFVyOV9mTnJmUGdLU1hmU3hJdjBQUGFWc3RYZExFTVFOSEZDUWZWdkFJdzBnMVBxSXVIS29oY1k2YzJZeHln?oc=5",
           "pub": "Thu, 27 Aug 2026 19:21:01 GMT",
           "source": "TipRanks"
-        },
-        {
-          "title": "Rocket Lab shares drop 6% after SpaceX files FC... - Pluang",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNV1VSd1pleklvYmlpVFZBcXlkOC1IczlEeTYtUVRRenBEUzNjb3BsM1EtSURIUGFxMVZ6ZXctWGJ3dlpDVm9abXU0dUNZdUh3cXF4UWdqUVRhZDd4T1hPX0dtOHVHbUVUZXRIY2UtZ1ViSXFnaktKa1BVd0lQTC1jUGhfWmNPZDN6WE5NS3hWOElROE5nTU9iVzNwc0YtQQ?oc=5",
-          "pub": "Fri, 28 Aug 2026 18:17:52 GMT",
-          "source": "Pluang"
-        },
-        {
-          "title": "Rocket Lab Stock: Bull vs. Bear - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMkJjdWVZajc0UFNnYUpONDJaeFR5S1dhSlFXNkdKeWhfN19WVDdWTFIya3g5RTM1RTBhRnFTMXRIOVgxbGdQVFQ0bFg3NTAzenNWYnNLc2s3aTVKMDMyc1poeFlkQ1lSUGhoTlgwTGRPMFpLN3JUWUJWaFM2TkxLVWM3WEYzakxZMWUtbENzdDdvN3M?oc=5",
-          "pub": "Thu, 27 Aug 2026 21:20:00 GMT",
-          "source": "Yahoo Finance"
         }
       ]
     },
     {
       "symbol": "IREN",
-      "price": 35.5,
+      "price": 35.45,
       "prev_close": 40.529998779296875,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": -12.410557440890544,
-      "drawdown_pct": 53.81813616290201,
+      "day_change_pct": -12.53392285294562,
+      "drawdown_pct": 53.883181041545804,
       "name": "IREN",
       "news": [
         {
@@ -282,8 +282,8 @@
       "news": [
         {
           "title": "Invisio (OM:IVSO) Wins Canadian Armed Forces Deal, Is The Stock Still Undervalued? - simplywall.st",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxObHpIdlQ1azRQTEVLOXNJd0JGQlFicTNuNkM2N0FIc2c2TWJqM2tmQmx3WWg2ZERNeVZEQk5tTkhxSzdmOEtQYmNWWXoySWtMcmgyRFk0c1kwZmdFaDZ0VjIydWNMMko3UGs3d0tKU19UYzdRUVRNd1VPblhCRlBIY0FXWHRzT0d0SlJsZE5wX1A5cW11T0NwTVl5LVdvQ0VLQ3RCQ3lhVEhDSUdTQ2V2WS1raF9wSFNuOG9taFBBdURZV0ZjZDR3d2h4TzZSLWJEVzFMONIB1AFBVV95cUxObHpIdlQ1azRQTEVLOXNJd0JGQlFicTNuNkM2N0FIc2c2TWJqM2tmQmx3WWg2ZERNeVZEQk5tTkhxSzdmOEtQYmNWWXoySWtMcmgyRFk0c1kwZmdFaDZ0VjIydWNMMko3UGs3d0tKU19UYzdRUVRNd1VPblhCRlBIY0FXWHRzT0d0SlJsZE5wX1A5cW11T0NwTVl5LVdvQ0VLQ3RCQ3lhVEhDSUdTQ2V2WS1raF9wSFNuOG9taFBBdURZV0ZjZDR3d2h4TzZSLWJEVzFMOA?oc=5",
-          "pub": "Fri, 28 Aug 2026 04:51:21 GMT",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOaGxPWk1yMFhvWDltTDYteXphN08zdnM5Y1ZZT2U2MlliYloyQUVSMnFlWjNRX2IxQTNEcGJaR1hNM1hIanB0dFd2Wl9CdjNELTkyZU11VlNxZk1Qa21XMFVaUEtUZW94VU1kY1ZQN2JNNUtfNDYwaGpUS1Q1Z1J3N3pYYjhaZS1Ca0lvdWFHb3gzREZIdUZ0T2dFb0NTLV9OTjRTeUZEVHlVRFBUZ3FoMVNINTFFdjFzaG9hazJ5Wi14STR4VmE5ejhjNHJ5V03SAdQBQVVfeXFMTmx6SHZUNWs0UExFSzlzSXdCRkJRYnEzbjZDNjdBSHNnNk1iajNrZkJsd1loNmRETXlWREJObU5IcUs3ZjhLUGJjVll6MklrTHJoMkRZNHNZMGZnRWg2dFYyMnVjTDJKN1BrN3dLSlNfVGM3UVFUTXdVT25YQkZQSGNBV1h0c09HdEpSbGROcF9QOXFtdU9DcE1ZeS1Xb0NFS0N0QkN5YVRIQ0lHU0Nldlkta2hfcEhTbjhvbWhQQXVEWVdGY2Q0d3doeE82Ui1iRFcxTDg?oc=5",
+          "pub": "Fri, 28 Aug 2026 04:51:19 GMT",
           "source": "simplywall.st"
         },
         {
