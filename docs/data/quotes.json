@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-08-28T16:00:34.068548+00:00",
-  "updated_at_display": "2026-08-28 16:00 UTC",
+  "updated_at": "2026-08-28T16:30:26.297608+00:00",
+  "updated_at_display": "2026-08-28 16:30 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 221.318,
+      "price": 220.205,
       "prev_close": 227.97999572753906,
       "high_52w": 236.54,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -2.9221843373928564,
-      "drawdown_pct": 6.435275217722153,
+      "day_change_pct": -3.4103850659033332,
+      "drawdown_pct": 6.9058087427073565,
       "name": "NVIDIA",
       "news": [
         {
@@ -21,10 +21,10 @@
           "source": "WSJ"
         },
         {
-          "title": "Nvidia Stock Is Too Cheap. Apple Once Had the Same Problem. - Barron's",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVUd0NThwNElUVlBkb1VrQXRBVDRPaHhqdFRNbzl6RmE3RHZMNEhoS0xkamFvSDNwdWpqODFIRXZlRnpEVVotUTZUMUotXy11RmFLZllaSG1yMDlBOWhwbGN0MzloX0hqTVJWMmVteG50elJjSmo1bkxKb1BYa2VXejRGQ1NubDgya3prc2ZHTExNa1JHS1VZel9TNGM?oc=5",
-          "pub": "Fri, 28 Aug 2026 12:38:00 GMT",
-          "source": "Barron's"
+          "title": "Trump Calls Micron One of the World’s “Hottest” Companies a Day After Nvidia Disclosed $279 Billion in Supplier Commitments - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbFV2U3o4d1o4a0Q1OUtUdHVLbG9KTEludDdpZmtRNzBZQlJKc19wUGpxaHhndXYtakdMUnBVM09ESThWdXNJMWkzRERodF9yaGw4WjducVRwV3lYdFBNejhmdGZrOE1EeG9jQ2VVNjRhd21YcTVNRDNGc0pyd1RPTXgtX2hvM1ZZOTUyTUl0ZWdyU3FfYmJrYQ?oc=5",
+          "pub": "Fri, 28 Aug 2026 14:01:50 GMT",
+          "source": "Yahoo Finance"
         },
         {
           "title": "Nvidia earnings were monstrous. They weren’t enough to drive a breakout in broader chip sector - CNBC",
@@ -33,23 +33,23 @@
           "source": "CNBC"
         },
         {
-          "title": "Nvidia could hit a $13 trillion market cap, analyst says - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSEE2cno1eHgtUVc1OXhlbnlEb1lXREdLLXRwbS1Jek1TTHZ3REtyLUFiLW4xQmVtVWl2LXl1c1ZtelQ4VTJHeHZsTzVILUlaMm9STW1yaTRvQm0wbjQ1Qi1wNV9lZE1CalBtXzdaTXJvaFgtSmd1b1dpQ0VPNTlWODRYUGV1SG1leVhwRmxycThIWjV0Y1NpaDZpamwxQjNBbXBEMk8xRVllVWwtTC1nbW50U1k1Q0g1VHc?oc=5",
-          "pub": "Fri, 28 Aug 2026 09:38:49 GMT",
-          "source": "Yahoo Finance"
+          "title": "Nvidia Stock Is Too Cheap. Apple Once Had the Same Problem. - Barron's",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVUd0NThwNElUVlBkb1VrQXRBVDRPaHhqdFRNbzl6RmE3RHZMNEhoS0xkamFvSDNwdWpqODFIRXZlRnpEVVotUTZUMUotXy11RmFLZllaSG1yMDlBOWhwbGN0MzloX0hqTVJWMmVteG50elJjSmo1bkxKb1BYa2VXejRGQ1NubDgya3prc2ZHTExNa1JHS1VZel9TNGM?oc=5",
+          "pub": "Fri, 28 Aug 2026 12:38:00 GMT",
+          "source": "Barron's"
         }
       ]
     },
     {
       "symbol": "META",
-      "price": 575.53,
+      "price": 575.345,
       "prev_close": 571.0999755859375,
       "high_52w": 790.8,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 0.7757003332940705,
-      "drawdown_pct": 27.22180070814365,
+      "day_change_pct": 0.743306705574136,
+      "drawdown_pct": 27.245194739504292,
       "name": "Meta Platforms",
       "news": [
         {
@@ -65,29 +65,29 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "Meta dodges ‘Big Tobacco’ nightmare with $18 billion settlement in child-safety lawsuit - MarketWatch",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPd0xvS1drbGZkd3JRRjd0bW9paFlCVTVVc19XQ1dSdEZ0QU44cWZPQ19NaWpPSThKR0F2Zlk2dEh2bFJZSy1Hb1huM3hGRm8zRkZHY0RCS1ltMUlNT0hhalljVGVDRVRDTVBWVUxmOC12TzlPSHpUZDYyXzJBdHNkWTdaVEszNlRHTl84THg1WkY4ODdrQXV1T3hjQTBtN0xoS2VUcXA2S0hGZS1sdTFBZlpuWkljdw?oc=5",
-          "pub": "Wed, 26 Aug 2026 21:58:00 GMT",
-          "source": "MarketWatch"
+          "title": "The Number One Reason to Buy Meta is Very Compelling - 24/7 Wall St.",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRTNWYTZ5eC13X1lGckowakJqZ0xCdTlhQVgwWlBPdlJOTjY3MGw3M05sWHViX3F5cFgwT0s2Z1l3eERqVmZaNFVIeDl1c19NSjQyT1lQa3FiRzN4b3dpNjdJOUozaFN6U0I4VF9sRzRKeTF0UnYyS0pieVJobF8tb1RBSElMb2FGbVlLcEVkZDlHTEdzUHJCcE5tbm4?oc=5",
+          "pub": "Fri, 28 Aug 2026 11:14:00 GMT",
+          "source": "24/7 Wall St."
         },
         {
-          "title": "Meta Stock Could Have 50% Upside. Here’s the Bull Case - 24/7 Wall St.",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRU1FY3U5bXhBSzg1bGVkaS1lZTI4WE9RWm1Cdm9WUGZtZUVBX1lSb1hQazN5QVItTFVoV1BneTNlTHNtX1N0VW9ySXN4N3UxWFNOTVJtQ2ZFdFpqUFByMkRLZzVrX2lGc0E2eGtpM3lZRnhGMTNWSU1JUllWSU9jTFZLMVF4Q3d0ekZBYVJvMTBYNVdKR0RGaWpnRQ?oc=5",
-          "pub": "Fri, 28 Aug 2026 13:00:00 GMT",
-          "source": "24/7 Wall St."
+          "title": "Meta: Disappointing Settlement, But Cost Of Doing Business (NASDAQ:META) - Seeking Alpha",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdV9KNy1vM2x3QlRNY1htVU5CQmIyMUE1SWRYMjZqSlAxQlgySVFsQ2tWTUtXY3cydEFWUjZNSENhU0ZiYzZYWFlSeEIzTVAwejhpTTNSVVh6ME9jTE5ra1NwZVhLaXJIcXQ2X2tCOWlCejh4OU5MNlU3SUVaNy1HYUVfc3JEWmUtdDhpU1NUdkFwRXduTVZ5SQ?oc=5",
+          "pub": "Fri, 28 Aug 2026 00:00:00 GMT",
+          "source": "Seeking Alpha"
         }
       ]
     },
     {
       "symbol": "AVGO",
-      "price": 367.3,
+      "price": 366.54,
       "prev_close": 371.5400085449219,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -1.141198376327543,
-      "drawdown_pct": 25.7979797979798,
+      "day_change_pct": -1.3457523900329342,
+      "drawdown_pct": 25.951515151515146,
       "name": "Broadcom",
       "news": [
         {
@@ -118,14 +118,14 @@
     },
     {
       "symbol": "AMD",
-      "price": 468.0,
+      "price": 468.65,
       "prev_close": 476.6700134277344,
       "high_52w": 584.73,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -1.8188711652718206,
-      "drawdown_pct": 19.963059873787905,
+      "day_change_pct": -1.6825084863347026,
+      "drawdown_pct": 19.851897456945945,
       "name": "AMD",
       "news": [
         {
@@ -147,23 +147,23 @@
           "source": "Trefis"
         },
         {
-          "title": "What AMD Stock Was Telling You About Its AI Ramp - Trefis",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPb09BS2VhdjhodGh1azdpcTJVSlZLRi1Pb3U4MDBhbHBhNnplc294T0JiU0s0aWVZckY3WFZLN2FaNGJjMDMwZEZIQnc1Z1JmT1IwTFlXeTJSX1I2V1pZa3h1SkNJekt4aktGSUUxb3l3Y2RBa3V1V2xQVzBvRnI2ZlRPYzRLVEZuQmFnenFISER3YkxHdDB4ZGxFRmxsdnV5RmVLZ29zR3FXVzlDM3FJdTZwcHYtYU15?oc=5",
-          "pub": "Fri, 28 Aug 2026 11:32:09 GMT",
-          "source": "Trefis"
+          "title": "NVIDIA vs. AMD: Only One AI Stock Is a Solid Buy Now - TradingView",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSENDWVBBcWhGUzNUeGxHT3BfQXVDcmxOZkxYYnh0LXdDMFNpbFY4Rno3N1huSWF3bWUxRVhmRzZBVXNzRmtKZ2NTYWRscFh5LVIwWWRPQnl6Rk5OblJjZWJYVkMwNWZadXN5cDFGdHpUVTFjQjdFUl9tWTZfMWJ4cnMtN2xjR0o1NDE2OU0xa3pPSzlRRjNHUHlhalkxYzF3cHNFVzdvcnA3QQ?oc=5",
+          "pub": "Thu, 27 Aug 2026 19:00:00 GMT",
+          "source": "TradingView"
         }
       ]
     },
     {
       "symbol": "RKLB",
-      "price": 64.19,
+      "price": 63.755,
       "prev_close": 67.52999877929688,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -4.94594822993073,
-      "drawdown_pct": 57.490066225165556,
+      "day_change_pct": -5.590106393507295,
+      "drawdown_pct": 57.778145695364245,
       "name": "Rocket Lab",
       "news": [
         {
@@ -171,12 +171,6 @@
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYnRuT3dKUmN0RHRjTnZ2eUFWREszM3pFY1QxcFZjMlpRNjRfN0pBR1F1ajVNbjY5NjBGYjVEdnFUdWVGa19VYzdfbWRLVFluZHhNdkRmaEtiNGlRQUNvNmhFVFVpaUhreHlPNWtUQkZzY1VQM0d1eWEtR2tISTVTeC1QQjlzWV9SR2RTblQxZzVNZmpwLWRpcUF4MmpzalhrNkh1dEtLUmtmYVV6UWota1hvZmZXRGhmSWEyMlQ3U2c?oc=5",
           "pub": "Tue, 25 Aug 2026 15:55:00 GMT",
           "source": "Investor's Business Daily"
-        },
-        {
-          "title": "Rocket Lab Just Hit 93 Electron Launches. Is the Neutron Timeline Still the Stock's Biggest Risk? - The Globe and Mail",
-          "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQT2RUNzNVbERsSXFFLVhjX0hxX25fNlJXRE0xSDIza0NVTFBjd2JBSVl6M25MUHJtUDhGbUR6TlBVWWtpUm83OG9XVFh6YnJiVXdSX21FUHY0MUgxNC1fU2IzWGxEUU93R25FbmdKTEZ3cE5XbTBLTExYbGlrZTl6cnBvSjFUVWFpNGk4Y3ZmZlF2QUN3UEFycnpUYUhDeVlkaWZybXdkMGhoNE9PTV9HZmozb2NNUjN0N0ZfZEZrTEMwVk5Hd200S1JhWVRiaFJXcTlZOUNVbkFCWXkzX0RhaU1ZQ1NhY3pmX0ppRkdSdE9KU1dBbU53VWpCMVZFTzV3S204dFZLS2lzdjg?oc=5",
-          "pub": "Fri, 28 Aug 2026 13:17:23 GMT",
-          "source": "The Globe and Mail"
         },
         {
           "title": "Rocket Lab Stock: Bull vs. Bear - Yahoo Finance",
@@ -189,19 +183,25 @@
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxON0R0enFJMDVCa2tYaWRrbkpNdUpkaE5JUTNZaE5NVFVyeDQzYkxseDkzNFdzSHVib2ZPQ2ROTzBwOGtDbFo2N3FWbkxnR0pMbng2N2xySmVJRjBqcW5hUG5ZVmZGdEZrVXRWVUJ6eUd5UWlDN044Z2Jjbkp2OE9jeFBjVl9mdFhacFdmZ2FQbS1rM2d2RkYyZGNPS1VDQzYxX29fT3dxV3lVZWZJZmJUZTZXUVk0anBKMV9YMA?oc=5",
           "pub": "Fri, 28 Aug 2026 13:03:30 GMT",
           "source": "Zacks Investment Research"
+        },
+        {
+          "title": "RKLB Stock Heads For Third Weekly Loss After 7 Bruising Sessions: SpaceX Raises Red Flag Over Iridium Deal - TradingView",
+          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPYW5hOHB6cHBvLXJDU1BjNmdEZ0gyYmdOUzd1WEE1TVFBXzZ5cDBVZ2wwVnp0SzlZd2pBaXI1RjVHWmw1ZnVZN3cwVDhOUDBEY3M2RDA0aXJMb3Z5anptdGRHYTVnQ2M2LTNLVmExMzRXS25PVTJNWmg4ZDM0RTdmMDdaeEZzN0VqRzdwcDJJQi02dWFiMjdUdGtrUlpUdFU1dV9lNVNILUM0VkhoSmtyNFFRc0daaF84MmdndDNqUldQbF94YjhpWWFjVy1wU1h6OGhYbkFQQUdUbjFWSlkwcFF5Qm9RWmdnbkNCS0ZGZDRNb1d5b2JhUzVR?oc=5",
+          "pub": "Fri, 28 Aug 2026 01:51:00 GMT",
+          "source": "TradingView"
         }
       ]
     },
     {
       "symbol": "IREN",
-      "price": 35.435,
+      "price": 35.305,
       "prev_close": 40.529998779296875,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": -12.570932476562147,
-      "drawdown_pct": 53.902694505138946,
+      "day_change_pct": -12.891682547905372,
+      "drawdown_pct": 54.07181118961283,
       "name": "IREN",
       "news": [
         {
@@ -287,6 +287,12 @@
           "source": "simplywall.st"
         },
         {
+          "title": "SB1 initiates coverage of Invisio with buy rating and target price of 315 kronor - marketscreener.com",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOeXB3OWxQbGx0bWNwOWtoUDQyRFY2NHByR0o4X21OS00xNFF2WEdGQTkyTXpTMjdEUzhfVjZmOHNndVBBaEpHYmFoNWJlZlE1b3REMHRrZ2ZYMGE1TnFOOW5NOVV2WU1nb1I2cEdRZHdGczRvR3lGMjVvaUZXMjI3djVuUHhlLV9abUU1Nng5WThvQjRNNzlSZl9iVE9SenZFZExKOWw5RHJ5dV9walN1QXhxMlJKWHZhWXlTYmtjTzJ1dEZkbVI3YVFZdHVCZw?oc=5",
+          "pub": "Thu, 27 Aug 2026 07:27:26 GMT",
+          "source": "marketscreener.com"
+        },
+        {
           "title": "SB1 Markets initiates coverage of Invisio with a buy rating and a target price of 315 kronor - marketscreener.com",
           "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPY0RDUXNxX2xZRmg3aDVVQzRHaWw4bDlHLXQ2TlFlcnB3NjFHTXZlR0pmNTBFWjlHWTFxYWh0bWRmckJ3dEVxY3dVc1Z4LTdNaTZtZE0xWTN1d2pLSXZ6aGoxNE9nX2xkNnY0VW5vQkw0WVk1X09fMkpLMTB6NnpnbGJzSTJyOTZwNlJSSXRpNF8wcG5GMG40bG5BUlkyaUU0ZVhEQWR2ZURjTF95T29Nb2VJN3pLZ2xxY2d0Y1BZcFB1V05uOGNoNjgydFloTHRFSEJ1V0d1bkhKUlQ0bXc?oc=5",
           "pub": "Thu, 27 Aug 2026 06:43:39 GMT",
@@ -297,12 +303,6 @@
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSEJuQ3lGaERNcllUNVIyemRWSFFoVzlhSHpCdURfWTlDeW5aZFNkbTNmNWVQYUxkTUNiNEJaNWJtTms2V2VUUmRpMEpER3dOOENqN1RmY2JLMEhYM3I5RDZLaUhFNHZtckk5djROYU9SSzF1SnN2bXQ2ZmxxTUpOZkxyZTllTkhNM0hWc0dwQUN3R3haUl80?oc=5",
           "pub": "Thu, 16 Jul 2026 07:00:00 GMT",
           "source": "Yahoo Finance"
-        },
-        {
-          "title": "IVSO Forecast — Price Target — Prediction for 2027 - TradingView",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1keUhnMUVzX0VnclVQS3Ywd29Ka1hUdVMzRndVV01Qb2xGYllhOFlfb0IyNEk1Q2VGYWViMkJXSVZDYi1FQWdLRzZqQTFlUnVocmdGRDM5ejdhaF9mQWlhaGVDZ29rZE9hdnNzU0FzVnpPX1pENHlDbl9n?oc=5",
-          "pub": "Thu, 25 Jun 2026 19:04:11 GMT",
-          "source": "TradingView"
         }
       ]
     },
