@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-08-28T17:00:32.692458+00:00",
-  "updated_at_display": "2026-08-28 17:00 UTC",
+  "updated_at": "2026-08-28T17:30:25.956250+00:00",
+  "updated_at_display": "2026-08-28 17:30 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 219.41,
+      "price": 218.64,
       "prev_close": 227.97999572753906,
       "high_52w": 236.54,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -3.759099871982253,
-      "drawdown_pct": 7.241904117696794,
+      "day_change_pct": -4.096848803656172,
+      "drawdown_pct": 7.567430455736876,
       "name": "NVIDIA",
       "news": [
         {
-          "title": "Stock Market News, Aug. 27, 2026: Nvidia’s Bullish Forecast Lifts Investors’ Spirits - WSJ",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdm9wcnRGcW1mTkt4M3VVRER6UXI2VUc4Mi1CbnV0X3pkdWw1UUVDdzd2UkFwV1o4UFNmUDEwVDZaeTV6RXBBeEZMV2tXX2xQZC1vRGktcl94c1pOZ1EzNk5zWmtFaGhSNUs3Y3lVcnhZdUEyVjVBR2JCT1B2MDhvNF9YM0lOWVU?oc=5",
-          "pub": "Fri, 28 Aug 2026 00:00:00 GMT",
-          "source": "WSJ"
+          "title": "Nvidia adds more than $400 billion in value after blowout earnings boost AI confidence - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1wT0tKVG5QdjJIV3RXNmZNYUROM1dJYWJ3d3VOUzdKUEZjTFgweTFXNlhFT3RwLUoxZ1E4SXYzQ0g4LUFYdW9tNkNVUmE5OE5TendnYU02ekhBeThSZDRpTVBwcmlCRXdkcDVoetIBckFVX3lxTFBTYXloWFBxMWUxVXBhV1VLdkJzbWpITXdabzh3b00zYXlnb0ZHcEZlRjFqRHRtWmF4QjA2ei1Id3hTQ3N3X1lQcGZyQkJKRzhZalpsbmZrd3lRd2gxQXRpMWpQUUpiVTFxTHJ3N0NEY0k1Zw?oc=5",
+          "pub": "Thu, 27 Aug 2026 08:04:33 GMT",
+          "source": "CNBC"
         },
         {
-          "title": "Trump Calls Micron One of the World’s “Hottest” Companies a Day After Nvidia Disclosed $279 Billion in Supplier Commitments - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbFV2U3o4d1o4a0Q1OUtUdHVLbG9KTEludDdpZmtRNzBZQlJKc19wUGpxaHhndXYtakdMUnBVM09ESThWdXNJMWkzRERodF9yaGw4WjducVRwV3lYdFBNejhmdGZrOE1EeG9jQ2VVNjRhd21YcTVNRDNGc0pyd1RPTXgtX2hvM1ZZOTUyTUl0ZWdyU3FfYmJrYQ?oc=5",
-          "pub": "Fri, 28 Aug 2026 14:01:50 GMT",
+          "title": "Nvidia could hit a $13 trillion market cap, analyst says - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSEE2cno1eHgtUVc1OXhlbnlEb1lXREdLLXRwbS1Jek1TTHZ3REtyLUFiLW4xQmVtVWl2LXl1c1ZtelQ4VTJHeHZsTzVILUlaMm9STW1yaTRvQm0wbjQ1Qi1wNV9lZE1CalBtXzdaTXJvaFgtSmd1b1dpQ0VPNTlWODRYUGV1SG1leVhwRmxycThIWjV0Y1NpaDZpamwxQjNBbXBEMk8xRVllVWwtTC1nbW50U1k1Q0g1VHc?oc=5",
+          "pub": "Fri, 28 Aug 2026 09:38:49 GMT",
           "source": "Yahoo Finance"
         },
         {
@@ -42,14 +42,14 @@
     },
     {
       "symbol": "META",
-      "price": 574.83,
+      "price": 575.98,
       "prev_close": 571.0999755859375,
       "high_52w": 790.8,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 0.6531298500294292,
-      "drawdown_pct": 27.31031866464339,
+      "day_change_pct": 0.8544956439642127,
+      "drawdown_pct": 27.16489630753667,
       "name": "Meta Platforms",
       "news": [
         {
@@ -80,14 +80,14 @@
     },
     {
       "symbol": "AVGO",
-      "price": 366.0,
+      "price": 366.35,
       "prev_close": 371.5400085449219,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -1.4910933997709825,
-      "drawdown_pct": 26.060606060606062,
+      "day_change_pct": -1.396890893459282,
+      "drawdown_pct": 25.989898989898986,
       "name": "Broadcom",
       "news": [
         {
@@ -118,14 +118,14 @@
     },
     {
       "symbol": "AMD",
-      "price": 470.77,
+      "price": 470.91,
       "prev_close": 476.6700134277344,
       "high_52w": 584.73,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -1.2377563642628562,
-      "drawdown_pct": 19.48933695893832,
+      "day_change_pct": -1.2083859411071591,
+      "drawdown_pct": 19.46539428454158,
       "name": "AMD",
       "news": [
         {
@@ -147,23 +147,23 @@
           "source": "Barron's"
         },
         {
-          "title": "NVIDIA vs. AMD: Only One AI Stock Is a Solid Buy Now - TradingView",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSENDWVBBcWhGUzNUeGxHT3BfQXVDcmxOZkxYYnh0LXdDMFNpbFY4Rno3N1huSWF3bWUxRVhmRzZBVXNzRmtKZ2NTYWRscFh5LVIwWWRPQnl6Rk5OblJjZWJYVkMwNWZadXN5cDFGdHpUVTFjQjdFUl9tWTZfMWJ4cnMtN2xjR0o1NDE2OU0xa3pPSzlRRjNHUHlhalkxYzF3cHNFVzdvcnA3QQ?oc=5",
-          "pub": "Thu, 27 Aug 2026 19:00:00 GMT",
-          "source": "TradingView"
+          "title": "Why Is AMD Stock Sliding on Friday? - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMkhpLWo4Tkc4V1Q0MTlJZUVIWDZleG92R0czanZ0SHVEbUtfdjVDX001RDR2WmFUZ2dWOXpzTkx2ZUVaLThSRXh6TDdiREdpN1VuMFZoeWloY3h2VEdKb3MtRHBQUW1YNnFkbzZ2TkR3dHdzaGhtMDFNM2dIaURDV3UwVlQ0OF9oaXczaEJYaEFieTVMMnZyZQ?oc=5",
+          "pub": "Fri, 28 Aug 2026 16:04:38 GMT",
+          "source": "Yahoo Finance"
         }
       ]
     },
     {
       "symbol": "RKLB",
-      "price": 63.88,
+      "price": 63.8,
       "prev_close": 67.52999877929688,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -5.405003472939314,
-      "drawdown_pct": 57.6953642384106,
+      "day_change_pct": -5.52346934210283,
+      "drawdown_pct": 57.74834437086093,
       "name": "Rocket Lab",
       "news": [
         {
@@ -194,20 +194,20 @@
     },
     {
       "symbol": "IREN",
-      "price": 35.225,
+      "price": 34.93,
       "prev_close": 40.529998779296875,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": -13.0890672071935,
-      "drawdown_pct": 54.175882995442905,
+      "day_change_pct": -13.816923138318499,
+      "drawdown_pct": 54.559647779441335,
       "name": "IREN",
       "news": [
         {
-          "title": "IREN Limited (IREN) Reports Q4 Loss, Beats Revenue Estimates - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWlo4T1Nad3lJUnBUX2dTUjhVcVVQMUg4aTJNTUNmMTVNazhUYVdQQUtWY2FqNGl4bVVPUWo0NnE4VDZCVjFBT0hvcTVkdFl2MG1kYWtvSGhrTVhaNDZOUjZSenA3bEZURnFyekFIRFBCdEZCQjdMZldUZ3JRRGJNNG9RRHU3dzQ5NWlWUWhqY1JmRUxZVFRHQg?oc=5",
-          "pub": "Thu, 27 Aug 2026 21:55:01 GMT",
+          "title": "IREN’s Stock Drops 6% As Financial Results Disappoint - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSXY1WkQtY1JMMlFOb21XSURzV0ZPS0hKTndXUWUtT2FaSUF0cG1wNUZFazdYSUlSa3A0Z2pyVVFFcXZmcER0cnE5TDVwQkFtRU96UjdBM2hzTFB5UFJkLUtHVkNPQkl3QzZPR1NoVEc0TWw0ZVNuNUVQaHNxeDBjUEgwWDNpd2p5MUQ2bTQ0SGdNXzJWY1ljQw?oc=5",
+          "pub": "Fri, 28 Aug 2026 13:38:00 GMT",
           "source": "Yahoo Finance"
         },
         {
@@ -249,6 +249,12 @@
           "source": "simplywall.st"
         },
         {
+          "title": "MILDEF Stock Price and Chart — OMXSTO:MILDEF - TradingView",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5zV2pPMV9QMDktZlJ1N0NmNGtYYUlrQXNfU0VhYjhtMWpJdjc4ZUpaVTUzZ2QwN29ZcE9TMVZkVm1GRWpwTFdXSHh1UkJvd3lLSTg5NUJod3dRYWtpMGxr?oc=5",
+          "pub": "Mon, 16 Feb 2026 08:00:00 GMT",
+          "source": "TradingView"
+        },
+        {
           "title": "Earnings call transcript: Mildef posts strong Q2 2026 growth, shares slip - Investing.com",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNGFTODUwbXhPdy1abF9UdjM5d2h2blUxMzJXeWwxdWhuSkZ1eDBaUnF4MVk2cWlxQjJpU0s4eGN2UnMtMWNBZjV5T19HeVd3c2ZlZGUzX2kyZ2dWRjF1NGFvQ0trYVJFSVNyMlg0YUhEcnc3Sk9LSk0zd3ZhMFJ0M3drZkdGT1BIall4ZzRVTlVjLU1VVjRXWXZkSzBGTEVoZ2luLTNwZWJCR2FuUmZuXzB6TDR4VTd4SmYtRWdiNFVtdDVrc3c?oc=5",
           "pub": "Thu, 16 Jul 2026 07:00:00 GMT",
@@ -258,12 +264,6 @@
           "title": "Mirabella Financial Services Returns as a Public Short Seller in Mildef - marketscreener.com",
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOU2F5aDFIaE1KbWV5UVR5cnR5WXppV2EycXZNSmxiSkE1Vmx2V0MtWVNGTkxKbGdqcTdPLWFMczhxYjlNZ2N0eGg4a1dDRmp5dklKQXZ5N0k1WUM1dlA5MFZDa1RqbE9VQ21DY3ZVVWVDVXBVQnN2WTcxOWlIUm91OTBoN283cjBqaFc3TDBvRFc1aHdKSF9neTNESDJyeFQwRFY2M2p0cXFRaGZyUF9SNXNhQ0NqOG1VT1JoWTk2VFQzUQ?oc=5",
           "pub": "Wed, 19 Aug 2026 11:48:25 GMT",
-          "source": "marketscreener.com"
-        },
-        {
-          "title": "Mirabella Financial Services no longer a public short seller in Mildef - marketscreener.com",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcDVhaE1vcFktYmp5M1pUMk50NE1nTzZYb0l3elhvdG9KNldyUGFiN3F5ZjZSTzk1RnJ1MjF4YVVzemx5YmhfRm5mUl9QZkRGNC1pUW5JbGxvdnI5ckpCemxCeEtCQ284RGpNX2ZmVTg4TExxN0JWaGRwNGQtSVNnaGFrYjBQMktLb01wc0RKYWx4N0tfeGw1bzBqTWhTelVVakdPRVgxamlCd1JEeWdRcV8wNUxadFA3VllQalhUTG4?oc=5",
-          "pub": "Tue, 18 Aug 2026 05:47:37 GMT",
           "source": "marketscreener.com"
         }
       ]
@@ -282,8 +282,8 @@
       "news": [
         {
           "title": "Invisio (OM:IVSO) Wins Canadian Armed Forces Deal, Is The Stock Still Undervalued? - simplywall.st",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxObHpIdlQ1azRQTEVLOXNJd0JGQlFicTNuNkM2N0FIc2c2TWJqM2tmQmx3WWg2ZERNeVZEQk5tTkhxSzdmOEtQYmNWWXoySWtMcmgyRFk0c1kwZmdFaDZ0VjIydWNMMko3UGs3d0tKU19UYzdRUVRNd1VPblhCRlBIY0FXWHRzT0d0SlJsZE5wX1A5cW11T0NwTVl5LVdvQ0VLQ3RCQ3lhVEhDSUdTQ2V2WS1raF9wSFNuOG9taFBBdURZV0ZjZDR3d2h4TzZSLWJEVzFMONIB1AFBVV95cUxObHpIdlQ1azRQTEVLOXNJd0JGQlFicTNuNkM2N0FIc2c2TWJqM2tmQmx3WWg2ZERNeVZEQk5tTkhxSzdmOEtQYmNWWXoySWtMcmgyRFk0c1kwZmdFaDZ0VjIydWNMMko3UGs3d0tKU19UYzdRUVRNd1VPblhCRlBIY0FXWHRzT0d0SlJsZE5wX1A5cW11T0NwTVl5LVdvQ0VLQ3RCQ3lhVEhDSUdTQ2V2WS1raF9wSFNuOG9taFBBdURZV0ZjZDR3d2h4TzZSLWJEVzFMOA?oc=5",
-          "pub": "Fri, 28 Aug 2026 04:51:21 GMT",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOaGxPWk1yMFhvWDltTDYteXphN08zdnM5Y1ZZT2U2MlliYloyQUVSMnFlWjNRX2IxQTNEcGJaR1hNM1hIanB0dFd2Wl9CdjNELTkyZU11VlNxZk1Qa21XMFVaUEtUZW94VU1kY1ZQN2JNNUtfNDYwaGpUS1Q1Z1J3N3pYYjhaZS1Ca0lvdWFHb3gzREZIdUZ0T2dFb0NTLV9OTjRTeUZEVHlVRFBUZ3FoMVNINTFFdjFzaG9hazJ5Wi14STR4VmE5ejhjNHJ5V03SAdQBQVVfeXFMTmx6SHZUNWs0UExFSzlzSXdCRkJRYnEzbjZDNjdBSHNnNk1iajNrZkJsd1loNmRETXlWREJObU5IcUs3ZjhLUGJjVll6MklrTHJoMkRZNHNZMGZnRWg2dFYyMnVjTDJKN1BrN3dLSlNfVGM3UVFUTXdVT25YQkZQSGNBV1h0c09HdEpSbGROcF9QOXFtdU9DcE1ZeS1Xb0NFS0N0QkN5YVRIQ0lHU0Nldlkta2hfcEhTbjhvbWhQQXVEWVdGY2Q0d3doeE82Ui1iRFcxTDg?oc=5",
+          "pub": "Fri, 28 Aug 2026 04:51:19 GMT",
           "source": "simplywall.st"
         },
         {
@@ -293,16 +293,16 @@
           "source": "marketscreener.com"
         },
         {
-          "title": "SB1 Markets initiates coverage of Invisio with a buy rating and a target price of 315 kronor - marketscreener.com",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPY0RDUXNxX2xZRmg3aDVVQzRHaWw4bDlHLXQ2TlFlcnB3NjFHTXZlR0pmNTBFWjlHWTFxYWh0bWRmckJ3dEVxY3dVc1Z4LTdNaTZtZE0xWTN1d2pLSXZ6aGoxNE9nX2xkNnY0VW5vQkw0WVk1X09fMkpLMTB6NnpnbGJzSTJyOTZwNlJSSXRpNF8wcG5GMG40bG5BUlkyaUU0ZVhEQWR2ZURjTF95T29Nb2VJN3pLZ2xxY2d0Y1BZcFB1V05uOGNoNjgydFloTHRFSEJ1V0d1bkhKUlQ0bXc?oc=5",
-          "pub": "Thu, 27 Aug 2026 06:43:39 GMT",
-          "source": "marketscreener.com"
-        },
-        {
           "title": "What To Expect From Invisio AB (OSTO:IVSO) Q2 2026 Earnings - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSEJuQ3lGaERNcllUNVIyemRWSFFoVzlhSHpCdURfWTlDeW5aZFNkbTNmNWVQYUxkTUNiNEJaNWJtTms2V2VUUmRpMEpER3dOOENqN1RmY2JLMEhYM3I5RDZLaUhFNHZtckk5djROYU9SSzF1SnN2bXQ2ZmxxTUpOZkxyZTllTkhNM0hWc0dwQUN3R3haUl80?oc=5",
           "pub": "Thu, 16 Jul 2026 07:00:00 GMT",
           "source": "Yahoo Finance"
+        },
+        {
+          "title": "IVSO Forecast — Price Target — Prediction for 2027 - TradingView",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1keUhnMUVzX0VnclVQS3Ywd29Ka1hUdVMzRndVV01Qb2xGYllhOFlfb0IyNEk1Q2VGYWViMkJXSVZDYi1FQWdLRzZqQTFlUnVocmdGRDM5ejdhaF9mQWlhaGVDZ29rZE9hdnNzU0FzVnpPX1pENHlDbl9n?oc=5",
+          "pub": "Thu, 25 Jun 2026 19:04:11 GMT",
+          "source": "TradingView"
         }
       ]
     },
