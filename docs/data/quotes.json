@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-08-28T13:00:34.377867+00:00",
-  "updated_at_display": "2026-08-28 13:00 UTC",
+  "updated_at": "2026-08-28T13:30:26.802121+00:00",
+  "updated_at_display": "2026-08-28 13:30 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 227.98,
-      "prev_close": 209.66000366210938,
+      "price": 227.25,
+      "prev_close": 227.97999572753906,
       "high_52w": 236.54,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 8.73795479247217,
-      "drawdown_pct": 3.618838251458528,
+      "day_change_pct": -0.3202016585751177,
+      "drawdown_pct": 3.9274541303796364,
       "name": "NVIDIA",
       "news": [
         {
@@ -21,35 +21,35 @@
           "source": "CNBC"
         },
         {
-          "title": "Nvidia Will Be The Most Profitable Company In The U.S. Next Year - Investor's Business Daily",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaDh0MnRDWDRtMHFsM1FiZVpzVVZmckxLNnFPd2RoZWJBbUsxd2Nuei1jYWZORVh3Rmh4TVNoZ3RZZW53MG9PRUxvbW1jWUttUDE3Sm9RRGdNYkRvQzJsblJkWGJBMUxWbmlEVUY0MXdPUXp4U2txX2NPR25jQXpKVmlBelZUWm9wWU1YOWEzSG9MT2hDMEV2NUlPREgzRHVKMThvRU9mRl84RXB4c2pxRXdwMA?oc=5",
-          "pub": "Fri, 28 Aug 2026 11:18:00 GMT",
-          "source": "Investor's Business Daily"
-        },
-        {
           "title": "Nvidia Stock Is Too Cheap. Apple Once Had the Same Problem. - Barron's",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVUd0NThwNElUVlBkb1VrQXRBVDRPaHhqdFRNbzl6RmE3RHZMNEhoS0xkamFvSDNwdWpqODFIRXZlRnpEVVotUTZUMUotXy11RmFLZllaSG1yMDlBOWhwbGN0MzloX0hqTVJWMmVteG50elJjSmo1bkxKb1BYa2VXejRGQ1NubDgya3prc2ZHTExNa1JHS1VZel9TNGM?oc=5",
           "pub": "Fri, 28 Aug 2026 12:38:00 GMT",
           "source": "Barron's"
         },
         {
-          "title": "Meet the 3 Stocks Nvidia Has Invested Billions Into - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUjNRSUxwVWx3eUMyZ0lVYWhGcGVudFJnMnhXYjQwVHRCdDBBczVIbU9GUWZoZ0k0UWttY056aDRMaDhxSWIwc2ZmRGpKUTVjSUNHb1JyNHJVM0lHNkhrenR0dGNkZTQzcE9iV2xyWVAyYlZaNE9hM2xmY29iMzJ6Z1MxSzVUT2t3aTI5a3pmWXhuLTU4cWdWdQ?oc=5",
-          "pub": "Fri, 28 Aug 2026 06:00:00 GMT",
-          "source": "The Motley Fool"
+          "title": "Nvidia Will Be The Most Profitable Company In The U.S. Next Year - Investor's Business Daily",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaDh0MnRDWDRtMHFsM1FiZVpzVVZmckxLNnFPd2RoZWJBbUsxd2Nuei1jYWZORVh3Rmh4TVNoZ3RZZW53MG9PRUxvbW1jWUttUDE3Sm9RRGdNYkRvQzJsblJkWGJBMUxWbmlEVUY0MXdPUXp4U2txX2NPR25jQXpKVmlBelZUWm9wWU1YOWEzSG9MT2hDMEV2NUlPREgzRHVKMThvRU9mRl84RXB4c2pxRXdwMA?oc=5",
+          "pub": "Fri, 28 Aug 2026 11:18:00 GMT",
+          "source": "Investor's Business Daily"
+        },
+        {
+          "title": "Nvidia Just Made a $21 Billion Bet on SpaceX. Here's 1 Reason Jensen Huang Likes the Company. - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUVhGM1NzVE1NZDJGTkNDMGtOZ1d6MGpDT3lmZTRDNG5YV1ExTUdRNnUwZWNndUJCNFA4N2JDR1lUQUlIVWY5dnFEeV9VMGFFTmVqal9wMnBmcmhkU0FiNEZzNXRFekpfR0dDWlRQRXh2SlpSY2xUdjMzbjUtMDZlNmFLSFJzd0txZ19WSmRZeFpPdVFVMnpB?oc=5",
+          "pub": "Fri, 28 Aug 2026 11:01:00 GMT",
+          "source": "Yahoo Finance"
         }
       ]
     },
     {
       "symbol": "META",
-      "price": 571.1,
-      "prev_close": 576.1400146484375,
+      "price": 571.69,
+      "prev_close": 571.0999755859375,
       "high_52w": 790.8,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -0.8747898983397135,
-      "drawdown_pct": 27.781992918563475,
+      "day_change_pct": 0.10331368224227307,
+      "drawdown_pct": 27.70738492665654,
       "name": "Meta Platforms",
       "news": [
         {
@@ -80,21 +80,21 @@
     },
     {
       "symbol": "AVGO",
-      "price": 371.54,
-      "prev_close": 355.5899963378906,
+      "price": 374.06,
+      "prev_close": 371.5400085449219,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 4.485504042963374,
-      "drawdown_pct": 24.941414141414135,
+      "day_change_pct": 0.6782557455783237,
+      "drawdown_pct": 24.432323232323235,
       "name": "Broadcom",
       "news": [
         {
-          "title": "Broadcom: Firing On All Fronts, But Is The Price Really Justified? - Seeking Alpha",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVk1ackk3MUszNXpVaU9HcWp0TVptYkpmenNUbVlRaGxCTVExZk5GRm50WUotdDltdXVDUDVwQ1N6MWxqcW1UVXhRTGNqZ0p5SEhERE5HV0p6eHB1dnJ0QkFYcUxod08zWkxlMVc4NTljcW5qRFFrV3RHOWNCNl9RMUdZcVpsTkxNRTJVTHNZNGJfQzBrRDkydUs1M3UtWHV1My1kVHVhOA?oc=5",
-          "pub": "Wed, 26 Aug 2026 12:14:46 GMT",
-          "source": "Seeking Alpha"
+          "title": "History Says This Is What Will Happen to Broadcom Stock After Sept. 2 - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRlM5SG5WRmJFenhFVnQ3MlJWcVpNcl91TUc1X0VCTjhaOUNRN1gzR3V6SzR5cnBiTVRWaWdXRnRoeUxDaFNZdjF6NkVxT0Iyc2otamtJRUo2bldLVHp2RnQta2JRMGFrWjNvNnItcWZJMHVpdGNHa2hhUmFnZ1oxVXNmdksxV3JqRFREU2w3ZWk4SENJWjRv?oc=5",
+          "pub": "Thu, 27 Aug 2026 12:10:00 GMT",
+          "source": "The Motley Fool"
         },
         {
           "title": "What's Going On With Broadcom Stock Thursday? - Benzinga",
@@ -109,23 +109,23 @@
           "source": "Reuters"
         },
         {
-          "title": "On Nvidia Earnings Day, Cathie Wood’s ARK Loaded Up $20M On Rival Chip Stock - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOek1McVJHYnpqRVJCNGEtYXl3T09LM2RLck1EaDVoeWlwYnpycU5scDhOR05EU0pYem0zRzhTU1JlTVY5VmI3RV9UaWIwQUtuWUlpWVNJSnM4Vk0zNXVvYlB1YU1oZmlxSm05RlE2djc0MVBCQVJkbk1HcTZuTW85cmlIem13S3ZHcWJWNXR4MDMzZjBPdHU2TWJoM18?oc=5",
-          "pub": "Thu, 27 Aug 2026 04:44:00 GMT",
-          "source": "Yahoo Finance"
+          "title": "Impinj and Broadcom Shares Skyrocket, What You Need To Know - StockStory",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaGdHdjJfSXhGQlIzcUtYT20wUUgtTGEtaklCNEI4R3lacmhCcmphSUQ2NWhWSUY1MVZ2cnJNMWdjV0F4aEYwWWhodHM2cnhWYzBvekN1WkliQ093MHJxRkdZdnVZY1dYeDk0UVFnTUNSVzRKbElha1RNTjFEQVRiT0xlUV8wM1JJRWxFcTVpVjdzdmEwcnZxZzNncTRoS2htS3ZYQWtWbThhSFdVRmFOMUl0TkZiM3VoUkE?oc=5",
+          "pub": "Thu, 27 Aug 2026 18:20:29 GMT",
+          "source": "StockStory"
         }
       ]
     },
     {
       "symbol": "AMD",
-      "price": 476.67,
-      "prev_close": 480.92999267578125,
+      "price": 473.17,
+      "prev_close": 476.6700134277344,
       "high_52w": 584.73,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -0.8857822844609126,
-      "drawdown_pct": 18.48032425221897,
+      "day_change_pct": -0.7342633958796275,
+      "drawdown_pct": 19.078891112137224,
       "name": "AMD",
       "news": [
         {
@@ -141,29 +141,29 @@
           "source": "Barron's"
         },
         {
+          "title": "What AMD Stock Was Telling You About Its AI Ramp - Trefis",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPb09BS2VhdjhodGh1azdpcTJVSlZLRi1Pb3U4MDBhbHBhNnplc294T0JiU0s0aWVZckY3WFZLN2FaNGJjMDMwZEZIQnc1Z1JmT1IwTFlXeTJSX1I2V1pZa3h1SkNJekt4aktGSUUxb3l3Y2RBa3V1V2xQVzBvRnI2ZlRPYzRLVEZuQmFnenFISER3YkxHdDB4ZGxFRmxsdnV5RmVLZ29zR3FXVzlDM3FJdTZwcHYtYU15?oc=5",
+          "pub": "Fri, 28 Aug 2026 11:32:09 GMT",
+          "source": "Trefis"
+        },
+        {
           "title": "Stocks making the biggest moves premarket: Dick's Sporting Goods, Advanced Micro Devices, Kura Oncology & more - CNBC",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWE9fbHl1eFNiaEN0cDZGQV9xYUVyN3JsSU12RHJjdTYyR3NXR0FRUzRiV3lBTWZOTmJXVXVYaWoyS2k5UTl2ZHEtN2l1bjFMbnF5MmNHOU1tb2F0QUthdXlrOHpUY2YwZWMyQjZEUVFncU9DOHRyY01LMXE5TXhzcllzdjZvTGEtcXZQQTd4UWRBNkQ2OFE?oc=5",
           "pub": "Tue, 25 Aug 2026 11:38:57 GMT",
           "source": "CNBC"
-        },
-        {
-          "title": "Advanced Micro Devices, Inc. $AMD Stock Position Raised by Elefante Mark B - MarketBeat",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNEE0RkM1S1Z2UUVKQ0REcGVJUVgwcUlRNFhZTkNUTVNDNE5UV0dFY1JFNnpjNEJIUjdHdV9oOXVxWXZYcWRSMWV1WV9OQm1VZEZmbXlmLWtWU2EyZWJGX0VsaVlESld5REtjX3FHTTBrY0RaNFJyNG00YUpiTGdNYlFTYXctMDdxV09DRV9lSUJhaGh4X0VheXlPbUdqd3V0U1RoTTcwdC1iN0hOMExRdEFrZC1tZ3VFRGtxLTRUd2VGYTE2cXVVTkhfWXA?oc=5",
-          "pub": "Fri, 28 Aug 2026 08:13:57 GMT",
-          "source": "MarketBeat"
         }
       ]
     },
     {
       "symbol": "RKLB",
-      "price": 67.53,
-      "prev_close": 66.18000030517578,
+      "price": 66.45,
+      "prev_close": 67.52999877929688,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 2.039890735265892,
-      "drawdown_pct": 55.27814569536423,
+      "day_change_pct": -1.5992874260616372,
+      "drawdown_pct": 55.99337748344371,
       "name": "Rocket Lab",
       "news": [
         {
@@ -179,29 +179,29 @@
           "source": "The Globe and Mail"
         },
         {
+          "title": "Rocket Lab Just Hit 93 Electron Launches. Is the Neutron Timeline Still the Stock's Biggest Risk? - Currently.com",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE51YWdvckppMkV1WVVyTGR1TExoZjFwOGR6ZFZDTUV6b1N6VFY3d0pDM1RUblBSVzZTSGNKYl9GYTZxX2RaNHdaYWxBVmVTRUJLTndYanJCT3FJc0ZGNVh3TEJBWXRDU1N4cFZnQl94ZUdZdS1WLWJXREw3WU9Udw?oc=5",
+          "pub": "Fri, 28 Aug 2026 13:05:00 GMT",
+          "source": "Currently.com"
+        },
+        {
           "title": "Rocket Lab Stock: Bull vs. Bear - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMkJjdWVZajc0UFNnYUpONDJaeFR5S1dhSlFXNkdKeWhfN19WVDdWTFIya3g5RTM1RTBhRnFTMXRIOVgxbGdQVFQ0bFg3NTAzenNWYnNLc2s3aTVKMDMyc1poeFlkQ1lSUGhoTlgwTGRPMFpLN3JUWUJWaFM2TkxLVWM3WEYzakxZMWUtbENzdDdvN3M?oc=5",
           "pub": "Thu, 27 Aug 2026 21:20:00 GMT",
           "source": "Yahoo Finance"
-        },
-        {
-          "title": "RKLB vs. PL: Which Space Stock Has the Stronger Investment Case? - TradingView",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQXo1TXMxSWJGQnh3SEF6eWdDd3pzMl9UeFA4cVVQYXR2S1FBVHhGdFJCTVRSal9LT210WExyUndUU1p5M3dtTTg3MW5odGx2QkJKRlVWWHVoVldQZnFaeVZxTUJPSXU5UGJvME1QdjhtY1FFTE1jRVU3VkNiM0ZwUHRvRGdDWW5PVVhjN00wZXdRZkgzaWI5T3BCbkVvN1hPTThjMlNySTgzZ1JMbUVtcjJxRGh5QklS?oc=5",
-          "pub": "Wed, 26 Aug 2026 14:36:00 GMT",
-          "source": "TradingView"
         }
       ]
     },
     {
       "symbol": "IREN",
-      "price": 40.53,
-      "prev_close": 39.58000183105469,
+      "price": 37.405,
+      "prev_close": 40.529998779296875,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": 2.400197385033822,
-      "drawdown_pct": 47.274621371335726,
+      "day_change_pct": -7.710335241591851,
+      "drawdown_pct": 51.339926286573224,
       "name": "IREN",
       "news": [
         {
@@ -232,14 +232,14 @@
     },
     {
       "symbol": "MILDEF.ST",
-      "price": 231.2,
+      "price": 230.9,
       "prev_close": 227.5,
       "high_52w": 238.0,
       "currency": "SEK",
       "yahoo_name": "Mildef Group AB",
       "exchange": "Stockholm",
-      "day_change_pct": 1.6263736263736215,
-      "drawdown_pct": 2.857142857142862,
+      "day_change_pct": 1.494505494505497,
+      "drawdown_pct": 2.983193277310922,
       "name": "MilDef Group",
       "news": [
         {
@@ -270,14 +270,14 @@
     },
     {
       "symbol": "IVSO.ST",
-      "price": 235.4,
+      "price": 233.4,
       "prev_close": 240.39999389648438,
       "high_52w": 344.0,
       "currency": "SEK",
       "yahoo_name": "INVISIO AB",
       "exchange": "Stockholm",
-      "day_change_pct": -2.0798644024247994,
-      "drawdown_pct": 31.569767441860463,
+      "day_change_pct": -2.9118111789547503,
+      "drawdown_pct": 32.151162790697676,
       "name": "Invisio",
       "news": [
         {
@@ -308,14 +308,14 @@
     },
     {
       "symbol": "NORBT.OL",
-      "price": 165.5,
+      "price": 165.4,
       "prev_close": 165.0,
       "high_52w": 244.8000030517578,
       "currency": "NOK",
       "yahoo_name": "NORBIT",
       "exchange": "Oslo",
-      "day_change_pct": 0.30303030303030304,
-      "drawdown_pct": 32.393791692474565,
+      "day_change_pct": 0.24242424242424584,
+      "drawdown_pct": 32.434641365167934,
       "name": "Norbit ASA",
       "news": [
         {
