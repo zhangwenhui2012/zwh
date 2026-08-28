@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-28T07:00:31.656248+00:00",
-  "updated_at_display": "2026-08-28 07:00 UTC",
+  "updated_at": "2026-08-28T07:30:25.841383+00:00",
+  "updated_at_display": "2026-08-28 07:30 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
@@ -33,10 +33,10 @@
           "source": "Barron's"
         },
         {
-          "title": "This Tiny AI Stock Has Crushed Micron and Nvidia This Year. Here's Why It Can Keep Going. - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRWF2RUJoVDdxdXlMLUJsS3dCdGJxVEVjdDFkMW1pZndFaGRjWnpibS1FeXhTUmExNjc0c1dfTVpHVThNTEgySWM4SWZUMVZCVG4teXQweHp4OG1NUU9BR01OSjNoUldWRGVFVS1PNkF1TDZvOTB5ZmFnVWFHVmJJU2F2OUJWMnFXLXN5TGU1eFM5eEVmRjVnRg?oc=5",
-          "pub": "Thu, 27 Aug 2026 13:55:00 GMT",
-          "source": "The Motley Fool"
+          "title": "Nvidia earnings preview: Jensen Huang under pressure after stock's 7-day losing streak - Axios",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBlWm81VklmRHd6Ry11TGYyN0NQQ3ZhVGtheE1mZzM2RDRYd3R1eHozREJiNDZRMTFlRm8zcldUQ1dMeVhkZHQ3bXdHMEl2VE8zamxhMHlicTRqRURNaEs5UVZveFg5T0JETUhfenowRjhyaU45cjZpZjFFRE0?oc=5",
+          "pub": "Thu, 27 Aug 2026 08:23:32 GMT",
+          "source": "Axios"
         }
       ]
     },
@@ -59,7 +59,7 @@
           "source": "MarketWatch"
         },
         {
-          "title": "Meta Stock Could Surge 50% On $22B AI Compute - Meta Platforms (NASDAQ:META) - Benzinga",
+          "title": "Evercore: META Could Surge Over 50% on $22B AI Opportunity - Benzinga",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdXRYTXhvSGg0NmRkcU9ua0FCVjlkWUhZNHRNT05KZ1daSGFDS1RkSm1ZVEpPNXJnVDV1Qk9oSmpzNUkyYXdIVFByZU1RNmVGMG5TUDhNTl8zNzJpV29qNldOc2dENFZDOURPODhRZ3IzRklBSV9tSFVFZnlDeDQtcDNPQlNWYUVzazdBZHdFcHV2MTlhSnp2SjhPLWRyMkgz?oc=5",
           "pub": "Tue, 25 Aug 2026 19:26:48 GMT",
           "source": "Benzinga"
@@ -71,9 +71,9 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "Jim Cramer says don't sell Meta on litigation risk — the stock is worth the wait - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQVhyNmk2M0Q1LWY4emNuUFpoTmNiYUpwaUJvMlJFQnNjd2pfdUhyYVJLRkdfNko3b2lqNEgzd0VZZHFEMXBfbk5LNFhkaUxaVlFiTmtXQXpicnhud3YxbTlOak1yMHVrSWdiTWl3aEVXWXE1Z0JoMmdSaE5CNjhvd19aRm5MVFZ4SDd1eHltd251QWU5S1J5WTVFeEJTc3hydWZpV3k0TlVVcDdjcW14LTAxbHg?oc=5",
-          "pub": "Mon, 24 Aug 2026 20:11:48 GMT",
+          "title": "Jim Cramer calls the Meta settlement a 'big break,' says the stock reaction is 'ridiculous' - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOalYxOHBsc1JfRkw3ZXpIUGdid0sxOHZZYWRJVnAtZTVkN21iblpUaEN3ZXBlZjZQdklyM2FPek12eGNESmxWMUg1WkpKRTE1WFQzNDdieDJWN2tSZU84ZU50eC1CTXVndld6WUFDdEY1RGpWeEswbHk1TjJLd3EyWTN6cWV4T29MZ1J6SWtHcVVsN1VlUEh3THhXMU1vV3ViWDJGZ3JpOGJNbzhjUWRSUw?oc=5",
+          "pub": "Wed, 26 Aug 2026 17:09:17 GMT",
           "source": "CNBC"
         }
       ]
@@ -232,14 +232,14 @@
     },
     {
       "symbol": "MILDEF.ST",
-      "price": 231.9,
+      "price": 233.0,
       "prev_close": 206.3000030517578,
       "high_52w": 238.0,
       "currency": "SEK",
       "yahoo_name": "Mildef Group AB",
       "exchange": "Stockholm",
-      "day_change_pct": 12.409111279469787,
-      "drawdown_pct": 2.563025210084031,
+      "day_change_pct": 12.942315343322381,
+      "drawdown_pct": 2.100840336134454,
       "name": "MilDef Group",
       "news": [
         {
@@ -270,14 +270,14 @@
     },
     {
       "symbol": "IVSO.ST",
-      "price": 241.8,
+      "price": 242.8,
       "prev_close": 231.39999389648438,
       "high_52w": 344.0,
       "currency": "SEK",
       "yahoo_name": "INVISIO AB",
       "exchange": "Stockholm",
-      "day_change_pct": 4.494384778665131,
-      "drawdown_pct": 29.709302325581394,
+      "day_change_pct": 4.926536907609156,
+      "drawdown_pct": 29.418604651162788,
       "name": "Invisio",
       "news": [
         {
@@ -287,9 +287,9 @@
           "source": "simplywall.st"
         },
         {
-          "title": "SB1 initiates coverage of Invisio with buy rating and target price of 315 kronor - marketscreener.com",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOeXB3OWxQbGx0bWNwOWtoUDQyRFY2NHByR0o4X21OS00xNFF2WEdGQTkyTXpTMjdEUzhfVjZmOHNndVBBaEpHYmFoNWJlZlE1b3REMHRrZ2ZYMGE1TnFOOW5NOVV2WU1nb1I2cEdRZHdGczRvR3lGMjVvaUZXMjI3djVuUHhlLV9abUU1Nng5WThvQjRNNzlSZl9iVE9SenZFZExKOWw5RHJ5dV9walN1QXhxMlJKWHZhWXlTYmtjTzJ1dEZkbVI3YVFZdHVCZw?oc=5",
-          "pub": "Thu, 27 Aug 2026 07:27:26 GMT",
+          "title": "SB1 Markets initiates coverage of Invisio with a buy rating and a target price of 315 kronor - marketscreener.com",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPY0RDUXNxX2xZRmg3aDVVQzRHaWw4bDlHLXQ2TlFlcnB3NjFHTXZlR0pmNTBFWjlHWTFxYWh0bWRmckJ3dEVxY3dVc1Z4LTdNaTZtZE0xWTN1d2pLSXZ6aGoxNE9nX2xkNnY0VW5vQkw0WVk1X09fMkpLMTB6NnpnbGJzSTJyOTZwNlJSSXRpNF8wcG5GMG40bG5BUlkyaUU0ZVhEQWR2ZURjTF95T29Nb2VJN3pLZ2xxY2d0Y1BZcFB1V05uOGNoNjgydFloTHRFSEJ1V0d1bkhKUlQ0bXc?oc=5",
+          "pub": "Thu, 27 Aug 2026 06:43:39 GMT",
           "source": "marketscreener.com"
         },
         {
@@ -308,14 +308,14 @@
     },
     {
       "symbol": "NORBT.OL",
-      "price": 165.0,
-      "prev_close": 164.60000610351562,
+      "price": 166.6,
+      "prev_close": 163.10000610351562,
       "high_52w": 244.8000030517578,
       "currency": "NOK",
       "yahoo_name": "NORBIT",
       "exchange": "Oslo",
-      "day_change_pct": 0.2430096486344126,
-      "drawdown_pct": 32.59804005594141,
+      "day_change_pct": 2.14591892428441,
+      "drawdown_pct": 31.94444529284751,
       "name": "Norbit ASA",
       "news": [
         {
