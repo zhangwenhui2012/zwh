@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-08-28T14:00:31.974263+00:00",
-  "updated_at_display": "2026-08-28 14:00 UTC",
+  "updated_at": "2026-08-28T14:30:27.571963+00:00",
+  "updated_at_display": "2026-08-28 14:30 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 225.507,
+      "price": 224.975,
       "prev_close": 227.97999572753906,
       "high_52w": 236.54,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -1.084742422091523,
-      "drawdown_pct": 4.664327386488538,
+      "day_change_pct": -1.3180962294298686,
+      "drawdown_pct": 4.889236492770778,
       "name": "NVIDIA",
       "news": [
         {
@@ -27,29 +27,29 @@
           "source": "Barron's"
         },
         {
-          "title": "Nvidia Will Be The Most Profitable Company In The U.S. Next Year - Investor's Business Daily",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaDh0MnRDWDRtMHFsM1FiZVpzVVZmckxLNnFPd2RoZWJBbUsxd2Nuei1jYWZORVh3Rmh4TVNoZ3RZZW53MG9PRUxvbW1jWUttUDE3Sm9RRGdNYkRvQzJsblJkWGJBMUxWbmlEVUY0MXdPUXp4U2txX2NPR25jQXpKVmlBelZUWm9wWU1YOWEzSG9MT2hDMEV2NUlPREgzRHVKMThvRU9mRl84RXB4c2pxRXdwMA?oc=5",
-          "pub": "Fri, 28 Aug 2026 11:18:00 GMT",
-          "source": "Investor's Business Daily"
+          "title": "US equity funds post biggest weekly outflow since March ahead of Nvidia earnings, Fed event - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYUFYNTEtUDFrRnNZTlc4WUVlNjlPX2NqYkQxRGVOalM0cDlYenZhSHFPQkVmcmxVMUdMeFVMXzZCSkxCczUyaWY0cTVlMHRaQlBidUxIVTVneEdxZXJGYmI0QW5xcktwVHI2NjVIV3lNSVEzNllpUnFqM1lscGx4OVJQWTkzbmZqUlhJZTZqU2Nwdnp1bFFiRHAzZ0c4bnpHcjVCeG1hM1VlVWRreXB4clZBTmtELTVqVUE5Tkx1TQ?oc=5",
+          "pub": "Fri, 28 Aug 2026 12:31:43 GMT",
+          "source": "Reuters"
         },
         {
-          "title": "Nvidia Just Made a $21 Billion Bet on SpaceX. Here's 1 Reason Jensen Huang Likes the Company. - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUVhGM1NzVE1NZDJGTkNDMGtOZ1d6MGpDT3lmZTRDNG5YV1ExTUdRNnUwZWNndUJCNFA4N2JDR1lUQUlIVWY5dnFEeV9VMGFFTmVqal9wMnBmcmhkU0FiNEZzNXRFekpfR0dDWlRQRXh2SlpSY2xUdjMzbjUtMDZlNmFLSFJzd0txZ19WSmRZeFpPdVFVMnpB?oc=5",
-          "pub": "Fri, 28 Aug 2026 11:01:00 GMT",
-          "source": "Yahoo Finance"
+          "title": "SharonAI stock falls 8% after Nvidia pauses revenue-sharing deals - Investing.com",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOT0Rrck1GUEduSy1SOWxmOGpRZFBBQTd6MFZpamh6czZobWw4QzNXRXVzV216YkJKWkdJZ0l4QVUtcEs3X1ZNYmNVa1BtWkJNTEhLVnpWUEpnbXNNOVFJQzZEQlZrNG92blQ1amswUUFzbnZ3NGRqODhOVmxVQ2lNNlpBZjFGQk9paWV4YmhlZktySU9TdzRSaGVhUjJHbUw2OTdnS3BCZkhCY2JJMkpBeXpocHN0ZmxIZWJkZjBXM2ZSVzg?oc=5",
+          "pub": "Fri, 28 Aug 2026 12:01:56 GMT",
+          "source": "Investing.com"
         }
       ]
     },
     {
       "symbol": "META",
-      "price": 581.5,
+      "price": 576.65,
       "prev_close": 571.0999755859375,
       "high_52w": 790.8,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 1.821051454851189,
-      "drawdown_pct": 26.466868993424374,
+      "day_change_pct": 0.9718131065175165,
+      "drawdown_pct": 27.080171977744055,
       "name": "Meta Platforms",
       "news": [
         {
@@ -80,14 +80,14 @@
     },
     {
       "symbol": "AVGO",
-      "price": 373.795,
+      "price": 371.925,
       "prev_close": 371.5400085449219,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 0.606930990799473,
-      "drawdown_pct": 24.485858585858583,
+      "day_change_pct": 0.10362045707699016,
+      "drawdown_pct": 24.86363636363636,
       "name": "Broadcom",
       "news": [
         {
@@ -118,14 +118,14 @@
     },
     {
       "symbol": "AMD",
-      "price": 475.465,
+      "price": 475.17,
       "prev_close": 476.6700134277344,
       "high_52w": 584.73,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -0.25279824486318064,
-      "drawdown_pct": 18.68640227113369,
+      "day_change_pct": -0.314685922226943,
+      "drawdown_pct": 18.736852906469654,
       "name": "AMD",
       "news": [
         {
@@ -156,14 +156,14 @@
     },
     {
       "symbol": "RKLB",
-      "price": 65.96,
+      "price": 65.354,
       "prev_close": 67.52999877929688,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -2.324890874688134,
-      "drawdown_pct": 56.31788079470199,
+      "day_change_pct": -3.2222698336016946,
+      "drawdown_pct": 56.71920529801324,
       "name": "Rocket Lab",
       "news": [
         {
@@ -173,41 +173,41 @@
           "source": "Investor's Business Daily"
         },
         {
-          "title": "Rocket Lab's HASTE Is Flying Hypersonic Missions for the Pentagon. Here's the Defense Business Hiding Inside a Space Stock. - The Globe and Mail",
-          "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQbjlsZWhFNS1vMENMVHZtLVlMbU5OQzhxQ1JHWFBFbGJDOF81TndjNm1fcTFOWUhSUTFIR0ZlN0cyVmtkWmZuZXdVbU4wWlJoTk1YeFJEMktLamwwYTI2Z3ZGdnE0a0JzVlBiZm1CdGlJNU5DV1hkUVFSUG9ibzczVDlTUTYwWjl1NVFKeWs4ZVdlX2hWM0d5TmNRMEw4Y2RyU1k1Y2tLcW5FWF9rRG5ValkyUEU1azMwc0ptRElSTkJqVWhGdGQyZUhjUzVfcy1zVXhCVVByNjhqeXN1ckM1QVRNcWhTeDZuSkhlWG5GNzcyUlVtZXE0TlpaMXNHYnlGUEFFX0sycHplTjdoenR6REtXcjdpTFhTRVRYRmp4ZTU5aDBrdHYtcU5hQXVPVGFsWlE?oc=5",
-          "pub": "Fri, 28 Aug 2026 10:21:16 GMT",
+          "title": "Rocket Lab Just Hit 93 Electron Launches. Is the Neutron Timeline Still the Stock's Biggest Risk? - The Globe and Mail",
+          "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOTTQtZC1WN2ptOGFOVzNXOVZkREQzcmN2c2RPU3RSRjNZcFhhVFFMb0tVY0JDN2JWWDlnNmxwaGQwcUNBTXA0cVNBb3dYUXY2VjZSRzRtdFRGd3ZZQkNYTUkxZDFVY3VMY2RxUGVvWGNDU3A1YVEyMHRmTk5NYmZFS3RVRVNYSWFJQWhJaVJBQ2IwU1V3NVQzVy1yX0JKTU53ejAwWHduZWo0UTJxSm4zRGdLWEJ6eDBKRHd2NEZBX0pWNnU0dno3a1ZmSkhXOEhwUkZPZ282b0RZVGNRTnVMYU5nYTJLQko1UHRjUnZ0aXpRUmJvWDhBY0ZWM00yUTViRXRPU1FiRHEyeTNaVV8w?oc=5",
+          "pub": "Fri, 28 Aug 2026 13:17:23 GMT",
           "source": "The Globe and Mail"
-        },
-        {
-          "title": "Rocket Lab Just Hit 93 Electron Launches. Is the Neutron Timeline Still the Stock's Biggest Risk? - Currently.com",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE51YWdvckppMkV1WVVyTGR1TExoZjFwOGR6ZFZDTUV6b1N6VFY3d0pDM1RUblBSVzZTSGNKYl9GYTZxX2RaNHdaYWxBVmVTRUJLTndYanJCT3FJc0ZGNVh3TEJBWXRDU1N4cFZnQl94ZUdZdS1WLWJXREw3WU9Udw?oc=5",
-          "pub": "Fri, 28 Aug 2026 13:05:00 GMT",
-          "source": "Currently.com"
         },
         {
           "title": "Rocket Lab Stock: Bull vs. Bear - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMkJjdWVZajc0UFNnYUpONDJaeFR5S1dhSlFXNkdKeWhfN19WVDdWTFIya3g5RTM1RTBhRnFTMXRIOVgxbGdQVFQ0bFg3NTAzenNWYnNLc2s3aTVKMDMyc1poeFlkQ1lSUGhoTlgwTGRPMFpLN3JUWUJWaFM2TkxLVWM3WEYzakxZMWUtbENzdDdvN3M?oc=5",
           "pub": "Thu, 27 Aug 2026 21:20:00 GMT",
           "source": "Yahoo Finance"
+        },
+        {
+          "title": "Is RKLB Stock A Buy Or A High-Beta Trap? - Trefis",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdTEzZXBMNGlIc1c5QVBJcDlZTEx2WjZkQzk3RUlldEtwUzlGbG1uekxPcVlPcVFoZHBldzJIbklReHd3b3J2NDF3MEhOTi00QWpvUG5qbWxlOU01VG5GWktFdGpkMGZFYW1OTG10bXFxczJONUxCN0NyY3E4SFBzOEJzb25LYjhKdUUyejBGRE1wdHNtbzcxcmtkQnNLSmJzdFE?oc=5",
+          "pub": "Thu, 27 Aug 2026 16:38:39 GMT",
+          "source": "Trefis"
         }
       ]
     },
     {
       "symbol": "IREN",
-      "price": 37.72,
+      "price": 36.97,
       "prev_close": 40.529998779296875,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": -6.933133145644829,
-      "drawdown_pct": 50.93014355111729,
+      "day_change_pct": -8.783614326471085,
+      "drawdown_pct": 51.90581673077429,
       "name": "IREN",
       "news": [
         {
-          "title": "IREN Stock Falls 8% After Q4 Miss; AI Cloud Shift Gains Momentum - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTGp1R0xjTWdadWw2YzU0Vng1MTlCeEh0UEo0aXdGQUNDNE1Jc2lxMmdyLXBrZTB1S0dTaVUxdG44QzE5RFgyNUF3Y2FaZk5KVDRWeGdpM1Z6Zl9tTTQ3WTZmS0QwdGhXZTM1QUtTRC1aM1VvRmM0Z3hrbkRSbnJKVG80RHNYWm1BdzZuZEhfYw?oc=5",
-          "pub": "Fri, 28 Aug 2026 03:19:00 GMT",
+          "title": "IREN Limited (IREN) Reports Q4 Loss, Beats Revenue Estimates - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWlo4T1Nad3lJUnBUX2dTUjhVcVVQMUg4aTJNTUNmMTVNazhUYVdQQUtWY2FqNGl4bVVPUWo0NnE4VDZCVjFBT0hvcTVkdFl2MG1kYWtvSGhrTVhaNDZOUjZSenA3bEZURnFyekFIRFBCdEZCQjdMZldUZ3JRRGJNNG9RRHU3dzQ5NWlWUWhqY1JmRUxZVFRHQg?oc=5",
+          "pub": "Thu, 27 Aug 2026 21:55:01 GMT",
           "source": "Yahoo Finance"
         },
         {
@@ -217,29 +217,29 @@
           "source": "Investor's Business Daily"
         },
         {
-          "title": "IREN Stock Plunges on $639 Million Impairment Charge - TradingView",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYV9zTndlZXZzMWlOeHdzV0tfazdsWTFLRWJOZ0E0VFdvdmVIdW5XVkdSWGhnOWY3WnhwcUE1YWhMNE5OaldsUm9HUGx3a3BCaWx2N2ExbFVpdEJCRTQzRnR2UlhFZ1NyQkZoay04bXB4cU95T2J5SUtvRC12RkFDVDdXcUpVTHN5TkpFa2h5Y3NJRHZLX256ZjBkWlRUS3RhU2NBUkRGWXRZcEhFaEduTQ?oc=5",
-          "pub": "Fri, 28 Aug 2026 12:09:38 GMT",
-          "source": "TradingView"
+          "title": "Compass Point cuts IREN stock price target on 2027 capacity ramp timing - Investing.com",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPLVlJWWJ2bXhrdWRmVTBzdmRCWHNRTzA2UHZtb2FxazF4clFfdWVmU3hFMGNwdVQ5bktVOWRxUEtXZGZJaUh0QURmd1UwOWk2R2hvU19oWVVQaVd0a1pvZUN5bnFxSkFLaHdJdmU1ZjhhM1BzbGpQU0drd3FUYjdMRVlMazF2NmZsb2FnUWFGaVljWFJYalJsVGhoaXo5Wl9RX0VfX2hIaXVLSmI3LU1YcXhhNmktbmwzTE9seXVhNFI3bjAxdGs3RlNpbw?oc=5",
+          "pub": "Fri, 28 Aug 2026 13:28:57 GMT",
+          "source": "Investing.com"
         },
         {
-          "title": "Why Is IREN Stock Sliding 8% In Overnight Trading? - Stocktwits",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOT1l2a0NTRDV2YkQzUy1CVnBRWW9NOHNzekJjMTg0akplWktzMldid1JJcGZRX2FxSjJqUERZMmRZRlAyci1KMmhGM0NXZW9nemNMUFFKZ3RYT3dZc3Zvclp0MTl4MjRZSENwaVMwWXZwaE5Gb012aUdlY1lERHZQdy1qdnlSUjRlcFdLaGdzdldZQjhBN0Z4cWVnNFhOMlFXSklHZ1FnYmpaTlBQb3Qtc2lKWm0zanhibU9QMlF0LWhUaFJW?oc=5",
-          "pub": "Fri, 28 Aug 2026 03:24:04 GMT",
+          "title": "Nasdaq Futures Sink While S&P 500, Dow Futures Gain Ahead Of Fed Chief Warsh’s Jackson Hole Speech: PYPL, MRVL, IREN, AFRM Stocks In Focus - Stocktwits",
+          "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPR1A5UXNZSGhTV1JwZmllQ1J2SWhVVktMZjlIM0IxaUhpM3dieFhmZVJpa2Vxa0ZFUGNxQ2thZm51TzVwb1ZkNlVDdWY1SmozQWx3VmZBUk1xaDNyVk5ZbEVaNHhIalBMX21FMENmeVZTbWg2dThsTTlDUU5tZkpyTl9pRFZydkxJR1R3Z2IxamxxUDl4R21EMnVJQk1KS0J2ZVFwc1FJdUhQdzZsRUtyakNidzdFZXp0OThLVlhLNVp6UnBiTkxBS3ZYYWp0bk1sX1JHWXE0WUdyTlh4aGc2YXhzZVZXUGprZ2JoR3RxVGhYMVdsZE55aWZwOV80SDBiN183UXRKWUl5Sm5meU9QN3F2N1RvRUUxQVRxQU0yaWJGYW1JVTc1LQ?oc=5",
+          "pub": "Fri, 28 Aug 2026 04:08:00 GMT",
           "source": "Stocktwits"
         }
       ]
     },
     {
       "symbol": "MILDEF.ST",
-      "price": 230.0,
+      "price": 230.9,
       "prev_close": 227.5,
       "high_52w": 238.0,
       "currency": "SEK",
       "yahoo_name": "Mildef Group AB",
       "exchange": "Stockholm",
-      "day_change_pct": 1.098901098901099,
-      "drawdown_pct": 3.361344537815126,
+      "day_change_pct": 1.494505494505497,
+      "drawdown_pct": 2.983193277310922,
       "name": "MilDef Group",
       "news": [
         {
@@ -270,14 +270,14 @@
     },
     {
       "symbol": "IVSO.ST",
-      "price": 235.0,
+      "price": 234.8,
       "prev_close": 240.39999389648438,
       "high_52w": 344.0,
       "currency": "SEK",
       "yahoo_name": "INVISIO AB",
       "exchange": "Stockholm",
-      "day_change_pct": -2.246253757730792,
-      "drawdown_pct": 31.686046511627907,
+      "day_change_pct": -2.3294484353837825,
+      "drawdown_pct": 31.744186046511626,
       "name": "Invisio",
       "news": [
         {
@@ -308,14 +308,14 @@
     },
     {
       "symbol": "NORBT.OL",
-      "price": 165.1,
+      "price": 165.0,
       "prev_close": 165.0,
       "high_52w": 244.8000030517578,
       "currency": "NOK",
       "yahoo_name": "NORBIT",
       "exchange": "Oslo",
-      "day_change_pct": 0.06060606060605716,
-      "drawdown_pct": 32.55719038324805,
+      "day_change_pct": 0.0,
+      "drawdown_pct": 32.59804005594141,
       "name": "Norbit ASA",
       "news": [
         {
