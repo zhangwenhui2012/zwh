@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-08-28T19:00:35.500349+00:00",
-  "updated_at_display": "2026-08-28 19:00 UTC",
+  "updated_at": "2026-08-28T19:08:52.369355+00:00",
+  "updated_at_display": "2026-08-28 19:08 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 217.365,
+      "price": 217.305,
       "prev_close": 227.97999572753906,
       "high_52w": 236.54,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -4.656108398311021,
-      "drawdown_pct": 8.106451340153878,
+      "day_change_pct": -4.682426496883015,
+      "drawdown_pct": 8.131817028832327,
       "name": "NVIDIA",
       "news": [
         {
@@ -42,14 +42,14 @@
     },
     {
       "symbol": "META",
-      "price": 574.213,
+      "price": 577.015,
       "prev_close": 571.0999755859375,
       "high_52w": 790.8,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 0.5450927240661432,
-      "drawdown_pct": 27.388340920586746,
+      "day_change_pct": 1.0357248585055159,
+      "drawdown_pct": 27.034016186140615,
       "name": "Meta Platforms",
       "news": [
         {
@@ -59,9 +59,9 @@
           "source": "Benzinga"
         },
         {
-          "title": "Meta Platforms Almost Slashed 60% of Jobs in AI Push. What Comes Next for META Stock. - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcnprUHljSTRSYmkySG9mVkZMT1hBRjZ5cE5lV3lfSnN6M0doZUNCMEZzNHV3U0dHdDM1dU1mRkVZUU4yLVBWamIzVWZYSkhSVFdJUTlXajc0Z01ZMmxwNTBXeXZMMG9jTHU3ZUdycVBuc2dwRDRtV2p6NW5WeUVvdDhVaTNWYXhULW1zYzMzSURRZ3NZYlVIaENWejFtQQ?oc=5",
-          "pub": "Wed, 26 Aug 2026 21:03:16 GMT",
+          "title": "Jim Cramer Was Left Surprised By Movement In Meta Platforms, Inc. (NASDAQ:META)’s Shares - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSTVEbEdLdjJVT1I1Y1hBcGpoWHJrbHRaS1czUm41cWh1aFphY2EzUnl6cWNBem42eDdOV3lUWlZaRHZhN0pobFIxS3FEODNJQTZHckxjRWp6cDBYcXU0LWQzeDFjX3VKWUdMSlNrNUxHMENxLVJicTUyUk1zWWx4by1kNHVScTBVN1JWUVh0Y3ZNT1k4R01KUFFITTVQYVh3?oc=5",
+          "pub": "Fri, 28 Aug 2026 09:11:19 GMT",
           "source": "Yahoo Finance"
         },
         {
@@ -80,14 +80,14 @@
     },
     {
       "symbol": "AVGO",
-      "price": 367.085,
+      "price": 367.595,
       "prev_close": 371.5400085449219,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -1.1990656302047356,
-      "drawdown_pct": 25.84141414141414,
+      "day_change_pct": -1.0617991210076823,
+      "drawdown_pct": 25.738383838383832,
       "name": "Broadcom",
       "news": [
         {
@@ -118,14 +118,14 @@
     },
     {
       "symbol": "AMD",
-      "price": 468.815,
+      "price": 468.945,
       "prev_close": 476.6700134277344,
       "high_52w": 584.73,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -1.647893344758352,
-      "drawdown_pct": 19.82367930497837,
+      "day_change_pct": -1.6206208089709284,
+      "drawdown_pct": 19.80144682160998,
       "name": "AMD",
       "news": [
         {
@@ -156,14 +156,14 @@
     },
     {
       "symbol": "RKLB",
-      "price": 63.76,
+      "price": 64.12,
       "prev_close": 67.52999877929688,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -5.582702276684582,
-      "drawdown_pct": 57.7748344370861,
+      "day_change_pct": -5.049605865448789,
+      "drawdown_pct": 57.5364238410596,
       "name": "Rocket Lab",
       "news": [
         {
@@ -194,14 +194,14 @@
     },
     {
       "symbol": "IREN",
-      "price": 35.035,
+      "price": 35.143,
       "prev_close": 40.529998779296875,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": -13.55785577300283,
-      "drawdown_pct": 54.42305353428936,
+      "day_change_pct": -13.29138648296384,
+      "drawdown_pct": 54.28255659641874,
       "name": "IREN",
       "news": [
         {
@@ -255,16 +255,16 @@
           "source": "TradingView"
         },
         {
-          "title": "Mildef Group Surges 80% on Military Computing Contracts - Briefs Finance",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQ2VsWUpoeFNScG1kM0wtNFhWYlRXVmMxMGxzSTVMZmE2M2Q5YUN2ZmZnVHhBU3JTNjRTR3RNQ2tlWkpuM2pUaTRXcVhKbVp6ZDk1dkR5aTRoZmZRY25RMWVkV3lzWEd2UGlndzZLRTk0NjFCMF9sNEJzTjk5VS1HYlJzYnJrSHI3RFpuYkc3bXc0UQ?oc=5",
-          "pub": "Fri, 21 Aug 2026 17:43:56 GMT",
-          "source": "Briefs Finance"
-        },
-        {
           "title": "Earnings call transcript: Mildef posts strong Q2 2026 growth, shares slip - Investing.com",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNGFTODUwbXhPdy1abF9UdjM5d2h2blUxMzJXeWwxdWhuSkZ1eDBaUnF4MVk2cWlxQjJpU0s4eGN2UnMtMWNBZjV5T19HeVd3c2ZlZGUzX2kyZ2dWRjF1NGFvQ0trYVJFSVNyMlg0YUhEcnc3Sk9LSk0zd3ZhMFJ0M3drZkdGT1BIall4ZzRVTlVjLU1VVjRXWXZkSzBGTEVoZ2luLTNwZWJCR2FuUmZuXzB6TDR4VTd4SmYtRWdiNFVtdDVrc3c?oc=5",
           "pub": "Thu, 16 Jul 2026 07:00:00 GMT",
           "source": "Investing.com"
+        },
+        {
+          "title": "Mirabella Financial Services Returns as a Public Short Seller in Mildef - marketscreener.com",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOU2F5aDFIaE1KbWV5UVR5cnR5WXppV2EycXZNSmxiSkE1Vmx2V0MtWVNGTkxKbGdqcTdPLWFMczhxYjlNZ2N0eGg4a1dDRmp5dklKQXZ5N0k1WUM1dlA5MFZDa1RqbE9VQ21DY3ZVVWVDVXBVQnN2WTcxOWlIUm91OTBoN283cjBqaFc3TDBvRFc1aHdKSF9neTNESDJyeFQwRFY2M2p0cXFRaGZyUF9SNXNhQ0NqOG1VT1JoWTk2VFQzUQ?oc=5",
+          "pub": "Wed, 19 Aug 2026 11:48:25 GMT",
+          "source": "marketscreener.com"
         }
       ]
     },
@@ -282,8 +282,8 @@
       "news": [
         {
           "title": "Invisio (OM:IVSO) Wins Canadian Armed Forces Deal, Is The Stock Still Undervalued? - simplywall.st",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxObHpIdlQ1azRQTEVLOXNJd0JGQlFicTNuNkM2N0FIc2c2TWJqM2tmQmx3WWg2ZERNeVZEQk5tTkhxSzdmOEtQYmNWWXoySWtMcmgyRFk0c1kwZmdFaDZ0VjIydWNMMko3UGs3d0tKU19UYzdRUVRNd1VPblhCRlBIY0FXWHRzT0d0SlJsZE5wX1A5cW11T0NwTVl5LVdvQ0VLQ3RCQ3lhVEhDSUdTQ2V2WS1raF9wSFNuOG9taFBBdURZV0ZjZDR3d2h4TzZSLWJEVzFMONIB1AFBVV95cUxObHpIdlQ1azRQTEVLOXNJd0JGQlFicTNuNkM2N0FIc2c2TWJqM2tmQmx3WWg2ZERNeVZEQk5tTkhxSzdmOEtQYmNWWXoySWtMcmgyRFk0c1kwZmdFaDZ0VjIydWNMMko3UGs3d0tKU19UYzdRUVRNd1VPblhCRlBIY0FXWHRzT0d0SlJsZE5wX1A5cW11T0NwTVl5LVdvQ0VLQ3RCQ3lhVEhDSUdTQ2V2WS1raF9wSFNuOG9taFBBdURZV0ZjZDR3d2h4TzZSLWJEVzFMOA?oc=5",
-          "pub": "Fri, 28 Aug 2026 04:51:21 GMT",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOaGxPWk1yMFhvWDltTDYteXphN08zdnM5Y1ZZT2U2MlliYloyQUVSMnFlWjNRX2IxQTNEcGJaR1hNM1hIanB0dFd2Wl9CdjNELTkyZU11VlNxZk1Qa21XMFVaUEtUZW94VU1kY1ZQN2JNNUtfNDYwaGpUS1Q1Z1J3N3pYYjhaZS1Ca0lvdWFHb3gzREZIdUZ0T2dFb0NTLV9OTjRTeUZEVHlVRFBUZ3FoMVNINTFFdjFzaG9hazJ5Wi14STR4VmE5ejhjNHJ5V03SAdQBQVVfeXFMTmx6SHZUNWs0UExFSzlzSXdCRkJRYnEzbjZDNjdBSHNnNk1iajNrZkJsd1loNmRETXlWREJObU5IcUs3ZjhLUGJjVll6MklrTHJoMkRZNHNZMGZnRWg2dFYyMnVjTDJKN1BrN3dLSlNfVGM3UVFUTXdVT25YQkZQSGNBV1h0c09HdEpSbGROcF9QOXFtdU9DcE1ZeS1Xb0NFS0N0QkN5YVRIQ0lHU0Nldlkta2hfcEhTbjhvbWhQQXVEWVdGY2Q0d3doeE82Ui1iRFcxTDg?oc=5",
+          "pub": "Fri, 28 Aug 2026 04:51:19 GMT",
           "source": "simplywall.st"
         },
         {
