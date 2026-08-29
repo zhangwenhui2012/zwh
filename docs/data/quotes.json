@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-08-29T14:30:27.757258+00:00",
-  "updated_at_display": "2026-08-29 14:30 UTC",
+  "updated_at": "2026-08-29T15:00:34.598739+00:00",
+  "updated_at_display": "2026-08-29 15:00 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
       "price": 217.55,
-      "prev_close": 209.66000366210938,
+      "prev_close": 227.97999572753906,
       "high_52w": 236.54,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 3.7632339025455,
+      "day_change_pct": -4.574960927714041,
       "drawdown_pct": 8.028240466728665,
       "name": "NVIDIA",
       "news": [
@@ -27,28 +27,28 @@
           "source": "Investor's Business Daily"
         },
         {
-          "title": "How Likely Is It That Shiba Inu Outperforms Nvidia Stock in 5 Years? Here's What History Tells Us. - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTXlJdENrb3JuWW9GeDdQYkJXVnZfdU40SlBucS1zVWZ4MkJnanBHcWpuSndQOU1FVEw5dno1U0FsZzc3dmJrdzBDZFIxMG1ON1BPWFBaQlJ3RzQ3UEk5Y25TdUl3MDJNY2kxRTFRT0xqNUNLUkd6emdWNWRkc1lJZnM4bW9iQUJ4d3YtM0xucy1QRl90S1JiRzI5ellzbGd5MUE?oc=5",
-          "pub": "Sat, 29 Aug 2026 10:50:00 GMT",
-          "source": "Yahoo Finance"
-        },
-        {
           "title": "The Stock Market Got What It Needed From Nvidia and Warsh. Here’s What Comes Next. - Barron's",
           "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5XWmlCTGQ1cTFMZUx5M2tsVWZuekt2eG9OaENYNkZkRmk2a3JZVmtfVVVpeDJUREU1MHVlTnUzXzRaNFBJbjZ6X2hpbWNHcVp5MG5JbXY0Y1FLWXBLT0VBSTg2WlRmN1RjVmM0bWxzaDR2aEpTMTJidl91UQ?oc=5",
           "pub": "Fri, 28 Aug 2026 20:50:00 GMT",
           "source": "Barron's"
+        },
+        {
+          "title": "Nvidia could hit a $13 trillion market cap, analyst says - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSEE2cno1eHgtUVc1OXhlbnlEb1lXREdLLXRwbS1Jek1TTHZ3REtyLUFiLW4xQmVtVWl2LXl1c1ZtelQ4VTJHeHZsTzVILUlaMm9STW1yaTRvQm0wbjQ1Qi1wNV9lZE1CalBtXzdaTXJvaFgtSmd1b1dpQ0VPNTlWODRYUGV1SG1leVhwRmxycThIWjV0Y1NpaDZpamwxQjNBbXBEMk8xRVllVWwtTC1nbW50U1k1Q0g1VHc?oc=5",
+          "pub": "Fri, 28 Aug 2026 09:38:49 GMT",
+          "source": "Yahoo Finance"
         }
       ]
     },
     {
       "symbol": "META",
       "price": 578.02,
-      "prev_close": 576.1400146484375,
+      "prev_close": 571.0999755859375,
       "high_52w": 790.8,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 0.3263070267232966,
+      "day_change_pct": 1.2117010523354814,
       "drawdown_pct": 26.90692969145169,
       "name": "Meta Platforms",
       "news": [
@@ -81,12 +81,12 @@
     {
       "symbol": "AVGO",
       "price": 368.79,
-      "prev_close": 355.5899963378906,
+      "prev_close": 371.5400085449219,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 3.7121414544987417,
+      "day_change_pct": -0.740164849457756,
       "drawdown_pct": 25.49696969696969,
       "name": "Broadcom",
       "news": [
@@ -119,12 +119,12 @@
     {
       "symbol": "AMD",
       "price": 465.58,
-      "prev_close": 480.92999267578125,
+      "prev_close": 476.6700134277344,
       "high_52w": 584.73,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -3.191731210269819,
+      "day_change_pct": -2.326559908391572,
       "drawdown_pct": 20.37692610264567,
       "name": "AMD",
       "news": [
@@ -135,9 +135,9 @@
           "source": "Barron's"
         },
         {
-          "title": "Why Is AMD Stock Sliding on Friday? - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMkhpLWo4Tkc4V1Q0MTlJZUVIWDZleG92R0czanZ0SHVEbUtfdjVDX001RDR2WmFUZ2dWOXpzTkx2ZUVaLThSRXh6TDdiREdpN1VuMFZoeWloY3h2VEdKb3MtRHBQUW1YNnFkbzZ2TkR3dHdzaGhtMDFNM2dIaURDV3UwVlQ0OF9oaXczaEJYaEFieTVMMnZyZQ?oc=5",
-          "pub": "Fri, 28 Aug 2026 16:04:38 GMT",
+          "title": "Broadcom vs. AMD: Which AI Chip Stock Has the Better Risk-Reward? - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPX29GbTVWRVpKZ2d1WFJLVS1JTHBNMHd5Sng3V2xBei1iTktpRGtSdjh2cWZnUnIyektIMEZYbi0xRXl5LS1WVkp2VWRyLXplTHpQX3BQYW9pQzYtLXJsMUpIN0otNlh3andlc0RvX21WbVY0TEFKTTR2WVdaVDdZRy1rUmswOTNNTmdWcmJ5TFQ?oc=5",
+          "pub": "Fri, 28 Aug 2026 19:00:00 GMT",
           "source": "Yahoo Finance"
         },
         {
@@ -157,12 +157,12 @@
     {
       "symbol": "RKLB",
       "price": 64.39,
-      "prev_close": 66.18000030517578,
+      "prev_close": 67.52999877929688,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -2.7047450844991747,
+      "day_change_pct": -4.649783557021958,
       "drawdown_pct": 57.35761589403974,
       "name": "Rocket Lab",
       "news": [
@@ -179,28 +179,28 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "Is RKLB Stock A Buy Or A High-Beta Trap? - Trefis",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdTEzZXBMNGlIc1c5QVBJcDlZTEx2WjZkQzk3RUlldEtwUzlGbG1uekxPcVlPcVFoZHBldzJIbklReHd3b3J2NDF3MEhOTi00QWpvUG5qbWxlOU01VG5GWktFdGpkMGZFYW1OTG10bXFxczJONUxCN0NyY3E4SFBzOEJzb25LYjhKdUUyejBGRE1wdHNtbzcxcmtkQnNLSmJzdFE?oc=5",
-          "pub": "Thu, 27 Aug 2026 16:38:39 GMT",
-          "source": "Trefis"
-        },
-        {
           "title": "Here's Why Rocket Lab Corporation (RKLB) Could be Great Choice for a Bottom Fisher - Zacks Investment Research",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxON0R0enFJMDVCa2tYaWRrbkpNdUpkaE5JUTNZaE5NVFVyeDQzYkxseDkzNFdzSHVib2ZPQ2ROTzBwOGtDbFo2N3FWbkxnR0pMbng2N2xySmVJRjBqcW5hUG5ZVmZGdEZrVXRWVUJ6eUd5UWlDN044Z2Jjbkp2OE9jeFBjVl9mdFhacFdmZ2FQbS1rM2d2RkYyZGNPS1VDQzYxX29fT3dxV3lVZWZJZmJUZTZXUVk0anBKMV9YMA?oc=5",
           "pub": "Fri, 28 Aug 2026 13:03:30 GMT",
           "source": "Zacks Investment Research"
+        },
+        {
+          "title": "Is RKLB Stock A Buy Or A High-Beta Trap? - Trefis",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdTEzZXBMNGlIc1c5QVBJcDlZTEx2WjZkQzk3RUlldEtwUzlGbG1uekxPcVlPcVFoZHBldzJIbklReHd3b3J2NDF3MEhOTi00QWpvUG5qbWxlOU01VG5GWktFdGpkMGZFYW1OTG10bXFxczJONUxCN0NyY3E4SFBzOEJzb25LYjhKdUUyejBGRE1wdHNtbzcxcmtkQnNLSmJzdFE?oc=5",
+          "pub": "Thu, 27 Aug 2026 16:38:39 GMT",
+          "source": "Trefis"
         }
       ]
     },
     {
       "symbol": "IREN",
       "price": 35.45,
-      "prev_close": 39.58000183105469,
+      "prev_close": 40.529998779296875,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": -10.434567054047639,
+      "day_change_pct": -12.53392285294562,
       "drawdown_pct": 53.883181041545804,
       "name": "IREN",
       "news": [
@@ -337,10 +337,10 @@
           "source": "Seeking Alpha"
         },
         {
-          "title": "Why Norbit (OB:NORBT) Is Down 6.2% After Raising 2026 Revenue And Margin Guidance And What's Next - simplywall.st",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQXRyakN4eGxwckVQOWN3YkZFYVFPUFl4R1Foc2xvZUpja1JQU3FmLWZMYXd2Uy1oMGFnT183VFZPRnkyUnFOcjZ2RlloMmpzVVoxX21PUEJ1UVRBR1J2aGdhOGd3N2VHN2tJbU9hcExla2JRbDJIdHZVOVU5a1hFZ0lheDJud0FsYTFOUEZqZVJvQU5JeG5lMzBHMEQxcGRqQzNScEVPMTFFTkRjZjIzYTJNblRpUVZRX1hLUnVZcll6UlnSAcgBQVVfeXFMUEdVdk1JOGpUa1pmZ2RpR2UwbUIzbWZXM21pR3BfdUdqRHM5aVFhLUYxLUtya1Bhd2lHT3pBY25JN2FIZzE2UnZyaDE1YlN6VUZkNkhrRlFTVVhvSFpiRzNiS0pXOWlmd0hyYXRwTEc0MTVySE5Ta2pkY1BtcFN0RVFxNVB4cl9JUm9veUZfSmdFZmZLeVdCZ0Z0YlNxTUU4OUFrdndKbGhXWE42c0R1RU1sZmhUNDVDbjVTalFEQ3Nzem9OSkU3elQ?oc=5",
-          "pub": "Sun, 23 Aug 2026 11:37:07 GMT",
-          "source": "simplywall.st"
+          "title": "Norbit Asa Provides Earnings Guidance for the Year 2026 and 2030 - marketscreener.com",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSEVVZlZiNV9keHdzc3Bvc3BvQUlBdjVhbU00ZDlaaU1HbW54N3lKN2h4eDMxTGlXYUsyWFZ4TkJBNXFOQUVCNkNyWWVxc21qM2ZDRnZ0NXoxTTFlODlnVEgzNlhOaWFXSnI2NWxWakRoQ0EybFgyUDZHaUJ1VVVXQXBHQk1vdmcwcUZHWXhXVVFaUjlwMlVkT3ZIZHRybUVDbWwwM2pFUHhON0RILXBkeU9tZFdHNXE2?oc=5",
+          "pub": "Thu, 13 Aug 2026 05:00:00 GMT",
+          "source": "marketscreener.com"
         }
       ]
     }
