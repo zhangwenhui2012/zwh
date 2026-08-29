@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-08-29T18:30:29.547893+00:00",
-  "updated_at_display": "2026-08-29 18:30 UTC",
+  "updated_at": "2026-08-29T19:00:32.590242+00:00",
+  "updated_at_display": "2026-08-29 19:00 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
       "price": 217.55,
-      "prev_close": 227.97999572753906,
+      "prev_close": 209.66000366210938,
       "high_52w": 236.54,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -4.574960927714041,
+      "day_change_pct": 3.7632339025455,
       "drawdown_pct": 8.028240466728665,
       "name": "NVIDIA",
       "news": [
@@ -43,12 +43,12 @@
     {
       "symbol": "META",
       "price": 578.02,
-      "prev_close": 571.0999755859375,
+      "prev_close": 576.1400146484375,
       "high_52w": 790.8,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 1.2117010523354814,
+      "day_change_pct": 0.3263070267232966,
       "drawdown_pct": 26.90692969145169,
       "name": "Meta Platforms",
       "news": [
@@ -59,34 +59,34 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "Meta’s AI Gamble Gets Bigger After the Company Considered Slashing Teams Again. What That Means for META Stock - Barchart.com",
-          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQR0djZ2R1QlhfNXRXVFZybWctc0VneC1BOEVvZzFxdHdmdkZ5VEtpc0pOVU4yNjliOEw3cnoxWGxuOW1fYWZINEJ4Z3dQTURoT0Rfd3E2dk45dzJRSFN4a2xfcnZ5YWhpenpBeTFUR3kwV2V3UXpTVHpWTEgzVnBSZHAzT0t4dXJVUDVDYmxQZHVLRkVTWWprUlhSVjZET2FuZkpCM2hmbzBRRVdSRTU5OFU2N1ZmRW5OZUdvQ2RYY1g3OG44UEQxOWVDdXhYdGFCd1d6UVBCcVNUSHU3VFo4eUxxTmhNQ2s?oc=5",
-          "pub": "Fri, 28 Aug 2026 19:04:44 GMT",
-          "source": "Barchart.com"
-        },
-        {
-          "title": "Meta: Disappointing Settlement, But Cost Of Doing Business (NASDAQ:META) - Seeking Alpha",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdV9KNy1vM2x3QlRNY1htVU5CQmIyMUE1SWRYMjZqSlAxQlgySVFsQ2tWTUtXY3cydEFWUjZNSENhU0ZiYzZYWFlSeEIzTVAwejhpTTNSVVh6ME9jTE5ra1NwZVhLaXJIcXQ2X2tCOWlCejh4OU5MNlU3SUVaNy1HYUVfc3JEWmUtdDhpU1NUdkFwRXduTVZ5SQ?oc=5",
-          "pub": "Fri, 28 Aug 2026 00:00:00 GMT",
-          "source": "Seeking Alpha"
-        },
-        {
           "title": "Massive News for Meta Stock Investors - The Motley Fool",
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObVRGYTdWM2V1bDhIanlfVnk2Vk5raWVkQU5XMkJHZ1Z1U3hUMXE5cWFnVTNXQ3ozNjE3bzA4c2kzUXNKR2lZcDNzOE02UlhGenZPLVJ3ZTd5TEluWmJyNE03NlBDVTQxQ2ZZTWVQaXBtaHRIcHpyMkFlbENLWXpMb01fR0VOeEE?oc=5",
           "pub": "Sat, 29 Aug 2026 02:43:10 GMT",
           "source": "The Motley Fool"
+        },
+        {
+          "title": "Jim Cramer calls the Meta settlement a 'big break,' says the stock reaction is 'ridiculous' - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOalYxOHBsc1JfRkw3ZXpIUGdid0sxOHZZYWRJVnAtZTVkN21iblpUaEN3ZXBlZjZQdklyM2FPek12eGNESmxWMUg1WkpKRTE1WFQzNDdieDJWN2tSZU84ZU50eC1CTXVndld6WUFDdEY1RGpWeEswbHk1TjJLd3EyWTN6cWV4T29MZ1J6SWtHcVVsN1VlUEh3THhXMU1vV3ViWDJGZ3JpOGJNbzhjUWRSUw?oc=5",
+          "pub": "Wed, 26 Aug 2026 17:09:17 GMT",
+          "source": "CNBC"
+        },
+        {
+          "title": "Meta dodges ‘Big Tobacco’ nightmare with $18 billion settlement in child-safety lawsuit - MarketWatch",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPd0xvS1drbGZkd3JRRjd0bW9paFlCVTVVc19XQ1dSdEZ0QU44cWZPQ19NaWpPSThKR0F2Zlk2dEh2bFJZSy1Hb1huM3hGRm8zRkZHY0RCS1ltMUlNT0hhalljVGVDRVRDTVBWVUxmOC12TzlPSHpUZDYyXzJBdHNkWTdaVEszNlRHTl84THg1WkY4ODdrQXV1T3hjQTBtN0xoS2VUcXA2S0hGZS1sdTFBZlpuWkljdw?oc=5",
+          "pub": "Wed, 26 Aug 2026 21:58:00 GMT",
+          "source": "MarketWatch"
         }
       ]
     },
     {
       "symbol": "AVGO",
       "price": 368.79,
-      "prev_close": 371.5400085449219,
+      "prev_close": 355.5899963378906,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -0.740164849457756,
+      "day_change_pct": 3.7121414544987417,
       "drawdown_pct": 25.49696969696969,
       "name": "Broadcom",
       "news": [
@@ -109,22 +109,22 @@
           "source": "Barchart.com"
         },
         {
-          "title": "Broadcom Is The New Nvidia, And That's The Problem (NASDAQ:AVGO) - Seeking Alpha",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQc0Z6QXRFWm02TGp1b2pkNkV4elRVQWg4T3h4RDB5THJGcTF2MVU1MURDemNZRlR4a1M4UnRkZUp0aEhLYm5pNW5sWWx0TWkyeUY5ZjVodFp2ZGZKRXdWXzZ2NldydndVRWp1VjFuZGphUzJUYXlJaFJ4WlQyN3Z5ak1TS3UxNFZiM0pLZFROcVhmcjg?oc=5",
-          "pub": "Wed, 26 Aug 2026 17:23:00 GMT",
-          "source": "Seeking Alpha"
+          "title": "Wall St Week Ahead Jobs report, Broadcom results pose next hurdles for stock market rally - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTjVfaWU5QkF5T0paRm0xSHdteDJHZjB1YTVMcmNZcjVWNHQzcWV2Rm1FaVd3RFN5OHFndERRRUljQ2dYMjhJQXdER21XMEJjQThvN0JONTRJNlpNUEt2V2xCWGtFdmJQcVMydi1MSEtDd1lsQVR4Q2ZYZDlldFI0VE5odDc3LVU1NDB5SlRQVlh3NWg4Tjl1Y2J0blJxczFyVUNmYlZ2b0hCZ1o1SzdiMFdEUHRfWlBWUTlCLVRtN3g?oc=5",
+          "pub": "Fri, 28 Aug 2026 10:02:00 GMT",
+          "source": "Reuters"
         }
       ]
     },
     {
       "symbol": "AMD",
       "price": 465.58,
-      "prev_close": 476.6700134277344,
+      "prev_close": 480.92999267578125,
       "high_52w": 584.73,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -2.326559908391572,
+      "day_change_pct": -3.191731210269819,
       "drawdown_pct": 20.37692610264567,
       "name": "AMD",
       "news": [
@@ -142,27 +142,27 @@
         },
         {
           "title": "Advanced Micro Devices Stock Ran The Roadmap It Had Already Published - Trefis",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaHNyTjBLOEhNbEVLVUc2R1BUeTJKajF2WE1HbjR2YjB5QVVva2h1SHVHRXhWNnBLeHRGY3JnU0UwNjVUd1lNWTZwZ1c3RTJxaUdQa3pYSm9SeFhRdGZZalF4b0lmSkYxLUVITlVfWi1fWjRhc25INU9YeXRBNWxZeTdaWE1mRlR3czZoaEpRNHpjZlpGVmZjX3RoNmRCOGljVEkwaGpjUjhpazFSWnM1RUFzbDFQQjVmcEZLbXVJSU5Tc0d3VVBjYw?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVHo4bFhRYkk3dTVtb2xXU2s4aUVldmpwRi1pY1R6Y0JvSWgxMDBqVHFLMEhKUm5VTUVIdkdybmdvQVFuQ3d1ZmtrdVZoX2UzMjNGUjI1LWhUdkhaTzVqSm1vSmxDd1BCdW5aM1JRbzVFY2Ewck01RkplUFQyUEFXYnNaZ3VtSGJGdk5Pc0dLZHRIS1Fwbm11VjFLNERUUG91Ny1WeVNNejlMNXAwb0pRdUxVUFkxOWRCZE44?oc=5",
           "pub": "Fri, 28 Aug 2026 15:06:44 GMT",
           "source": "Trefis"
         },
         {
-          "title": "Advanced Micro Devices, Inc. $AMD Stock Position Raised by Elefante Mark B - MarketBeat",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNEE0RkM1S1Z2UUVKQ0REcGVJUVgwcUlRNFhZTkNUTVNDNE5UV0dFY1JFNnpjNEJIUjdHdV9oOXVxWXZYcWRSMWV1WV9OQm1VZEZmbXlmLWtWU2EyZWJGX0VsaVlESld5REtjX3FHTTBrY0RaNFJyNG00YUpiTGdNYlFTYXctMDdxV09DRV9lSUJhaGh4X0VheXlPbUdqd3V0U1RoTTcwdC1iN0hOMExRdEFrZC1tZ3VFRGtxLTRUd2VGYTE2cXVVTkhfWXA?oc=5",
-          "pub": "Fri, 28 Aug 2026 08:13:57 GMT",
-          "source": "MarketBeat"
+          "title": "AMD: The Low-Hanging Fruit Is Gone, But The Stock Is Still A Buy (NASDAQ:AMD) - Seeking Alpha",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcEowLVFBVDJyMzIwMnh1QTAybHpZS1d3Nzc0aHRDUHlmRHhHNFVIanBpVVR4TGJ5YTRtVEtPMklPX1pZZURUbkMtbVk4eXM3bWhzWmd4T1JieVREZnRPZDZrdkViOUhjNm54RmgzeU9Sam9qbEVmeURySEdJQTU0UEljbURGdi1wWE5kT215YmlzNUFCczV5a2hUZ2V0TFp0VWhwSEhB?oc=5",
+          "pub": "Wed, 26 Aug 2026 22:42:52 GMT",
+          "source": "Seeking Alpha"
         }
       ]
     },
     {
       "symbol": "RKLB",
       "price": 64.39,
-      "prev_close": 67.52999877929688,
+      "prev_close": 66.18000030517578,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -4.649783557021958,
+      "day_change_pct": -2.7047450844991747,
       "drawdown_pct": 57.35761589403974,
       "name": "Rocket Lab",
       "news": [
@@ -195,12 +195,12 @@
     {
       "symbol": "IREN",
       "price": 35.45,
-      "prev_close": 40.529998779296875,
+      "prev_close": 39.58000183105469,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": -12.53392285294562,
+      "day_change_pct": -10.434567054047639,
       "drawdown_pct": 53.883181041545804,
       "name": "IREN",
       "news": [
