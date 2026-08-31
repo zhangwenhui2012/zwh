@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-08-31T14:36:20.152533+00:00",
-  "updated_at_display": "2026-08-31 14:36 UTC",
+  "updated_at": "2026-08-31T15:00:40.667078+00:00",
+  "updated_at_display": "2026-08-31 15:00 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 220.33,
+      "price": 219.915,
       "prev_close": 217.5500030517578,
       "high_52w": 236.54,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 1.2778657362651495,
-      "drawdown_pct": 6.85296355796059,
+      "day_change_pct": 1.0871049942847015,
+      "drawdown_pct": 7.0284095713198615,
       "name": "NVIDIA",
       "news": [
         {
@@ -42,14 +42,14 @@
     },
     {
       "symbol": "META",
-      "price": 570.46,
+      "price": 571.235,
       "prev_close": 578.02001953125,
       "high_52w": 790.8,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -1.3079165557934866,
-      "drawdown_pct": 27.862923621648957,
+      "day_change_pct": -1.173838154732487,
+      "drawdown_pct": 27.76492159838138,
       "name": "Meta Platforms",
       "news": [
         {
@@ -57,6 +57,12 @@
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZGlUczRmTVdTZVhqNmY3dDZFTlJXcm5OT3RqYU5QdmhjU05xVGRuWHhKUjFKb2JldGhsMksxNGxLTmFuR3BjQXhTOGNNVnVEaDFDU3d2aGZvN3hyVUZ6OHdsSlNzYVVZSnVsakJFa2hhTjZnMW1OUS1RbjlqMUltV2xhb2hHcGFGMWZzd2JCM3ZoaWVHWER2WllmRGg?oc=5",
           "pub": "Fri, 28 Aug 2026 16:53:59 GMT",
           "source": "Yahoo Finance"
+        },
+        {
+          "title": "Meta Vs. Google: Analyst Says AI Boost Puts Facebook Parent On Track For Ad Crown - Investor's Business Daily",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWlYxcXlmekJtSVE0bmhWRXhneDN4VGpjMFkwSUxFRHhmdUVOWnQ0RUxaQTZMWmxVZC16WDNxdHg4WVZsaEV2bmtxbGpncU10TDJxVl9yODRxRkowTUtQRDNWdC0waW9UVGlQUFQ4TEdXSzlROWc2NmsxU1RoX3ZCalJxUFh3LWhjZ24wTVJKQnVVYUU?oc=5",
+          "pub": "Mon, 31 Aug 2026 14:42:00 GMT",
+          "source": "Investor's Business Daily"
         },
         {
           "title": "Meta's AI Strategy Is Misunderstood By The Market - Seeking Alpha",
@@ -69,25 +75,19 @@
           "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNUkNGb3VMZVNpVzROclNlTjk5RXN2MzVZY05fb0VLUV96Y1RHT2NCN3NKVUtDNEp3NmJVNWl3MV9EZ1oxWkVNX3pSZjBHdl90eGdfZ2tnOGtRY1hsaTZfel9zSUZ0YkgzRzhWSVh6YjkwczVkbnI2el9HOUJnZnZUY1c3NW1vTzFTV0pyYUFDM2ZSY3RFcW1FS0d0RUV3c0p0cUlDTzhTVEp6VGxRcWhwNndrSUdKRFMyVENGT3QtOExhcnRVUi1VZWNMS0VfR0JqWXdmNnhGdUZXQ25hZFJKb3VteTNBWDVhLUkzZg?oc=5",
           "pub": "Sun, 30 Aug 2026 08:55:00 GMT",
           "source": "The Motley Fool"
-        },
-        {
-          "title": "BofA reiterates Buy on Meta stock on AI agent launch plans - Investing.com",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSXVpdEtXRW5jTVZRMDBKbkxQbk1seUJHZDZSVGg5YnJaZU1OcGxIMVhISjFWR180R1ZhOUc3Y25aMEFickdFY3h1ejJLOUpwQm5fajRPX0VuOWdLYzc2RzBYLXlWOWc4Tm9BREh1bEZSeHFNc1FnekUzQm1BVEZwNVlXb2UyanlWdXZ3VkVaaWl1UVowUmRZQzhaSzZVcUE3YnJURGFwZll2dEJXcUlKaXgtYklIWFNodGc?oc=5",
-          "pub": "Mon, 31 Aug 2026 10:20:27 GMT",
-          "source": "Investing.com"
         }
       ]
     },
     {
       "symbol": "AVGO",
-      "price": 368.39,
+      "price": 368.115,
       "prev_close": 368.7900085449219,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -0.10846512531620392,
-      "drawdown_pct": 25.577777777777783,
+      "day_change_pct": -0.18303330602288914,
+      "drawdown_pct": 25.63333333333333,
       "name": "Broadcom",
       "news": [
         {
@@ -105,27 +105,27 @@
         {
           "title": "Cathie Wood Sells $74.5M of AMD Stock, Buys $76M of Nvidia and Broadcom Ahead of AVGO Q3 Earnings - TipRanks",
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNV0NuaWdldDBSY2phSDhsTmdIbm82X1RlWmJ0NHgyZzVieVJ6NWI4OVBERFd5UmUxaUhDbWt6VDl4UU9fWGlHYU8zWm1Kc3puT2d5WlZFbVVONmNwTXZYcEJ0NGZPRXZTUlI2YXJ4WHpDZllpLWNYRkhJQTR4eGNVZFpNUzlqdDJFVU1odTFrb1RpaXFxUFFUajZVTnpFQXNPdktSbG9xNGNVb1QxTFR3Uk42cWh3OS10Z05rY0JUN0puUQ?oc=5",
-          "pub": "Sun, 30 Aug 2026 15:24:39 GMT",
+          "pub": "Sun, 30 Aug 2026 11:07:05 GMT",
           "source": "TipRanks"
         },
         {
-          "title": "Broadcom vs. AMD: Which AI Chip Stock Has the Better Risk-Reward? - Zacks Investment Research",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPU3B2ZnhVNzdzcGE5enR5SEM0WlUxQ3R0c1FfYXNrNUlaZ05BdzZIbnd1R25wR3FDelpYSVRucW11S3FTcV9Pc01jcUxFNjNzdXdxcFdzVUVsMktCSkQtR1FIcF9hMWo4SVFjckdLa0lxUDJWTDBiRDMzaTFTel8yczR4eDhLcmV6MlVlWDk3Z19zM3dMMThJNUFxLU5ZZEJHbTRnaXpR?oc=5",
-          "pub": "Fri, 28 Aug 2026 18:32:03 GMT",
-          "source": "Zacks Investment Research"
+          "title": "3 AI Infrastructure Stocks to Watch Beyond NVIDIA - The Globe and Mail",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQVNhc194UThvNXdFM2hvQjJUZ203Y0Z2SHBKLWdLNExmLXBrQzFfWHU5WHV2b3hrc0dISVR1SHhFN256ZXRCdE9Va1JUVjZaY3NoUmZSYS1LYnZINEg1RWc1SEhFbDFDcG1WTmhfanpYUWQ5R2oyamVuVTBielJaOTU1ZVd6UmNvU1pVaTIyM194eDgwQ3VzSTFkeDBlY0d5V2FpaXZhWUJfR0ctb0oyVW5RVWpaX0lMdS1zOEhveThJdThIVEdrVk9hbDhiM0cyWmc?oc=5",
+          "pub": "Sun, 30 Aug 2026 12:00:00 GMT",
+          "source": "The Globe and Mail"
         }
       ]
     },
     {
       "symbol": "AMD",
-      "price": 468.95,
+      "price": 468.96,
       "prev_close": 465.5799865722656,
       "high_52w": 584.73,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 0.7238312481052668,
-      "drawdown_pct": 19.80059172609581,
+      "day_change_pct": 0.7259791067522017,
+      "drawdown_pct": 19.798881535067473,
       "name": "AMD",
       "news": [
         {
@@ -143,7 +143,7 @@
         {
           "title": "Cathie Wood Sells $74.5M of AMD Stock, Buys $76M of Nvidia and Broadcom Ahead of AVGO Q3 Earnings - TipRanks",
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNV0NuaWdldDBSY2phSDhsTmdIbm82X1RlWmJ0NHgyZzVieVJ6NWI4OVBERFd5UmUxaUhDbWt6VDl4UU9fWGlHYU8zWm1Kc3puT2d5WlZFbVVONmNwTXZYcEJ0NGZPRXZTUlI2YXJ4WHpDZllpLWNYRkhJQTR4eGNVZFpNUzlqdDJFVU1odTFrb1RpaXFxUFFUajZVTnpFQXNPdktSbG9xNGNVb1QxTFR3Uk42cWh3OS10Z05rY0JUN0puUQ?oc=5",
-          "pub": "Sun, 30 Aug 2026 11:07:05 GMT",
+          "pub": "Sun, 30 Aug 2026 15:24:39 GMT",
           "source": "TipRanks"
         },
         {
@@ -156,14 +156,14 @@
     },
     {
       "symbol": "RKLB",
-      "price": 63.33,
+      "price": 63.22,
       "prev_close": 64.38999938964844,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -1.6462174245941188,
-      "drawdown_pct": 58.05960264900663,
+      "day_change_pct": -1.8170514066451937,
+      "drawdown_pct": 58.13245033112583,
       "name": "Rocket Lab",
       "news": [
         {
@@ -194,14 +194,14 @@
     },
     {
       "symbol": "IREN",
-      "price": 35.8,
+      "price": 35.77,
       "prev_close": 35.45000076293945,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": 0.9873038914753545,
-      "drawdown_pct": 53.42786689103921,
+      "day_change_pct": 0.902677659164079,
+      "drawdown_pct": 53.46689381822548,
       "name": "IREN",
       "news": [
         {
@@ -232,14 +232,14 @@
     },
     {
       "symbol": "MILDEF.ST",
-      "price": 229.8,
+      "price": 230.1,
       "prev_close": 227.5,
       "high_52w": 238.0,
       "currency": "SEK",
       "yahoo_name": "Mildef Group AB",
       "exchange": "Stockholm",
-      "day_change_pct": 1.0109890109890158,
-      "drawdown_pct": 3.4453781512604995,
+      "day_change_pct": 1.1428571428571404,
+      "drawdown_pct": 3.319327731092439,
       "name": "MilDef Group",
       "news": [
         {
@@ -287,9 +287,9 @@
           "source": "simplywall.st"
         },
         {
-          "title": "Slight decline on the Stockholm Stock Exchange with Invisio the winner, OMXS30 index fell 0.2 percent - marketscreener.com",
-          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNMDc4WV9tU3NlRS1Cdk9Eem1HdE1aVUozQnJGdmpzdzY3NzNrZDFFQ25qYWRycGFyTnZGQ25hWGdhVHNyWEMyM3V6bnc5aTZwTFhRUXFkdUhvWEhLbXFLSVYzUDdmaC1SVm5pMkdMYkdyNTFLRHdwaWw4b3pDQVBIOGh5WDhyeEcta3ZiVHVXSGcyVDFZOWNneEd1cGt1dGdXMk1JS1hjc21xMWI0UFJ3M3dIRDd5MFVRQjkyZzZiODdVQkcxbHktdVNlTkU0MS05dlVoSllVdGtJWE9mWmRXLUExUXZ1Sm8?oc=5",
-          "pub": "Fri, 14 Aug 2026 07:00:00 GMT",
+          "title": "SB1 Markets initiates coverage of Invisio with a buy rating and a target price of 315 kronor - marketscreener.com",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPY0RDUXNxX2xZRmg3aDVVQzRHaWw4bDlHLXQ2TlFlcnB3NjFHTXZlR0pmNTBFWjlHWTFxYWh0bWRmckJ3dEVxY3dVc1Z4LTdNaTZtZE0xWTN1d2pLSXZ6aGoxNE9nX2xkNnY0VW5vQkw0WVk1X09fMkpLMTB6NnpnbGJzSTJyOTZwNlJSSXRpNF8wcG5GMG40bG5BUlkyaUU0ZVhEQWR2ZURjTF95T29Nb2VJN3pLZ2xxY2d0Y1BZcFB1V05uOGNoNjgydFloTHRFSEJ1V0d1bkhKUlQ0bXc?oc=5",
+          "pub": "Thu, 27 Aug 2026 06:43:39 GMT",
           "source": "marketscreener.com"
         },
         {
@@ -308,14 +308,14 @@
     },
     {
       "symbol": "NORBT.OL",
-      "price": 165.8,
+      "price": 166.0,
       "prev_close": 165.0,
       "high_52w": 244.8000030517578,
       "currency": "NOK",
       "yahoo_name": "NORBIT",
       "exchange": "Oslo",
-      "day_change_pct": 0.4848484848484917,
-      "drawdown_pct": 32.27124267439446,
+      "day_change_pct": 0.6060606060606061,
+      "drawdown_pct": 32.189543329007726,
       "name": "Norbit ASA",
       "news": [
         {
