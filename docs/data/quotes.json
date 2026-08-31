@@ -1,25 +1,19 @@
 {
-  "updated_at": "2026-08-31T14:00:37.455924+00:00",
-  "updated_at_display": "2026-08-31 14:00 UTC",
+  "updated_at": "2026-08-31T14:30:34.779031+00:00",
+  "updated_at_display": "2026-08-31 14:30 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 218.98,
+      "price": 220.23,
       "prev_close": 217.5500030517578,
       "high_52w": 236.54,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 0.6573187442805797,
-      "drawdown_pct": 7.423691553225671,
+      "day_change_pct": 1.231899292414431,
+      "drawdown_pct": 6.895239705758012,
       "name": "NVIDIA",
       "news": [
-        {
-          "title": "Cathie Wood's ARK Invest bought $53M of Nvidia stock after earnings - qz.com",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9iaEl4NzBDdjBndWNXN0ZXZzFFQVdXU0hCRy1LMEoxVll2dGhRRGdhSDQydHVwNW9EZzJwVGlKVlZ0VGxGMHp0QmFRczdmT3N5Qm1JajVXYVE0Y0VUMzF2YlgwMFYyNTZiX2ZGNTgzYllSLU1L?oc=5",
-          "pub": "Mon, 31 Aug 2026 12:58:14 GMT",
-          "source": "qz.com"
-        },
         {
           "title": "Cathie Wood Buys $53M in Nvidia Stock: Why Growth Investors Are Returning - Barron's",
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMk01enVUa2dvYjZGTXpla2tJejl5cWlEY0pvdHFfZjNfMFFOc3h4aGJGOTVBYllhNm4xU29vdVl3TFh1S2ZUbUMycDZmN2hjaVA2Y0tlUTJUYmdjSExVZmxqNzZZMXk5NjV0SG5QVzdoQXdiTmZ4ajVKV3NnX0xLemNiNk1PR1Jk?oc=5",
@@ -33,23 +27,29 @@
           "source": "thestreet.com"
         },
         {
-          "title": "These Two Sentences May Have Just Fixed Nvidia’s Stock - Barron's",
-          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQaVNINEV6ZHhTNTRzRkdxamhYWGdvUGFyNTdFOFhaZUU2NDdmTl9FSnROZU9zbG8zOW1ubUs3Y2ZnVHNfWGlmNE5fUVZOMEVMbngtOFlCRUVXM2hJR2xtX3NranpkOHZhR0o1VDJ6aW1QYmlxQ1c0Z2Y2MWVHZ3FrdmpFWVpETU5fUEpVd0FhSmJzdEhfdjRMN0laNEtyLVJUSzdfV0VhTjI5OEZBSUFXNjFSeWRPUnpsdEJpQ2NyNDdmMVA0eHl1MnZPZ0FNRXlFb1NSQmFqenNKWFd4Ml9yWExWMDZBTHlKaU1JZUhtTkVQa0ZUQnZF?oc=5",
-          "pub": "Wed, 26 Aug 2026 23:35:00 GMT",
-          "source": "Barron's"
+          "title": "Cathie Wood Sells $74.5M of AMD Stock, Buys $76M of Nvidia and Broadcom Ahead of AVGO Q3 Earnings - TipRanks",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNV0NuaWdldDBSY2phSDhsTmdIbm82X1RlWmJ0NHgyZzVieVJ6NWI4OVBERFd5UmUxaUhDbWt6VDl4UU9fWGlHYU8zWm1Kc3puT2d5WlZFbVVONmNwTXZYcEJ0NGZPRXZTUlI2YXJ4WHpDZllpLWNYRkhJQTR4eGNVZFpNUzlqdDJFVU1odTFrb1RpaXFxUFFUajZVTnpFQXNPdktSbG9xNGNVb1QxTFR3Uk42cWh3OS10Z05rY0JUN0puUQ?oc=5",
+          "pub": "Sun, 30 Aug 2026 15:24:39 GMT",
+          "source": "TipRanks"
+        },
+        {
+          "title": "How Likely Is It That Shiba Inu Outperforms Nvidia Stock in 5 Years? Here's What History Tells Us. - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPX29DT1p5b3VOaG5LXzFVaW0zX01lbmNFNGRYTzFWMlNoYUc1UWNObU54a2laRmNCZEJMUGgzUHlhTUp5VHF4NkY1SEx5Q3dfWlhQSzkzeDJ1aF9MeWltNGN0Sk5lcFNSdlVsQ2hvNF9QUy1abkFEb05FNEQ1NnM1X1VXd1k1VFEwZkZlQXo0NXRCeEU?oc=5",
+          "pub": "Sat, 29 Aug 2026 11:30:00 GMT",
+          "source": "The Motley Fool"
         }
       ]
     },
     {
       "symbol": "META",
-      "price": 571.67,
+      "price": 570.35,
       "prev_close": 578.02001953125,
       "high_52w": 790.8,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -1.0985812457498687,
-      "drawdown_pct": 27.709914011127974,
+      "day_change_pct": -1.3269470385247282,
+      "drawdown_pct": 27.876833586241773,
       "name": "Meta Platforms",
       "news": [
         {
@@ -80,14 +80,14 @@
     },
     {
       "symbol": "AVGO",
-      "price": 368.975,
+      "price": 368.12,
       "prev_close": 368.7900085449219,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 0.050161731823494926,
-      "drawdown_pct": 25.459595959595955,
+      "day_change_pct": -0.18167752091913236,
+      "drawdown_pct": 25.632323232323234,
       "name": "Broadcom",
       "news": [
         {
@@ -109,23 +109,23 @@
           "source": "TipRanks"
         },
         {
-          "title": "3 AI Infrastructure Stocks to Watch Beyond NVIDIA - The Globe and Mail",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQVNhc194UThvNXdFM2hvQjJUZ203Y0Z2SHBKLWdLNExmLXBrQzFfWHU5WHV2b3hrc0dISVR1SHhFN256ZXRCdE9Va1JUVjZaY3NoUmZSYS1LYnZINEg1RWc1SEhFbDFDcG1WTmhfanpYUWQ5R2oyamVuVTBielJaOTU1ZVd6UmNvU1pVaTIyM194eDgwQ3VzSTFkeDBlY0d5V2FpaXZhWUJfR0ctb0oyVW5RVWpaX0lMdS1zOEhveThJdThIVEdrVk9hbDhiM0cyWmc?oc=5",
-          "pub": "Sun, 30 Aug 2026 12:00:00 GMT",
-          "source": "The Globe and Mail"
+          "title": "Broadcom vs. AMD: Which AI Chip Stock Has the Better Risk-Reward? - Zacks Investment Research",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPU3B2ZnhVNzdzcGE5enR5SEM0WlUxQ3R0c1FfYXNrNUlaZ05BdzZIbnd1R25wR3FDelpYSVRucW11S3FTcV9Pc01jcUxFNjNzdXdxcFdzVUVsMktCSkQtR1FIcF9hMWo4SVFjckdLa0lxUDJWTDBiRDMzaTFTel8yczR4eDhLcmV6MlVlWDk3Z19zM3dMMThJNUFxLU5ZZEJHbTRnaXpR?oc=5",
+          "pub": "Fri, 28 Aug 2026 18:32:03 GMT",
+          "source": "Zacks Investment Research"
         }
       ]
     },
     {
       "symbol": "AMD",
-      "price": 472.33,
+      "price": 467.91,
       "prev_close": 465.5799865722656,
       "high_52w": 584.73,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 1.4498074707699333,
-      "drawdown_pct": 19.22254715851761,
+      "day_change_pct": 0.5004539488238384,
+      "drawdown_pct": 19.97845159304294,
       "name": "AMD",
       "news": [
         {
@@ -156,14 +156,14 @@
     },
     {
       "symbol": "RKLB",
-      "price": 63.38,
+      "price": 63.075,
       "prev_close": 64.38999938964844,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -1.5685656145708955,
-      "drawdown_pct": 58.026490066225165,
+      "day_change_pct": -2.042241655712515,
+      "drawdown_pct": 58.228476821192054,
       "name": "Rocket Lab",
       "news": [
         {
@@ -194,20 +194,20 @@
     },
     {
       "symbol": "IREN",
-      "price": 36.46,
+      "price": 35.77,
       "prev_close": 35.45000076293945,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": 2.8490810023237936,
-      "drawdown_pct": 52.56927449294104,
+      "day_change_pct": 0.902677659164079,
+      "drawdown_pct": 53.46689381822548,
       "name": "IREN",
       "news": [
         {
-          "title": "IREN Stock Falls 8% After Q4 Miss; AI Cloud Shift Gains Momentum - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTGp1R0xjTWdadWw2YzU0Vng1MTlCeEh0UEo0aXdGQUNDNE1Jc2lxMmdyLXBrZTB1S0dTaVUxdG44QzE5RFgyNUF3Y2FaZk5KVDRWeGdpM1Z6Zl9tTTQ3WTZmS0QwdGhXZTM1QUtTRC1aM1VvRmM0Z3hrbkRSbnJKVG80RHNYWm1BdzZuZEhfYw?oc=5",
-          "pub": "Fri, 28 Aug 2026 03:19:00 GMT",
+          "title": "IREN Stock Faces 3-Month Losing Streak After Q4 Miss, But Analyst Sees ‘Buying Opportunity’ - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPU0kyQ25VNlZTTUl3Wm4tbHpmRGVfcVF1UF93Z1hIcEdwOHl4bTVpQ2Q3ODBBTllwajZTd2lpdjZjWHg3Z1pqWW5mWkRhQ0lRQldXRFBQX19pUGxldEw5aVAxdTNyMkxNUUZFNlhYWlh3ckl3S2poQ3VVQ2JQSUNBU1ZCZFJYcXBEVHlTM3JYNkJvWDA?oc=5",
+          "pub": "Mon, 31 Aug 2026 09:43:48 GMT",
           "source": "Yahoo Finance"
         },
         {
@@ -217,29 +217,29 @@
           "source": "Pluang"
         },
         {
-          "title": "IREN Stock Faces 3-Month Losing Streak After Q4 Miss, But Analyst Sees ‘Buying Opportunity’ - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPU0kyQ25VNlZTTUl3Wm4tbHpmRGVfcVF1UF93Z1hIcEdwOHl4bTVpQ2Q3ODBBTllwajZTd2lpdjZjWHg3Z1pqWW5mWkRhQ0lRQldXRFBQX19pUGxldEw5aVAxdTNyMkxNUUZFNlhYWlh3ckl3S2poQ3VVQ2JQSUNBU1ZCZFJYcXBEVHlTM3JYNkJvWDA?oc=5",
-          "pub": "Mon, 31 Aug 2026 09:43:48 GMT",
-          "source": "Yahoo Finance"
+          "title": "Iren Stock Drops After Earnings. Why This Analyst Says It’s Time to Buy. - Barron's",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWkh2WmROS1FrbjJrcmRHb3ZtOXJZaEQ5el95WHFKY19jTnFKZkk1V2xmWUxuaElCel9KTDAtRXBqWko4LUp3SjhYVmhCd1Eyb01sZmFkRkN5SXVUNEQ3cTVqVEdkdk04RlhnMDNTVzVvNXV2MlF6cXZybHNFZVo0MDhVdzR4YmJiWHc?oc=5",
+          "pub": "Fri, 28 Aug 2026 18:19:00 GMT",
+          "source": "Barron's"
         },
         {
-          "title": "IREN Limited Keeps Falling: A Respected Ratings Agency Sees 185% Growth Anyway - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNT19FTFJqZkYtbFRTenJueHNtZU9vSU5tRVF2WTB2QktHdTBia0x3R2lzRzlIbE9uTm9kMHd5ckRDU0VHaGd4cWluemQxYXFYRXN0NXZuMlBpd0llSGFhMU5xazgwa0xLMHpzZEFnY0picnVxMG1qWktWaTBvN0Zqbzd1ZTF0N3Jubk1QYWRXMnVqelJ1WWFXOVpLX20wUHEtanRV?oc=5",
-          "pub": "Mon, 31 Aug 2026 11:33:44 GMT",
-          "source": "Yahoo Finance"
+          "title": "Iris Energy Stock (IREN) Opinions on Recent Earnings and Capacity Contracts - Quiver Quantitative",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdEtaRWNyTFJLTURGOEVaVVB1V3k4Yjd2cS1PcUtDSXhGd1dYamVQMUM0ZWhUYWoyWGo4NEpxUVdSUi1OVDZMeThkZmt3amVqajRQZFdZM3BheEw2aWplbjFVRnRXUTRhU2FWckhMbHdTRkNLN21pN09raHNtYWY1VHdTcnNDVFpKRkJ2T3FIekhWZG00OS1EMDNxRGFzb19pRXJBZ19vcHBndlhjRDRYS1Fn?oc=5",
+          "pub": "Mon, 31 Aug 2026 14:05:00 GMT",
+          "source": "Quiver Quantitative"
         }
       ]
     },
     {
       "symbol": "MILDEF.ST",
-      "price": 230.1,
+      "price": 229.6,
       "prev_close": 227.5,
       "high_52w": 238.0,
       "currency": "SEK",
       "yahoo_name": "Mildef Group AB",
       "exchange": "Stockholm",
-      "day_change_pct": 1.1428571428571404,
-      "drawdown_pct": 3.319327731092439,
+      "day_change_pct": 0.9230769230769206,
+      "drawdown_pct": 3.529411764705885,
       "name": "MilDef Group",
       "news": [
         {
@@ -270,14 +270,14 @@
     },
     {
       "symbol": "IVSO.ST",
-      "price": 229.8,
+      "price": 230.8,
       "prev_close": 240.39999389648438,
       "high_52w": 344.0,
       "currency": "SEK",
       "yahoo_name": "INVISIO AB",
       "exchange": "Stockholm",
-      "day_change_pct": -4.409315376708659,
-      "drawdown_pct": 33.19767441860465,
+      "day_change_pct": -3.9933419884436843,
+      "drawdown_pct": 32.906976744186046,
       "name": "Invisio",
       "news": [
         {
@@ -308,14 +308,14 @@
     },
     {
       "symbol": "NORBT.OL",
-      "price": 165.8,
+      "price": 165.5,
       "prev_close": 165.0,
       "high_52w": 244.8000030517578,
       "currency": "NOK",
       "yahoo_name": "NORBIT",
       "exchange": "Oslo",
-      "day_change_pct": 0.4848484848484917,
-      "drawdown_pct": 32.27124267439446,
+      "day_change_pct": 0.30303030303030304,
+      "drawdown_pct": 32.393791692474565,
       "name": "Norbit ASA",
       "news": [
         {
