@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-08-31T14:30:34.779031+00:00",
-  "updated_at_display": "2026-08-31 14:30 UTC",
+  "updated_at": "2026-08-31T14:36:20.152533+00:00",
+  "updated_at_display": "2026-08-31 14:36 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 220.23,
+      "price": 220.33,
       "prev_close": 217.5500030517578,
       "high_52w": 236.54,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 1.231899292414431,
-      "drawdown_pct": 6.895239705758012,
+      "day_change_pct": 1.2778657362651495,
+      "drawdown_pct": 6.85296355796059,
       "name": "NVIDIA",
       "news": [
         {
@@ -42,14 +42,14 @@
     },
     {
       "symbol": "META",
-      "price": 570.35,
+      "price": 570.46,
       "prev_close": 578.02001953125,
       "high_52w": 790.8,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -1.3269470385247282,
-      "drawdown_pct": 27.876833586241773,
+      "day_change_pct": -1.3079165557934866,
+      "drawdown_pct": 27.862923621648957,
       "name": "Meta Platforms",
       "news": [
         {
@@ -80,14 +80,14 @@
     },
     {
       "symbol": "AVGO",
-      "price": 368.12,
+      "price": 368.39,
       "prev_close": 368.7900085449219,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -0.18167752091913236,
-      "drawdown_pct": 25.632323232323234,
+      "day_change_pct": -0.10846512531620392,
+      "drawdown_pct": 25.577777777777783,
       "name": "Broadcom",
       "news": [
         {
@@ -105,7 +105,7 @@
         {
           "title": "Cathie Wood Sells $74.5M of AMD Stock, Buys $76M of Nvidia and Broadcom Ahead of AVGO Q3 Earnings - TipRanks",
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNV0NuaWdldDBSY2phSDhsTmdIbm82X1RlWmJ0NHgyZzVieVJ6NWI4OVBERFd5UmUxaUhDbWt6VDl4UU9fWGlHYU8zWm1Kc3puT2d5WlZFbVVONmNwTXZYcEJ0NGZPRXZTUlI2YXJ4WHpDZllpLWNYRkhJQTR4eGNVZFpNUzlqdDJFVU1odTFrb1RpaXFxUFFUajZVTnpFQXNPdktSbG9xNGNVb1QxTFR3Uk42cWh3OS10Z05rY0JUN0puUQ?oc=5",
-          "pub": "Sun, 30 Aug 2026 11:07:05 GMT",
+          "pub": "Sun, 30 Aug 2026 15:24:39 GMT",
           "source": "TipRanks"
         },
         {
@@ -118,14 +118,14 @@
     },
     {
       "symbol": "AMD",
-      "price": 467.91,
+      "price": 468.95,
       "prev_close": 465.5799865722656,
       "high_52w": 584.73,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 0.5004539488238384,
-      "drawdown_pct": 19.97845159304294,
+      "day_change_pct": 0.7238312481052668,
+      "drawdown_pct": 19.80059172609581,
       "name": "AMD",
       "news": [
         {
@@ -156,14 +156,14 @@
     },
     {
       "symbol": "RKLB",
-      "price": 63.075,
+      "price": 63.33,
       "prev_close": 64.38999938964844,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -2.042241655712515,
-      "drawdown_pct": 58.228476821192054,
+      "day_change_pct": -1.6462174245941188,
+      "drawdown_pct": 58.05960264900663,
       "name": "Rocket Lab",
       "news": [
         {
@@ -194,22 +194,16 @@
     },
     {
       "symbol": "IREN",
-      "price": 35.77,
+      "price": 35.8,
       "prev_close": 35.45000076293945,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": 0.902677659164079,
-      "drawdown_pct": 53.46689381822548,
+      "day_change_pct": 0.9873038914753545,
+      "drawdown_pct": 53.42786689103921,
       "name": "IREN",
       "news": [
-        {
-          "title": "IREN Stock Faces 3-Month Losing Streak After Q4 Miss, But Analyst Sees ‘Buying Opportunity’ - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPU0kyQ25VNlZTTUl3Wm4tbHpmRGVfcVF1UF93Z1hIcEdwOHl4bTVpQ2Q3ODBBTllwajZTd2lpdjZjWHg3Z1pqWW5mWkRhQ0lRQldXRFBQX19pUGxldEw5aVAxdTNyMkxNUUZFNlhYWlh3ckl3S2poQ3VVQ2JQSUNBU1ZCZFJYcXBEVHlTM3JYNkJvWDA?oc=5",
-          "pub": "Mon, 31 Aug 2026 09:43:48 GMT",
-          "source": "Yahoo Finance"
-        },
         {
           "title": "IREN stock drops after $684M loss but a top ana... - Pluang",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSU5OZ3U4YXB1OG12VnhRMldDcDIyWF9qVThCUnRCM2c0NlN1cS1UUVdUOURyT3p5bWR1cjdweEJrSHN2RWczRnhYclVabUFLZ00zdHFHWmxmZHMtNkJZUVphbVZoLXRDdERDak1MMUFjS0dZaGtOYk9EaHFZQS1CcmR6WGJSQXc0TElPc1Uwak5VQWNPLW9JaV9mRGluUmtzOFZ4TzVkZw?oc=5",
@@ -217,29 +211,35 @@
           "source": "Pluang"
         },
         {
+          "title": "IREN Limited Keeps Falling: A Respected Ratings Agency Sees 185% Growth Anyway - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNT19FTFJqZkYtbFRTenJueHNtZU9vSU5tRVF2WTB2QktHdTBia0x3R2lzRzlIbE9uTm9kMHd5ckRDU0VHaGd4cWluemQxYXFYRXN0NXZuMlBpd0llSGFhMU5xazgwa0xLMHpzZEFnY0picnVxMG1qWktWaTBvN0Zqbzd1ZTF0N3Jubk1QYWRXMnVqelJ1WWFXOVpLX20wUHEtanRV?oc=5",
+          "pub": "Mon, 31 Aug 2026 11:33:44 GMT",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "IREN Stock Faces 3-Month Losing Streak After Q4 Miss, But Analyst Sees ‘Buying Opportunity’ - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPU0kyQ25VNlZTTUl3Wm4tbHpmRGVfcVF1UF93Z1hIcEdwOHl4bTVpQ2Q3ODBBTllwajZTd2lpdjZjWHg3Z1pqWW5mWkRhQ0lRQldXRFBQX19pUGxldEw5aVAxdTNyMkxNUUZFNlhYWlh3ckl3S2poQ3VVQ2JQSUNBU1ZCZFJYcXBEVHlTM3JYNkJvWDA?oc=5",
+          "pub": "Mon, 31 Aug 2026 09:43:48 GMT",
+          "source": "Yahoo Finance"
+        },
+        {
           "title": "Iren Stock Drops After Earnings. Why This Analyst Says It’s Time to Buy. - Barron's",
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWkh2WmROS1FrbjJrcmRHb3ZtOXJZaEQ5el95WHFKY19jTnFKZkk1V2xmWUxuaElCel9KTDAtRXBqWko4LUp3SjhYVmhCd1Eyb01sZmFkRkN5SXVUNEQ3cTVqVEdkdk04RlhnMDNTVzVvNXV2MlF6cXZybHNFZVo0MDhVdzR4YmJiWHc?oc=5",
           "pub": "Fri, 28 Aug 2026 18:19:00 GMT",
           "source": "Barron's"
-        },
-        {
-          "title": "Iris Energy Stock (IREN) Opinions on Recent Earnings and Capacity Contracts - Quiver Quantitative",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdEtaRWNyTFJLTURGOEVaVVB1V3k4Yjd2cS1PcUtDSXhGd1dYamVQMUM0ZWhUYWoyWGo4NEpxUVdSUi1OVDZMeThkZmt3amVqajRQZFdZM3BheEw2aWplbjFVRnRXUTRhU2FWckhMbHdTRkNLN21pN09raHNtYWY1VHdTcnNDVFpKRkJ2T3FIekhWZG00OS1EMDNxRGFzb19pRXJBZ19vcHBndlhjRDRYS1Fn?oc=5",
-          "pub": "Mon, 31 Aug 2026 14:05:00 GMT",
-          "source": "Quiver Quantitative"
         }
       ]
     },
     {
       "symbol": "MILDEF.ST",
-      "price": 229.6,
+      "price": 229.8,
       "prev_close": 227.5,
       "high_52w": 238.0,
       "currency": "SEK",
       "yahoo_name": "Mildef Group AB",
       "exchange": "Stockholm",
-      "day_change_pct": 0.9230769230769206,
-      "drawdown_pct": 3.529411764705885,
+      "day_change_pct": 1.0109890109890158,
+      "drawdown_pct": 3.4453781512604995,
       "name": "MilDef Group",
       "news": [
         {
@@ -287,9 +287,9 @@
           "source": "simplywall.st"
         },
         {
-          "title": "SB1 Markets initiates coverage of Invisio with a buy rating and a target price of 315 kronor - marketscreener.com",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPY0RDUXNxX2xZRmg3aDVVQzRHaWw4bDlHLXQ2TlFlcnB3NjFHTXZlR0pmNTBFWjlHWTFxYWh0bWRmckJ3dEVxY3dVc1Z4LTdNaTZtZE0xWTN1d2pLSXZ6aGoxNE9nX2xkNnY0VW5vQkw0WVk1X09fMkpLMTB6NnpnbGJzSTJyOTZwNlJSSXRpNF8wcG5GMG40bG5BUlkyaUU0ZVhEQWR2ZURjTF95T29Nb2VJN3pLZ2xxY2d0Y1BZcFB1V05uOGNoNjgydFloTHRFSEJ1V0d1bkhKUlQ0bXc?oc=5",
-          "pub": "Thu, 27 Aug 2026 06:43:39 GMT",
+          "title": "Slight decline on the Stockholm Stock Exchange with Invisio the winner, OMXS30 index fell 0.2 percent - marketscreener.com",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNMDc4WV9tU3NlRS1Cdk9Eem1HdE1aVUozQnJGdmpzdzY3NzNrZDFFQ25qYWRycGFyTnZGQ25hWGdhVHNyWEMyM3V6bnc5aTZwTFhRUXFkdUhvWEhLbXFLSVYzUDdmaC1SVm5pMkdMYkdyNTFLRHdwaWw4b3pDQVBIOGh5WDhyeEcta3ZiVHVXSGcyVDFZOWNneEd1cGt1dGdXMk1JS1hjc21xMWI0UFJ3M3dIRDd5MFVRQjkyZzZiODdVQkcxbHktdVNlTkU0MS05dlVoSllVdGtJWE9mWmRXLUExUXZ1Sm8?oc=5",
+          "pub": "Fri, 14 Aug 2026 07:00:00 GMT",
           "source": "marketscreener.com"
         },
         {
@@ -308,14 +308,14 @@
     },
     {
       "symbol": "NORBT.OL",
-      "price": 165.5,
+      "price": 165.8,
       "prev_close": 165.0,
       "high_52w": 244.8000030517578,
       "currency": "NOK",
       "yahoo_name": "NORBIT",
       "exchange": "Oslo",
-      "day_change_pct": 0.30303030303030304,
-      "drawdown_pct": 32.393791692474565,
+      "day_change_pct": 0.4848484848484917,
+      "drawdown_pct": 32.27124267439446,
       "name": "Norbit ASA",
       "news": [
         {
