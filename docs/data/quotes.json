@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-08-31T17:00:38.937559+00:00",
-  "updated_at_display": "2026-08-31 17:00 UTC",
+  "updated_at": "2026-08-31T17:30:28.217508+00:00",
+  "updated_at_display": "2026-08-31 17:30 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 220.135,
+      "price": 219.33,
       "prev_close": 217.5500030517578,
       "high_52w": 236.54,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 1.1882311707562587,
-      "drawdown_pct": 6.935402046165554,
+      "day_change_pct": 0.8182012977580686,
+      "drawdown_pct": 7.275725035934717,
       "name": "NVIDIA",
       "news": [
         {
@@ -42,14 +42,14 @@
     },
     {
       "symbol": "META",
-      "price": 571.29,
+      "price": 571.065,
       "prev_close": 578.02001953125,
       "high_52w": 790.8,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -1.1643229133668762,
-      "drawdown_pct": 27.75796661608498,
+      "day_change_pct": -1.2032489007716678,
+      "drawdown_pct": 27.78641881638846,
       "name": "Meta Platforms",
       "news": [
         {
@@ -80,16 +80,22 @@
     },
     {
       "symbol": "AVGO",
-      "price": 370.78,
+      "price": 369.32,
       "prev_close": 368.7900085449219,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 0.5396001542801285,
-      "drawdown_pct": 25.094949494949496,
+      "day_change_pct": 0.14371090398279066,
+      "drawdown_pct": 25.38989898989899,
       "name": "Broadcom",
       "news": [
+        {
+          "title": "Prediction: Broadcom Stock Will Go Parabolic After Sept. 2 - Currently.com",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVFhSNUZGSFFxZHFrOHYydUI1eFIxakx3Z08yMFlkUF9aMEpBZlVrWmJDbHN0YlVzMk0zZzdFbmQ0LXFtNDZuVE1aOGNpejZmejZvTTJVUV9maGhKSXRSaGs4SE12NWVfM0lKZV9GakxEVDJuNXpGM2N1X29RTXlnbmhsalJlNUU3UnJVS0dUOWY5aWV5OXc?oc=5",
+          "pub": "Sun, 30 Aug 2026 18:05:00 GMT",
+          "source": "Currently.com"
+        },
         {
           "title": "Prediction: This AI Infrastructure Stock Will Soar After Sept. 3 (Hint: It's Not Broadcom) - The Motley Fool",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSjlsM1AxM3pNZUg1Q3lWNmM4OHZWVWlUV1hZU1A0bVpfQU5JWEJERkJLbFVFYTlSNTg5Rk9ackJUREhXdy1CZDlpZkVEOWljNFpOUDZGZDJVZGRVVlE1X1RCcXNLLUdvV1J2WTdZMGZfcTg1Y3dMLVF5Wll1enN3TFR6dl9PT1NVQ0ZIbUFBc3ZxeHJjdTBZ?oc=5",
@@ -97,35 +103,29 @@
           "source": "The Motley Fool"
         },
         {
-          "title": "Jobs report, Broadcom results pose next hurdles for stock market rally - tradingview.com",
+          "title": "Jobs report, Broadcom results pose next hurdles for stock market rally - TradingView",
           "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSW1xMVFjM2FIRFEtbXc2TTFmMDN6VXRDTndoaVRCOFNRejdrYk5mS3NTUkdYVmRsdV9hT1c5SkNOZzE5TjFZdnpWenFMbTZDZldCVzFzLXpiSE8yNHphc05JU1BSNTBIeVBpOVVRdEllUkVqZmYySWp2d1BmQm9YUm1sdldaOENWdXo5YzdwZWF2ZGYweDY2MUFISnB5bk05c1JQTFVmSk5TWUl3OW9LLVZ1Y1pjaHlPYVBNMk15SjYxS0t3ajRFa2xzVTlHSC1JTGo1OHRn?oc=5",
           "pub": "Sun, 30 Aug 2026 13:00:00 GMT",
-          "source": "tradingview.com"
+          "source": "TradingView"
         },
         {
           "title": "Here’s How Much Traders See Broadcom Stock Moving After Earnings - Investopedia",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQWhwMWdBckJXc2FWbF9pUTYwQzBtMnhqbS1ERWd3T3BoUF9falpaejRzZURHTlpLZWlaUGJmYnc1NG9zMlpWbzhJMml5dkFyNThiemhWX3BxT1JZMkVvekt0eGFYZ1hqVUMtU3pYejVHX0k5VG9nVmtCSHBmYXFLZElBYnhZVUpMZ0dkQ2t5RE1tZUl3MTl6YVNveHFULUpjTTk0blBBQU9MeGhRczRLVnNHc3E0eHZhUmc?oc=5",
           "pub": "Mon, 31 Aug 2026 16:32:41 GMT",
           "source": "Investopedia"
-        },
-        {
-          "title": "Cathie Wood Sells $74.5M of AMD Stock, Buys $76M of Nvidia and Broadcom Ahead of AVGO Q3 Earnings - tipranks.com",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNV0NuaWdldDBSY2phSDhsTmdIbm82X1RlWmJ0NHgyZzVieVJ6NWI4OVBERFd5UmUxaUhDbWt6VDl4UU9fWGlHYU8zWm1Kc3puT2d5WlZFbVVONmNwTXZYcEJ0NGZPRXZTUlI2YXJ4WHpDZllpLWNYRkhJQTR4eGNVZFpNUzlqdDJFVU1odTFrb1RpaXFxUFFUajZVTnpFQXNPdktSbG9xNGNVb1QxTFR3Uk42cWh3OS10Z05rY0JUN0puUQ?oc=5",
-          "pub": "Sun, 30 Aug 2026 15:24:39 GMT",
-          "source": "tipranks.com"
         }
       ]
     },
     {
       "symbol": "AMD",
-      "price": 469.175,
+      "price": 467.84,
       "prev_close": 465.5799865722656,
       "high_52w": 584.73,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 0.7721580676613515,
-      "drawdown_pct": 19.762112427958204,
+      "day_change_pct": 0.4854189382952695,
+      "drawdown_pct": 19.990422930241316,
       "name": "AMD",
       "news": [
         {
@@ -135,16 +135,16 @@
           "source": "Barchart.com"
         },
         {
-          "title": "Advanced Micro Devices, Inc. $AMD Stock Holdings Lowered by Kinetic Partners Management LP - marketbeat.com",
+          "title": "Advanced Micro Devices, Inc. $AMD Stock Holdings Lowered by Kinetic Partners Management LP - MarketBeat",
           "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOZWRadEdGc3JkSFdyTWRTMjk3SUl0UUtidy03Nk41ZXN2VDRIbjFBMEY4TW5jQjIwZUFhNGhWdWx3RHIyaUhQMnRzZjN1Y1pmeDBIVWtYZlpRc3pScTZ3YWRDRWV4M3JCdFBxc0lCYkNJQURRRGlqeVJIckFTWHQtY3hyZUp3MUVMWXFDclBaS0h2Znp6aFVWd01fVFVsWFdrTGkzb3p1NU5uUzBwREJZUGQ3bHRmMVZRUnBaNE1DODFYLXFjXzFoWmt2cmVEbFBNM3pRSlJ2YzFhekZlZ0Zoc1R3?oc=5",
           "pub": "Sun, 30 Aug 2026 09:14:48 GMT",
-          "source": "marketbeat.com"
+          "source": "MarketBeat"
         },
         {
-          "title": "Cathie Wood Sells $74.5M of AMD Stock, Buys $76M of Nvidia and Broadcom Ahead of AVGO Q3 Earnings - tipranks.com",
+          "title": "Cathie Wood Sells $74.5M of AMD Stock, Buys $76M of Nvidia and Broadcom Ahead of AVGO Q3 Earnings - TipRanks",
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNV0NuaWdldDBSY2phSDhsTmdIbm82X1RlWmJ0NHgyZzVieVJ6NWI4OVBERFd5UmUxaUhDbWt6VDl4UU9fWGlHYU8zWm1Kc3puT2d5WlZFbVVONmNwTXZYcEJ0NGZPRXZTUlI2YXJ4WHpDZllpLWNYRkhJQTR4eGNVZFpNUzlqdDJFVU1odTFrb1RpaXFxUFFUajZVTnpFQXNPdktSbG9xNGNVb1QxTFR3Uk42cWh3OS10Z05rY0JUN0puUQ?oc=5",
           "pub": "Sun, 30 Aug 2026 15:24:39 GMT",
-          "source": "tipranks.com"
+          "source": "TipRanks"
         },
         {
           "title": "Advanced Micro Devices Stock Ran The Roadmap It Had Already Published - Trefis",
@@ -156,14 +156,14 @@
     },
     {
       "symbol": "RKLB",
-      "price": 63.86,
+      "price": 63.6,
       "prev_close": 64.38999938964844,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -0.823108238348023,
-      "drawdown_pct": 57.70860927152318,
+      "day_change_pct": -1.2268976504687452,
+      "drawdown_pct": 57.88079470198676,
       "name": "Rocket Lab",
       "news": [
         {
@@ -185,23 +185,23 @@
           "source": "Zacks Investment Research"
         },
         {
-          "title": "SpaceX-Iridium Dispute Hits Rocket Lab (NASDAQ: RKLB): $8 Billion Deal Sends RKLB Down 6% - Stocks Down Under",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5MMHNOdU5Gd0IwTkRWbzhJZE9DQ2JFaG8wZDN2ZXQyOUQ4Z09GaU5wVGh2WkdUNzAyaWc0U3hpS2JfVEYwb2JkUmNaaWNqUjY5ejA5NkViUktGYW1LeFdPYXQ4QXFUeG1ObDZDOGUtQXpCNTBXYkdHQ05BS09HQQ?oc=5",
-          "pub": "Fri, 28 Aug 2026 19:21:45 GMT",
-          "source": "Stocks Down Under"
+          "title": "‘Take This as a Sign,’ Says Top Investor About Rocket Lab Stock - TipRanks",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOekNiRng4cnpyUVlTVk5fMVBCeU9MRzMtMTJ0Y1cwTno1VXFQb3owS2dqVVhzSnlJaDhrTGRlOG4xLVBWMGQ2Z3l6TFo0VTU4MmZrNU96Z2pBdlRxamwwN2tpUHZ0ZEZFOGFqZ1BlbTZjUEo2Qkd2MEJ5azNJc0l0NWZtMllOb2lxeHFzUUdUVWx1dFhKUjRXSmZ3QkwxS00?oc=5",
+          "pub": "Mon, 31 Aug 2026 17:24:27 GMT",
+          "source": "TipRanks"
         }
       ]
     },
     {
       "symbol": "IREN",
-      "price": 36.518,
+      "price": 36.67,
       "prev_close": 35.45000076293945,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": 3.012691718125624,
-      "drawdown_pct": 52.49382243371424,
+      "day_change_pct": 3.441464628502841,
+      "drawdown_pct": 52.29608600263709,
       "name": "IREN",
       "news": [
         {
@@ -249,10 +249,10 @@
           "source": "simplywall.st"
         },
         {
-          "title": "MILDEF Forecast — Price Target — Prediction for 2027 - tradingview.com",
+          "title": "MILDEF Forecast — Price Target — Prediction for 2027 - TradingView",
           "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9hWW9rMkp5VFlIZmlhT1RWd3k5bVQyVTVlLXktUHJfNm43Qld6bURaV0wwTDN1ZmJwZ0c2c2FPNV8wRVYyaVRRNndDaUZOeHdPQTkwS1doZUdWQ180N051Ym91OXZxYW9YRklxUFRIcVFJOFJxbXFVSEl2dWg?oc=5",
           "pub": "Thu, 25 Jun 2026 11:58:03 GMT",
-          "source": "tradingview.com"
+          "source": "TradingView"
         },
         {
           "title": "Earnings call transcript: Mildef posts strong Q2 2026 growth, shares slip - Investing.com",
@@ -299,10 +299,10 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "IVSO Forecast — Price Target — Prediction for 2027 - tradingview.com",
+          "title": "IVSO Forecast — Price Target — Prediction for 2027 - TradingView",
           "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1keUhnMUVzX0VnclVQS3Ywd29Ka1hUdVMzRndVV01Qb2xGYllhOFlfb0IyNEk1Q2VGYWViMkJXSVZDYi1FQWdLRzZqQTFlUnVocmdGRDM5ejdhaF9mQWlhaGVDZ29rZE9hdnNzU0FzVnpPX1pENHlDbl9n?oc=5",
           "pub": "Thu, 25 Jun 2026 19:04:11 GMT",
-          "source": "tradingview.com"
+          "source": "TradingView"
         }
       ]
     },
@@ -325,10 +325,10 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "NORBT Forecast — Price Target — Prediction for 2027 - tradingview.com",
+          "title": "NORBT Forecast — Price Target — Prediction for 2027 - TradingView",
           "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1GWDVHdEMzX0ZmeXk5cEpuZ3F4WFNMZm5jMzhFOEsxc0Q5TnV5YUdWcWh0VXd1c29jdGl5R0hneDJTaXBwclB1V2E4Q2ZzWWpEYkZ5UDFPRTZGZjVxOXlNcUhJQ2V1ZTliemxPRnJZYzVsR3hKV3Rr?oc=5",
           "pub": "Fri, 26 Jun 2026 13:15:32 GMT",
-          "source": "tradingview.com"
+          "source": "TradingView"
         },
         {
           "title": "Earnings call transcript: Norbit posts record Q2 2026 results as shares slip - Investing.com",
