@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-09-01T16:30:31.491340+00:00",
-  "updated_at_display": "2026-09-01 16:30 UTC",
+  "updated_at": "2026-09-01T16:40:34.722271+00:00",
+  "updated_at_display": "2026-09-01 16:40 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 219.58,
+      "price": 219.27,
       "prev_close": 220.77999877929688,
       "high_52w": 236.54,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -0.5435269435327986,
-      "drawdown_pct": 7.170034666441186,
+      "day_change_pct": -0.6839382134458375,
+      "drawdown_pct": 7.301090724613165,
       "name": "NVIDIA",
       "news": [
         {
@@ -21,37 +21,43 @@
           "source": "qz.com"
         },
         {
+          "title": "What Is Cathie Wood Buying Now? Nvidia, SpaceX And Crypto Stocks Led ARK’s August Trades – While Cutting These Growth Stocks - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZDI3M0VyOUt0OVo1elZaQkc1UWVnSmQ3eGQycEJEb2RMYmRDYVdOeXRkLWhfemVUc0NpRFRjcTFWQnp1dTNKanZmbFBHV3hySGI2TmRVdUszbkRTNTZMTHdMdzE1SFo3akhsN0ZnSEV0MnJGbHBQZzNhb3VPUzFJNTItZTF1UllpUlRKbTVBaUlqSm9rbDloLS1R?oc=5",
+          "pub": "Tue, 01 Sep 2026 10:54:30 GMT",
+          "source": "Yahoo Finance"
+        },
+        {
           "title": "Nvidia Stock: Cathie Wood Buy $53M in Shares. Why Growth Investors Are Returning. - Barron's",
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMk01enVUa2dvYjZGTXpla2tJejl5cWlEY0pvdHFfZjNfMFFOc3h4aGJGOTVBYllhNm4xU29vdVl3TFh1S2ZUbUMycDZmN2hjaVA2Y0tlUTJUYmdjSExVZmxqNzZZMXk5NjV0SG5QVzdoQXdiTmZ4ajVKV3NnX0xLemNiNk1PR1Jk?oc=5",
           "pub": "Mon, 31 Aug 2026 18:53:00 GMT",
           "source": "Barron's"
         },
         {
-          "title": "Cathie Wood’s Biggest August Bets Were Nvidia, SpaceX – Roblox Was Her Biggest Sell - Stocktwits",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdWREakZHYm1BMTcxOVdxNEhHQlZfWUpkbGVPdGc4blVILWRQOTBJZTlvSWhfdmlxQWo3b2gxZzQ4c24xdUxXRW1WYXp0b1ZCRTBiaHFtZDNTN0lmUEZaUUhYdmJvaFNZYzJab294VjVDMDBWVkk5X0JKRU1DdVN2YjNvbkF2OWpwUFdqbGRBUTB3UnRlTkxQdS1mNDFTa2pYSktWNjJDcGx3NHRZeFktNm5zVndGOW5pdGR2MzBaR3Y2Zw?oc=5",
-          "pub": "Tue, 01 Sep 2026 11:00:35 GMT",
-          "source": "Stocktwits"
-        },
-        {
-          "title": "Nvidia Stock Teases Buy Zone After Beat-And-Raise Report. Watch These Clues. - Investor's Business Daily",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOYktTeFlEb0FTMkpnTnVCUldQb0FKdkdJMl9rUEtNd2RQNDB0WjA1N2RHNmg2cXFjbXRMQ0hKVng5U2d2TGdfeXVfTHFSQVpkVDFGMUNsazdkU1BiSnVXX0lBbWprWjdTSXBXRjhkZ0VfVVpUUFFpaVM2MmhObGNQb0NTVl9KUGczenBTS2JtNzdjeXk2SlhDNUZVazAyX0ZhbmF4ckRCRnF6Y2xMLTFhU04wRjctVFpSM3hydU1Oc0FPc0lCbmM1U2x1WW1fRXZ1Q0hyZ3JqSGUzcW5KVmc?oc=5",
-          "pub": "Mon, 31 Aug 2026 20:04:00 GMT",
-          "source": "Investor's Business Daily"
+          "title": "Prediction: This Will Be Nvidia's Stock Price by the End of 2027, Based on Its Latest Forecast - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONEdUQW5VWHQybkcxazZqZ2tLbW9PTmY3REhYcklmSHZZUG9ZVjY0MElnc1NBdTh3RU9yV2ZOUnFQR1hxOW56aU9BQWxxeURWZnpmNDRhQmx4ZVBkRjViRFJta3BoMW5lR0NpOVRVUUxNYkxvRnh3MkpuYjlRLTZqc2JSY1ZTMDE2aVFZTk0waWVSSnBrb1VHYUpSeG5EbDcz?oc=5",
+          "pub": "Tue, 01 Sep 2026 07:22:01 GMT",
+          "source": "Yahoo Finance"
         }
       ]
     },
     {
       "symbol": "META",
-      "price": 580.32,
+      "price": 580.52,
       "prev_close": 572.3400268554688,
       "high_52w": 790.8,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 1.3942713719280824,
-      "drawdown_pct": 26.61608497723823,
+      "day_change_pct": 1.4292156341874889,
+      "drawdown_pct": 26.590794132524024,
       "name": "Meta Platforms",
       "news": [
+        {
+          "title": "Meta Vs. Google: Analyst Says AI Boost Puts Facebook Parent On Track For Ad Crown - Investor's Business Daily",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWlYxcXlmekJtSVE0bmhWRXhneDN4VGpjMFkwSUxFRHhmdUVOWnQ0RUxaQTZMWmxVZC16WDNxdHg4WVZsaEV2bmtxbGpncU10TDJxVl9yODRxRkowTUtQRDNWdC0waW9UVGlQUFQ4TEdXSzlROWc2NmsxU1RoX3ZCalJxUFh3LWhjZ24wTVJKQnVVYUU?oc=5",
+          "pub": "Mon, 31 Aug 2026 14:42:00 GMT",
+          "source": "Investor's Business Daily"
+        },
         {
           "title": "Great News for Meta Stock Investors - The Motley Fool",
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQT2R0N3NYQnhNNGhfamFYNGw3Yy1GcjBxckZnSW1EN1pLWnJiU2xwckE0TEhCMjNpNTBLS1JoR3FQU2xuWDltWm1FRjFLa1ktS1hfZG83RE1RNll4ZDROMlo5R3BtWDc1YzhoX1pnNWhDYW90anNnT3RkYTAyQUl6YVlMeE0?oc=5",
@@ -65,12 +71,6 @@
           "source": "24/7 Wall St."
         },
         {
-          "title": "Bernstein reiterates Meta stock Outperform on AI ad strength - Investing.com",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUHNDU2hiMUt5bEFKMmZ3Q2JLWkxqaEREUkpyU19PUUhqS01DNVZGRjBCcy1kYjBUbU1DWno0UVdtdnBzNkw4WmI2bG1ZazY2NDFyS0F6QmVsVGFWZHMtd1JZU1VCUUE1c3dIZ3B1bndwdzJUblZtTElDSndWX3l3UDlIcm9yZHc5ZWw1N0liQlNTMUpMVExiX3BIblktNmFyNGtOYV9wUU5QWU5ZdlpWLWxnd2x6NzF1OU81Mw?oc=5",
-          "pub": "Tue, 01 Sep 2026 14:48:46 GMT",
-          "source": "Investing.com"
-        },
-        {
           "title": "Meta Will Pay $17 Billion to Settle a Federal Lawsuit. Here’s My Prediction of Where the Stock Will Go From Here. - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTHVDd24xN1ZCekN5c2dqUjhEbnRnaF9rMlRRclFWaVh1VU96TzVWQUVRd3c3VGlDVUhxQ0htYmdhWUhCSm44TGVDMXRhcFBfekNZYnpNZXE3Nm9jaW1KUmFFSC1YNW0wQWp2aXFyRWJMLTRGWi0ybjlHRFFHQ1Jhckk1c1JheE9wQU52VXBIYVNMOHdtMnc?oc=5",
           "pub": "Sun, 30 Aug 2026 08:15:01 GMT",
@@ -80,14 +80,14 @@
     },
     {
       "symbol": "AVGO",
-      "price": 368.61,
+      "price": 369.03,
       "prev_close": 370.3399963378906,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -0.46713732110970757,
-      "drawdown_pct": 25.53333333333333,
+      "day_change_pct": -0.3537280204257059,
+      "drawdown_pct": 25.448484848484853,
       "name": "Broadcom",
       "news": [
         {
@@ -109,23 +109,23 @@
           "source": "The Motley Fool"
         },
         {
-          "title": "Broadcom Set to Report Q3 Earnings: Buy, Sell or Hold the Stock? - TradingView",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPR2ZOdm01QmZEQ0NfQ0xHYlEzOVBiTUJYWlJ2UlVJSnJMcTc4Rk5NcnhnX1JmU3Y1Tk5zUGZfSVdzUXRyRXgyMFJGZHIwQkh6MG5VT1hZZWhpOGFScl8zRDJJSEYzOUhGcE9aUGFhTW9LS1Jjc1p6aDJjanBEM09MUmc4WHN1SDQ0ZjFjalJ2MTU5RjFPZ25xN3BWOUE3VUxMOWdMSWlBdHZoY3lHV0VJMW1kNHd1WUx5?oc=5",
-          "pub": "Tue, 01 Sep 2026 15:02:00 GMT",
-          "source": "TradingView"
+          "title": "Broadcom Has Floundered For Several Months: A Respected Wall Street Team Expects 80% Returns Ahead - 24/7 Wall St.",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNazZaUmJhcXpkNnh6aGFHSnFrXzdfZXBWdU9YQmF1dm1adUMxTEdyYjlVclhSNHByVzQ2RHlOZWZDM0EtNXVHYnByNUl6WmNtbXJ6SGVDVTQwdjl2dll0Ty1HVHROZkJ5Y0ktNlFfd1puMkRBMngzbWdnT3M2UVU0MzA4LU0xRVVTNzlFazA5VE9hVE5Yd2x5dWk2TUQzNnFfNDhFcWdiTjBMeWZRenJ6dFRodWhiVXVETGs5bk83N3ZLcDRmank4cVpZSFJHSFZjN0NXMXV0RQ?oc=5",
+          "pub": "Tue, 01 Sep 2026 12:53:00 GMT",
+          "source": "24/7 Wall St."
         }
       ]
     },
     {
       "symbol": "AMD",
-      "price": 456.378,
+      "price": 456.83,
       "prev_close": 470.7200012207031,
       "high_52w": 584.73,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -3.046822141296415,
-      "drawdown_pct": 21.950643886922176,
+      "day_change_pct": -2.950799028017217,
+      "drawdown_pct": 21.873343252441302,
       "name": "AMD",
       "news": [
         {
@@ -156,14 +156,14 @@
     },
     {
       "symbol": "RKLB",
-      "price": 62.24,
+      "price": 62.29,
       "prev_close": 63.91999816894531,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -2.6282825673820427,
-      "drawdown_pct": 58.781456953642376,
+      "day_change_pct": -2.550059786668183,
+      "drawdown_pct": 58.74834437086093,
       "name": "Rocket Lab",
       "news": [
         {
@@ -194,14 +194,14 @@
     },
     {
       "symbol": "IREN",
-      "price": 36.68,
+      "price": 36.83,
       "prev_close": 37.1150016784668,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": -1.1720373401442532,
-      "drawdown_pct": 52.28307702690833,
+      "day_change_pct": -0.767888092625763,
+      "drawdown_pct": 52.08794239097693,
       "name": "IREN",
       "news": [
         {
