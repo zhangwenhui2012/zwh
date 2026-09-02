@@ -1,25 +1,19 @@
 {
-  "updated_at": "2026-09-02T17:30:31.561250+00:00",
-  "updated_at_display": "2026-09-02 17:30 UTC",
+  "updated_at": "2026-09-02T18:01:01.008415+00:00",
+  "updated_at_display": "2026-09-02 18:01 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 225.361,
+      "price": 224.47,
       "prev_close": 217.44000244140625,
       "high_52w": 236.54,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 3.6428428392462964,
-      "drawdown_pct": 4.726050562272767,
+      "day_change_pct": 3.2330746319266295,
+      "drawdown_pct": 5.10273103914771,
       "name": "NVIDIA",
       "news": [
-        {
-          "title": "Cramer’s Radical Fix for Nvidia: 5x the Buybacks, Repurchase 10% of Stock - 247wallst.com",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQS05Xd2FzZ0d4RndHdjZyTjFyeVlPVWJOVmZEZVRDeHFUc1huSzlUcG1xeHRZYmZ1cmdpN0xmUktKVHdOeFFnNVhVNW0zRXY1ZjM2MVB2dGRudlRtRkZqNk1aTmplelVGazJIUjFFWGVPOXhiU0VmdF94V0RjSDlPUDUzaHJFb0ZnYXM3ZlNQN2M5a19GVm5qY2h4Zk9aMko4TndDeTZmX2x5QnozMkl3UkJ5NA?oc=5",
-          "pub": "Wed, 02 Sep 2026 13:35:00 GMT",
-          "source": "247wallst.com"
-        },
         {
           "title": "Jim Cramer has a strong message for Nvidia stock investors - thestreet.com",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVmxCOEUzM05wOEk1aFJRRFYxdDdNbDdoS3JqMlIwZzlBTjFobllvQjVCRW1GcUVGd0x5WnVpMG9NYUVpdkZfR1ZyTjRhS0hROF9PWXNjYlNPTmdNanBMN3VINGkxSXBjVVE3U2RRcnJEQnIyaUpWUDVUWE92YnFWOWdKb0pKcV9GMVlpcy14OGZmN0ZsYzdTNGhOVTluMGp6WDFfYThwVUFQcjRDRnd1dkxmYzdteU10Q1E?oc=5",
@@ -27,9 +21,15 @@
           "source": "thestreet.com"
         },
         {
-          "title": "Nvidia Just Broke the Stock Market (Again) - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPakloY3BUbTNheXNrSWNTMTJleWZvcDdBaVotNGE0YmRyeDNjTDhQZVpkSGtrWmJ6emhZNTJZMm1fLWp2QllJbWVwVG1Gek1GNHhVVUJ0TnFGbGk4eUl4Zm9EM20zVXBOQ3JEQ3JPWDhaTFFIb1RKbkk0Q2tuZXhJQlNKOA?oc=5",
-          "pub": "Tue, 01 Sep 2026 21:25:30 GMT",
+          "title": "Nvidia Stock: Cathie Wood Buy $53M in Shares. Why Growth Investors Are Returning. - barrons.com",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMk01enVUa2dvYjZGTXpla2tJejl5cWlEY0pvdHFfZjNfMFFOc3h4aGJGOTVBYllhNm4xU29vdVl3TFh1S2ZUbUMycDZmN2hjaVA2Y0tlUTJUYmdjSExVZmxqNzZZMXk5NjV0SG5QVzdoQXdiTmZ4ajVKV3NnX0xLemNiNk1PR1Jk?oc=5",
+          "pub": "Mon, 31 Aug 2026 18:53:00 GMT",
+          "source": "barrons.com"
+        },
+        {
+          "title": "Tech stocks today: John Ternus becomes Apple CEO as legal battle with OpenAI escalates - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPclpybHdwSlZrZ2l4Q2ZzQmNRV3RzQ0h4V1BIQUhzdkRyNFBsdU9XWmlJQnBzanNwWnZLcFZmakVEVVJnWjYwcFJLMGhLMG9OYU96cHhsNG1IdGk1eVZyYUk3VzNsVldZdzA4TmI4WGpranBwc2dMMkNmTVBGYjYtd0xnUW0tUThKWGVacFBEdFpOS2FCSmU4dVpzeC1WcmJVVDlJZXUtRnQ1TGhz?oc=5",
+          "pub": "Wed, 02 Sep 2026 13:27:33 GMT",
           "source": "Yahoo Finance"
         },
         {
@@ -42,14 +42,14 @@
     },
     {
       "symbol": "META",
-      "price": 592.85,
+      "price": 592.02,
       "prev_close": 578.5399780273438,
       "high_52w": 790.8,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 2.473471586431998,
-      "drawdown_pct": 25.03161355589276,
+      "day_change_pct": 2.3300069977219655,
+      "drawdown_pct": 25.13657056145675,
       "name": "Meta Platforms",
       "news": [
         {
@@ -80,32 +80,26 @@
     },
     {
       "symbol": "AVGO",
-      "price": 369.3,
+      "price": 366.75,
       "prev_close": 369.67999267578125,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -0.10278962435343421,
-      "drawdown_pct": 25.39393939393939,
+      "day_change_pct": -0.7925753986775607,
+      "drawdown_pct": 25.90909090909091,
       "name": "Broadcom",
       "news": [
         {
-          "title": "Is Broadcom (AVGO) Stock a Buy Before Its Q3 Earnings? - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeW5fTDdBaHlfczd1UTdpRkJZR29TOE40R2tPS3h4RkotRDl5aW1oX09jV1gwUXZhaXl6d3V3djVYbHRjdFdPV1l0M3ZwMVZTdndnNnlGMGJqV2RmRm9DZUV1VEpkMTVyMlp4NHRJOVItcU5uWjd4QmpYemdKRXVKTGYzWVZTMXdiQjhqOC15bkdKNURfN0E?oc=5",
-          "pub": "Mon, 31 Aug 2026 20:39:00 GMT",
+          "title": "Broadcom Set to Report Q3 Earnings: Buy, Sell or Hold the Stock? - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdjY2VFgteU1YNzkwVW5EcG5hOUhlc3FnMjd1N1h2QWlRdllldmtJQml4QllZVTFnLWxsRFhCVC1PLVl6Nl81cDc5NjkzM3B3czVrdzdTYl8waFEwSEhONmJvTGNrTWZWMzFIY3B6Y1BMSEgzV054NmpSdzZoaXpKcG1uenNDYVlCVnlpRXhSX0huTVF0aFpWTHpkOFY?oc=5",
+          "pub": "Tue, 01 Sep 2026 15:02:00 GMT",
           "source": "Yahoo Finance"
         },
         {
-          "title": "Stocks to Watch: GitLab, Dell, Broadcom, Palo Alto Networks - WSJ",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPSTlIYnU4amtfMG42Q1hKV3hwbkRielZQVUtRU3JzZ3ljaVdtcGw0OVRUOFgydlBtNEpDZFhOZG0tWVcxY2tXU0tETzBUSW5nLTNKU01TM3EyLVYtUmdQMU91QWY5aVZSOWo4ZjV6ZnplMDZmRzNTb2xuUWRlbGVhdWt2MnViVG1oLTdpSWlDNzRRZmE5am1TMUV6cEVkSTdXWHlZVHpMcndaaVk4WWVBTjlKY2xoemxvRjNlRjkxa0hzSko3VE1OMTZZUUx1bHNqTlFha1ZmUXBDejQ?oc=5",
-          "pub": "Wed, 02 Sep 2026 09:37:00 GMT",
-          "source": "WSJ"
-        },
-        {
-          "title": "28 Analysts Share Their Broadcom Stock Forecast Before Q3 Earnings - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRnloSGcyaTJ0NkxjQ0pjWndrb1EtTkcwb1lzcG5fQ1U0VnJadGJDc3FqWVlQR3pBUTl1ZndhZm1zd3BScm95eV9VX2RkSWd5SVFseVhrYkNMNzZFVkRaTkhnY1lBMXIyWVdNblBlZ2pxZC1HZ2F0aVhUWFh4TFBWQ3RTZ0RseVIwWXVBT1V1WnFaMjczc3R6R0twVS16Zw?oc=5",
-          "pub": "Tue, 01 Sep 2026 22:16:45 GMT",
+          "title": "Marvell vs. Broadcom: One AI Stock Looks More Attractive Right Now - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNUphZnU5V1BCVDBPNThGb2NsTG8zNUFhcGtadlZBRnFsU2hDSXNpYXNGQnN1Q2lrR2pPMjdPRGpBdWtxRW5ZakhKTmhLdVpfaVhjLUhyWWk0anZGZTE2MWtNRm44cjBhVzBWWkR5UzJnOXU4YzV0cFdvRS01VldEbFNrbFJrcnpXRk96WmJiTE5Gczdp?oc=5",
+          "pub": "Wed, 02 Sep 2026 14:00:21 GMT",
           "source": "Yahoo Finance"
         },
         {
@@ -113,26 +107,38 @@
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQWhwMWdBckJXc2FWbF9pUTYwQzBtMnhqbS1ERWd3T3BoUF9falpaejRzZURHTlpLZWlaUGJmYnc1NG9zMlpWbzhJMml5dkFyNThiemhWX3BxT1JZMkVvekt0eGFYZ1hqVUMtU3pYejVHX0k5VG9nVmtCSHBmYXFLZElBYnhZVUpMZ0dkQ2t5RE1tZUl3MTl6YVNveHFULUpjTTk0blBBQU9MeGhRczRLVnNHc3E0eHZhUmc?oc=5",
           "pub": "Mon, 31 Aug 2026 16:32:41 GMT",
           "source": "Investopedia"
+        },
+        {
+          "title": "Broadcom stock price ended at $369.68 on Tuesday, after losing 0.178% - StockInvest.us",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWTROWTlPRk13QzlaQllaM0VOMXdHZkhwNzRJaWVTWUhnUHo5MjlIdlpZMGFfMGRpSHZYQ1NiVmVHWVFGSVNKLXM4Q3M0by1SZHJEMVMxc2JMWmh4emFGM0VwRnJxcWlYMUg2SDdhZkJoS1dKWnFHcy1QSjdOak83RmhfWVk4eVFnV2hsQ2VOYUJuVjZGTnZZeVlQcENHTmNVdVlJaG1VakpDMVExdXc?oc=5",
+          "pub": "Wed, 02 Sep 2026 00:41:52 GMT",
+          "source": "StockInvest.us"
         }
       ]
     },
     {
       "symbol": "AMD",
-      "price": 457.39,
+      "price": 456.69,
       "prev_close": 459.6099853515625,
       "high_52w": 584.73,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -0.4830150393413263,
-      "drawdown_pct": 21.777572554854384,
+      "day_change_pct": -0.6353180837289604,
+      "drawdown_pct": 21.89728592683803,
       "name": "AMD",
       "news": [
         {
-          "title": "Here's What September Has Done to AMD Stock Over the Past 10 Years - Currently.com",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTGtPTDBmN0otM05nSUZlUzhxMzluWW01UjMzLVh5SWNUZUZZQ3doYjJidmpUbEtKeG0zdzJRVExNaU9uV3NkTEswaWVocTVqN3FuT19YMkhvczBELWgtTlZNWUlWYkEyV3BRamFlNUxWNWc3TWZZMGFjYlJJamt0cV9ZZEdZcEk5?oc=5",
-          "pub": "Mon, 31 Aug 2026 23:58:01 GMT",
-          "source": "Currently.com"
+          "title": "Broadcom or AMD? Here's Why the Market Is Pricing the Same AI Boom So Differently Across 2 Chip Stocks. - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeGF1ODM3V1FaaU1CZG9MNWdPQ3YydkpGWlVIMWhyMVpnYWtxdlZzbGc2S2MtbHZRaVJTVlBMcFE2azE5T1dZVDkxUHFCMTZVQTJ3NzFxSmE3X2xfQVBrS2g0Z19XQlVwX0d1WmlOWTVCcjJmaENzaUZ4aXpVRnJ3ZGpqZmh1U09CZmRWbW80OFdlV3ZFQWE1eQ?oc=5",
+          "pub": "Sun, 30 Aug 2026 12:40:00 GMT",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Prediction: This Stock Could Be the Next Big AI Winner - 247wallst.com",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQV3RadXBxREtNcElGTkVpMlZHOVozeE5wemwtcHItY1Q3SDVNTGtZWGRsbjIxVWI1dGE1S0pyd2VTbnhqbzJDa2tWSHpxelRkTUVYNlRxNlBObXg1WkZQR3p5TE1CazNhZE9yQ1ppbHM4QVBDcGVuZktvbm1sRmY1SktUVXYwQnlmbXNkdGZRenFvR09OdUpBQ09BOWF1QQ?oc=5",
+          "pub": "Tue, 01 Sep 2026 17:00:00 GMT",
+          "source": "247wallst.com"
         },
         {
           "title": "AMD: Buy This Post-Earnings Pullback - Seeking Alpha",
@@ -141,29 +147,23 @@
           "source": "Seeking Alpha"
         },
         {
-          "title": "Cathie Wood Dumps $74 Million of AMD Stock After Explosive Earnings - TradingView",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOT3lIV1hZYk5na3RLdlZYazJ5WnVpdVRYNlNVMDJteVN0WFBYR3lPTlU2dWZKWUFPZDVSZUFrakt2NWNxdlJjR3pRSG5KeU1HeFdrZ29jUlRDRFJSRjN6YW9vN1pWNHJQQTQ5MzR0bkN4RU81UFZZaE9vTkFibXZ2X2E2d3NQQ2tSM1U1eUg3UTlkTWl6anlTN29nanhhYkg1QWJ0cDVnMi16MkxkNkREM0xWdmFnR1ctb3RaV0hjckJ4R2J2?oc=5",
-          "pub": "Tue, 01 Sep 2026 02:44:00 GMT",
-          "source": "TradingView"
-        },
-        {
-          "title": "AMD's Instinct Systems Are Now Live in Saudi Arabia -- Here's What the Next 250 Megawatts Are Worth to the Stock - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOaEVGaGdmN2ozZzZ6NG9pNGZQSzA4WnhqNmZaV3otTm42aVd5T0hvXzNkdXJ2bUFUUGdsSHRUa1p3STA5QWNRak50eFFWOUNoeEM3OTI3dDZoNE5LUnkxR3YtXzlpSlNMNjdidDNtOGIxamxzQ1RwSEZuM1QzUDZvZ1hucnF3akNkWnR2dmw2WWpvNkZqTy04cVFCeXJib1ZQaVc1ZE51bzhNOUdRMEp4anlvNDBnMngzbWd3UkFBQzFUcUctTkZlMmlHOWY1R0NJNkhSUU03Umo4bEI1S1BDdFZxZVFJVzQ?oc=5",
-          "pub": "Tue, 01 Sep 2026 17:24:00 GMT",
-          "source": "The Motley Fool"
+          "title": "AMD Stock Alert: Advanced Micro Devices Teams Up With Cisco on AI Infrastructure - Barchart.com",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZU90Zy1mZXZGT25KYXhNQThIQjRudXljMzBFRjBFc0I1NzlLM0hjVTlqbE8xN1JTS0RoLVdlT3RCVnJMeXJUU1BnVmxNZzF4Umdja2J4dEJQamdLWkFkc3ZDNFhieHFFUVN0d19rSG9ReWl0cHp4TTgyVFREQUthT0FISElUcC10NjZhcnBFdUhzSlUzT0RfVV9qbTBTeGdTRUVmbThKcWdicy1JMktaUGx1Ylg1d0lDR3FUSi1TclQ?oc=5",
+          "pub": "Mon, 31 Aug 2026 20:15:22 GMT",
+          "source": "Barchart.com"
         }
       ]
     },
     {
       "symbol": "RKLB",
-      "price": 61.865,
+      "price": 62.45,
       "prev_close": 62.540000915527344,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -1.0793106901918088,
-      "drawdown_pct": 59.0298013245033,
+      "day_change_pct": -0.1439093607448215,
+      "drawdown_pct": 58.64238410596027,
       "name": "Rocket Lab",
       "news": [
         {
@@ -173,10 +173,10 @@
           "source": "MarketBeat"
         },
         {
-          "title": "Rocket Lab Stock Has Collapsed 57% From Highs. Here's Why I'm Not Buying (Yet). - Currently.com",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTi1qaWVtRklJNHpGWnJmWXZjdTVXQW9RT3VvNVl3R2F6RjlGNEgtZ01hYVFFeDFOdjdzTWVtbWNNbmx3S0tUaHVjUGY1a2gzRk80LXVKRnlWcU51OUJUYTRIQmxGUV9ZcktfYXc0RWFOZ3BNVjgyaGtMdU1NMVdYQ3oyLUVGQWs?oc=5",
-          "pub": "Wed, 02 Sep 2026 16:35:00 GMT",
-          "source": "Currently.com"
+          "title": "RKLB Stock Slips After $700M NASA Snub: Cathie Wood Buys The Dip As Retail Blames Neutron Delays - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObnNnMFRsRW4wblhSYV9HZFJiMkFCZXIxZm9HSHlvSjluQTJkWENhaVhrSzFnTjZvRW84Z3hqM2lnSllSc2w0TUJfRmlMME1tajJVN2VXdEZqNE14LW5pT1VBakwtODdjSEpFT09UMGl1UFpydG5PQXBzRVlZdkpJeThHSlFNZVhfemRhZm1KNGFYZWd3dVE?oc=5",
+          "pub": "Wed, 02 Sep 2026 01:16:00 GMT",
+          "source": "Yahoo Finance"
         },
         {
           "title": "Can Rocket Lab's Spacecraft Component Business Support Growth? - Zacks Investment Research",
@@ -194,14 +194,14 @@
     },
     {
       "symbol": "IREN",
-      "price": 37.915,
+      "price": 38.78,
       "prev_close": 36.81999969482422,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": 2.973928066951354,
-      "drawdown_pct": 50.676468524406474,
+      "day_change_pct": 5.323194789301694,
+      "drawdown_pct": 49.551192123868724,
       "name": "IREN",
       "news": [
         {
@@ -337,10 +337,10 @@
           "source": "TradingView"
         },
         {
-          "title": "Earnings Not Telling The Story For Norbit ASA (OB:NORBT) - simplywall.st",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdmttYkl6cDdNNWZVamhiRnYyUXR0LWNwaHdKYVFCdWo5bXZpUDZMdkFzSE1CRi1zeWI2ZWtfSkhOb2M3ZTIweS03ZUhwd0hLQWkwUFpzQzF5c2pxbWNZeGM4TFBRYTVtSlBqZXhvY0lGcUNQYzRxTEhsRjlBUjNzZExIME94TlJMUkZld3EtZEk1THp4UXBxSXgzM2tRM3BlQm1pT3RPdThOMHNzWno3ck9GWmZJYkVHbFHSAb8BQVVfeXFMTkZ6TFVWWWg4VFp0LUZBdVRZWFM3NlowTmgtQVdmVzQ4S0hKNlphR09KTnJ6YktXQmp1OFdFdVp4bVNhZFNCaUZGOE01SXd0ZjdKckRSOEhmMUxta1pPUGhDX29ENDBneFZ5NXJST2p2clhfWkloc0lmWTd5b0NmcTlVVElaeTBqSTkyWkFubWlQaW5mVm1QR2dreE5FMWlic2NQcW5zcUJiZDEwQzFhcFR0bEJ2VVZNMWRTN0F0QVU?oc=5",
-          "pub": "Tue, 10 Feb 2026 08:00:00 GMT",
-          "source": "simplywall.st"
+          "title": "Earnings call transcript: Norbit posts record Q2 2026 results as shares slip - Investing.com",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWHEtbDhsdG8wNFpzR2c3M2owbGJUMG83S3pydVBzMklzS1VNQVVKS3ZSN2FpeHRhTmstQ1R0ZVlSOElqd3BnQ1RvWUNyVzQwOXdKNkNBc2dZWG1PYTZlQUtaS28zRXJFQ0N2UmEyeV9FcmN0cTQ0VXVmWVhndEoxSldfMERMdzNnUDltam9IbFhucjBhZFk5d3FCamp2bURVMk8tUGdUNG4tN24xSVpTTkFvbzJNeE11NnJpeW9ISTZ4TDJxS2g4ZFJaSQ?oc=5",
+          "pub": "Thu, 13 Aug 2026 07:00:00 GMT",
+          "source": "Investing.com"
         }
       ]
     }
