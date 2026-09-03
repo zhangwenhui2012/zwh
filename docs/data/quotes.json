@@ -1,109 +1,134 @@
 {
-  "updated_at": "2026-09-03T13:30:33.692956+00:00",
-  "updated_at_display": "2026-09-03 13:30 UTC",
+  "updated_at": "2026-09-03T14:00:47.657604+00:00",
+  "updated_at_display": "2026-09-03 14:00 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 225.63,
+      "price": 228.48,
       "prev_close": 224.41000366210938,
       "high_52w": 236.54,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 0.5436461467767497,
-      "drawdown_pct": 4.612327724697725,
+      "day_change_pct": 1.8136430067612959,
+      "drawdown_pct": 3.4074575124714643,
       "name": "NVIDIA",
       "news": []
     },
     {
       "symbol": "META",
-      "price": 605.988,
+      "price": 613.855,
       "prev_close": 592.8499755859375,
       "high_52w": 790.8,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 2.216079101812852,
-      "drawdown_pct": 23.370257966616073,
+      "day_change_pct": 3.5430589995896358,
+      "drawdown_pct": 22.375442589782494,
       "name": "Meta Platforms",
-      "news": [
-        {
-          "title": "Meta (META) Stock Looks Like A Bargain As Its 100% Run Continues - simplywall.st",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUldBaU5pUDFxSENpcVIwc1VUa3hMNDlaUFdORkFBR001Qm9sSUdKTEJsTUdtQUtZQkJhMW54RXdkU0dyRWd0TU9FS0QzV1pOS21JaUpORkJHQWU3RTNrMExZLXNTWUNwRTVPcVlRa0N3Y1ZNRENvV0VkZGVYbVczeGJfV1lQTV9VSFh3dHV1YTNaUUNTRkxoT19PMVUwTHhuVk1zcHloWEdCdUlNYlB1YzloUDF4RDRSbnNjajFPSWxsckUxbEVYLTB30gHPAUFVX3lxTE5fclp2ZGNIcjQ3T1lTNHQzRFo2VDFhVTJzMFVneWZ1bHMtdVVZWnZsNm01TlNkcUp1YXRyMFdoVFlDc3p5UjlJTVRkYkctMmpiaXBRaFlya21RMzAySXZNOFRYaE9haXdCdFlrdkRFcXhWZEpPdmJEY29IZEZqVjhxR041Y2tYVVZEdnE0cURjU0VNVU94TTJjZXJYSGZlQVlDa0VVUTU0YTNIMEpLc3I4MW1KZmx1VUx0ekppbmc4b0tTMlJzMjE0b0NGVEVXTQ?oc=5",
-          "pub": "Thu, 03 Sep 2026 01:46:35 GMT",
-          "source": "simplywall.st"
-        },
-        {
-          "title": "Meta Platforms May Have Escaped the Worst of a Landmark Teen-Safety Lawsuit. But the Ramifications Could Be Much Worse for Snap. - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNb3h4NEhOeVYtbW53UUdkMjlweDFtcko1MG9HeFhwbFFGMEg4bmpSTWVCMGpubXlfblV6eGhDcUxBNzVQSU9pdnl5TXljZGgtZVVOSmwzaXY0dmFFSW1kUEZuMFJIbVRSSDVUWXRCTy1UdGRzeVVSaWRHUXp0cUdoVjlDb3p0UnE4ZDVuVzBGdXJYSExCVjZlY1A4M2FvQQ?oc=5",
-          "pub": "Thu, 03 Sep 2026 10:00:00 GMT",
-          "source": "Yahoo Finance"
-        },
-        {
-          "title": "Meta Stock Gives You More Of The Market, Not Less Of It - Trefis",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaTJPVnd4ckJWN1R0T0M3NnluSUFiS2FtZktsbXBERkpQUWFWR3J5U09hdGNfVTlCLVUwdzJIM3JSZHcwSmJmcUNqd0xUNkdZNXVYc3g0VXo3WHZ4T1dBekc4TzhhbU9Yck81c2N1VE0yRTI2TG5oalBFSV91VGFkZmc5dE4yZzM5a3AtU2VVSG9HemYzamNOTUduZE9VOUJvMEppYi1IYlFWTVBvSUp3SVU1TGU?oc=5",
-          "pub": "Mon, 31 Aug 2026 19:12:22 GMT",
-          "source": "Trefis"
-        },
-        {
-          "title": "Why is Meta Platforms stock rallying today? - Investing.com",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOV25Va0NlNXEwcEVTUnpKcU9ydXctS1FTTWtqRkU0ZnZBV0g0RUVBY0poNk9qYWMwLW1DNmFuU2E3dnVNdTUyaXRIQm1RVFBDZFNUY2gxY2FmYkVvbEsyQ3VUQjRHeVdaSGJpTlNudDhiWlVmLW50bUxrQzBhM3RFMDE1R29qb1lWdWs2MFpkV1FLNzdIeHFvZlVlb1dFdGVxVWs5OFppU0xKVktmSmFZekh3?oc=5",
-          "pub": "Wed, 02 Sep 2026 14:46:58 GMT",
-          "source": "Investing.com"
-        }
-      ]
+      "news": []
     },
     {
       "symbol": "AVGO",
-      "price": 352.0,
+      "price": 343.885,
       "prev_close": 367.239990234375,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -4.149872192472485,
-      "drawdown_pct": 28.888888888888886,
+      "day_change_pct": -6.359598860535232,
+      "drawdown_pct": 30.528282828282833,
       "name": "Broadcom",
       "news": []
     },
     {
       "symbol": "AMD",
-      "price": 452.44,
+      "price": 447.17,
       "prev_close": 457.05999755859375,
       "high_52w": 584.73,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -1.0108076802327208,
-      "drawdown_pct": 22.624117113881624,
+      "day_change_pct": -2.1638291715358147,
+      "drawdown_pct": 23.525387785815674,
       "name": "AMD",
-      "news": []
+      "news": [
+        {
+          "title": "Advanced Micro Devices (AMD) Dropped, So What Is Driving Attention Now? - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZDdVVklrbENqSEtwZkFWR1FSQkcwOXhpWmJTT0hhcVNEM182WVNSOWgtVkJyOXdmeEM4SExpamNXNlFJdTJoTl9vdUdZbjlDalpUZnkzbjdMSFU1QVVGekRZMU9WY1RnaVk2SEpkQWl3MXhsdUZuWHhBUGIzTXpXS0U1WE1fUzZkS2VXV2EwOFk0VVdYdE92ZnBvSk00SlB0?oc=5",
+          "pub": "Wed, 02 Sep 2026 19:06:37 GMT",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "AMD: The Next $1 Trillion Company - Seeking Alpha",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8xODBtWWhDa1RCQThGVDFPMzhpb1h6cENOVzV2RDNXREFkeTVGTUNvWk5IQUpJWnRRZzNhakFMZzIyTy1XYU96UVB6T0RmNDdhTlAxR0xxV0JzVzBydlRfa3d4ekRDVU1SNEgtQkNiRlRsRFNmdXN2eDYwUFU?oc=5",
+          "pub": "Wed, 02 Sep 2026 13:44:25 GMT",
+          "source": "Seeking Alpha"
+        },
+        {
+          "title": "Prediction: This Stock Could Be the Next Big AI Winner - 24/7 Wall St.",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQV3RadXBxREtNcElGTkVpMlZHOVozeE5wemwtcHItY1Q3SDVNTGtZWGRsbjIxVWI1dGE1S0pyd2VTbnhqbzJDa2tWSHpxelRkTUVYNlRxNlBObXg1WkZQR3p5TE1CazNhZE9yQ1ppbHM4QVBDcGVuZktvbm1sRmY1SktUVXYwQnlmbXNkdGZRenFvR09OdUpBQ09BOWF1QQ?oc=5",
+          "pub": "Tue, 01 Sep 2026 17:00:00 GMT",
+          "source": "24/7 Wall St."
+        },
+        {
+          "title": "AMD Stock Slips Despite Highlighting AI Chip Efficiency - TipRanks",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMGZFMEtRbk9KamZ4Y24wYXZySVlRcnUtRzJRQWFIZXBUNzgya2c3Y3FUTkRId041T0w2VXNRZzlZWmRpdFY4Z0NnOTRvZ28wZTczcjN1ajQ5LTZzLU5TQjRjZGd2WUNLTjNCNlNJMm9Pc3BWV3JFTXNWdks4bC1jY05sZ3lNVXV1Y0E?oc=5",
+          "pub": "Wed, 02 Sep 2026 15:22:37 GMT",
+          "source": "TipRanks"
+        }
+      ]
     },
     {
       "symbol": "RKLB",
-      "price": 64.14,
+      "price": 64.175,
       "prev_close": 63.099998474121094,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 1.6481799540857958,
-      "drawdown_pct": 57.52317880794702,
+      "day_change_pct": 1.7036474673129964,
+      "drawdown_pct": 57.50000000000001,
       "name": "Rocket Lab",
       "news": []
     },
     {
       "symbol": "IREN",
-      "price": 39.29,
+      "price": 39.28,
       "prev_close": 39.599998474121094,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": -0.7828244597627472,
-      "drawdown_pct": 48.887734361701966,
+      "day_change_pct": -0.8080769859883054,
+      "drawdown_pct": 48.90074333743073,
       "name": "IREN",
-      "news": []
+      "news": [
+        {
+          "title": "IREN (IREN) Gains A Clearer Path To Texas Power Expansion - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObXRISC1mTE9UclhPQldlUXlfSUFPNXloZHZkaERTcmczckhXNkJZbG5TekZqVjYtWkdXYVRKY1NhUUpYal9qd0VNQnI2OWdQLXlYaUF2US01M1g4d250Z1lnTVgxMGtoVi1nLW83T2JPc3RoQWR4a0MzUTVwdDlZT1lhTEFSMF9IODNEQ2xrM2g1VWxnQnpB?oc=5",
+          "pub": "Wed, 02 Sep 2026 17:07:08 GMT",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "A $4 Billion Reason to Buy the Recent Dip in IREN Stock Today - Barchart.com",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRjlPWUNfRWEyZkZZWkJaczQ5LXVVQ2tMZk5TdU5JbENNeWlkQXZ2b1FONThfa3pSekZpZjYzTXYxdlp0RGpNSmVDUDIxU01NeE1zZl9UREI2Q1YxNDFiZTlTdUhvTzRDSHppaHYtTG44STFzellLRWM1ZWFrOEE0R1NGUllCZEtoSzlBbXRJUFpGMHRfQmlMazlfcEZJa05mWjlZYVN5Zw?oc=5",
+          "pub": "Mon, 31 Aug 2026 15:59:56 GMT",
+          "source": "Barchart.com"
+        },
+        {
+          "title": "IREN Limited: The Market Is Too Pessimistic (NASDAQ:IREN) - Seeking Alpha",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNd3Uwdzk1Q203ekoxXzEyMDRVZlNLbTVWM0pxQUFqWERuMVo5S0l1aHVVZ2xEcVpfMU1jWkpzR0lqYVh0RnhWbFJIZklVcGw3bDZKcFVIOG5qQzlmWWZkNEl4R0w4YkRVLXFOQno1MXhWZ1ZLTnVISUpKSGZxeHVVNQ?oc=5",
+          "pub": "Mon, 31 Aug 2026 09:11:42 GMT",
+          "source": "Seeking Alpha"
+        },
+        {
+          "title": "IREN Stock Is Climbing on Monday After Friday’s 13% Plunge — Here’s Why - TipRanks",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQXREa0RrQ3JNNkI0ck9tNnA2c185MW1MUVFQM09VZUdRUHNaZW94Ym5KUlVBTnhadnRKeVJKdzhHa2hfbkI5Y1diNEdsVWxKWnpNME40aWZ2NXVIQXl4S0NTdTE2T04ydkNXUEZQQ1pJMkxTRllBRzVoRDM3eWJlaVpNbHhmNTBEU2t1SF9kVHJGdFJNOHdPU1h4aEI?oc=5",
+          "pub": "Mon, 31 Aug 2026 17:02:05 GMT",
+          "source": "TipRanks"
+        }
+      ]
     },
     {
       "symbol": "MILDEF.ST",
@@ -145,27 +170,27 @@
     },
     {
       "symbol": "IVSO.ST",
-      "price": 232.8,
+      "price": 233.8,
       "prev_close": 227.0,
       "high_52w": 344.0,
       "currency": "SEK",
       "yahoo_name": "INVISIO AB",
       "exchange": "Stockholm",
-      "day_change_pct": 2.5550660792951594,
-      "drawdown_pct": 32.325581395348834,
+      "day_change_pct": 2.9955947136563927,
+      "drawdown_pct": 32.03488372093023,
       "name": "Invisio",
       "news": []
     },
     {
       "symbol": "NORBT.OL",
-      "price": 157.6,
+      "price": 157.0,
       "prev_close": 159.8000030517578,
       "high_52w": 244.8000030517578,
       "currency": "NOK",
       "yahoo_name": "NORBIT",
       "exchange": "Oslo",
-      "day_change_pct": -1.3767227845704464,
-      "drawdown_pct": 35.62091583525071,
+      "day_change_pct": -1.752192114070809,
+      "drawdown_pct": 35.86601387141092,
       "name": "Norbit ASA",
       "news": []
     }
