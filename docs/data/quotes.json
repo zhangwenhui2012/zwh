@@ -1,82 +1,82 @@
 {
-  "updated_at": "2026-09-03T15:00:48.783187+00:00",
-  "updated_at_display": "2026-09-03 15:00 UTC",
+  "updated_at": "2026-09-03T15:28:50.097158+00:00",
+  "updated_at_display": "2026-09-03 15:28 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 226.195,
+      "price": 227.74,
       "prev_close": 224.41000366210938,
       "high_52w": 236.54,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 0.7954174541070188,
-      "drawdown_pct": 4.373467489642343,
+      "day_change_pct": 1.4838894360986499,
+      "drawdown_pct": 3.7203010061723107,
       "name": "NVIDIA",
       "news": []
     },
     {
       "symbol": "META",
-      "price": 608.885,
+      "price": 617.36,
       "prev_close": 592.8499755859375,
       "high_52w": 790.8,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 2.7047356117733545,
-      "drawdown_pct": 23.0039200809307,
+      "day_change_pct": 4.1342709662488,
+      "drawdown_pct": 21.932220536165904,
       "name": "Meta Platforms",
       "news": []
     },
     {
       "symbol": "AVGO",
-      "price": 346.6,
+      "price": 348.82,
       "prev_close": 367.239990234375,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -5.6203002895197764,
-      "drawdown_pct": 29.979797979797972,
+      "day_change_pct": -5.015790960733674,
+      "drawdown_pct": 29.53131313131313,
       "name": "Broadcom",
       "news": []
     },
     {
       "symbol": "AMD",
-      "price": 454.87,
+      "price": 456.29,
       "prev_close": 457.05999755859375,
       "high_52w": 584.73,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -0.47914881422389066,
-      "drawdown_pct": 22.20854069399552,
+      "day_change_pct": -0.16846750157675264,
+      "drawdown_pct": 21.96569356797154,
       "name": "AMD",
       "news": []
     },
     {
       "symbol": "RKLB",
-      "price": 62.885,
+      "price": 63.32,
       "prev_close": 63.099998474121094,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -0.3407265916326005,
-      "drawdown_pct": 58.3543046357616,
+      "day_change_pct": 0.3486553584769653,
+      "drawdown_pct": 58.066225165562926,
       "name": "Rocket Lab",
       "news": []
     },
     {
       "symbol": "IREN",
-      "price": 40.62,
+      "price": 41.27,
       "prev_close": 39.599998474121094,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": 2.5757615282371353,
-      "drawdown_pct": 47.15754058977689,
+      "day_change_pct": 4.217175732898748,
+      "drawdown_pct": 46.311957167407485,
       "name": "IREN",
       "news": []
     },
@@ -91,43 +91,18 @@
       "day_change_pct": -0.3108334625790728,
       "drawdown_pct": 5.6722689075630255,
       "name": "MilDef Group",
-      "news": [
-        {
-          "title": "Mildef board member Elisabeth Åbom makes her first share purchase - marketscreener.com",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORldkMnpURmZSZUVwRmFyR3psdjUtc09CWDhQN0dSSGVMR1hFNEdFNUlyMEh3S3N2MU00Z1ZLTmd3ckZPTFBEQWpqT2FUdFRudVVOTUpEaGlVN3VkNzUzUVlDTXlPNTNOT2ZHMmFxVXFtN181MGotMldScUVJTUgxOEllZkJIZ01fYU1QcG9Qc0lBLUR5dW5sbVRldEVnd3lWVTItQnNyaDE2UkhPaU5zWTFkV0FGbk9v?oc=5",
-          "pub": "Tue, 01 Sep 2026 04:45:16 GMT",
-          "source": "marketscreener.com"
-        },
-        {
-          "title": "MilDef Group AB (publ) Just Recorded A 87% EPS Beat: Here's What Analysts Are Forecasting Next - simplywall.st",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdUxveldZdUxZOTFvSTdIdHZtc1M2Y2E1eG82NnVNRWU2WFVjazNJUTZJbFpDNWx0WHZjZmdVOFBBRVhSRklLejdaaUxUeFVUN3hha0JGRndqaENkbEJNV216MlQ1SEF6RXZqZWRla01aWlFfQzJkZnBuTm9zenRzdEp1djFmYUF5NGlBdzdza1BISk9Fc3BCdGRmbXBobm1HV0VocXR5SVVTZ1JrTlczZ0toQVdGTlB3NF9Rc2ZNRFE3RWlBbkJZRjVnYXdmaEg4VU85Xzk2cEzSAd4BQVVfeXFMT2hETVNqZlNNY0JLZElRZW85cnBtQ3pjSVVYOWlVMWZIZUlYd0NuNHpUcHNrMWdzV09VSUZDbFV3MHRSZ0g1NER2a2ZyQThpNG4wampaRVlWd0hjOXlycEl3TS1QSHVZekEwR0RpeUh1UHVBVEJfOExoOFRZTU9maHlrN20xb0VhUWFLb0V0OFhJOXh6YkFnRFBfQU9PTmxRemsxRktKUmdMcTdQaldZWlppamhYUi0xM3I2UDlpM2tlaVFhYW0tcEk3TkMtcE12bTU2RWhVMm9aaHBrcG1R?oc=5",
-          "pub": "Mon, 20 Jul 2026 07:00:00 GMT",
-          "source": "simplywall.st"
-        },
-        {
-          "title": "Mirabella Financial Services Returns as a Public Short Seller in Mildef - marketscreener.com",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOU2F5aDFIaE1KbWV5UVR5cnR5WXppV2EycXZNSmxiSkE1Vmx2V0MtWVNGTkxKbGdqcTdPLWFMczhxYjlNZ2N0eGg4a1dDRmp5dklKQXZ5N0k1WUM1dlA5MFZDa1RqbE9VQ21DY3ZVVWVDVXBVQnN2WTcxOWlIUm91OTBoN283cjBqaFc3TDBvRFc1aHdKSF9neTNESDJyeFQwRFY2M2p0cXFRaGZyUF9SNXNhQ0NqOG1VT1JoWTk2VFQzUQ?oc=5",
-          "pub": "Wed, 19 Aug 2026 11:48:25 GMT",
-          "source": "marketscreener.com"
-        },
-        {
-          "title": "Should You Investigate MilDef Group AB (publ) (STO:MILDEF) At kr145? - simplywall.st",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPaDIta3FWQzNrTDFacjJkVFQzdURhMVdhRVhDUDUxVUs3NkdGSk9DS0ZYNDFCWURCS3Z0ZmJEQTJLWExiQkp5YThqUHlGZkF4ZG9wVGVTWXFrVEVvbXg2akVEMnZjczIwaF9pSjhnZ2FBTng3RmllM2duTlRLTnFLdVNoMEh6d2kwdGVQbWxrX1dHWWJCY0xpWWw0N0NkVVNLY1Rqa0RhcFpsWG1UQ0hoQnFZdklpU0E0WGVwblNNY09JTURoVDBxaHN1Y0VYcDdsRUNjZWhvRDgxQdIB3wFBVV95cUxOeUlWWFgyYUJhbkZ2SnNXYV9CNmZFSFhHOEpOV2NtYXpvQmhscjRVVi1mQUE1RUlVQVFiZnEwY09nSDFTUW1KdXBzNGRfLVdWRU5qcXRRQnN2Smw2RW5uM29pMjdKYU1zN085T09UdVg2ZmdwZVM1dUFBc25oUmRyMHJyWWhnZ1pqSUxRLXFkNDZiTW54cDlWUlBGNkdiOTZSMGF4bnFhX1JzRW41LWJMNndxdzNQTGwzaEc0eko2T1BfUDlnNndTclhibmVtcUhsRGNVa3ptTWpUYm0xeWtn?oc=5",
-          "pub": "Fri, 16 Jan 2026 08:00:00 GMT",
-          "source": "simplywall.st"
-        }
-      ]
+      "news": []
     },
     {
       "symbol": "IVSO.ST",
-      "price": 234.6,
+      "price": 236.0,
       "prev_close": 227.0,
       "high_52w": 344.0,
       "currency": "SEK",
       "yahoo_name": "INVISIO AB",
       "exchange": "Stockholm",
-      "day_change_pct": 3.3480176211453716,
-      "drawdown_pct": 31.80232558139535,
+      "day_change_pct": 3.9647577092511015,
+      "drawdown_pct": 31.3953488372093,
       "name": "Invisio",
       "news": []
     },
@@ -144,10 +119,10 @@
       "name": "Norbit ASA",
       "news": [
         {
-          "title": "NORBT Forecast — Price Target — Prediction for 2027 - TradingView",
+          "title": "NORBT Forecast — Price Target — Prediction for 2027 - tradingview.com",
           "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1GWDVHdEMzX0ZmeXk5cEpuZ3F4WFNMZm5jMzhFOEsxc0Q5TnV5YUdWcWh0VXd1c29jdGl5R0hneDJTaXBwclB1V2E4Q2ZzWWpEYkZ5UDFPRTZGZjVxOXlNcUhJQ2V1ZTliemxPRnJZYzVsR3hKV3Rr?oc=5",
           "pub": "Fri, 26 Jun 2026 13:15:32 GMT",
-          "source": "TradingView"
+          "source": "tradingview.com"
         },
         {
           "title": "Earnings call transcript: Norbit posts record Q2 2026 results as shares slip - Investing.com",
