@@ -1,55 +1,55 @@
 {
-  "updated_at": "2026-09-04T17:30:32.926073+00:00",
-  "updated_at_display": "2026-09-04 17:30 UTC",
+  "updated_at": "2026-09-04T18:00:42.893140+00:00",
+  "updated_at_display": "2026-09-04 18:00 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 230.625,
+      "price": 230.05,
       "prev_close": 228.4499969482422,
       "high_52w": 236.54,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 0.9520696348490575,
-      "drawdown_pct": 2.500634142216958,
+      "day_change_pct": 0.7003734178732871,
+      "drawdown_pct": 2.7437219920520763,
       "name": "NVIDIA",
       "news": [
         {
-          "title": "After Earnings, Is Nvidia Stock a Buy, a Sell, or Fairly Valued? - global.morningstar.com",
+          "title": "After Earnings, Is Nvidia Stock a Buy, a Sell, or Fairly Valued? - Morningstar",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeDVnMEdoMnIzT3QtWGducy1Od25VMVM3Z3I3elBURm9ia05yQkNEUE9veGNaTEJZaW5INzlmTVdwOEpIbTgzX09mcEdiSGhGSU1oSXdMNzdfOEJkbGZxeXNTMlBhLVlPMWVNaWYtSmZMUmp2N1lBMm90dnF1cFhhSTVBd2F2a3AzRVg1OEdsdU1aSndxN05UTHB1Qk00Vjl1MnlwTw?oc=5",
           "pub": "Fri, 04 Sep 2026 08:05:19 GMT",
-          "source": "global.morningstar.com"
+          "source": "Morningstar"
         },
         {
-          "title": "Nvidia stock extends gains to hover near all-time highs - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSGVMeExLRmhXbU9hZDlfbHIzTGl3RkR4bDVyVEJoZFVCc1ZRdnNZT3M5Tlo3VnlBYzRMN0h2aWpEZ3JGMHdGUFhWeldUWEg0U0w0NzVCZXk5YTJiYk1YaFR2bUtPUEhyTDJURHZKY2pSN2xDRVV1M29uQlhiQTlJSlp6SDIyWV9hNE9CXzNtdG1yUFRfWm9HYWxTMmJoVVJObDM2NXdlaXptQUlhcE1GRkdn?oc=5",
-          "pub": "Fri, 04 Sep 2026 15:26:08 GMT",
-          "source": "Yahoo Finance"
+          "title": "Jim Cramer has a strong message for Nvidia stock investors - thestreet.com",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVmxCOEUzM05wOEk1aFJRRFYxdDdNbDdoS3JqMlIwZzlBTjFobllvQjVCRW1GcUVGd0x5WnVpMG9NYUVpdkZfR1ZyTjRhS0hROF9PWXNjYlNPTmdNanBMN3VINGkxSXBjVVE3U2RRcnJEQnIyaUpWUDVUWE92YnFWOWdKb0pKcV9GMVlpcy14OGZmN0ZsYzdTNGhOVTluMGp6WDFfYThwVUFQcjRDRnd1dkxmYzdteU10Q1E?oc=5",
+          "pub": "Wed, 02 Sep 2026 20:55:49 GMT",
+          "source": "thestreet.com"
         },
         {
-          "title": "Intel Climbs 4%, AMD Rises 3%, NVIDIA Ticks Up as Chip Stocks Shrug Off Rising Rate Hike Odds - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPa0xOekY3a3ZON1lkdjVNelhNQ3dXOHdqbE1ERUgyVUhLZ09nNEV0SXlaNFQydXNwSjlacjNmVV9Tb29rTDNJVUNIdXVZWFFlcERtVy1ldmJ1U3AwUlVKSmF1cmstVHpxYkZsS18yNHBpcFJva1JNV3BSbXE3ZFNlTUpaU0R6SUlHVG5ObUhYbTQyWUZVYUE?oc=5",
-          "pub": "Fri, 04 Sep 2026 15:12:07 GMT",
-          "source": "Yahoo Finance"
-        },
-        {
-          "title": "Jensen Huang’s Net Worth Nears $200 Billion After Nvidia Says It Will Acquire Hugging Face - Yahoo! Finance Canada",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVTZ1RFlFTEtyYW1CT1ZfdGYySjZUWmk2NmQwQUdrYTB4UDVwY3YtY1lpR1lYNHBneGlHOGZYeUQxSWhDYW1kTGYxVVE0SUk5Z29jdTN0VE9POURQUVAzYnFmb2s5Vkcxd0hhWG1jMW0wd0ZRU08wQzFTQjJmSERMaFlocw?oc=5",
+          "title": "Jensen Huang’s Net Worth Nears $200 Billion After Nvidia Says It Will Acquire Hugging Face - Forbes",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVVhEYzRsSWhMcG5SUEoxa1ZFVlh2T0RMckItYjVXMGpVZUJvYVlMRG5iNlFzb21TWjl6ZjY3RjNpcUwtdFBvbVdpTXQyS0prNzNkVS1Kb3FJbmNQRk1OLVV0cS1QRHVkR0ZUVUJPQThKWWFlNTgwLTNEM04yckU5TE91NG1mMndlTHE2YnBBQUhPZnZwX1dKSXdCWDdHcFk4RDZxN2RKMWo2NVFLZmZBRk8tZV9JWDFGZkpWWklEYXotZVA0U0F0NmtJVlcyZlh1TTNVOTBUeDN0WVY4cHFB?oc=5",
           "pub": "Fri, 04 Sep 2026 16:49:17 GMT",
-          "source": "Yahoo! Finance Canada"
+          "source": "Forbes"
+        },
+        {
+          "title": "Nvidia's investments grow to $99 billion as chip giant becomes major backer of AI companies - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4xY1VMRWpNNnF5TVZFV3I1c2pRVURDaEN6VERDQTctRXpsdWxQLUxqanlZUWhlTnl1ekRvNWUzdS0xMHl3dlBfVUdvcWFqSUw1RnBnTzdoMUtSV2ZBb3NCbTFUWmZXX2VnaGthTTFKTzN2UFVNS0lmNNIBfkFVX3lxTE5vS2VVMndVYUJ6SkU0aC14VzMwY3dKYkNTekowZnJZUW9zNllkeTg5d0kyNlk3Y0pNei1FOHNqZ2NKbFV1QWNrbWpocGRTLUpWTmZWR185dlh0S3VCdTd0Rjdpc1lSX1o0NDI0cTNDOThSMXVyRkxLMFpkZjl4QQ?oc=5",
+          "pub": "Fri, 04 Sep 2026 08:08:51 GMT",
+          "source": "CNBC"
         }
       ]
     },
     {
       "symbol": "META",
-      "price": 609.29,
+      "price": 609.165,
       "prev_close": 610.6799926757812,
       "high_52w": 790.8,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -0.22761392094914323,
-      "drawdown_pct": 22.952706120384423,
+      "day_change_pct": -0.24808290658797097,
+      "drawdown_pct": 22.968512898330804,
       "name": "Meta Platforms",
       "news": [
         {
@@ -80,22 +80,16 @@
     },
     {
       "symbol": "AVGO",
-      "price": 354.775,
+      "price": 354.675,
       "prev_close": 357.1600036621094,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -0.6677689656330407,
-      "drawdown_pct": 28.32828282828283,
+      "day_change_pct": -0.6957676214104581,
+      "drawdown_pct": 28.348484848484844,
       "name": "Broadcom",
       "news": [
-        {
-          "title": "Broadcom delivers strong earnings view as CEO touts growth with AI labs - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE02MnFmSEVidVJwbDBTVjFsaFdzYTFSUnlPVmdnSXVEZ0I2dkhjNnQ0MUZFb2xHU0RpaU1jNzRxNGxUS3U5NlJyVWxiQXRsV1RPdlZLR2tIakNDSEI2ZkZUeFIwekhIQ1RkQVNPeWlaekVKTzh3bm81cDVFWmlRbEXSAYQBQVVfeXFMTWRuaWdHVEM0cXZrNXYwRHVOVmNIVTBnQm5Cejk3ZENUUURlMVZRN3ZPTmtXaVFFbTI3OGR6LXZnWUdOWVhpNWpLNnAxTF93cmVzclJyLXJQTk1MalQ3c25rbkZvNnNMYThxcGoxQ1ozYnVTOVhkRXB0VjhxaGJxYkF0RjY2?oc=5",
-          "pub": "Wed, 02 Sep 2026 20:22:09 GMT",
-          "source": "CNBC"
-        },
         {
           "title": "Broadcom stock falls as chipmaker's strong results 'not enough to keep investors happy' - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQSWlGTWUzNEtsNnJOcVdmNWFzMFRKTUNHR3laSnFfUlFMY1U5c0R0UUxlWGg0cjc4UnIycHZHY3FNSWRlY0xQNUNCTzBhaVdCbzBjcEVDT25Cb0I3Rm5ubFRyWVZlMDdJdmJEOFVvY3ZHUVlXYjZNTEozQklLc2dhTk01TWVlRE5ybThDM3NTNkRfZzg4bGMyY3BQY0pMdmpaVERZaDBOT1dnbTMxd3ZZalVabzVoNWdPY3hRczJLRjZxSkdBLUFsSUU0ZEhkVXgwQzBKZjBsYTdqVlMzZ3pIVXZR?oc=5",
@@ -103,29 +97,35 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "DA Davidson cuts Broadcom stock price target on guidance concerns By Investing.com - Investing.com UK",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNVE3Mk5Ja2xYMFRhR1NUV29yTW9ZTEtyWnN3djBDaFNPUXV3dXZ4LUhFamtmX0MxTGNsWGUtVGFJT05ZXzJJY3lZRFVXNncwU29YWnd3bVgwNENaZXNpYkowcGZTS3UzMzQ4eTdxOEhodVNrYldCYjlXNnNBRDk1azU0T0NUWVhlUEpfN0ZoVHpoRkJvRVJqT0xFMUU3YTlDZEluUHEtS3dRZ1o3SzZzXzYwRlBkMjdjQU04bzlROGp4VjBC?oc=5",
-          "pub": "Fri, 04 Sep 2026 14:44:00 GMT",
-          "source": "Investing.com UK"
+          "title": "Futures Mixed, Oil Keeps Rising; 7 Earnings Movers With Tesla Due - Investor's Business Daily",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSkZOeGVKMnczSWdGQm02WF9GNk5fN0w1SDY1X1hmZGl6ZXZNUE55eGZMdVEzZWxWS1VZWTFRY0pUYzhsYUJnZ1hjU0FMX3NyVjEzSkhtT0EzQXl0MlpaMTJDZ0pCNDVDSEhzdC01YzhvcmJkY2l2RXdlMFBaazFKUkU4Ml9vai1fV2tJRFNINFdVQnpHcHdjZ1hnLVUzQmRaNE5pTTF5aWtTNHNfWHZoa05aVlhUMm9lbkc4SzFoamZwSldMWTZGXw?oc=5",
+          "pub": "Thu, 03 Sep 2026 12:11:00 GMT",
+          "source": "Investor's Business Daily"
         },
         {
-          "title": "Broadcom Earnings: Bullish 2028 Outlook - global.morningstar.com",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYXFkbkpPSDZrTERsWERDTFJvTUdUNkFRZl9Wc2p0c2d5ekdxWG5vbWhqTGVSN05vRm93clJFV3VGR20zdHJBUm41T0Zsb21EZFN1d3Bqc3JWYXByc1p0Nk1qQmxneGphREwzZEd5Qk94RVJMZno0RjNGZmlOdkF0aDI4VDFlSjFNOXc?oc=5",
-          "pub": "Thu, 03 Sep 2026 08:57:59 GMT",
-          "source": "global.morningstar.com"
+          "title": "Broadcom delivers strong earnings view as CEO touts growth with AI labs - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE02MnFmSEVidVJwbDBTVjFsaFdzYTFSUnlPVmdnSXVEZ0I2dkhjNnQ0MUZFb2xHU0RpaU1jNzRxNGxUS3U5NlJyVWxiQXRsV1RPdlZLR2tIakNDSEI2ZkZUeFIwekhIQ1RkQVNPeWlaekVKTzh3bm81cDVFWmlRbEXSAYQBQVVfeXFMTWRuaWdHVEM0cXZrNXYwRHVOVmNIVTBnQm5Cejk3ZENUUURlMVZRN3ZPTmtXaVFFbTI3OGR6LXZnWUdOWVhpNWpLNnAxTF93cmVzclJyLXJQTk1MalQ3c25rbkZvNnNMYThxcGoxQ1ozYnVTOVhkRXB0VjhxaGJxYkF0RjY2?oc=5",
+          "pub": "Wed, 02 Sep 2026 20:22:09 GMT",
+          "source": "CNBC"
+        },
+        {
+          "title": "Broadcom stock sinks as chipmaker results 'not enough to keep investors happy' - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWi1FQVA1Q2FubEZJbUloSnRsRlBSWnBzTkVZSU85RTNJdE9LUEV0N1NBM3U0NDNPSHczc0I5aVozWTc4TjBwMXBiUTdYbGt2OTJEMk9oQkpzVDJiYXF0UWlWNjZHb1pGX2hRTjFoM0lkWjRtUEZjQVdzY2hjUGY5cjgwVzBueFp4ZjhjY2YwRW1BMEZZcXo3VWx5U3J6MkZJOUpSby1ySUFaUGVHZnV4dU41MDlQTFpfWUtQRHFWYjNNUEh3bzg5WlNNWGxXQQ?oc=5",
+          "pub": "Wed, 02 Sep 2026 20:59:29 GMT",
+          "source": "Yahoo Finance"
         }
       ]
     },
     {
       "symbol": "AMD",
-      "price": 473.78,
+      "price": 472.95,
       "prev_close": 456.1600036621094,
       "high_52w": 584.73,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 3.8626789276646507,
-      "drawdown_pct": 18.974569459408624,
+      "day_change_pct": 3.680725228669421,
+      "drawdown_pct": 19.11651531476066,
       "name": "AMD",
       "news": [
         {
@@ -141,10 +141,10 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "Artisan Trimmed AMD (AMD) After Its AI-Driven Surge - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQV1A5cHVfbVlucmdIbFRydmZLT1ExQmVvUGt0dGNNZUtkYkVfVzJNSWxjUGNnZTJWbXhSeXRWWVVnWDQwWVBVdHQ5bGNWMHpyYlo0N1hXUEpvdHhnX1BHbUgwcW1wRktfZnhYaFpjeERLNi1YWkRHZjhEUHhRdVZ5a1hreFV0QnJVTHJ0cTFLOERhNlkwVGc?oc=5",
-          "pub": "Thu, 03 Sep 2026 13:19:22 GMT",
-          "source": "Yahoo Finance"
+          "title": "Prediction: AMD Will Join the $2 Trillion Club in 2030 Amid Historic Growth in This Market - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQcU55a0J6N1g4czdmcUhScnFOWWRSU3pSdFdVdWZGM3RSVUFlLVZmanJ0NEtlekFVV1VwUTZZZlFGckhsdlFSUzVZQUd1RGVWQmlETlZwdHA3OUVOQ0Y0QWFMNVRNeDlrRno4S2RFa1QydVMtSnVyQXlIcHRlTUpHV1ZxajBfS0VZaE4zc3QtUUE2d3JiWDB0c1RSVVBzeDUxVFJkYmd4ZkNma2xMazk4RDdfQWdwVkY0T1l3UHh5cjBzaVlNRzVFU1VnZ2JmdjQ?oc=5",
+          "pub": "Wed, 02 Sep 2026 18:42:00 GMT",
+          "source": "The Motley Fool"
         },
         {
           "title": "Intel Climbs 4%, AMD Rises 3%, NVIDIA Ticks Up as Chip Stocks Shrug Off Rising Rate Hike Odds - 24/7 Wall St.",
@@ -156,27 +156,27 @@
     },
     {
       "symbol": "RKLB",
-      "price": 64.02,
+      "price": 64.01,
       "prev_close": 63.810001373291016,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 0.3290998623875279,
-      "drawdown_pct": 57.60264900662252,
+      "day_change_pct": 0.313428337885451,
+      "drawdown_pct": 57.609271523178805,
       "name": "Rocket Lab",
       "news": []
     },
     {
       "symbol": "IREN",
-      "price": 43.621,
+      "price": 43.735,
       "prev_close": 41.650001525878906,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": 4.732289080221117,
-      "drawdown_pct": 43.253546973576015,
+      "day_change_pct": 5.005998553987076,
+      "drawdown_pct": 43.10524465026815,
       "name": "IREN",
       "news": [
         {
