@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-09-04T04:30:33.250817+00:00",
-  "updated_at_display": "2026-09-04 04:30 UTC",
+  "updated_at": "2026-09-04T05:00:38.190046+00:00",
+  "updated_at_display": "2026-09-04 05:00 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
       "price": 228.45,
-      "prev_close": 224.41000366210938,
+      "prev_close": 217.44000244140625,
       "high_52w": 236.54,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 1.800274618761458,
+      "day_change_pct": 5.063464604016739,
       "drawdown_pct": 3.4201403568106894,
       "name": "NVIDIA",
       "news": [
@@ -43,15 +43,21 @@
     {
       "symbol": "META",
       "price": 610.68,
-      "prev_close": 592.8499755859375,
+      "prev_close": 578.5399780273438,
       "high_52w": 790.8,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 3.0075103564675567,
+      "day_change_pct": 5.5553675101666276,
       "drawdown_pct": 22.77693474962064,
       "name": "Meta Platforms",
       "news": [
+        {
+          "title": "Why Meta (META) Stock Is Trading Up Today - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcktGUXVRWU9kTUMwc3duY0JuYVMyMTVpakZXUjNWNzlzejUxRVBNbGNHdl9EZWNrS1p0OTRTcFdjYWVRSXJMUzBaVnl1X1Bva3Bmd24tZk94c2hEaGdraW9IdVo0MjloekpRdVRyM3Y3Y3Z6SVRSdnBMeTgzeWNUQ0p4cnQwcGlNN2RsUU0yVTJXWEIzb1g4?oc=5",
+          "pub": "Fri, 04 Sep 2026 01:51:00 GMT",
+          "source": "Yahoo Finance"
+        },
         {
           "title": "Something Is Wrong With Meta (NASDAQ:META) - Seeking Alpha",
           "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5qcFBnUWxkVEdSVUpoUHl4dzFVTmFoZ25Oa0tLaTBHNlVjc1ZVU3dtRlhCeHdXaURoTzB4dkpJV29XVG4tYVplVndLYUxCMXhVWVJmeXNVdW5laWF6a0czRW1xU1cxM0tDNXlOWWZwY3dfUU1fRkRMWA?oc=5",
@@ -59,34 +65,28 @@
           "source": "Seeking Alpha"
         },
         {
-          "title": "Meta Stock Has a New AI Catalyst. Is META Headed Back Toward Its All-Time High? - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQzhlM1JGcFh3VFc3NGhqX2tXY0xma2tCcDc3b0hjdHQ3bFRBUmh3ZjJ5eGh6MVFTR094eXQwUW9QVFM0NWhFMEV5Qk5mMDBYT3lfM3F4MU81SWtkQUhFcFk2WFlqSVg1WjFsUWhrR0pMd0QxLXZlcHFmNFUtYWljQ2ZvTjFCUjZvWmNERnl4SUVZcDZPRTNn?oc=5",
-          "pub": "Thu, 03 Sep 2026 16:00:38 GMT",
-          "source": "Yahoo Finance"
-        },
-        {
-          "title": "Why Is Meta Stock Up Today? - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0zMVBNVHpCTkJYUDNJZ0V5RUdHNWZEN3dNR0pyemlMdnRid0JxcWlXdXFOUU45eDlVU1V5QjJEaEt5RmlmeFdHNWVRQU1ocklDTENlWTJMdWxGLVFKbnVwc1Y5WVVoX1pWdk1rZmFsS1gwLTdxUUdFdQ?oc=5",
-          "pub": "Thu, 03 Sep 2026 20:21:00 GMT",
-          "source": "The Motley Fool"
-        },
-        {
           "title": "Meta Stock Has a New AI Catalyst. Is META Headed Back Toward Its All-Time High? - 24/7 Wall St.",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQU21PU3haYkdEVUl2V1JRY0lSZHF3MDJjREhybDZMS1I4VGR5N0pKeUhGQ00xQ0JDaE5tcWdFa0l6Y0tHVlVQdHNtRk1fM2xiYkRURVF0cVBGX1B1UUU5UTJISHZKWEgwVXIxRDZJajlsQWVfVXpvTnk1MVVrbmJia3BwSnp0WVZvWkhoXzlrSGtUckZGWGVZUWtVcmpwelYwRVg5YWtTdzRRNXZaT2hycmJ4VUlxN0xUbDJ0eFdn?oc=5",
           "pub": "Thu, 03 Sep 2026 16:00:00 GMT",
           "source": "24/7 Wall St."
+        },
+        {
+          "title": "Why Is Meta (NASDAQ:META) Stock Up 4% Today? New AI Models Are Fueling the Rally - Stocks Down Under",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9VdGhJUks2V2JIdVl6UXAwMHY3S240ZkJTY09uUGZhSG92WmpKc1JsM2d3YmY0M0t5N01OWG9WNlVwWFlLQzBONkZSVzk1TlJhcHFhWHUzQ2ZPNFdsU2ZKbHRoUHp1Q3ZJOHc?oc=5",
+          "pub": "Thu, 03 Sep 2026 19:59:00 GMT",
+          "source": "Stocks Down Under"
         }
       ]
     },
     {
       "symbol": "AVGO",
       "price": 357.16,
-      "prev_close": 367.239990234375,
+      "prev_close": 369.67999267578125,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -2.7447964552939506,
+      "day_change_pct": -3.386710918586708,
       "drawdown_pct": 27.846464646464643,
       "name": "Broadcom",
       "news": [
@@ -103,28 +103,28 @@
           "source": "The Globe and Mail"
         },
         {
-          "title": "Futures Mixed, Oil Keeps Rising; 7 Earnings Movers With Tesla Due - Investor's Business Daily",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSkZOeGVKMnczSWdGQm02WF9GNk5fN0w1SDY1X1hmZGl6ZXZNUE55eGZMdVEzZWxWS1VZWTFRY0pUYzhsYUJnZ1hjU0FMX3NyVjEzSkhtT0EzQXl0MlpaMTJDZ0pCNDVDSEhzdC01YzhvcmJkY2l2RXdlMFBaazFKUkU4Ml9vai1fV2tJRFNINFdVQnpHcHdjZ1hnLVUzQmRaNE5pTTF5aWtTNHNfWHZoa05aVlhUMm9lbkc4SzFoamZwSldMWTZGXw?oc=5",
-          "pub": "Thu, 03 Sep 2026 12:11:00 GMT",
-          "source": "Investor's Business Daily"
+          "title": "Why Broadcom Stock Dropped Today - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOM3JxNHpka2VIX0otSWVCLTViLTNXNFhrUnp6MHNMUFZqamxkSDFPd3YydXZ4c3pFNDZrdDJTamZ6amI1b3d5ckllQTFjbmk2aVVPMHJBbUc4ZXlZcTVONEJ0QXFqSFp1OUtnMVJmU0trSEJMMWlRM0pvbUhSSVRLUUVMUWRfSmtQT2w2SEJIalVfdmEtT1I2RFlpRHNJdw?oc=5",
+          "pub": "Thu, 03 Sep 2026 15:05:44 GMT",
+          "source": "Yahoo Finance"
         },
         {
-          "title": "US Premarket Movers for September 3, 2026 - Bloomberg.com",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeVJrUnZyTjZwOGp3RXh3NFZSZF9XV0MzbVl5RWd1bnljVFpNdmQ3M2RuNTQ5NDZGSjRSWEIxUDh3UE11RjBXc0VoWTJKWjU0Um9BWnJtSHZGMHlSV3E4RlpfRzlNS0NDWTlvT1JYajdTVmJsMHJ3UVhzdEJmX1JWQkRhMlJ5b1M2akN2ak82WG92Qzlya0QyYUQtWDBkUFdKejZ6VC1CbWhzbHc?oc=5",
-          "pub": "Thu, 03 Sep 2026 12:03:54 GMT",
-          "source": "Bloomberg.com"
+          "title": "Why Broadcom Stock Dropped Today - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeTZtZFpkSjZnc2djRF9MNy1uNWQycVVRNFRGRWZCbzc2OE9WaWVtVHdfN0FibEg3U2FBM2E5UkdQUFZxWGExdklIckxTX1pkNWNVbjFUQk5pYWZhYTFvLUdiLVQ5VWQ3T2ItRjNBOXdOT3hfVV9fV1A4R0ZCdFQ4cA?oc=5",
+          "pub": "Thu, 03 Sep 2026 15:45:00 GMT",
+          "source": "The Motley Fool"
         }
       ]
     },
     {
       "symbol": "AMD",
       "price": 456.16,
-      "prev_close": 457.05999755859375,
+      "prev_close": 459.6099853515625,
       "high_52w": 584.73,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -0.19691015695994002,
+      "day_change_pct": -0.7506332459081649,
       "drawdown_pct": 21.987926051339933,
       "name": "AMD",
       "news": [
@@ -141,28 +141,28 @@
           "source": "The Motley Fool"
         },
         {
-          "title": "Advanced Micro Devices (AMD) Dropped, So What Is Driving Attention Now? - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZDdVVklrbENqSEtwZkFWR1FSQkcwOXhpWmJTT0hhcVNEM182WVNSOWgtVkJyOXdmeEM4SExpamNXNlFJdTJoTl9vdUdZbjlDalpUZnkzbjdMSFU1QVVGekRZMU9WY1RnaVk2SEpkQWl3MXhsdUZuWHhBUGIzTXpXS0U1WE1fUzZkS2VXV2EwOFk0VVdYdE92ZnBvSk00SlB0?oc=5",
-          "pub": "Wed, 02 Sep 2026 19:06:37 GMT",
-          "source": "Yahoo Finance"
-        },
-        {
           "title": "AMD: Buy This Post-Earnings Pullback - Seeking Alpha",
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcTluTloyNU1VMENPQ2tkVVN1dWZKZWp1cEVzNkpVdVg2aGEzVjF3eTdDMngzM0NheWFqUFJnQmpEdEtqOURPZFRyazdTLUY4UkRlVHRDVzBaM0twNnJVNGVpQVF6b0VRMlRQaHZnOTZyS2pUSnlaSU1PRk5MQ292dENB?oc=5",
           "pub": "Tue, 01 Sep 2026 10:59:11 GMT",
           "source": "Seeking Alpha"
+        },
+        {
+          "title": "AMD is Quietly Eating Intel’s Lunch - 24/7 Wall St.",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNT2RkOTV3eTkzNkk3d0dHeHQ2T1ltQXh4T1NMaWVoZGRKMU16OXJ2eU9ua2pZRmxnYW5DNVpILWtRU3NDdGdBRmJQN08xUWUwZ0hTdENsd01zd0VWZC1nZ1lFV1JnRUFkWkl5VDVYREgxOHBiNXBOUzJrS01Gbnk5WWlQekk?oc=5",
+          "pub": "Thu, 03 Sep 2026 12:24:00 GMT",
+          "source": "24/7 Wall St."
         }
       ]
     },
     {
       "symbol": "RKLB",
       "price": 63.81,
-      "prev_close": 63.099998474121094,
+      "prev_close": 62.540000915527344,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 1.1252005436578547,
+      "day_change_pct": 2.0306988581404783,
       "drawdown_pct": 57.74172185430464,
       "name": "Rocket Lab",
       "news": [
@@ -195,26 +195,26 @@
     {
       "symbol": "IREN",
       "price": 41.65,
-      "prev_close": 39.599998474121094,
+      "prev_close": 36.81999969482422,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": 5.176771729470133,
+      "day_change_pct": 13.11787165999008,
       "drawdown_pct": 45.81761608971461,
       "name": "IREN",
       "news": [
-        {
-          "title": "IREN Climbs 4% as Co-CEO Says Debt and Prepayments Can Fund FY27 Capex, TeraWulf Slips - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNN0NySk4wZG41Vk1vaE9pazdGX0RBSGoyLWRWTmIzaGl4QUpVY0FRZVplUWZiWFRYMUlVYVNzdDh3SUR5NDNFeG44VVVvb3dmX3gyZG5pX1lmTTRVa0VXemhzTnBsYko3empQQXJiT0loei1rdGRoZFREV0FhWDM3dWk3a09nTV9WUmctUWJn?oc=5",
-          "pub": "Mon, 31 Aug 2026 17:47:35 GMT",
-          "source": "Yahoo Finance"
-        },
         {
           "title": "IREN: $4 Billion Of Contracted ARR Changes The Story (NASDAQ:IREN) - Seeking Alpha",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPS0tyRURyY1N6NElmdm00VXVLRkloQ1c2QV81SjF6M3FXclF1bHNlZzRfcE4wWHpDOUQtaXBOV0VKZ2pXdTRVUnk0YkxfdWs3b3FIaEJSNGZkaHFCVEY5cXF5V08wMHBFOXE4cFl2ZVBrMzBHX3FfZDNiREJfUmhTZWtGUFFSZmUzNnljTUJRTEdYc0RK?oc=5",
           "pub": "Tue, 01 Sep 2026 06:11:40 GMT",
           "source": "Seeking Alpha"
+        },
+        {
+          "title": "IREN (IREN) Gains A Clearer Path To Texas Power Expansion - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObXRISC1mTE9UclhPQldlUXlfSUFPNXloZHZkaERTcmczckhXNkJZbG5TekZqVjYtWkdXYVRKY1NhUUpYal9qd0VNQnI2OWdQLXlYaUF2US01M1g4d250Z1lnTVgxMGtoVi1nLW83T2JPc3RoQWR4a0MzUTVwdDlZT1lhTEFSMF9IODNEQ2xrM2g1VWxnQnpB?oc=5",
+          "pub": "Wed, 02 Sep 2026 17:07:08 GMT",
+          "source": "Yahoo Finance"
         },
         {
           "title": "Citizens reiterates IREN stock rating on platform scaling to AI - Investing.com",
@@ -325,10 +325,10 @@
           "source": "Investing.com"
         },
         {
-          "title": "NORBIT enters exclusive negotiations for an Oceans technology acquisition - globenewswire.com",
+          "title": "NORBIT enters exclusive negotiations for an Oceans technology acquisition - GlobeNewswire",
           "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOekFGUzJuXy1VYWFrVW9HZWZwV0ZNNGVUZnVsakU2U2I5UUt5QVFCSVJ2akJSR3lJX1FOckJTVTdBWTFvSlJCVUhtYlJMak95NG1CT1AwZlJqbXpPZ2Z6Y0tuYV9waEJTa3d2Q1BJRE1JMVZmWE9PdzVnQXA4RGZIazNUYjNEX3RiMWRHa0dSdnhqQWxLUUVOdURQYWZEb0JmNmhYSTB2Slo4ay1HbmJPdkk0OThHbW82UWtYMnZUQVdfQW5ub2ticnVDeVVsM3ZENmtyazd4ZmpZSGQtQ0E?oc=5",
           "pub": "Wed, 06 May 2026 07:00:00 GMT",
-          "source": "globenewswire.com"
+          "source": "GlobeNewswire"
         },
         {
           "title": "Why Norbit (OB:NORBT) Is Down 6.2% After Raising 2026 Revenue And Margin Guidance And What's Next - simplywall.st",
@@ -337,10 +337,10 @@
           "source": "simplywall.st"
         },
         {
-          "title": "Agreement for a new NOK 325 million order for GNSS On-Board Unit deliveries - NTB Kommunikasjon",
-          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOVEFaLWJoRDg4REVRQk5hYS1mWEZDcW00UGhlX2NtWXZlRUxSTkVOd1hTLVBQamZOR1JZYU5MUTdnX2d6eDdJck1fSVZHRXpiS0VCUUZIVkFTVWhjeENJNzl1QUhvQmlka1lrR0VJelUybU5kbzhQLTRRREVBV2VlTGdzMVdzd3FoY0JqS0dzY2FLbkkwY0hxUW16ZTc1azBfQm9QZHN6LV9NTEIzbk1VSEx6dmc1Y2xubXo4OWF2ZnBPYmtjN3VzZktLR0ZpRVZTcVRCcmRBc2NLeFZLZkprVEgzOWQ3NTZidkRR?oc=5",
-          "pub": "Tue, 21 Jul 2026 07:00:00 GMT",
-          "source": "NTB Kommunikasjon"
+          "title": "NORBIT and Water Linked join forces to broaden underwater technology offering - GlobeNewswire",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNaUZtdTF1azNXc2gyQWxfWXhqXzdQU0gwRkJIdjgxNEtYbFczcFZuaXF2Y3A1TXA3cjQybVdlTXoxQ2c2czRWbGEtTTZib00zek5NQVRGWmU5YnlfbUV0aTVDMF9hVWF3YkVVN0hfVGJQbDBld2hielJqMVNCbHQxcEczSTlpQW9ETnRuSmcxN3BzaWJGX3pBNDZ6WGRxRmlmc0U4S3dwUkF1X1ZLRkpEVG1RbXVPYzM0eEhzVWRvc0E4dWFDcm1xQWY0LUdpQW04QUY2OU9uSG14cWR3R3BRSkd4MA?oc=5",
+          "pub": "Mon, 22 Jun 2026 07:00:00 GMT",
+          "source": "GlobeNewswire"
         }
       ]
     }
