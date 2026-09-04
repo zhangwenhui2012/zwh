@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-09-04T15:00:44.106843+00:00",
-  "updated_at_display": "2026-09-04 15:00 UTC",
+  "updated_at": "2026-09-04T15:26:39.445575+00:00",
+  "updated_at_display": "2026-09-04 15:26 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 232.17,
+      "price": 232.06,
       "prev_close": 228.4499969482422,
       "high_52w": 236.54,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 1.628366426549179,
-      "drawdown_pct": 1.847467658746937,
+      "day_change_pct": 1.5802158459103415,
+      "drawdown_pct": 1.8939714213240848,
       "name": "NVIDIA",
       "news": [
         {
@@ -21,10 +21,10 @@
           "source": "Morningstar"
         },
         {
-          "title": "Nvidia has built a $99 billion equity portfolio from almost scratch in 2 years - businessinsider.com",
+          "title": "Nvidia has built a $99 billion equity portfolio from almost scratch in 2 years - Business Insider",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdUlmTllXTlotSnNNeTBZSUJHU1AzRGQya3otbVB5NUlXM09hZEFvMHdBRUtNTkRoc0lXZGdlTnRaWTNmWGpNUmhPVWw2cWJQQlZCekROSzBLUFNmSURRblRHb01MNzg1OUxwa3VNbWpraFlZUDNTb0RZWml0dFdCZ2hMYnNXRGRPaDNUVTdWd1hkcGlFWTE2eFljczdYdnE1LTRNcDF1YzF1NC1UT2FlWg?oc=5",
           "pub": "Fri, 04 Sep 2026 14:22:37 GMT",
-          "source": "businessinsider.com"
+          "source": "Business Insider"
         },
         {
           "title": "Tech stocks today: Tesla stock falls after Cybercab event fails to impress - Yahoo Finance",
@@ -42,14 +42,14 @@
     },
     {
       "symbol": "META",
-      "price": 609.67,
+      "price": 612.8,
       "prev_close": 610.6799926757812,
       "high_52w": 790.8,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -0.16538820460710763,
-      "drawdown_pct": 22.904653515427416,
+      "day_change_pct": 0.3471551957891384,
+      "drawdown_pct": 22.508851795649974,
       "name": "Meta Platforms",
       "news": [
         {
@@ -80,14 +80,14 @@
     },
     {
       "symbol": "AVGO",
-      "price": 356.15,
+      "price": 356.13,
       "prev_close": 357.1600036621094,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -0.2827874486934181,
-      "drawdown_pct": 28.050505050505052,
+      "day_change_pct": -0.28838717984889845,
+      "drawdown_pct": 28.054545454545455,
       "name": "Broadcom",
       "news": [
         {
@@ -97,35 +97,35 @@
           "source": "CNBC"
         },
         {
+          "title": "Broadcom Forecasts Steep Ramp In AI Revenue - Investor's Business Daily",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQN0pBRHB6Ui1HVGVHMEFMR0pIaHBTb1BIc1ZONDQ1clJlZVAzUkpFU3pobzNKSmt1N1RMLUNMdUpSSHI5MUFpTnp0MTlGTTNCSmMxdGZtSzg5SlVVZl9KWDhmUFJHOV9QaUs0dFZWNFk5MWpiQ25BV3NaV2lMWFBZWm51T1E1TE5HLTd3R2Y3NldBdw?oc=5",
+          "pub": "Thu, 03 Sep 2026 20:51:00 GMT",
+          "source": "Investor's Business Daily"
+        },
+        {
           "title": "Broadcom stock falls as chipmaker's strong results 'not enough to keep investors happy' - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQSWlGTWUzNEtsNnJOcVdmNWFzMFRKTUNHR3laSnFfUlFMY1U5c0R0UUxlWGg0cjc4UnIycHZHY3FNSWRlY0xQNUNCTzBhaVdCbzBjcEVDT25Cb0I3Rm5ubFRyWVZlMDdJdmJEOFVvY3ZHUVlXYjZNTEozQklLc2dhTk01TWVlRE5ybThDM3NTNkRfZzg4bGMyY3BQY0pMdmpaVERZaDBOT1dnbTMxd3ZZalVabzVoNWdPY3hRczJLRjZxSkdBLUFsSUU0ZEhkVXgwQzBKZjBsYTdqVlMzZ3pIVXZR?oc=5",
           "pub": "Thu, 03 Sep 2026 15:39:27 GMT",
           "source": "Yahoo Finance"
         },
         {
-          "title": "Analysts Offer Insights on Technology Companies: Microsoft (MSFT) and Broadcom (AVGO) - The Globe and Mail",
-          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPdlI1OHB4X0VKZEE2Tjg1ZGtJUTV1OGxONWk2bF9tNGdpSHVCYlhHT0dOM0N5dWQxbFJMNzRaejJrN1k2aEJ0YnZ1NWYtZmlUdUNwYzVxT2lpbHFHWW5OcXZoLVJRVlZTbUZKcE5tUWI1cjZuOHkteE5ZbWVwdER5Z0ZRQzN1VlpGNzFnMk1IenZTZFFtQ2JXcm5wdjMxaUN1c0hEVjhyLWxjbUh1bXJhRV9CbURuM0Yta0h6UVRWMHVjTzFqVmdxX3I4dlNjR0tfY01FNHZHUVBtdmpyVGROODZYT2xrdmt6cVRYQjQ0dFIyUXJVWVVaNg?oc=5",
-          "pub": "Fri, 04 Sep 2026 11:25:49 GMT",
-          "source": "The Globe and Mail"
-        },
-        {
-          "title": "Broadcom Earnings: Bullish 2028 Outlook - Morningstar",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYXFkbkpPSDZrTERsWERDTFJvTUdUNkFRZl9Wc2p0c2d5ekdxWG5vbWhqTGVSN05vRm93clJFV3VGR20zdHJBUm41T0Zsb21EZFN1d3Bqc3JWYXByc1p0Nk1qQmxneGphREwzZEd5Qk94RVJMZno0RjNGZmlOdkF0aDI4VDFlSjFNOXc?oc=5",
-          "pub": "Thu, 03 Sep 2026 08:57:59 GMT",
-          "source": "Morningstar"
+          "title": "DA Davidson cuts Broadcom stock price target on guidance concerns By Investing.com - Investing.com UK",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNVE3Mk5Ja2xYMFRhR1NUV29yTW9ZTEtyWnN3djBDaFNPUXV3dXZ4LUhFamtmX0MxTGNsWGUtVGFJT05ZXzJJY3lZRFVXNncwU29YWnd3bVgwNENaZXNpYkowcGZTS3UzMzQ4eTdxOEhodVNrYldCYjlXNnNBRDk1azU0T0NUWVhlUEpfN0ZoVHpoRkJvRVJqT0xFMUU3YTlDZEluUHEtS3dRZ1o3SzZzXzYwRlBkMjdjQU04bzlROGp4VjBC?oc=5",
+          "pub": "Fri, 04 Sep 2026 14:44:00 GMT",
+          "source": "Investing.com UK"
         }
       ]
     },
     {
       "symbol": "AMD",
-      "price": 472.705,
+      "price": 469.425,
       "prev_close": 456.1600036621094,
       "high_52w": 584.73,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 3.6270160042672126,
-      "drawdown_pct": 19.158414994954942,
+      "day_change_pct": 2.9079700612499106,
+      "drawdown_pct": 19.71935765224976,
       "name": "AMD",
       "news": [
         {
@@ -156,21 +156,21 @@
     },
     {
       "symbol": "RKLB",
-      "price": 63.59,
+      "price": 63.96,
       "prev_close": 63.810001373291016,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -0.3447756912023799,
-      "drawdown_pct": 57.88741721854305,
+      "day_change_pct": 0.23507071537498858,
+      "drawdown_pct": 57.64238410596027,
       "name": "Rocket Lab",
       "news": [
         {
-          "title": "Is Rocket Lab Stock a Millionaire Maker? - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPS2VvN2FqMV9SVlhFV3JMczRON2FoS2Jpb2NRWnBmUHZ2SmtXTUVqQWRHUUkzLXZic3NmVzVBU0JTVzZVYU1MeUMteVBpQW9TZjRqYjA5TkZRazhzZU5Qdkt3TzY5bmNHR0JtVVRXZHV3NnZ5bGotSlhhRnNYc2NuM0dTVUxIMWp4bVE?oc=5",
-          "pub": "Fri, 04 Sep 2026 05:40:00 GMT",
-          "source": "The Motley Fool"
+          "title": "1 Reason Rocket Lab Stock Could Be a Monster Winner - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUlpBNnNudTFLaGZXbXlFTUZwWkc0ck5rT0NkNllxbzNLQ3lIYkxNRkM2djR5c2EycmFzTnoxN0VrUG9lc2RRNmlySHRsMEtWYkc2RUJ5bW04SDhqNnFtZ0RvNUdMZDN1UHJ0Y0FXbXBIU19KdkxhRUE4dWpGUXNjSXoyLVpjRzdROXBFaXpxcGdqTzZ5?oc=5",
+          "pub": "Wed, 02 Sep 2026 15:30:33 GMT",
+          "source": "Yahoo Finance"
         },
         {
           "title": "Cathie Wood Just Bought 705,102 Shares of a Rocket Company 50 Times Smaller Than SpaceX - Yahoo Finance",
@@ -194,27 +194,21 @@
     },
     {
       "symbol": "IREN",
-      "price": 43.06,
+      "price": 43.375,
       "prev_close": 41.650001525878906,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": 3.385350354057021,
-      "drawdown_pct": 43.98335051195944,
+      "day_change_pct": 4.141652847357711,
+      "drawdown_pct": 43.57356777650351,
       "name": "IREN",
       "news": [
         {
-          "title": "IREN: AI Pivot Is Finally Gaining Real Traction Now (Upgrade) (NASDAQ:IREN) - Seeking Alpha",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcDlaVktYd3dwX0V4R2pGakxaNUViOG81Yk9jdnd1SFJHdmYxaXZMeEp5TDl3RGZZMXNnMk42SE9ISWR4LWxxQXZ3NEJtTXBucDBEM3FhU3pua2dYRVlRTW9uVlVHVy1SdDZtU0JTd2hrTEFsem5vLWVWRVJLTkpGa1QwY3VGVFdadlc3LTNZODF1bTJpMjgxUDVDWllucW1p?oc=5",
-          "pub": "Wed, 02 Sep 2026 13:00:00 GMT",
-          "source": "Seeking Alpha"
-        },
-        {
-          "title": "IREN Stock Jumps as Bernstein Flags 144% Upside on 2 GW of Gross Power by 2029 - TipRanks",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNTl3dzFpTl9MYUEtOWR5OXk5cWktZUMtT2pObWYwV0RWeTRxMk9QcDFsWThlVUt4dHpWQVF4VFhqZW5JMll2MmotVHFYMG1GM1NCUU44NFowVjBGQzlVM2ZxWFcxdVY0Ny1FUTh5ZTIyaGl4aFBMcWppOXd6ak1FQUk5OWczVllDM2J6dTFsdC1fcUxkYjAwQ0tIZU5nc1BqM2QzdXBhR0tadDg?oc=5",
-          "pub": "Thu, 03 Sep 2026 18:57:19 GMT",
-          "source": "TipRanks"
+          "title": "Jim Cramer Backs CRWV: 'If You're Going For Neoclouds, Only One I Like Is CoreWeave' - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbWJtMEEzRnNNMVVlSEVidzRSbEFBTlFndDBKZDdCckFmNHc3Sy0wblpwNmNlQW14SUI1cEVuYTZmYTg1dm9hbWFwMWxxRkZ2Nnp2VDNjVFNPRENrVTZ3eEYwZHE1anVvTjVtTkplbldETVNiclk3ZzZXdEVZSTNoaG5IbmhiWDNYUUV5QzNXdjBtVGY0b3gw?oc=5",
+          "pub": "Fri, 04 Sep 2026 09:25:24 GMT",
+          "source": "Yahoo Finance"
         },
         {
           "title": "Data Center Stocks Rally With Bitcoin: Cipher Mining Jumps 12%, TeraWulf Surges 8%, IREN Rises 4% - 24/7 Wall St.",
@@ -223,23 +217,29 @@
           "source": "24/7 Wall St."
         },
         {
-          "title": "IREN (IREN) Gains A Clearer Path To Texas Power Expansion - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObXRISC1mTE9UclhPQldlUXlfSUFPNXloZHZkaERTcmczckhXNkJZbG5TekZqVjYtWkdXYVRKY1NhUUpYal9qd0VNQnI2OWdQLXlYaUF2US01M1g4d250Z1lnTVgxMGtoVi1nLW83T2JPc3RoQWR4a0MzUTVwdDlZT1lhTEFSMF9IODNEQ2xrM2g1VWxnQnpB?oc=5",
-          "pub": "Wed, 02 Sep 2026 17:07:08 GMT",
-          "source": "Yahoo Finance"
+          "title": "IREN: AI Pivot Is Finally Gaining Real Traction Now (Upgrade) (NASDAQ:IREN) - Seeking Alpha",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcDlaVktYd3dwX0V4R2pGakxaNUViOG81Yk9jdnd1SFJHdmYxaXZMeEp5TDl3RGZZMXNnMk42SE9ISWR4LWxxQXZ3NEJtTXBucDBEM3FhU3pua2dYRVlRTW9uVlVHVy1SdDZtU0JTd2hrTEFsem5vLWVWRVJLTkpGa1QwY3VGVFdadlc3LTNZODF1bTJpMjgxUDVDWllucW1p?oc=5",
+          "pub": "Wed, 02 Sep 2026 13:00:00 GMT",
+          "source": "Seeking Alpha"
+        },
+        {
+          "title": "IREN Stock Jumps as Bernstein Flags 144% Upside on 2 GW of Gross Power by 2029 - tipranks.com",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNTl3dzFpTl9MYUEtOWR5OXk5cWktZUMtT2pObWYwV0RWeTRxMk9QcDFsWThlVUt4dHpWQVF4VFhqZW5JMll2MmotVHFYMG1GM1NCUU44NFowVjBGQzlVM2ZxWFcxdVY0Ny1FUTh5ZTIyaGl4aFBMcWppOXd6ak1FQUk5OWczVllDM2J6dTFsdC1fcUxkYjAwQ0tIZU5nc1BqM2QzdXBhR0tadDg?oc=5",
+          "pub": "Thu, 03 Sep 2026 18:57:19 GMT",
+          "source": "tipranks.com"
         }
       ]
     },
     {
       "symbol": "MILDEF.ST",
-      "price": 234.4,
+      "price": 234.6,
       "prev_close": 223.89999389648438,
       "high_52w": 238.0,
       "currency": "SEK",
       "yahoo_name": "Mildef Group AB",
       "exchange": "Stockholm",
-      "day_change_pct": 4.689596422396552,
-      "drawdown_pct": 1.5126050420168042,
+      "day_change_pct": 4.778922016613609,
+      "drawdown_pct": 1.428571428571431,
       "name": "MilDef Group",
       "news": [
         {
@@ -270,14 +270,14 @@
     },
     {
       "symbol": "IVSO.ST",
-      "price": 238.0,
+      "price": 236.0,
       "prev_close": 235.1999969482422,
       "high_52w": 344.0,
       "currency": "SEK",
       "yahoo_name": "INVISIO AB",
       "exchange": "Stockholm",
-      "day_change_pct": 1.1904775034389041,
-      "drawdown_pct": 30.813953488372093,
+      "day_change_pct": 0.3401373563511823,
+      "drawdown_pct": 31.3953488372093,
       "name": "Invisio",
       "news": [
         {
