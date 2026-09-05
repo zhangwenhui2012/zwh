@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-09-05T01:30:31.027164+00:00",
-  "updated_at_display": "2026-09-05 01:30 UTC",
+  "updated_at": "2026-09-05T02:00:40.130916+00:00",
+  "updated_at_display": "2026-09-05 02:00 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
       "price": 230.36,
-      "prev_close": 224.41000366210938,
+      "prev_close": 228.4499969482422,
       "high_52w": 236.54,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 2.651395321417781,
+      "day_change_pct": 0.8360705087645757,
       "drawdown_pct": 2.612665933880096,
       "name": "NVIDIA",
       "news": [
@@ -27,10 +27,10 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "Nvidia's investments grow to $99 billion as chip giant becomes major backer of AI companies - cnbc.com",
+          "title": "Nvidia's investments grow to $99 billion as chip giant becomes major backer of AI companies - CNBC",
           "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4xY1VMRWpNNnF5TVZFV3I1c2pRVURDaEN6VERDQTctRXpsdWxQLUxqanlZUWhlTnl1ekRvNWUzdS0xMHl3dlBfVUdvcWFqSUw1RnBnTzdoMUtSV2ZBb3NCbTFUWmZXX2VnaGthTTFKTzN2UFVNS0lmNNIBfkFVX3lxTE5vS2VVMndVYUJ6SkU0aC14VzMwY3dKYkNTekowZnJZUW9zNllkeTg5d0kyNlk3Y0pNei1FOHNqZ2NKbFV1QWNrbWpocGRTLUpWTmZWR185dlh0S3VCdTd0Rjdpc1lSX1o0NDI0cTNDOThSMXVyRkxLMFpkZjl4QQ?oc=5",
           "pub": "Fri, 04 Sep 2026 08:08:51 GMT",
-          "source": "cnbc.com"
+          "source": "CNBC"
         },
         {
           "title": "Here’s the Real Reason Nvidia Is Buying Hugging Face - Barron's",
@@ -43,12 +43,12 @@
     {
       "symbol": "META",
       "price": 616.77,
-      "prev_close": 592.8499755859375,
+      "prev_close": 610.6799926757812,
       "high_52w": 790.8,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 4.0347516908339855,
+      "day_change_pct": 0.9972501796783122,
       "drawdown_pct": 22.006828528072838,
       "name": "Meta Platforms",
       "news": [
@@ -81,50 +81,50 @@
     {
       "symbol": "AVGO",
       "price": 357.895,
-      "prev_close": 367.239990234375,
+      "prev_close": 357.1600036621094,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -2.544654853195858,
+      "day_change_pct": 0.2057890946226859,
       "drawdown_pct": 27.697979797979798,
       "name": "Broadcom",
       "news": [
         {
-          "title": "Broadcom stock falls as chipmaker's strong results 'not enough to keep investors happy' - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQSWlGTWUzNEtsNnJOcVdmNWFzMFRKTUNHR3laSnFfUlFMY1U5c0R0UUxlWGg0cjc4UnIycHZHY3FNSWRlY0xQNUNCTzBhaVdCbzBjcEVDT25Cb0I3Rm5ubFRyWVZlMDdJdmJEOFVvY3ZHUVlXYjZNTEozQklLc2dhTk01TWVlRE5ybThDM3NTNkRfZzg4bGMyY3BQY0pMdmpaVERZaDBOT1dnbTMxd3ZZalVabzVoNWdPY3hRczJLRjZxSkdBLUFsSUU0ZEhkVXgwQzBKZjBsYTdqVlMzZ3pIVXZR?oc=5",
-          "pub": "Thu, 03 Sep 2026 15:39:27 GMT",
-          "source": "Yahoo Finance"
-        },
-        {
-          "title": "Broadcom (AVGO) Stock Is Down After Q3 Earnings: Is It Too Soon to Buy the Dip? - theglobeandmail.com",
-          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPenBCYWFvVkUyMmdNWnVmaUVaelBwT2dnQTV1bjRFM1J4UVM5cHlZdXNqVkg2aDBxOC1COFI4SmFHMXNlc1Q5aFVHV1pOUi1IU2lXWGNHdWwyTDIxdXNNUHYyRkN5d2JPQkRLaXZ2VS1fVlo4SzZGOVY2OGlxejZVc2xHRWl2SHBCTWRmamFUQV9xaGJqZTZmR1UwM052VXdoSzdCX3kxdGRVWGpBSGxhd2swNHI1cE51RjU4Z3lGM0lneXBkWUZOd3Zxc2tZMWdldXlIeDZ5S01EN3dTcGlBeDFfRVFyQVl6WlRkSmNoVmNNZw?oc=5",
-          "pub": "Fri, 04 Sep 2026 23:31:08 GMT",
-          "source": "theglobeandmail.com"
-        },
-        {
-          "title": "Broadcom delivers strong earnings view as CEO touts growth with AI labs - cnbc.com",
+          "title": "Broadcom delivers strong earnings view as CEO touts growth with AI labs - CNBC",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE02MnFmSEVidVJwbDBTVjFsaFdzYTFSUnlPVmdnSXVEZ0I2dkhjNnQ0MUZFb2xHU0RpaU1jNzRxNGxUS3U5NlJyVWxiQXRsV1RPdlZLR2tIakNDSEI2ZkZUeFIwekhIQ1RkQVNPeWlaekVKTzh3bm81cDVFWmlRbEXSAYQBQVVfeXFMTWRuaWdHVEM0cXZrNXYwRHVOVmNIVTBnQm5Cejk3ZENUUURlMVZRN3ZPTmtXaVFFbTI3OGR6LXZnWUdOWVhpNWpLNnAxTF93cmVzclJyLXJQTk1MalQ3c25rbkZvNnNMYThxcGoxQ1ozYnVTOVhkRXB0VjhxaGJxYkF0RjY2?oc=5",
           "pub": "Wed, 02 Sep 2026 20:22:09 GMT",
-          "source": "cnbc.com"
+          "source": "CNBC"
+        },
+        {
+          "title": "Broadcom (AVGO) Stock Is Down After Q3 Earnings: Is It Too Soon to Buy the Dip? - The Globe and Mail",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPenBCYWFvVkUyMmdNWnVmaUVaelBwT2dnQTV1bjRFM1J4UVM5cHlZdXNqVkg2aDBxOC1COFI4SmFHMXNlc1Q5aFVHV1pOUi1IU2lXWGNHdWwyTDIxdXNNUHYyRkN5d2JPQkRLaXZ2VS1fVlo4SzZGOVY2OGlxejZVc2xHRWl2SHBCTWRmamFUQV9xaGJqZTZmR1UwM052VXdoSzdCX3kxdGRVWGpBSGxhd2swNHI1cE51RjU4Z3lGM0lneXBkWUZOd3Zxc2tZMWdldXlIeDZ5S01EN3dTcGlBeDFfRVFyQVl6WlRkSmNoVmNNZw?oc=5",
+          "pub": "Fri, 04 Sep 2026 23:31:08 GMT",
+          "source": "The Globe and Mail"
         },
         {
           "title": "5-star analyst resets Broadcom stock price target - thestreet.com",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUVhYN2pIMkF1S1VwWkJsT0Q3SU5wZ2FPLWgtalBudG5zTktDTGk3TnFJSlgtNElzc0NlTFpPVTgwbnYxYVA0bG1vR05WTnA5dG9aRnZUaDFWOS1LWDlnOEM1dXNLOVdibTAxOW9XbmZWZlRZOU5KZm8xSTIxd0xfTEJqSmlvUE9pUFZGNVQ1ZGVCY3JH?oc=5",
           "pub": "Fri, 04 Sep 2026 17:07:00 GMT",
           "source": "thestreet.com"
+        },
+        {
+          "title": "Broadcom (AVGO) Stock Is Down After Q3 Earnings: Is It Too Soon to Buy the Dip? - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVHY0WFJVdWREM3hnU3RtNURIbzREU085dVczd2JOcTZuMHRYNWVuVy1ENUhINXBLSmx6blZtajM1cGVyZ0p1REdueW9ISGZOT3NrVFU3eE1xeGJiSDdzeXZ1T2R1dzVZbDVFWXg0ZTNWdUswYXBTYkFXTldLaGpoSjZHTWZrd3NTakRmeEtSeVE0RWhsaWlN?oc=5",
+          "pub": "Fri, 04 Sep 2026 22:20:00 GMT",
+          "source": "Yahoo Finance"
         }
       ]
     },
     {
       "symbol": "AMD",
       "price": 477.57,
-      "prev_close": 457.05999755859375,
+      "prev_close": 456.1600036621094,
       "high_52w": 584.73,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 4.487376394994383,
+      "day_change_pct": 4.693527745968191,
       "drawdown_pct": 18.32640705966857,
       "name": "AMD",
       "news": [
@@ -157,12 +157,12 @@
     {
       "symbol": "RKLB",
       "price": 64.26,
-      "prev_close": 63.099998474121094,
+      "prev_close": 63.810001373291016,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 1.83835428515051,
+      "day_change_pct": 0.7052164504377297,
       "drawdown_pct": 57.44370860927152,
       "name": "Rocket Lab",
       "news": [
@@ -185,22 +185,22 @@
           "source": "Benzinga"
         },
         {
-          "title": "Can Rocket Lab's Spacecraft Component Business Support Growth? - zacks.com",
+          "title": "Can Rocket Lab's Spacecraft Component Business Support Growth? - Zacks Investment Research",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPd2J3dW1MSEQ1bUVBQk9lSFVXNVJ6ZTRia0lQTmpNSEJPMWNCeDRYMUhnekd5TjY5and0MHFjTGZnNWp0QU9zS0NSYzBLaWRJMTFZWGpTRHNWbGVBYThILVRJaFUzV2dhY2JYeEpSRmEySzluaGVZcHYtbF9lSGNqZFdWVm5DSzZOOU1sZjc4OG5iRjZCZVF2dmhOQVdqMlhNVzNj?oc=5",
           "pub": "Tue, 01 Sep 2026 15:02:05 GMT",
-          "source": "zacks.com"
+          "source": "Zacks Investment Research"
         }
       ]
     },
     {
       "symbol": "IREN",
       "price": 44.68,
-      "prev_close": 39.599998474121094,
+      "prev_close": 41.650001525878906,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": 12.828287175815742,
+      "day_change_pct": 7.274906033889164,
       "drawdown_pct": 41.87589644390033,
       "name": "IREN",
       "news": [
@@ -211,22 +211,22 @@
           "source": "TipRanks"
         },
         {
-          "title": "IREN Climbs 4% on $2.4B Blue Owl-Led GPU Financing; Cipher Digital Gains 2% - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNY2RUVl9yVTd0VWZUcjFSQ3JTY0JjcklHbV9pWkgxT29wNjNKUVRtNDVCWHAyeGxfMlM1RkwyUk9WLUxidU1fdnNGX3lwZXA3WnlpajBTbkJBU1FqSEVfQnQ4LVFSVzE5cnpVNDJxUXFVV1VkaEpjejNqMEphejNINVVXckd2d2tDU1lV?oc=5",
-          "pub": "Fri, 04 Sep 2026 16:12:48 GMT",
-          "source": "Yahoo Finance"
-        },
-        {
-          "title": "Applied Digital vs. IREN: Evaluating the Better Artificial Intelligence Stock to Buy for 2026 - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQnBpTWExT1hnNWppeEdFQ2ZQbDZydjRwZmdlR1d3WlBXYVJzSzFfWkg0YmI3aEhDZ1M2dFUtU0JEUU1rZWl5SkozQU5hOTk2RTgxWFBFXzZyUFRzT2ZGYjRDMjVtZjl5OVZBV1R3SjNIQlRHZkhaSnBLRUxJVTNtMm10MGF3VEJNQ3JrdWxiS1h6eGtnelRVZU4wME8wRlVoVGd1NHcxSFlRRndGNGNZdmlxMzVONTRLUXVzcXlPMTk4VUhVdHhaenU3bnBPNTF0M3JTajBqdGRuSThK?oc=5",
-          "pub": "Sat, 05 Sep 2026 01:24:14 GMT",
-          "source": "The Motley Fool"
+          "title": "Applied Digital vs. IREN: Evaluating the Better Artificial Intelligence Stock to Buy for 2026 - Currently.com",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxON1RURlE3Z2JWODdTZjVFY3YwY3cxYnJXM0F5aF9ZYlQ3NVk5Szd1QnhmeTFjVUNCVE9PZk5JbFhKREJjT3Rkdk5CZG8zekxSZkxzSHd1MldmZ3hVMHRJempCSlc5bG9FS2h4VmZVMnF6Z0pGZDJHTXgxX2l5YTlONHdxSWpiQXZCT1BwdF9B?oc=5",
+          "pub": "Sat, 05 Sep 2026 01:29:46 GMT",
+          "source": "Currently.com"
         },
         {
           "title": "Data Center Stocks Rally With Bitcoin: Cipher Mining Jumps 12%, TeraWulf Surges 8%, IREN Rises 4% - 24/7 Wall St.",
           "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQcVVoN2JaTVJyUGtwVFM5SC1RQ05zWWM5Wm5LcDlVT1FaeENHeEo5Ul9TQXE2RGdhVDVLOThtamVEZFlRODJnX3ZjVjVxcndsb2xzYmlJeDVDeFJ1RHAzeGdxdVhhb1drMUc1TUZfbU13VmRZMlROUi1WZTVDWFVuNUFLWmpRMXhrc1hyaXRwQWoyRGF0eWh5NFdiVUpadUxNbkpsV3JEdlF5bU9pUU5PbjhIMjF1dGdaLXJBREpKU2FSTFdIZ1hOOUdrQURYaVU4?oc=5",
           "pub": "Thu, 03 Sep 2026 18:43:00 GMT",
           "source": "24/7 Wall St."
+        },
+        {
+          "title": "IREN’s Customers Are Starting To Fund The Build (NASDAQ:IREN) - Seeking Alpha",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcXMzUlJZYl9ld05iQkJTZlFqVXA2V1RxU0lyc210N0prelluc0NnZzVfWFRSZTNhSUNhVmplWlNUeFNRemdsWWZ3bUZIQl9GWlF3NTZXZFZXYmlKWFlqbW1xTlJhZF9KeV9jM0FOcEMySlp2SGVWMGhIcGYtSUVLcTRjZG1PcjlKNl93Y2JsOWM?oc=5",
+          "pub": "Wed, 02 Sep 2026 17:22:09 GMT",
+          "source": "Seeking Alpha"
         }
       ]
     },
