@@ -1,24 +1,24 @@
 {
-  "updated_at": "2026-09-08T18:00:46.250822+00:00",
-  "updated_at_display": "2026-09-08 18:00 UTC",
+  "updated_at": "2026-09-08T18:30:38.398838+00:00",
+  "updated_at_display": "2026-09-08 18:30 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 225.905,
+      "price": 226.06,
       "prev_close": 230.36000061035156,
       "high_52w": 236.54,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -1.933929761481069,
-      "drawdown_pct": 4.496068318254837,
+      "day_change_pct": -1.8666437745087996,
+      "drawdown_pct": 4.430540289168847,
       "name": "NVIDIA",
       "news": [
         {
-          "title": "Price Prediction: Nvidia Stock Could Be Worth This Much by 2030 - 247wallst.com",
+          "title": "Price Prediction: Nvidia Stock Could Be Worth This Much by 2030 - 24/7 Wall St.",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQmFxOEpDU0FYRmxreDVNenlmckNlZW9mRWp4SzBEcDB3aHpoUFBzWlV4TTh5dXFReGhGVW1NNlA3bFFPcGtjVnJ4dmRFRmptZkpKSV9fdEx1YmpCMDBrS215ZG5RamtYRDNvREFxLTJBR0ZYdVlGYzZxMzd5NHF5R3dsNm1hNGQ2QXc5dm5VUlZ6MWN6bk5XNTBJaVdtQ0V4SVJmeGhBWWtQQQ?oc=5",
           "pub": "Tue, 08 Sep 2026 16:00:00 GMT",
-          "source": "247wallst.com"
+          "source": "24/7 Wall St."
         },
         {
           "title": "Nvidia supplier Wistron's shares drop after it announces $1.5 billion global stock sale - CNBC",
@@ -27,29 +27,29 @@
           "source": "CNBC"
         },
         {
-          "title": "Jim Cramer picks Nvidia and Broadcom as OpenAI GPT-6 Astra winners - qz.com",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBISjA1SmFxM3RreU1xU1dLX2dicUNlaGdxZ2Z5WXFvZWRTTThvNTVzVjlzMzJMUkJUUkNMNHA0dzRaeENmQ1FlMXUzVU85ZVN0VURGRkh0LXR0eEFtaUluWGFaa2tHUzByLXg0dTg5cUhXLU5D?oc=5",
-          "pub": "Tue, 08 Sep 2026 17:23:36 GMT",
-          "source": "qz.com"
-        },
-        {
           "title": "AMD Has Something Nvidia Doesn’t. Is the Stock Finally Ready to Break Out? - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVWpnTXZWdDBYRUJIUTJNNjNQYmdoOUU3SXVpMHFQUnQzUkpBWGJwQVJaZ2ZiX1liVnM2SVBVazQ5TnNLb20wMzBKSVMwN3ZwUndYNFFNZjVjTUU1Q3hSSnVRY0U0aXZ4X0JtSDZCbzJ1WTlRM2xITWdkVkdzcmd5VEdoWWpFSDZma1k0THJ1UFJsUkJPV2hibA?oc=5",
           "pub": "Tue, 08 Sep 2026 15:00:32 GMT",
           "source": "Yahoo Finance"
+        },
+        {
+          "title": "Jim Cramer picks Nvidia and Broadcom as OpenAI GPT-6 Astra winners - qz.com",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBISjA1SmFxM3RreU1xU1dLX2dicUNlaGdxZ2Z5WXFvZWRTTThvNTVzVjlzMzJMUkJUUkNMNHA0dzRaeENmQ1FlMXUzVU85ZVN0VURGRkh0LXR0eEFtaUluWGFaa2tHUzByLXg0dTg5cUhXLU5D?oc=5",
+          "pub": "Tue, 08 Sep 2026 17:23:36 GMT",
+          "source": "qz.com"
         }
       ]
     },
     {
       "symbol": "META",
-      "price": 617.52,
+      "price": 616.705,
       "prev_close": 616.77001953125,
       "high_52w": 790.8,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 0.12159807464700909,
-      "drawdown_pct": 21.911987860394536,
+      "day_change_pct": -0.010541940948973885,
+      "drawdown_pct": 22.015048052604946,
       "name": "Meta Platforms",
       "news": [
         {
@@ -80,14 +80,14 @@
     },
     {
       "symbol": "AVGO",
-      "price": 368.405,
+      "price": 369.29,
       "prev_close": 357.8999938964844,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 2.9351791792860347,
-      "drawdown_pct": 25.57474747474748,
+      "day_change_pct": 3.182454958859257,
+      "drawdown_pct": 25.395959595959596,
       "name": "Broadcom",
       "news": [
         {
@@ -118,14 +118,14 @@
     },
     {
       "symbol": "AMD",
-      "price": 507.93,
+      "price": 507.7,
       "prev_close": 477.57000732421875,
       "high_52w": 584.73,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 6.357181609013835,
-      "drawdown_pct": 13.134267097634808,
+      "day_change_pct": 6.309021130660371,
+      "drawdown_pct": 13.173601491286583,
       "name": "AMD",
       "news": [
         {
@@ -141,10 +141,10 @@
           "source": "Barron's"
         },
         {
-          "title": "AMD Has Something Nvidia Doesn’t. Is the Stock Finally Ready to Break Out? - 247wallst.com",
+          "title": "AMD Has Something Nvidia Doesn’t. Is the Stock Finally Ready to Break Out? - 24/7 Wall St.",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOakkycG00WmdNZlgxM2QwZmRqWmxmV3pySTJOVnFiUmJxRW5tLTJnb3JITUtkYS1lMHMzWUdrUV91Nm03aW81akR0b21vNm9ON09sNmxBNHNZNFo3amszMkt4VGRQb1JfeTJySTMxdU5vVzdsUFBnUzhoR0hiV0FhWGVQR3V6ckowdzJkeXZXQWRHUjJzSGhScFpIS1JWUmJPRnkwNEdiZVFjZjFuMTR6MTRaVGJRZw?oc=5",
           "pub": "Tue, 08 Sep 2026 15:00:00 GMT",
-          "source": "247wallst.com"
+          "source": "24/7 Wall St."
         },
         {
           "title": "AMD Is Behind The AI Chip Shift Nobody Is Talking About - Yahoo Finance",
@@ -156,14 +156,14 @@
     },
     {
       "symbol": "RKLB",
-      "price": 66.105,
+      "price": 66.25,
       "prev_close": 64.26000213623047,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 2.871145039581793,
-      "drawdown_pct": 56.221854304635755,
+      "day_change_pct": 3.096790845961627,
+      "drawdown_pct": 56.12582781456954,
       "name": "Rocket Lab",
       "news": [
         {
@@ -194,14 +194,14 @@
     },
     {
       "symbol": "IREN",
-      "price": 48.21,
+      "price": 48.01,
       "prev_close": 44.68000030517578,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": 7.900625941614643,
-      "drawdown_pct": 37.28372801164805,
+      "day_change_pct": 7.452998370813497,
+      "drawdown_pct": 37.54390752622325,
       "name": "IREN",
       "news": [
         {
@@ -217,16 +217,16 @@
           "source": "Investing.com"
         },
         {
-          "title": "IREN’s AI Pricing Is Exploding - Why the Neocloud's $2.6 Billion Contract Base Could Scale Dramatically - 247wallst.com",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSVV0OXVuSmFicWhhMC1sQmExelU1UG9NMVhxTTBLdUxqanZJeVBjZ1BNYVZvNmE0VVVjc1Q0QlhoZk1nVERyX18wN2xzZndYNmR5XzB2cmRGRWpDamFGOWxFYXlPOFJSUENnNmo2SjI4QWxkV0RCVVRQVzJPSUNzNTYxdERUQURFYTQ0RVNDU2RIRHQ0MWI2SEk0LWUwU0ZxamxRNF9HdS16QTJubE1LSDI4N1NYY2FVdzRZQVh2MVMwOTJQSmY2ZUtYckdfTnNiYUpZR3gxbV9MQQ?oc=5",
-          "pub": "Mon, 07 Sep 2026 16:35:00 GMT",
-          "source": "247wallst.com"
+          "title": "Short Sellers Are Betting Against 3 AI Infrastructure Stocks—What Could Turn the Tide? - MarketBeat",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNlJ1Q2tqY1A5MVAxT3VEcUpCSU1zMG5jaXo5SEFPRDF0Z29lS0NRWXlxV2RoWThSSV9QNEZiejZodGlrQWdhb25RQnNMQXF5OFJtd2NFbE9Sb3ZRd2hXTFhsN3JMbTJNNDBIcVBQM2tTUVdWRnowRkpKLWsyb0VZeUNBaS03Q0tFME1DZldCcktGekh5Qll3RFNrQUswLVFQMDFiVFY2MkFxMmlTLTRSdXU1LUxOcmVfdUEtXzR3?oc=5",
+          "pub": "Tue, 08 Sep 2026 13:47:45 GMT",
+          "source": "MarketBeat"
         },
         {
-          "title": "IREN Stock Is Soaring Today, September 8 — Here’s Why - TipRanks",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMHFDQ1BDS1l2X1JoQk1pRkptNFlfTkFJR0ZyMWhKR05PZVV0OVRmcktTdGw1SjhETlpUdEg2NEpORUJkTkkzQzRRbEZlYWpzOGV0enhqMXVraDRfRVJsdXRuOHJoM254OWFXYXljQVR1aG1lcmFOV0Z2ZXhjME9vcHlYcENoZw?oc=5",
-          "pub": "Tue, 08 Sep 2026 16:30:00 GMT",
-          "source": "TipRanks"
+          "title": "IREN’s AI Pricing Is Exploding - Why the Neocloud's $2.6 Billion Contract Base Could Scale Dramatically - 24/7 Wall St.",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSVV0OXVuSmFicWhhMC1sQmExelU1UG9NMVhxTTBLdUxqanZJeVBjZ1BNYVZvNmE0VVVjc1Q0QlhoZk1nVERyX18wN2xzZndYNmR5XzB2cmRGRWpDamFGOWxFYXlPOFJSUENnNmo2SjI4QWxkV0RCVVRQVzJPSUNzNTYxdERUQURFYTQ0RVNDU2RIRHQ0MWI2SEk0LWUwU0ZxamxRNF9HdS16QTJubE1LSDI4N1NYY2FVdzRZQVh2MVMwOTJQSmY2ZUtYckdfTnNiYUpZR3gxbV9MQQ?oc=5",
+          "pub": "Mon, 07 Sep 2026 16:35:00 GMT",
+          "source": "24/7 Wall St."
         }
       ]
     },
@@ -243,10 +243,10 @@
       "name": "MilDef Group",
       "news": [
         {
-          "title": "MILDEF Forecast — Price Target — Prediction for 2027 - TradingView",
+          "title": "MILDEF Forecast — Price Target — Prediction for 2027 - tradingview.com",
           "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9hWW9rMkp5VFlIZmlhT1RWd3k5bVQyVTVlLXktUHJfNm43Qld6bURaV0wwTDN1ZmJwZ0c2c2FPNV8wRVYyaVRRNndDaUZOeHdPQTkwS1doZUdWQ180N051Ym91OXZxYW9YRklxUFRIcVFJOFJxbXFVSEl2dWg?oc=5",
           "pub": "Thu, 25 Jun 2026 11:58:03 GMT",
-          "source": "TradingView"
+          "source": "tradingview.com"
         },
         {
           "title": "MilDef Group (OM:MILDEF) Stock Turnaround To Profitability Tests Bullish Narratives After Q2 Earnings - simplywall.st",
@@ -287,22 +287,22 @@
           "source": "simplywall.st"
         },
         {
-          "title": "IVSO Forecast — Price Target — Prediction for 2027 - TradingView",
+          "title": "Invisio Stock And Two European Defense Names On Border Security Watch - webull.com",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0xWklXTzhWVXNuZG9oM3k2REFBdnFuUVZRUnF6QUIzU1diSE1TV3dOTERHQ3hyZDlnVE04XzBSbUtJSWlvb1Joci1rMTNOalIyalFUX1RxTV8?oc=5",
+          "pub": "Fri, 31 Jul 2026 07:00:00 GMT",
+          "source": "webull.com"
+        },
+        {
+          "title": "IVSO Forecast — Price Target — Prediction for 2027 - tradingview.com",
           "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1keUhnMUVzX0VnclVQS3Ywd29Ka1hUdVMzRndVV01Qb2xGYllhOFlfb0IyNEk1Q2VGYWViMkJXSVZDYi1FQWdLRzZqQTFlUnVocmdGRDM5ejdhaF9mQWlhaGVDZ29rZE9hdnNzU0FzVnpPX1pENHlDbl9n?oc=5",
           "pub": "Thu, 25 Jun 2026 19:04:11 GMT",
-          "source": "TradingView"
+          "source": "tradingview.com"
         },
         {
           "title": "SB1 initiates coverage of Invisio with buy rating and target price of 315 kronor - marketscreener.com",
           "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOeXB3OWxQbGx0bWNwOWtoUDQyRFY2NHByR0o4X21OS00xNFF2WEdGQTkyTXpTMjdEUzhfVjZmOHNndVBBaEpHYmFoNWJlZlE1b3REMHRrZ2ZYMGE1TnFOOW5NOVV2WU1nb1I2cEdRZHdGczRvR3lGMjVvaUZXMjI3djVuUHhlLV9abUU1Nng5WThvQjRNNzlSZl9iVE9SenZFZExKOWw5RHJ5dV9walN1QXhxMlJKWHZhWXlTYmtjTzJ1dEZkbVI3YVFZdHVCZw?oc=5",
           "pub": "Thu, 27 Aug 2026 07:27:26 GMT",
           "source": "marketscreener.com"
-        },
-        {
-          "title": "INVISIO Q2 2026 slides: strong revenue growth amid U.S. delays - Investing.com",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNzY3QXNIelJ6aW9KcTA3TXl5S2FwQnlKcjQ3RFlPQm84WkE1eHFBSVRXMGoxZUVxRGZMZ0RsWk96dFdodnNzR2RfQkZHc1V0eWZGMmVmeWtURGRoUjdXN0U3cmVIT0k1ODJMMDhWeEFmT2FNZjdxMGQtbU9IZ1dwWHFQSWZFSXF1RnFuVU5WT0NjUDZlZjJnTVlsWV84UmthaWhxVnBMRk1iaEVTdTZ6S3JqRWFhQ1E?oc=5",
-          "pub": "Fri, 17 Jul 2026 07:00:00 GMT",
-          "source": "Investing.com"
         }
       ]
     },
@@ -325,10 +325,10 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "NORBT Forecast — Price Target — Prediction for 2027 - TradingView",
+          "title": "NORBT Forecast — Price Target — Prediction for 2027 - tradingview.com",
           "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1GWDVHdEMzX0ZmeXk5cEpuZ3F4WFNMZm5jMzhFOEsxc0Q5TnV5YUdWcWh0VXd1c29jdGl5R0hneDJTaXBwclB1V2E4Q2ZzWWpEYkZ5UDFPRTZGZjVxOXlNcUhJQ2V1ZTliemxPRnJZYzVsR3hKV3Rr?oc=5",
           "pub": "Fri, 26 Jun 2026 13:15:32 GMT",
-          "source": "TradingView"
+          "source": "tradingview.com"
         },
         {
           "title": "Norbit : Flaggemelding Norbit ASA - marketscreener.com",
