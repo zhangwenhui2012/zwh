@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-08T07:00:45.211577+00:00",
-  "updated_at_display": "2026-09-08 07:00 UTC",
+  "updated_at": "2026-09-08T07:30:34.594374+00:00",
+  "updated_at_display": "2026-09-08 07:30 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
@@ -27,16 +27,16 @@
           "source": "Yahoo Finance"
         },
         {
+          "title": "Could Buying Nvidia Today Set You Up for Life? - The Globe and Mail",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONlFLNEdsMVhnbWlZRkd5YUFTSUU4RF84RFdYTE0wWFJmRzZNOUNnOHFxYUZMTm93T253YkFENWQ5eU9VTy1YVjJEajFwNldleUhpOEg4azRyRm1HNXNmdUMzV1RjMTlBSksyLW02U1psYUVWZTBfSnUtQkJRclJFRE5DdXVzdjB2cFR3U0VYSHhuOWcwMHhkVElGQW8xUUxKY2QydlFIbF91cWxnZVBkU3RGUHpjRGNmbTkxc1lVSnVjY0JvU0FDbVFR?oc=5",
+          "pub": "Tue, 08 Sep 2026 06:53:36 GMT",
+          "source": "The Globe and Mail"
+        },
+        {
           "title": "NVDA Rises Overnight After Strong Week: CEO Jensen Huang Pumps Nvidia Chips As ‘Highly Rentable’ Money-Minting Assets - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxORDNXVll3cUlZcHM5Tko0dk5zMkpoaUhhR3NDZDlJVFdNT2hSRmkwOGRjbzczVldvUnpSZE4zNDdEbWJjWFFhdzFYd280QXFaeHR3b3RsQ0lveW1DX2YzU01PUGg3S0Y4Tjh2RjBqXzc3TVBfcHdveEVoUnBPYnFqem1EdjFmYnJDS3JlTW1reWFoNC10Y3FkdWtYU29KQQ?oc=5",
           "pub": "Tue, 08 Sep 2026 05:09:00 GMT",
           "source": "Yahoo Finance"
-        },
-        {
-          "title": "Nvidia supplier Wistron's shares drop after it announces $1.5 billion global stock sale - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA3cUkxRTNkckFPV0E1alVORURUem9QV3RSYWxaV1RScXY5X200LWRWVU02WVdjUHlrTElOd1loNlYwcmFJdTRUWGUwX01GdUcydjJySHlxVGVJWFEycjlHQW1RQm93czVPdEdvMTB3eVcwX1Uwb0N4R2NoZ9IBgAFBVV95cUxQSlprSjA1bjhJMlUtdzVaX2NKc05GSlhfRHBaVVdzSll4QzM4bGtrRGt0T3gyMnVxLWRQSHJSVWlDcno5UlhJaTVtczloMVFLRm1WdEZUc3kwQTZQMEhQeWRDZzNtNG13bi1GLUV5bnhXT3FVME9oa3lzOG5aTlo2Mg?oc=5",
-          "pub": "Tue, 08 Sep 2026 02:44:00 GMT",
-          "source": "CNBC"
         }
       ]
     },
@@ -232,14 +232,14 @@
     },
     {
       "symbol": "MILDEF.ST",
-      "price": 241.0,
+      "price": 235.4,
       "prev_close": 234.8000030517578,
-      "high_52w": 241.0,
+      "high_52w": 242.3000030517578,
       "currency": "SEK",
       "yahoo_name": "Mildef Group AB",
       "exchange": "Stockholm",
-      "day_change_pct": 2.640543810757745,
-      "drawdown_pct": 0.0,
+      "day_change_pct": 0.25553532386877087,
+      "drawdown_pct": 2.847710674722482,
       "name": "MilDef Group",
       "news": [
         {
@@ -270,14 +270,14 @@
     },
     {
       "symbol": "IVSO.ST",
-      "price": 231.0,
+      "price": 229.0,
       "prev_close": 236.1999969482422,
       "high_52w": 344.0,
       "currency": "SEK",
       "yahoo_name": "INVISIO AB",
       "exchange": "Stockholm",
-      "day_change_pct": -2.2015228685128423,
-      "drawdown_pct": 32.848837209302324,
+      "day_change_pct": -3.04826293025732,
+      "drawdown_pct": 33.43023255813954,
       "name": "Invisio",
       "news": [
         {
@@ -308,14 +308,14 @@
     },
     {
       "symbol": "NORBT.OL",
-      "price": 160.7,
-      "prev_close": 156.60000610351562,
+      "price": 159.9,
+      "prev_close": 161.39999389648438,
       "high_52w": 244.8000030517578,
       "currency": "NOK",
       "yahoo_name": "NORBIT",
       "exchange": "Oslo",
-      "day_change_pct": 2.6181313771943207,
-      "drawdown_pct": 34.35457598175628,
+      "day_change_pct": -0.9293642832764953,
+      "drawdown_pct": 34.68137336330322,
       "name": "Norbit ASA",
       "news": [
         {
