@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-08T06:00:43.391624+00:00",
-  "updated_at_display": "2026-09-08 06:00 UTC",
+  "updated_at": "2026-09-08T06:31:10.543661+00:00",
+  "updated_at_display": "2026-09-08 06:31 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
@@ -21,6 +21,12 @@
           "source": "24/7 Wall St."
         },
         {
+          "title": "Top M&A Deals In September: Nvidia, Dominion Energy, Nextera Energy, Vertiv In Focus - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNT3hiWHNPenhQa2QySzVaNFc3Y09ZM09nYTZyVUZndnV2LWR4aTN5X0tFcWR2VXkwbGNwQTl3M0xuMUk2bXhHeHNWaVUtRkhPdS1ZOHFNY29PY3lMZ3MtbHBlRGl3c01lNXpEZnJIMlhkd0dNR0hBZk5IdmNaVHJSVzV4RDdldE9zS3JYOWQzZUF0NkRNY19hSw?oc=5",
+          "pub": "Tue, 08 Sep 2026 06:12:00 GMT",
+          "source": "Yahoo Finance"
+        },
+        {
           "title": "NVDA Rises Overnight After Strong Week: CEO Jensen Huang Pumps Nvidia Chips As ‘Highly Rentable’ Money-Minting Assets - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxORDNXVll3cUlZcHM5Tko0dk5zMkpoaUhhR3NDZDlJVFdNT2hSRmkwOGRjbzczVldvUnpSZE4zNDdEbWJjWFFhdzFYd280QXFaeHR3b3RsQ0lveW1DX2YzU01PUGg3S0Y4Tjh2RjBqXzc3TVBfcHdveEVoUnBPYnFqem1EdjFmYnJDS3JlTW1reWFoNC10Y3FkdWtYU29KQQ?oc=5",
           "pub": "Tue, 08 Sep 2026 05:09:00 GMT",
@@ -31,12 +37,6 @@
           "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA3cUkxRTNkckFPV0E1alVORURUem9QV3RSYWxaV1RScXY5X200LWRWVU02WVdjUHlrTElOd1loNlYwcmFJdTRUWGUwX01GdUcydjJySHlxVGVJWFEycjlHQW1RQm93czVPdEdvMTB3eVcwX1Uwb0N4R2NoZ9IBgAFBVV95cUxQSlprSjA1bjhJMlUtdzVaX2NKc05GSlhfRHBaVVdzSll4QzM4bGtrRGt0T3gyMnVxLWRQSHJSVWlDcno5UlhJaTVtczloMVFLRm1WdEZUc3kwQTZQMEhQeWRDZzNtNG13bi1GLUV5bnhXT3FVME9oa3lzOG5aTlo2Mg?oc=5",
           "pub": "Tue, 08 Sep 2026 02:44:00 GMT",
           "source": "CNBC"
-        },
-        {
-          "title": "Nvidia’s Investment Portfolio Spans Intel to SpaceX. Why It Can Surge. - Barron's",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOckVFc2tmUEM1SHdWTEQ4NzlOSk03QWtMb2ZiWkczV2RrenZDUUVNTFBHdkJPcnhkRWF0dXBRWmViU1dJR2Z6ZHR3Zlo1MVdHeF9TZE5vRkxOMmtaOXM3UUg0azhEN2dSRXF4LWNkeXBKWEFGS2hPZksybzZpWlBITzBqRUE0SFBzd0E?oc=5",
-          "pub": "Mon, 07 Sep 2026 14:07:00 GMT",
-          "source": "Barron's"
         }
       ]
     },
@@ -147,10 +147,10 @@
           "source": "Stocktwits"
         },
         {
-          "title": "How Far AMD Stock Can Swing In Its Calm Case - trefis.com",
+          "title": "How Far AMD Stock Can Swing In Its Calm Case - Trefis",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUFpKdE9HVTNhU2Q2dUhnaG1NQ0dCclc5VlBlNUwwTTRSUDZYX0ZEUmZWeDRHNzdRWTdUSTVrbXczX1ZfbUdWS0tGY2JxT1UwSHhjMW9nbHczTWF2MDJ3VENrM3RWQWNhVUFwQmdsQS1fTC1HRGs5Rk5yN3Njd3RTX2poTWNUSHJIZUpET2o1QVQ3c0xvekZVVHhLcFZMQkplNFlBRDhybw?oc=5",
           "pub": "Fri, 04 Sep 2026 16:30:46 GMT",
-          "source": "trefis.com"
+          "source": "Trefis"
         }
       ]
     },
@@ -173,10 +173,10 @@
           "source": "The Motley Fool"
         },
         {
-          "title": "How Long Can Rocket Lab Stock Wait On Neutron? - trefis.com",
+          "title": "How Long Can Rocket Lab Stock Wait On Neutron? - Trefis",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYXJwZUU0LVNoUi0xNUEzT2J4c3FsQU1NTHFMOEdNcnFvd1Q1MVpzbjg2WXE2UDhaRk9JRzBVQU4wSTc3UVE1djFGQThSRzY1OGotOGh6R25tT2VLOEtvb1FzbmpkLVpUNy1XeEU2SmwyUlljS3FKX2Y3Y0JpR0t3RU01ZUJGQjBROGhDNDlPN0VoY2dSenp2aEZFdGFRbzFmdmRZc0Fiby1qQQ?oc=5",
           "pub": "Thu, 03 Sep 2026 15:07:14 GMT",
-          "source": "trefis.com"
+          "source": "Trefis"
         },
         {
           "title": "Rocket Lab Stock (RKLB) Opinions on Analyst Ratings and Operational Updates - Quiver Quantitative",
@@ -223,10 +223,10 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "Heavy, Unusual Put Options Volume in IREN after Bitcoin Rises Last Week - Barchart.com",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYnprUDVsZHdrT2xxU0FfaHRpN1lLZ3FNR0lzaEJsRVJQMFR3Vm85MWZrbjRNR1dtNzJIWFZlOUZPT3QwUTRzY2VuR214Rm9lWDVkYjRvR1NoRWd5dVRzdGhNYmJoQUthM3g1NkQwNzB1ZGhLUC1jeGo3enRvY1p2b0xTYUxlVWNsZTlWMFNmczlJWFhNb0dWM2dSM2F6VDBIaTR1ZFRYSVJHc01HdFNQUnd0MmI?oc=5",
-          "pub": "Mon, 07 Sep 2026 17:30:03 GMT",
-          "source": "Barchart.com"
+          "title": "IREN Stock at $44.68: Only 25% of Its $4 Billion ARR Is Operating - TechStock²",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOb0pfSkN5S1FHQ1VCcXk5NmhJTlFITXVQYVFDUlZKY0c0N3NTQ1l0X3NVV0ZqYTBhLWtfM3VXOUtPWkt6X2F2R1VyejBId19TdlJRWlF6b0pNQmx4QldBWVZUOXdHazRKcDdLX3MwcE5MeXpJalllc0hJeDAzZC0yVFBfOGRwMWtrUnc?oc=5",
+          "pub": "Tue, 08 Sep 2026 06:18:00 GMT",
+          "source": "TechStock²"
         }
       ]
     },
@@ -287,12 +287,6 @@
           "source": "simplywall.st"
         },
         {
-          "title": "Invisio Stock And Two European Defense Names On Border Security Watch - webull.com",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0xWklXTzhWVXNuZG9oM3k2REFBdnFuUVZRUnF6QUIzU1diSE1TV3dOTERHQ3hyZDlnVE04XzBSbUtJSWlvb1Joci1rMTNOalIyalFUX1RxTV8?oc=5",
-          "pub": "Fri, 31 Jul 2026 07:00:00 GMT",
-          "source": "webull.com"
-        },
-        {
           "title": "Invisio (OM:IVSO) Wins Canadian Armed Forces Deal, Is The Stock Still Undervalued? - simplywall.st",
           "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOaGxPWk1yMFhvWDltTDYteXphN08zdnM5Y1ZZT2U2MlliYloyQUVSMnFlWjNRX2IxQTNEcGJaR1hNM1hIanB0dFd2Wl9CdjNELTkyZU11VlNxZk1Qa21XMFVaUEtUZW94VU1kY1ZQN2JNNUtfNDYwaGpUS1Q1Z1J3N3pYYjhaZS1Ca0lvdWFHb3gzREZIdUZ0T2dFb0NTLV9OTjRTeUZEVHlVRFBUZ3FoMVNINTFFdjFzaG9hazJ5Wi14STR4VmE5ejhjNHJ5V03SAdQBQVVfeXFMTmx6SHZUNWs0UExFSzlzSXdCRkJRYnEzbjZDNjdBSHNnNk1iajNrZkJsd1loNmRETXlWREJObU5IcUs3ZjhLUGJjVll6MklrTHJoMkRZNHNZMGZnRWg2dFYyMnVjTDJKN1BrN3dLSlNfVGM3UVFUTXdVT25YQkZQSGNBV1h0c09HdEpSbGROcF9QOXFtdU9DcE1ZeS1Xb0NFS0N0QkN5YVRIQ0lHU0Nldlkta2hfcEhTbjhvbWhQQXVEWVdGY2Q0d3doeE82Ui1iRFcxTDg?oc=5",
           "pub": "Fri, 28 Aug 2026 04:51:19 GMT",
@@ -303,6 +297,12 @@
           "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1keUhnMUVzX0VnclVQS3Ywd29Ka1hUdVMzRndVV01Qb2xGYllhOFlfb0IyNEk1Q2VGYWViMkJXSVZDYi1FQWdLRzZqQTFlUnVocmdGRDM5ejdhaF9mQWlhaGVDZ29rZE9hdnNzU0FzVnpPX1pENHlDbl9n?oc=5",
           "pub": "Thu, 25 Jun 2026 19:04:11 GMT",
           "source": "TradingView"
+        },
+        {
+          "title": "SB1 initiates coverage of Invisio with buy rating and target price of 315 kronor - marketscreener.com",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOeXB3OWxQbGx0bWNwOWtoUDQyRFY2NHByR0o4X21OS00xNFF2WEdGQTkyTXpTMjdEUzhfVjZmOHNndVBBaEpHYmFoNWJlZlE1b3REMHRrZ2ZYMGE1TnFOOW5NOVV2WU1nb1I2cEdRZHdGczRvR3lGMjVvaUZXMjI3djVuUHhlLV9abUU1Nng5WThvQjRNNzlSZl9iVE9SenZFZExKOWw5RHJ5dV9walN1QXhxMlJKWHZhWXlTYmtjTzJ1dEZkbVI3YVFZdHVCZw?oc=5",
+          "pub": "Thu, 27 Aug 2026 07:27:26 GMT",
+          "source": "marketscreener.com"
         }
       ]
     },
