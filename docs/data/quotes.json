@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-09-09T19:28:33.275874+00:00",
-  "updated_at_display": "2026-09-09 19:28 UTC",
+  "updated_at": "2026-09-09T19:30:34.975567+00:00",
+  "updated_at_display": "2026-09-09 19:30 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 224.195,
+      "price": 224.21,
       "prev_close": 225.72999572753906,
       "high_52w": 236.54,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -0.6800140683969366,
-      "drawdown_pct": 5.218990445590597,
+      "day_change_pct": -0.6733689612849335,
+      "drawdown_pct": 5.21264902342098,
       "name": "NVIDIA",
       "news": [
         {
@@ -21,10 +21,10 @@
           "source": "Barchart.com"
         },
         {
-          "title": "Analyst updates Nvidia stock price target - Finbold",
+          "title": "Analyst updates Nvidia stock price target - finbold.com",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA5SExFdG1wWFJJQzU1OS1BM1ZLNndyczU5SU9QWmRKU1VEemM0M3B0cEZ2OHVGTDZjcnQzRHZiTmduR2tHUDdqS0prenA5ZGZJMU1OSC1zM2pfVnRUZDNWN3FmM1FJanFMcEdzRlhYUF95UQ?oc=5",
           "pub": "Tue, 08 Sep 2026 15:28:00 GMT",
-          "source": "Finbold"
+          "source": "finbold.com"
         },
         {
           "title": "Nvidia CEO Jensen Huang Just Put a Nail in Michael Burry's Bear Case - The Globe and Mail",
@@ -42,14 +42,14 @@
     },
     {
       "symbol": "META",
-      "price": 655.466,
+      "price": 655.74,
       "prev_close": 613.47998046875,
       "high_52w": 790.8,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 6.843910293400149,
-      "drawdown_pct": 17.11355589276681,
+      "day_change_pct": 6.888573527527307,
+      "drawdown_pct": 17.078907435508338,
       "name": "Meta Platforms",
       "news": [
         {
@@ -80,14 +80,14 @@
     },
     {
       "symbol": "AVGO",
-      "price": 363.82,
+      "price": 363.855,
       "prev_close": 368.55999755859375,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -1.2860857363773428,
-      "drawdown_pct": 26.501010101010102,
+      "day_change_pct": -1.2765893178208332,
+      "drawdown_pct": 26.493939393939392,
       "name": "Broadcom",
       "news": [
         {
@@ -118,14 +118,14 @@
     },
     {
       "symbol": "AMD",
-      "price": 519.725,
+      "price": 519.435,
       "prev_close": 505.739990234375,
       "high_52w": 584.73,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 2.7652568583995016,
-      "drawdown_pct": 11.117096779710293,
+      "day_change_pct": 2.70791514020441,
+      "drawdown_pct": 11.166692319532103,
       "name": "AMD",
       "news": [
         {
@@ -156,14 +156,14 @@
     },
     {
       "symbol": "RKLB",
-      "price": 63.75,
+      "price": 63.73,
       "prev_close": 65.87000274658203,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -3.218464639721056,
-      "drawdown_pct": 57.78145695364238,
+      "day_change_pct": -3.2488274743438934,
+      "drawdown_pct": 57.79470198675497,
       "name": "Rocket Lab",
       "news": [
         {
@@ -194,14 +194,14 @@
     },
     {
       "symbol": "IREN",
-      "price": 45.39,
+      "price": 45.42,
       "prev_close": 46.93000030517578,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": -3.2814836888162944,
-      "drawdown_pct": 40.952259167158374,
+      "day_change_pct": -3.217558694559066,
+      "drawdown_pct": 40.91323223997209,
       "name": "IREN",
       "news": [
         {
@@ -211,16 +211,16 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "IREN Surges 7% on Conditional ERCOT Status for 2GW Sweetwater Hub, Applied Digital Climbs 6% - 24/7 Wall St.",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQajBhX1VNdm1RMW1yTXVPaG45QVpFTkY3YnREaExSVmR1VE4yVkxsNENlNW5TRkVRb2NsdlliVFhWT3I2QWZrcUpMWW5DNy1zdGRxa2tQY3ZyektXanlFcTdNbHVTZHFpSndpSEZlR2NoWXh6bkRBYlJEcktRSnQ5MVA3NkNHNFFXLUNFQlFhTmlLUks1d0RYNTlEdjludGk2eGI3bU01N1NKS1o4NE5ILVJhNmF4UDIxTmh4RlY4cnZPeDNPanJXc2NPQTNmQQ?oc=5",
-          "pub": "Tue, 08 Sep 2026 14:10:00 GMT",
-          "source": "24/7 Wall St."
-        },
-        {
           "title": "Why is IREN stock surging today? - Investing.com",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQWR6UkVjYjhvaXJCX1NCTUdNWHJfSWZPM2h4dlJ0c3AxOXNOV3J6cTduTlZ3YndNaUd5M2lnbUcwVmppajBQZkdoTG1xVkJoSk5Rc3RiTnZCdlJlenQxY1VHTWstMkwzU2ZEY2RZeTdwS0RPUGl0S2pqSzhRbjFYeTR5enNna3FfelEzYlpKR1oxUjFmbU8zSA?oc=5",
           "pub": "Tue, 08 Sep 2026 14:53:43 GMT",
           "source": "Investing.com"
+        },
+        {
+          "title": "IREN Surges 7% on Conditional ERCOT Status for 2GW Sweetwater Hub, Applied Digital Climbs 6% - 24/7 Wall St.",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQajBhX1VNdm1RMW1yTXVPaG45QVpFTkY3YnREaExSVmR1VE4yVkxsNENlNW5TRkVRb2NsdlliVFhWT3I2QWZrcUpMWW5DNy1zdGRxa2tQY3ZyektXanlFcTdNbHVTZHFpSndpSEZlR2NoWXh6bkRBYlJEcktRSnQ5MVA3NkNHNFFXLUNFQlFhTmlLUks1d0RYNTlEdjludGk2eGI3bU01N1NKS1o4NE5ILVJhNmF4UDIxTmh4RlY4cnZPeDNPanJXc2NPQTNmQQ?oc=5",
+          "pub": "Tue, 08 Sep 2026 14:10:00 GMT",
+          "source": "24/7 Wall St."
         },
         {
           "title": "IREN Surges 7% on Conditional ERCOT Status for 2GW Sweetwater Hub, Applied Digital Climbs 6% - Yahoo Finance",
@@ -243,10 +243,10 @@
       "name": "MilDef Group",
       "news": [
         {
-          "title": "Making Battlefield Tech Fuels an 80% Rally for Swedish Stock - bloomberg.com",
+          "title": "Making Battlefield Tech Fuels an 80% Rally for Swedish Stock - Bloomberg.com",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWFZjRE0wOVJoN0E4MHI1dUJOOHZySlIzcHRjbXA2LVlnOW9FbGx4VzktajJlaXJ1S0VhRm8zMUVSWjhVekY5RGxsaWR3WWRQZ2pFdjZOQzF0Ml9yb3FJS3FycTJjZExXMy1VcmpwOVdiQjdvaEhONlh2Y28yNDVKRENpRWVoel9nV1VJU2dYMUlybTZkUFlVZEIya3VETV9sTlJ4dEVPd0t5UDFJMU9Ec0ZvRE0?oc=5",
           "pub": "Fri, 21 Aug 2026 07:00:00 GMT",
-          "source": "bloomberg.com"
+          "source": "Bloomberg.com"
         },
         {
           "title": "MILDEF Forecast — Price Target — Prediction for 2027 - TradingView",
