@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-09-09T01:30:32.865437+00:00",
-  "updated_at_display": "2026-09-09 01:30 UTC",
+  "updated_at": "2026-09-09T02:00:41.855093+00:00",
+  "updated_at_display": "2026-09-09 02:00 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
       "price": 225.73,
-      "prev_close": 228.4499969482422,
+      "prev_close": 230.36000061035156,
       "high_52w": 236.54,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -1.1906312035795046,
+      "day_change_pct": -2.0098978112884747,
       "drawdown_pct": 4.5700515769003145,
       "name": "NVIDIA",
       "news": [
@@ -43,12 +43,12 @@
     {
       "symbol": "META",
       "price": 613.48,
-      "prev_close": 610.6799926757812,
+      "prev_close": 616.77001953125,
       "high_52w": 790.8,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 0.4585064776643718,
+      "day_change_pct": -0.5334272787368008,
       "drawdown_pct": 22.422862923621643,
       "name": "Meta Platforms",
       "news": [
@@ -71,22 +71,22 @@
           "source": "Seeking Alpha"
         },
         {
-          "title": "Meta Platforms Settles Major Lawsuit, Pays $18 Billion - fool.com",
+          "title": "Meta Platforms Settles Major Lawsuit, Pays $18 Billion - The Motley Fool",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSi1WUlRCblN6RklkVmZfbnE1dXQ0QWtlQVFjZXNnanNycFBtTjI0aFVCTXVCa2hTNnprZ3hleDkxZ0VmXzIyT2xMaTVNV3EwMFlBM2ZicDhicUR4a0dwRFM4Y1RkOThlVGZ6U2RfanZiVkVnZC00QXhyN21qSy1iem43d0p4c1VQQW8wUmltWFVSaDRndVZKNXRHOA?oc=5",
           "pub": "Wed, 09 Sep 2026 01:01:41 GMT",
-          "source": "fool.com"
+          "source": "The Motley Fool"
         }
       ]
     },
     {
       "symbol": "AVGO",
       "price": 368.56,
-      "prev_close": 357.1600036621094,
+      "prev_close": 357.8999938964844,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 3.191845733285291,
+      "day_change_pct": 2.978487366668921,
       "drawdown_pct": 25.543434343434342,
       "name": "Broadcom",
       "news": [
@@ -103,28 +103,28 @@
           "source": "Yahoo Finance"
         },
         {
+          "title": "Applied Materials, AMD, Broadcom, Lam Research, and Marvell Technology Shares Skyrocket, What You Need To Know - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSmtzWWhGRjBDOWdsR1ZVU2MySG5rc29nUF9pSkM2WHVjbS1KSmEzZTdyaXAwMDF3OXJOOUxsZXlMT2cwNVRtUE9RZXJ5ZDhfaFBTc0Q3V2c5UURLLS1USjFJaTFsUlBFaTByRkFmbW42U1BoclRQaGhDcHphQy1VRDF0MzZELXd4QXBYVGV2QWR6NzNUS2VTQXF2Z05sVnc4?oc=5",
+          "pub": "Wed, 09 Sep 2026 01:27:00 GMT",
+          "source": "Yahoo Finance"
+        },
+        {
           "title": "Cramer says these 2 stocks are big winners from OpenAI's new model release - CNBC",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNLTR6TnVtVFNLRDBzY0tNTEhUZnF3aS01NkdMcF9tYWFQTDdIaF9qZmp5dHZHem5fMjdhUFN1ZmRfYUtqS2VJR3Q3WkNRcWFLM3kxejNMMXc4Vmx3UlVhd3RVT0N6bEtZQ3JGNjBYTXI4R1JuQ01XZzF4S1JndWp4ZW5PSWs4NV9SS0FaMmU4bS1hdWFxSHZWQ3ZKWkgxQzZpc0xodFJxZnVzTlJwY0tUTg?oc=5",
           "pub": "Tue, 08 Sep 2026 16:41:42 GMT",
           "source": "CNBC"
-        },
-        {
-          "title": "Jim Cramer picks Nvidia and Broadcom as OpenAI GPT-6 Astra winners - qz.com",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBISjA1SmFxM3RreU1xU1dLX2dicUNlaGdxZ2Z5WXFvZWRTTThvNTVzVjlzMzJMUkJUUkNMNHA0dzRaeENmQ1FlMXUzVU85ZVN0VURGRkh0LXR0eEFtaUluWGFaa2tHUzByLXg0dTg5cUhXLU5D?oc=5",
-          "pub": "Tue, 08 Sep 2026 17:23:36 GMT",
-          "source": "qz.com"
         }
       ]
     },
     {
       "symbol": "AMD",
       "price": 505.74,
-      "prev_close": 456.1600036621094,
+      "prev_close": 477.57000732421875,
       "high_52w": 584.73,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 10.868992445601597,
+      "day_change_pct": 5.898610097735233,
       "drawdown_pct": 13.508798932840799,
       "name": "AMD",
       "news": [
@@ -157,12 +157,12 @@
     {
       "symbol": "RKLB",
       "price": 65.87,
-      "prev_close": 63.810001373291016,
+      "prev_close": 64.26000213623047,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 3.2283318952744033,
+      "day_change_pct": 2.505443215448949,
       "drawdown_pct": 56.37748344370861,
       "name": "Rocket Lab",
       "news": [
@@ -195,12 +195,12 @@
     {
       "symbol": "IREN",
       "price": 46.93,
-      "prev_close": 41.650001525878906,
+      "prev_close": 44.68000030517578,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": 12.677066700322706,
+      "day_change_pct": 5.03580948848735,
       "drawdown_pct": 38.94887690492933,
       "name": "IREN",
       "news": [
