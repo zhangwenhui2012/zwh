@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-09-10T01:30:34.003255+00:00",
-  "updated_at_display": "2026-09-10 01:30 UTC",
+  "updated_at": "2026-09-10T02:00:39.698153+00:00",
+  "updated_at_display": "2026-09-10 02:00 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
       "price": 223.67,
-      "prev_close": 230.36000061035156,
+      "prev_close": 225.72999572753906,
       "high_52w": 236.54,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -2.9041502833070187,
+      "day_change_pct": -0.912592817316815,
       "drawdown_pct": 5.440940221527017,
       "name": "NVIDIA",
       "news": [
@@ -43,26 +43,26 @@
     {
       "symbol": "META",
       "price": 653.69,
-      "prev_close": 616.77001953125,
+      "prev_close": 613.47998046875,
       "high_52w": 790.8,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 5.9860206072937086,
+      "day_change_pct": 6.554414294094199,
       "drawdown_pct": 17.338138593829022,
       "name": "Meta Platforms",
       "news": [
         {
-          "title": "Meta stock surges with Wall Street bullish on new AI agent - finance.yahoo.com",
+          "title": "Meta stock surges with Wall Street bullish on new AI agent - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVU5VM2xXTTFmS0lWVkU4cmgtWFNvSU1EUDItZ3FwbmlaXzBiSnBJU1paVGpqNEl5TEJGc2lBNVE5QmN2c1FpMmVycjBOUm9sRzNxZ25yY0k0M2lBb3pLLTczMU1IX0t1NmFSY3dZTi1TVEdCZW5JYk1JNW1WenZsX3BrdmN1NUNFVm5wQ3M4dTdzaE9TSHlfYmVJZDljNGdMWEwxTHNCWU9DNExRakF0d2F6RkNodUIxb2Zpb1IzNA?oc=5",
           "pub": "Wed, 09 Sep 2026 14:09:59 GMT",
-          "source": "finance.yahoo.com"
+          "source": "Yahoo Finance"
         },
         {
-          "title": "Meta Stock Jumps As Tech Giant Touts Early Interest In Muse AI Agent - Investor's Business Daily",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5UaXZycVdpQUJOMUd0eF83ZlpRRU5ITlZQcHU0czV1UFhoc1JaZVlwM2tkVFJ3UV95T05raEt3aGNzM2Zfdk5ES1E0dWdTOGN2dkFmUHJqOTVNazEtTDFSTUdubkNUMkJBenE5UEFBdTdOYmlCMnliVFNNNUgwdw?oc=5",
-          "pub": "Wed, 09 Sep 2026 13:53:00 GMT",
-          "source": "Investor's Business Daily"
+          "title": "Why Is META Stock Rising in Premarket Today, Sept. 9? - TipRanks",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9vc0Q3SUE0NlpORHE2MHNkMHVPU0Q2aGphSHBCakN2YnF5bEk4U1dQSzVfZzZBVnhzWko3bmFvZTNUUUxlUTBINkJDcm1VTktT?oc=5",
+          "pub": "Wed, 09 Sep 2026 13:08:05 GMT",
+          "source": "TipRanks"
         },
         {
           "title": "Meta shares are still cheap and worth buying. Here's why - CNBC",
@@ -81,12 +81,12 @@
     {
       "symbol": "AVGO",
       "price": 364.38,
-      "prev_close": 357.8999938964844,
+      "prev_close": 368.55999755859375,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 1.8105633456338748,
+      "day_change_pct": -1.1341430394732999,
       "drawdown_pct": 26.387878787878787,
       "name": "Broadcom",
       "news": [
@@ -103,36 +103,36 @@
           "source": "CNBC"
         },
         {
+          "title": "Broadcom vs. Marvell: Which Custom AI Chip Stock Is the Better Buy? - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTW8xMXBFcF94cEtrYUZ1bUpfU21BLUVlTXVONmV1dlhabGFEYU5ZNndib01jaDB1YWM0RFdxLVJka1RjMWVOclBoOTJHbVUxMV94NEVOdHdfYm11eFQ1N0lYcVFybDFfLWRFbm5ST01EZldfZUxGUjR5SG1OZEdVUlZ1eXpYR1BMTG5TRjFfd0k5YWN6c0hz?oc=5",
+          "pub": "Tue, 08 Sep 2026 19:11:00 GMT",
+          "source": "The Motley Fool"
+        },
+        {
           "title": "Jim Cramer picks Nvidia and Broadcom as OpenAI GPT-6 Astra winners - qz.com",
           "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBISjA1SmFxM3RreU1xU1dLX2dicUNlaGdxZ2Z5WXFvZWRTTThvNTVzVjlzMzJMUkJUUkNMNHA0dzRaeENmQ1FlMXUzVU85ZVN0VURGRkh0LXR0eEFtaUluWGFaa2tHUzByLXg0dTg5cUhXLU5D?oc=5",
           "pub": "Tue, 08 Sep 2026 17:23:36 GMT",
           "source": "qz.com"
-        },
-        {
-          "title": "This Stock Just Became One of the Most Important AI Picks. Here’s Why - 24/7 Wall St.",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYjM0dDAxOTdkQXR3WDBzaHR5ZnRPdlRVTGZzWUo1MW5ORzlMOWJQTnB2U0NrQ1dwaV90dFJXVVNwWkczQXVwbVN4TFdNQnk0cGVMZDJaY1k2cFpNMDhUM0ZGZWZ4bW5oYkwxNmJlcHJGb1FrQk5VTUVjd1hZWWMtOW5HTlJiazZKRlQ2M0tKWS1LR2Zqbmt1OTVTNF9yMnJ6ZGttY1Z4LU4xZ05Qb29GUw?oc=5",
-          "pub": "Tue, 08 Sep 2026 14:00:00 GMT",
-          "source": "24/7 Wall St."
         }
       ]
     },
     {
       "symbol": "AMD",
       "price": 521.095,
-      "prev_close": 477.57000732421875,
+      "prev_close": 505.739990234375,
       "high_52w": 584.73,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 9.113845511289087,
+      "day_change_pct": 3.0361470443555505,
       "drawdown_pct": 10.882800608828004,
       "name": "AMD",
       "news": [
         {
-          "title": "Why AMD Stock Popped Today? - finance.yahoo.com",
+          "title": "Why AMD Stock Popped Today? - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcHFnckNlbHA0Z0dmQnFHRU9XVUxrUDZlS1liLVVhRU1lankxRFk4NHdrTzc3VWNTMUxGd2JhY3dDNW1rQXdsYmp2c0loTndyTURkeERQREZ6UmctNjBXM1l1Q0Y1clBxaGo2X1kxVjdEa1J3ZUVCZTIyMUwweE5mNkV3alRhMFlmdFFXOEpwNmE0TW9lQXc?oc=5",
           "pub": "Tue, 08 Sep 2026 21:20:23 GMT",
-          "source": "finance.yahoo.com"
+          "source": "Yahoo Finance"
         },
         {
           "title": "AMD Stock Rises as CFO Claims Its Addressable Market Could Reach $3 Trillion - Barron's",
@@ -157,12 +157,12 @@
     {
       "symbol": "RKLB",
       "price": 63.07,
-      "prev_close": 64.26000213623047,
+      "prev_close": 65.87000274658203,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -1.8518551146445306,
+      "day_change_pct": -4.2508010168973644,
       "drawdown_pct": 58.231788079470206,
       "name": "Rocket Lab",
       "news": [
@@ -179,36 +179,36 @@
           "source": "The Motley Fool"
         },
         {
-          "title": "SpaceX Sinks 5% as $47.2B Insider Share Unlock Hits the Tape, AST SpaceMobile Drops 4%, Rocket Lab Slips 2% - 24/7 Wall St.",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPaUFkSV9xNkpHdmo5NURBSlNQZ3JfVkd0SEczck8weWM1c0huWjgwYl9nSnotNlh2eXlvSFlZU214ZWVlNV82bXIybEpSdnNSZ3BaSXBReW9oVXIyUlc5ekt5MjlpNGg3R09GUEJPRERUOGtmWHd0MWR6WEE2OXpMdzBBT0hBS0gzdFIyUFhFSDU5V3VzWUlkQ3ZPSmJWU25ua1lLY25LZEFOTjQtSDZiRmNXelhhZ1plMENnRTJsQWNneW9wbmJIamdhMTRodUZVR1liSnRIWjVBckJXV2c?oc=5",
-          "pub": "Wed, 09 Sep 2026 16:37:00 GMT",
-          "source": "24/7 Wall St."
+          "title": "Rocket Lab Stock Climbs. Yet Neutron Launch Date Remains Out of Reach - uk.finance.yahoo.com",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTlNiSnN3T3BxZGhVRkpiN2twcDZLZ3VudEdpVVBSSFFyMm1Ld3d6aG1PYUc2X2E5djE1MjduTTRrVE1wdlFYaktfMUp1RUw5RlVOajhBNjJrcjdRdGdRNzJrVktmTU1URURQamZEWW02SDBKYnVyb0kyOTVWc3RtcGdR?oc=5",
+          "pub": "Wed, 09 Sep 2026 16:13:04 GMT",
+          "source": "uk.finance.yahoo.com"
         },
         {
-          "title": "Rocket Lab Stock Climbs. Yet Neutron Launch Date Remains Out of Reach - finance.yahoo.com",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdFYwX3kzaGpHZUpyRVZnaVRBUFJBbS1CV3ZwVFplcTVXLVdCMkJCa0FPbE5Va25nMTR5SVJNOThnMlRaMWxhRHRhRVhfRFpkQ3FUYTJCaDQtU1NSS0EwMXlhcXh6UlpNbGNiYXBGby13Ui1rVWVFeXNlalJNVDh5bHhVQ1JweEVDOHJPNElHeGZYWTljRElz?oc=5",
-          "pub": "Wed, 09 Sep 2026 16:13:04 GMT",
-          "source": "finance.yahoo.com"
+          "title": "Rocket Lab's Revenue Is Soaring. So Why Is the Stock Sinking? - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRWlORW9HcWhPd0RQTDdtVVlpUy1zZE1hMzVCMWVsamRpQVlOWmE2R0xxbGF5Qkp5bUhpZU9lNW00N1pKeDhyUmZsUHNMNmtCLVQzdEVRc0JiaGg0OENxZG9uTDdlcjYwN0U3cWIxYmhaZ1hDbm1zdS1KN2hXQnQ0bDdwU0dqVHlQ?oc=5",
+          "pub": "Sat, 05 Sep 2026 16:45:00 GMT",
+          "source": "The Motley Fool"
         }
       ]
     },
     {
       "symbol": "IREN",
       "price": 45.37,
-      "prev_close": 44.68000030517578,
+      "prev_close": 46.93000030517578,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": 1.5443144362384569,
+      "day_change_pct": -3.3241003516544527,
       "drawdown_pct": 40.9782771186159,
       "name": "IREN",
       "news": [
         {
-          "title": "IREN Surges 7% on Conditional ERCOT Status for 2GW Sweetwater Hub, Applied Digital Climbs 6% - finance.yahoo.com",
+          "title": "IREN Surges 7% on Conditional ERCOT Status for 2GW Sweetwater Hub, Applied Digital Climbs 6% - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYURZZzFZMnR1LUxlSkJLYzQtSU9oQ1FVLWZIRkExZ3o4QWg1Unhra2lKeHFUN0diODk1dEN2cG82WXk4cl9QOHBwNzNWR2VSMGpMeFo3WGp2M2paWEZGOWJod3NJYXowNlJFTE8zTEtjLWdRN2dpeGtKMDVUeVBQLVhsLVk4SDhUMFF1c1ZXSXo5QkdoWnJ4cHRWLWU?oc=5",
           "pub": "Tue, 08 Sep 2026 14:10:59 GMT",
-          "source": "finance.yahoo.com"
+          "source": "Yahoo Finance"
         },
         {
           "title": "IREN Limited Has Cratered Over 3 Months: A Top-Ranked Wall Street Name Says It's Due to Double - 24/7 Wall St.",
@@ -319,10 +319,10 @@
       "name": "Norbit ASA",
       "news": [
         {
-          "title": "NORBIT ASA – Mandatory notification of trade by primary insider - finance.yahoo.com",
+          "title": "NORBIT ASA – Mandatory notification of trade by primary insider - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNR1BHSUhoVmR4UU1hX3JjT0E1SVVQdUJwcThsTHVTM3JiWXltZVRxMFlfaWVXOTJmOHluLVFXd2lOUE1qbWdfREk2ZTBkX3FqY0tqQnpBOVlFS3RHejhpMENHblA3Q3ExbHFDdWhtT0FySk9vY0VDSFlZZnJpTVpjcW5rczhxYmp3dmJCZTlCSGcwXzRIeDNzcWJTZ2JjX3JCODc0TkJzWQ?oc=5",
           "pub": "Fri, 04 Sep 2026 09:27:00 GMT",
-          "source": "finance.yahoo.com"
+          "source": "Yahoo Finance"
         },
         {
           "title": "NORBT Forecast — Price Target — Prediction for 2027 - TradingView",
