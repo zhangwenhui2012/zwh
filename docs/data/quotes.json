@@ -1,30 +1,24 @@
 {
-  "updated_at": "2026-09-10T17:30:40.879828+00:00",
-  "updated_at_display": "2026-09-10 17:30 UTC",
+  "updated_at": "2026-09-10T18:00:50.580855+00:00",
+  "updated_at_display": "2026-09-10 18:00 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 218.584,
+      "price": 218.41,
       "prev_close": 223.6699981689453,
       "high_52w": 236.54,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -2.2738848350611995,
-      "drawdown_pct": 7.59110509850342,
+      "day_change_pct": -2.3516780131469694,
+      "drawdown_pct": 7.664665595670921,
       "name": "NVIDIA",
       "news": [
         {
-          "title": "Dear Nvidia Stock Fans, Mark Your Calendars for September 10 - barchart.com",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVkgwdkU0a1VmdFBndEhZVmMwOTVMNFpyN3hBSmQydEdxUmJYX292bGd2eGlzaXJaZlhjZFJBRGpPM1Q1eFUwcVptZnI0aUV3bkxxQ0hVajRnS1FUVHRGNlZpdi0wQzZ1Vk1MUEdQN003WmN1X2FZWjhBUENmQUtFcWc2TzZvNnBxY3hpaTZpM2xuUXFnQ3hVTHZJWDRWRXFUdVR3M2FR?oc=5",
-          "pub": "Tue, 08 Sep 2026 19:42:39 GMT",
-          "source": "barchart.com"
-        },
-        {
-          "title": "Why Nvidia Stock (NVDA) Trended Lower in After-Hours Trading on Wednesday - TipRanks",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRjdfdlVCVk4zLVd6V1VnRm80aG9aRFpIVjZUVWRpWXNjaEVOb29NWmVyYlBhRzhWQ2EtRHlXX1BDNnF3aEtHdEFzdjlGc1NRbDNZbFJhN2pGNWFNcGJVSVBFRDdyX0FCT2c1TXVEQ1h5NWZGWFJmVlFYYS1RSzdYcWZKdmVGa3pVSDNWbnY1S2NuNENkanV4UDMwRGd6Rkdsak9N?oc=5",
-          "pub": "Thu, 10 Sep 2026 04:25:01 GMT",
-          "source": "TipRanks"
+          "title": "Prediction: Sept. 10 Will Be a Big Day for Nvidia Shareholders. Here’s What to Watch. - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTFBrMVZXRmhNcmpkTlRaS0V2U2JuYWxpckNVZ0xyLWhXWHc3SFU1UV9OMDhPcjhMZjBTX3B5RTdhall1RERzcVFQV1Jnd2JoN0RmUlBwZ3RCN0pGdHJZNnFhQjVENS1uRGJEME9GeWJURmdwLUpEYkFnVC13RDRlTExtbGlWX2xLdmJTdFo4UC1iQ2N0dlE?oc=5",
+          "pub": "Tue, 08 Sep 2026 23:35:01 GMT",
+          "source": "Yahoo Finance"
         },
         {
           "title": "Nvidia Just Gave Its Dividend a Massive Raise but Does It Even Matter? - Yahoo Finance",
@@ -33,23 +27,29 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "Nvidia Just Handed Its 1.3 Million-Part Supply Chain to a Stock Cramer Called Ice Cold - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQ0lVUXJROHl3WEF2TWhQdlFtZGtpN3ZlTVRfRU94Rjd6dW1lYml2UVZ3ZDJSUXRKbEtsbTZRdW9wTnJiWDlyNklaTUVXR3hYeUFkT0RnaWx0eU1iWWlacWo0Z1gzaDlWSldWVHYwUElsdnRuODB5cTdXZDZDdzhCT1RqcVg4WVREM3FJVGlxWlo?oc=5",
-          "pub": "Thu, 10 Sep 2026 16:48:06 GMT",
-          "source": "Yahoo Finance"
+          "title": "S&P 500: This 61-Year-Old Man's Stock Bet Made Him More Than Nvidia's CEO - Investor's Business Daily",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRXFnZHRWMmtCOHpVQ2JZRGVoVEpjczNzendzeVpHMmsxSXZ5SnVmMVpreE45YkxoczNEZDFyc2JJbzY5a2tfR0YyRDdDaGJ3UUI4LUVLOHJPejBEcGJwWmFPOXJxcm5jQ2pVdGtkaWc4WG53UVY0VmNXMzZMSHVDN1doNlZ5Z0U3eFI2ZWllcWVSTHJJeWdrV3doRnlObmpvT1VN?oc=5",
+          "pub": "Thu, 10 Sep 2026 11:49:00 GMT",
+          "source": "Investor's Business Daily"
+        },
+        {
+          "title": "Palantir Touts 'Sovereign AI,' Nvidia Pact At Customer Forum - Investor's Business Daily",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWGIzbXE5YUY0VXJaMWYtR1lMUmtpUXE2LW1TRml3UW5HNnZ2bF8xQktXOTdITGlqbDBoV0JycGJDdlhvR25pVzhrVzFieVhkcVYtN2xIYUF5bzJiTXlOOXhmWjdadlJkaWVOdE4taXZLbE5VWVBEbDhmTEhiRnhzZ0FzQlBpeHh4WXBSQlJPX0MxZXM?oc=5",
+          "pub": "Thu, 10 Sep 2026 14:40:00 GMT",
+          "source": "Investor's Business Daily"
         }
       ]
     },
     {
       "symbol": "META",
-      "price": 648.7,
+      "price": 648.11,
       "prev_close": 653.6900024414062,
       "high_52w": 790.8,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -0.7633591492556879,
-      "drawdown_pct": 17.969145169448648,
+      "day_change_pct": -0.8536159984956175,
+      "drawdown_pct": 18.043753161355582,
       "name": "Meta Platforms",
       "news": [
         {
@@ -59,10 +59,10 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "Meta shares are still cheap and worth buying. Here's why - CNBC",
+          "title": "Meta shares are still cheap and worth buying. Here's why - cnbc.com",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRUh6NHBRSWVxZVRIXzNpNFd4N2M3THVfOXBuZzhtaURYVUdPUnYtbEFXVzdCb2lyVWVjWXV0R05zekFId1lGaVR4ZDFZZm9rZXd4My0tQzVoaUpHV0VsWjhITnQ3WnZCTk85ZHE0SGhoYW9MeENXRkVvaHl6YkIwRFJtYXowRGVoYkw0WGF4UW5hcjhtQmc?oc=5",
           "pub": "Wed, 09 Sep 2026 15:37:56 GMT",
-          "source": "CNBC"
+          "source": "cnbc.com"
         },
         {
           "title": "Meta Platforms Agreed to Pay Up to $18 Billion and Set Some Limits for Younger Users. Is the Stock a Buy? - Yahoo Finance",
@@ -80,14 +80,14 @@
     },
     {
       "symbol": "AVGO",
-      "price": 363.22,
+      "price": 362.687,
       "prev_close": 364.3800048828125,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -0.31835031211044074,
-      "drawdown_pct": 26.62222222222222,
+      "day_change_pct": -0.4646261760046279,
+      "drawdown_pct": 26.729898989898988,
       "name": "Broadcom",
       "news": [
         {
@@ -118,21 +118,21 @@
     },
     {
       "symbol": "AMD",
-      "price": 506.21,
+      "price": 506.666,
       "prev_close": 521.0999755859375,
       "high_52w": 584.73,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -2.857412451266164,
-      "drawdown_pct": 13.428419954508925,
+      "day_change_pct": -2.769905250850874,
+      "drawdown_pct": 13.350435243616715,
       "name": "AMD",
       "news": [
         {
-          "title": "Nvidia Has the AI Hype. AMD Has the Valuation. I’d Buy This Stock. - 24/7 Wall St.",
+          "title": "Nvidia Has the AI Hype. AMD Has the Valuation. I’d Buy This Stock. - 247wallst.com",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQby04ZVB0OUxJTFVKZ085VVdnbU11cFpMRFBwVTNOUmdBaFpvaGYtdkFxMEtzbmpTQzNxWHBOMWkyeFduUGlRM3dBdGE3WUMyeEp1aGdNUnd3UDBnV280TzlTRFQxS3lGQUJMcmJmclNfSE5HU0xZS05iZ1dGTHFRUXFEUGp0M2pWalBwRlZMdC1KSE9tTElUak9HOGtXemlHU3k1elV2Q2NVZw?oc=5",
           "pub": "Thu, 10 Sep 2026 16:00:00 GMT",
-          "source": "24/7 Wall St."
+          "source": "247wallst.com"
         },
         {
           "title": "AMD Stock Rises as CFO Claims Its Addressable Market Could Reach $3 Trillion - Barron's",
@@ -156,14 +156,14 @@
     },
     {
       "symbol": "RKLB",
-      "price": 63.14,
+      "price": 63.04,
       "prev_close": 63.06999969482422,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 0.11098827574836079,
-      "drawdown_pct": 58.18543046357616,
+      "day_change_pct": -0.04756571265162302,
+      "drawdown_pct": 58.25165562913908,
       "name": "Rocket Lab",
       "news": [
         {
@@ -179,10 +179,10 @@
           "source": "barchart.com"
         },
         {
-          "title": "SpaceX Sinks 5% as $47.2B Insider Share Unlock Hits the Tape, AST SpaceMobile Drops 4%, Rocket Lab Slips 2% - 24/7 Wall St.",
+          "title": "SpaceX Sinks 5% as $47.2B Insider Share Unlock Hits the Tape, AST SpaceMobile Drops 4%, Rocket Lab Slips 2% - 247wallst.com",
           "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPaUFkSV9xNkpHdmo5NURBSlNQZ3JfVkd0SEczck8weWM1c0huWjgwYl9nSnotNlh2eXlvSFlZU214ZWVlNV82bXIybEpSdnNSZ3BaSXBReW9oVXIyUlc5ekt5MjlpNGg3R09GUEJPRERUOGtmWHd0MWR6WEE2OXpMdzBBT0hBS0gzdFIyUFhFSDU5V3VzWUlkQ3ZPSmJWU25ua1lLY25LZEFOTjQtSDZiRmNXelhhZ1plMENnRTJsQWNneW9wbmJIamdhMTRodUZVR1liSnRIWjVBckJXV2c?oc=5",
           "pub": "Wed, 09 Sep 2026 16:37:00 GMT",
-          "source": "24/7 Wall St."
+          "source": "247wallst.com"
         },
         {
           "title": "Rocket Lab's Next Neutron Milestone Is a Pad Delivery, Not a Launch. I'd Hold Off on Buying the Stock. - The Motley Fool",
@@ -194,14 +194,14 @@
     },
     {
       "symbol": "IREN",
-      "price": 44.31,
+      "price": 44.54,
       "prev_close": 45.369998931884766,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": -2.3363433035918053,
-      "drawdown_pct": 42.357228545864444,
+      "day_change_pct": -1.829400377837493,
+      "drawdown_pct": 42.058022104102974,
       "name": "IREN",
       "news": [
         {
@@ -217,10 +217,10 @@
           "source": "TradingView"
         },
         {
-          "title": "IREN Limited Has Cratered Over 3 Months: A Top-Ranked Wall Street Name Says It's Due to Double - 24/7 Wall St.",
+          "title": "IREN Limited Has Cratered Over 3 Months: A Top-Ranked Wall Street Name Says It's Due to Double - 247wallst.com",
           "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVmJqUkNOVW56Qmpqb2xfZFJ3UVBrd1lEdTJNOXlVV2I0VFhyMFd5bGkxb0pEbUtiQ0pJTDVva0Robl83RF9LOU52LWxlVURIVGhQWWNWVTBXMTg4R2pFSUIzM09rUmtyLTkwekV3d2dBNzNMRVc3QnEzRXpjU1hFYzJQMnZkaGQ3RUtlNmFydXB5RnlaWVZKWmFSNU5VYUZ2a0VwSldaeDNtb3pzOTVGRUhNTGZJV3Q0QmRPdkdpQkdsaFl1T0NtRFlmNGxMWTcyLVE?oc=5",
           "pub": "Tue, 08 Sep 2026 11:24:00 GMT",
-          "source": "24/7 Wall St."
+          "source": "247wallst.com"
         },
         {
           "title": "Is Iren Stock a Buy Now? - The Motley Fool",
@@ -243,16 +243,16 @@
       "name": "MilDef Group",
       "news": [
         {
-          "title": "MILDEF Forecast — Price Target — Prediction for 2027 - TradingView",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9hWW9rMkp5VFlIZmlhT1RWd3k5bVQyVTVlLXktUHJfNm43Qld6bURaV0wwTDN1ZmJwZ0c2c2FPNV8wRVYyaVRRNndDaUZOeHdPQTkwS1doZUdWQ180N051Ym91OXZxYW9YRklxUFRIcVFJOFJxbXFVSEl2dWg?oc=5",
-          "pub": "Thu, 25 Jun 2026 11:58:03 GMT",
-          "source": "TradingView"
-        },
-        {
           "title": "Making Battlefield Tech Fuels an 80% Rally for Swedish Stock - Bloomberg.com",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWFZjRE0wOVJoN0E4MHI1dUJOOHZySlIzcHRjbXA2LVlnOW9FbGx4VzktajJlaXJ1S0VhRm8zMUVSWjhVekY5RGxsaWR3WWRQZ2pFdjZOQzF0Ml9yb3FJS3FycTJjZExXMy1VcmpwOVdiQjdvaEhONlh2Y28yNDVKRENpRWVoel9nV1VJU2dYMUlybTZkUFlVZEIya3VETV9sTlJ4dEVPd0t5UDFJMU9Ec0ZvRE0?oc=5",
           "pub": "Fri, 21 Aug 2026 07:00:00 GMT",
           "source": "Bloomberg.com"
+        },
+        {
+          "title": "MILDEF Forecast — Price Target — Prediction for 2027 - TradingView",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9hWW9rMkp5VFlIZmlhT1RWd3k5bVQyVTVlLXktUHJfNm43Qld6bURaV0wwTDN1ZmJwZ0c2c2FPNV8wRVYyaVRRNndDaUZOeHdPQTkwS1doZUdWQ180N051Ym91OXZxYW9YRklxUFRIcVFJOFJxbXFVSEl2dWg?oc=5",
+          "pub": "Thu, 25 Jun 2026 11:58:03 GMT",
+          "source": "TradingView"
         },
         {
           "title": "MilDef Group (OM:MILDEF) Stock Turnaround To Profitability Tests Bullish Narratives After Q2 Earnings - simplywall.st",
