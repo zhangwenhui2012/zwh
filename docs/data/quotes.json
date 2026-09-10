@@ -1,24 +1,24 @@
 {
-  "updated_at": "2026-09-10T15:30:40.924339+00:00",
-  "updated_at_display": "2026-09-10 15:30 UTC",
+  "updated_at": "2026-09-10T15:49:38.059133+00:00",
+  "updated_at_display": "2026-09-10 15:49 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 218.21,
+      "price": 218.74,
       "prev_close": 223.6699981689453,
       "high_52w": 236.54,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -2.441095459222559,
-      "drawdown_pct": 7.749217891265742,
+      "day_change_pct": -2.204139227122233,
+      "drawdown_pct": 7.525154307939454,
       "name": "NVIDIA",
       "news": [
         {
-          "title": "Dear Nvidia Stock Fans, Mark Your Calendars for September 10 - Barchart.com",
+          "title": "Dear Nvidia Stock Fans, Mark Your Calendars for September 10 - barchart.com",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVkgwdkU0a1VmdFBndEhZVmMwOTVMNFpyN3hBSmQydEdxUmJYX292bGd2eGlzaXJaZlhjZFJBRGpPM1Q1eFUwcVptZnI0aUV3bkxxQ0hVajRnS1FUVHRGNlZpdi0wQzZ1Vk1MUEdQN003WmN1X2FZWjhBUENmQUtFcWc2TzZvNnBxY3hpaTZpM2xuUXFnQ3hVTHZJWDRWRXFUdVR3M2FR?oc=5",
           "pub": "Tue, 08 Sep 2026 19:42:39 GMT",
-          "source": "Barchart.com"
+          "source": "barchart.com"
         },
         {
           "title": "Why Nvidia Stock (NVDA) Trended Lower in After-Hours Trading on Wednesday - TipRanks",
@@ -33,23 +33,23 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "Stock Market Today: Dow Barely Up Ahead Of Inflation Data; Nvidia Chipmaker Falls On Sales (Live Coverage) - Investor's Business Daily",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVVpMdDNQUkN3RFk4bkRCSWVKY2RNLTE4ZnRHTG5hekhVYzVKelJrXzBwbmtUUHhVckdRN2tJU2xZUFBUTlFGdkRHaUxLc0xhMGkxZV82Q1lkU3ZYa1ptMHU0MGtDZFRGNDRKd2x4YXJaOEdpQ0R6MFhWVWk3eEpKMEN3ZXhpN0Z4dmhxSF9nanBlSWJFU0x1MzNMemdDdEl0WVVWNHozQ3QyejN5RndNdUZnbFRHajlJN3c?oc=5",
-          "pub": "Thu, 10 Sep 2026 12:07:00 GMT",
-          "source": "Investor's Business Daily"
+          "title": "Nvidia and Palantir Expand AI Partnership. What It Means for the Stocks. - Barron's",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWmR2LWtCZEZ3VmZvekplYVJINjA0dmk0Si1ORi1qTWM4WDhCUVJkNlVYZkJ5MW0zeDNlRWNCcnQweU9qRG5tTGxoQm4yeHY4Qm5fMnJFTmx5M2NhZ3cyYnB1WGViU0o0MWFraWw1X1NpYzJIdEVpT1hvUXNwV0FtV1A2eS1KX2pSSkoyTE5WajFLN2NzcDRicHJkbTFfZms?oc=5",
+          "pub": "Thu, 10 Sep 2026 14:40:00 GMT",
+          "source": "Barron's"
         }
       ]
     },
     {
       "symbol": "META",
-      "price": 652.05,
+      "price": 653.05,
       "prev_close": 653.6900024414062,
       "high_52w": 790.8,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -0.25088381882562105,
-      "drawdown_pct": 17.545523520485585,
+      "day_change_pct": -0.09790610824947751,
+      "drawdown_pct": 17.419069296914518,
       "name": "Meta Platforms",
       "news": [
         {
@@ -80,14 +80,14 @@
     },
     {
       "symbol": "AVGO",
-      "price": 364.135,
+      "price": 364.27,
       "prev_close": 364.3800048828125,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -0.06723883844595277,
-      "drawdown_pct": 26.437373737373736,
+      "day_change_pct": -0.030189604626603105,
+      "drawdown_pct": 26.410101010101013,
       "name": "Broadcom",
       "news": [
         {
@@ -97,10 +97,10 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "Not Nvidia. Not Broadcom. But This Semiconductor Stock Is Set to Grow Faster Than Any Other Major AI Chipmaker Through the End of the Decade. - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbnNRT3NFT2xuTkRPbUVQc2pxQ0RpZERFLTVOUkd0b0pHTkFudkhQcTdYYk1sdlRIa2xrYWVrTi1oUVNfV1o2c0FVazE1ZENPd1FFVmFocG9fREdQb25Wc2tzRmxZZmdSdTNXSjhISHZoZlB1YXBjSU5TLVpMLWtsUDVKazR6YzE5aFFGTmJ3ZmYteElqSHpVNQ?oc=5",
-          "pub": "Thu, 10 Sep 2026 09:30:00 GMT",
-          "source": "The Motley Fool"
+          "title": "Prediction: Broadcom Could Become One of the World’s Most Valuable Tech Companies - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUW5kTlo5RVotUkktSUFWdzNlWi1EU1pwaGdKcV9TM1AtQzNFdTJtbmRvWTNEMWVzODNiRnpTU3gwWWVFQXpWeFN5R0MyaXRYWWtKalJkMU51N01jY2ZDWUU5WjZud0U0Y0xfdWI1eXBETDJMQXRTLUtaM3d4UFVNZlBPQ2FPTzBwWC1uQ2l1YWxPcXh1NFQ3d25NVEJUU1p1SGpn?oc=5",
+          "pub": "Thu, 10 Sep 2026 15:30:32 GMT",
+          "source": "Yahoo Finance"
         },
         {
           "title": "Cramer says these 2 stocks are big winners from OpenAI's new model release - CNBC",
@@ -109,23 +109,23 @@
           "source": "CNBC"
         },
         {
-          "title": "Broadcom: The $230 Billion AI Dream Is Getting Expensive - Seeking Alpha",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPY2tiVlJlWmpCY2pxNEZyRV9JUzNzdXMzaURJMEgzQmE2V1J0dmNxMHRpbUZnYW82Skp1OFJza1ZIdWctQ015SkYzYUplN0RiTnVkcFlEM3BPNEJYYUdTQ3BDUk9KYmV4UWJpUWVPY1pqRUpQWFdUWWR6dm5xandQVjd1WlVQY3ozak9Ea3JNUFBpdjd3dmJXT0d4NA?oc=5",
-          "pub": "Wed, 09 Sep 2026 13:52:46 GMT",
-          "source": "Seeking Alpha"
+          "title": "Not Nvidia. Not Broadcom. But This Semiconductor Stock Is Set to Grow Faster Than Any Other Major AI Chipmaker Through the End of the Decade. - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbnNRT3NFT2xuTkRPbUVQc2pxQ0RpZERFLTVOUkd0b0pHTkFudkhQcTdYYk1sdlRIa2xrYWVrTi1oUVNfV1o2c0FVazE1ZENPd1FFVmFocG9fREdQb25Wc2tzRmxZZmdSdTNXSjhISHZoZlB1YXBjSU5TLVpMLWtsUDVKazR6YzE5aFFGTmJ3ZmYteElqSHpVNQ?oc=5",
+          "pub": "Thu, 10 Sep 2026 09:30:00 GMT",
+          "source": "The Motley Fool"
         }
       ]
     },
     {
       "symbol": "AMD",
-      "price": 507.255,
+      "price": 508.015,
       "prev_close": 521.0999755859375,
       "high_52w": 584.73,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -2.6568751169811278,
-      "drawdown_pct": 13.249704992047615,
+      "day_change_pct": -2.5110297829556503,
+      "drawdown_pct": 13.11973047389394,
       "name": "AMD",
       "news": [
         {
@@ -141,10 +141,10 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "Options Flow Alert: Institutional Money Piles Into AMD Stock - Barchart.com",
+          "title": "Options Flow Alert: Institutional Money Piles Into AMD Stock - barchart.com",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNjJZaEVsOUZ2OWl4aXZrVFhyY0c4c1pXRkI1aDRRSHVxU3h3QjF3U21KM2ZGZ1RCVjJoRDNNTnFhcFRXcjZQTkZ1YXlmZTB2NGVXdWpzWWhLMDN2WktHdHdQbjFNYnpGcmJmZ3l3M2VuTmhDVnZWcTFQalZaTHN1VGY1YlRkSGxkek40RzV0MHBTMm1BUHVRZzM2U0tZUFZVMWE4RS1R?oc=5",
           "pub": "Wed, 09 Sep 2026 11:00:02 GMT",
-          "source": "Barchart.com"
+          "source": "barchart.com"
         },
         {
           "title": "Cathie Wood’s ARK sells AMD stock, buys Archer Aviation - Investing.com",
@@ -156,21 +156,21 @@
     },
     {
       "symbol": "RKLB",
-      "price": 63.6,
+      "price": 63.82,
       "prev_close": 63.06999969482422,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 0.8403366223882774,
-      "drawdown_pct": 57.88079470198676,
+      "day_change_pct": 1.1891553968682351,
+      "drawdown_pct": 57.73509933774835,
       "name": "Rocket Lab",
       "news": [
         {
-          "title": "Rocket Lab Keeps Landing Defense Deals. Here’s Why Analysts Aren’t Getting More Bullish. - Barchart.com",
+          "title": "Rocket Lab Keeps Landing Defense Deals. Here’s Why Analysts Aren’t Getting More Bullish. - barchart.com",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaVZtb01oSHE1QkduZ2hRVXg5enNVLXBuLTZ6b0F3NWU3WVdLTXFXV1VYMHJEUVU0elQycTBlU2ZQa05PVnlYYXJvc2hKcXNzWGU5R2o1aGw0N0lYLUxUcV8tSEN2NVFNVndqUTRKTm1SRUQ5N2hvVzktajJSeXppaFI1YVpYZjVLQV9YNVRtbDFudmdLcjZYUk1MRWN2Z0lfM3RvcnNsNGFsN1pUQzAyRGlkdFg4YTdGOV9vbFR6ZXNKSXk0V0h3?oc=5",
           "pub": "Tue, 08 Sep 2026 15:02:03 GMT",
-          "source": "Barchart.com"
+          "source": "barchart.com"
         },
         {
           "title": "Rocket Lab Stock Climbs. Yet Neutron Launch Date Remains Out of Reach - Yahoo Finance",
@@ -179,10 +179,10 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "RKLB Stock Jumps as Rocket Lab Debuts New Solar Cell for Space - Barchart.com",
+          "title": "RKLB Stock Jumps as Rocket Lab Debuts New Solar Cell for Space - barchart.com",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOLUFMMHBQSVhkdzhoWTl1blJBRnZOZWhIOGlEVWFtOV9DM05Rb3RFdU1jTVNjRkZZT0cxb0NMbU9aX1BPUlN5OWE0M3FqS2kxMUwtNkNWeU9TLUc4anNrbHNTb2trT055NmJ0M3pnNmRvRWVrcmdycDBkMW1SOFc1b185U2RmRUNkVnNGSElyWWt2bllFdzlvWXNmb0lKa0hqQ3k2SmxvUERWUQ?oc=5",
           "pub": "Wed, 09 Sep 2026 20:14:05 GMT",
-          "source": "Barchart.com"
+          "source": "barchart.com"
         },
         {
           "title": "SpaceX Sinks 5% as $47.2B Insider Share Unlock Hits the Tape, AST SpaceMobile Drops 4%, Rocket Lab Slips 2% - 24/7 Wall St.",
@@ -194,14 +194,14 @@
     },
     {
       "symbol": "IREN",
-      "price": 45.11,
+      "price": 44.93,
       "prev_close": 45.369998931884766,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": -0.5730635618376579,
-      "drawdown_pct": 41.316510487563654,
+      "day_change_pct": -0.969801503732342,
+      "drawdown_pct": 41.55067205068133,
       "name": "IREN",
       "news": [
         {
@@ -243,16 +243,16 @@
       "name": "MilDef Group",
       "news": [
         {
-          "title": "MILDEF Forecast — Price Target — Prediction for 2027 - TradingView",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9hWW9rMkp5VFlIZmlhT1RWd3k5bVQyVTVlLXktUHJfNm43Qld6bURaV0wwTDN1ZmJwZ0c2c2FPNV8wRVYyaVRRNndDaUZOeHdPQTkwS1doZUdWQ180N051Ym91OXZxYW9YRklxUFRIcVFJOFJxbXFVSEl2dWg?oc=5",
-          "pub": "Thu, 25 Jun 2026 11:58:03 GMT",
-          "source": "TradingView"
-        },
-        {
           "title": "Making Battlefield Tech Fuels an 80% Rally for Swedish Stock - Bloomberg.com",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWFZjRE0wOVJoN0E4MHI1dUJOOHZySlIzcHRjbXA2LVlnOW9FbGx4VzktajJlaXJ1S0VhRm8zMUVSWjhVekY5RGxsaWR3WWRQZ2pFdjZOQzF0Ml9yb3FJS3FycTJjZExXMy1VcmpwOVdiQjdvaEhONlh2Y28yNDVKRENpRWVoel9nV1VJU2dYMUlybTZkUFlVZEIya3VETV9sTlJ4dEVPd0t5UDFJMU9Ec0ZvRE0?oc=5",
           "pub": "Fri, 21 Aug 2026 07:00:00 GMT",
           "source": "Bloomberg.com"
+        },
+        {
+          "title": "MILDEF Forecast — Price Target — Prediction for 2027 - TradingView",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9hWW9rMkp5VFlIZmlhT1RWd3k5bVQyVTVlLXktUHJfNm43Qld6bURaV0wwTDN1ZmJwZ0c2c2FPNV8wRVYyaVRRNndDaUZOeHdPQTkwS1doZUdWQ180N051Ym91OXZxYW9YRklxUFRIcVFJOFJxbXFVSEl2dWg?oc=5",
+          "pub": "Thu, 25 Jun 2026 11:58:03 GMT",
+          "source": "TradingView"
         },
         {
           "title": "MilDef Group (OM:MILDEF) Stock Turnaround To Profitability Tests Bullish Narratives After Q2 Earnings - simplywall.st",
