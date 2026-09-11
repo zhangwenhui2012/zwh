@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-09-11T18:30:36.320327+00:00",
-  "updated_at_display": "2026-09-11 18:30 UTC",
+  "updated_at": "2026-09-11T18:51:57.514166+00:00",
+  "updated_at_display": "2026-09-11 18:51 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 219.625,
+      "price": 219.325,
       "prev_close": 218.36000061035156,
       "high_52w": 236.54,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 0.5793182753766988,
-      "drawdown_pct": 7.151010399932354,
+      "day_change_pct": 0.44193047579735145,
+      "drawdown_pct": 7.277838843324598,
       "name": "NVIDIA",
       "news": [
         {
@@ -28,8 +28,8 @@
         },
         {
           "title": "TSMC Just Delivered Fantastic News for Nvidia Shareholders - The Globe and Mail",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNTHhhMjRYbW9qVlRvX0NPRkd3dTdERnFPck56V1NQTU9IbF9YWDlWZ2M2ZlM4OC11Y1Jzd0dlN2hYT0sxbXN3dG54d3ZVWEJHYmtaZGs4bEl3QjBMZUlwUmh0S3VURzNoMnlYTm1SNW00OTdpTmg1N05SUHpaeHRwLUQ0LVFSeWM4czU1SnQzTHJEVDB6UDFTczZ1bDJjdTBmS3lwV2FVTjB0VFFodUZJU184RFlmckhmT19sZGcwMUtqQ3l1QmQtc1ItaUlPZXU4dkNEczFRZkdjT2JHVnc?oc=5",
-          "pub": "Fri, 11 Sep 2026 17:31:14 GMT",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPVUlabUVxbDNYYi1LMTRYenVDWFpsN24tcGdEcWtBaDBUUHpTWEVWeExjUTJ2UGhSZGIyWFQyMFd1RDVnb1FmMUJCeGs3anNpQl9KVlo4clFuRG1BVnJHM2Nadm9Sa3FsSm5lS1hncTdDY2s2RWVvTVBHV3BpX2swN1JrNWNmal9xTXlLRE8xUFVQUXhqQkd3SnZGbHdDOWg1WnkyN3I0Z0tJelhLeG5MQXhuNFpzRDd0VFM0TEdUc25ybjE0bDlZcTNUU2hMRjNIM0d0OTBjMmFTeHc?oc=5",
+          "pub": "Fri, 11 Sep 2026 17:32:49 GMT",
           "source": "The Globe and Mail"
         },
         {
@@ -42,14 +42,14 @@
     },
     {
       "symbol": "META",
-      "price": 649.52,
+      "price": 649.879,
       "prev_close": 644.3800048828125,
       "high_52w": 790.8,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 0.7976652096959845,
-      "drawdown_pct": 17.865452706120383,
+      "day_change_pct": 0.8533776770723311,
+      "drawdown_pct": 17.820055639858364,
       "name": "Meta Platforms",
       "news": [
         {
@@ -57,6 +57,12 @@
           "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5UaXZycVdpQUJOMUd0eF83ZlpRRU5ITlZQcHU0czV1UFhoc1JaZVlwM2tkVFJ3UV95T05raEt3aGNzM2Zfdk5ES1E0dWdTOGN2dkFmUHJqOTVNazEtTDFSTUdubkNUMkJBenE5UEFBdTdOYmlCMnliVFNNNUgwdw?oc=5",
           "pub": "Wed, 09 Sep 2026 13:53:00 GMT",
           "source": "Investor's Business Daily"
+        },
+        {
+          "title": "Why Is META Stock Rising in Premarket Today, Sept. 9? - TipRanks",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9vc0Q3SUE0NlpORHE2MHNkMHVPU0Q2aGphSHBCakN2YnF5bEk4U1dQSzVfZzZBVnhzWko3bmFvZTNUUUxlUTBINkJDcm1VTktT?oc=5",
+          "pub": "Wed, 09 Sep 2026 13:08:05 GMT",
+          "source": "TipRanks"
         },
         {
           "title": "Meta Announces Quarterly Cash Dividend - Meta Investor Relations",
@@ -69,25 +75,19 @@
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRUh6NHBRSWVxZVRIXzNpNFd4N2M3THVfOXBuZzhtaURYVUdPUnYtbEFXVzdCb2lyVWVjWXV0R05zekFId1lGaVR4ZDFZZm9rZXd4My0tQzVoaUpHV0VsWjhITnQ3WnZCTk85ZHE0SGhoYW9MeENXRkVvaHl6YkIwRFJtYXowRGVoYkw0WGF4UW5hcjhtQmc?oc=5",
           "pub": "Wed, 09 Sep 2026 15:37:56 GMT",
           "source": "CNBC"
-        },
-        {
-          "title": "AppLovin vs. Meta Platforms: Which Technology Stock Is a Better Buy in 2026? - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTW5reGFjdnIxcWxmY1hSZUFkUkp0VDZmT2UzWERtajdSaEtXRXY2VE1YYUtqT2dLUDhjWEZSZndkVUY5cWxlTXlaaFRCMXR3T3BtQjhQZ295UW0tU28wZWtsQWw5R3BYeDgzT1MzUWJoQUVESXVBM0hBVGFlVC0yTkpDME5IZE1zLS1rWnJhdm02WkxjNVh0ejhucVY1dzVvVzBuTw?oc=5",
-          "pub": "Fri, 11 Sep 2026 17:18:14 GMT",
-          "source": "Yahoo Finance"
         }
       ]
     },
     {
       "symbol": "AVGO",
-      "price": 364.925,
+      "price": 363.84,
       "prev_close": 360.8299865722656,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 1.1348872267062131,
-      "drawdown_pct": 26.27777777777778,
+      "day_change_pct": 0.8341915970810027,
+      "drawdown_pct": 26.496969696969703,
       "name": "Broadcom",
       "news": [
         {
@@ -118,14 +118,14 @@
     },
     {
       "symbol": "AMD",
-      "price": 518.07,
+      "price": 517.665,
       "prev_close": 503.6000061035156,
       "high_52w": 584.73,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 2.8733109057012403,
-      "drawdown_pct": 11.400133394900203,
+      "day_change_pct": 2.792889937652872,
+      "drawdown_pct": 11.469396131547903,
       "name": "AMD",
       "news": [
         {
@@ -156,14 +156,14 @@
     },
     {
       "symbol": "RKLB",
-      "price": 64.215,
+      "price": 63.28,
       "prev_close": 61.959999084472656,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 3.639446334485916,
-      "drawdown_pct": 57.473509933774835,
+      "day_change_pct": 2.1304082230984744,
+      "drawdown_pct": 58.092715231788084,
       "name": "Rocket Lab",
       "news": [
         {
@@ -179,10 +179,10 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "Rocket Lab Stock Just Scored a New Bullish Rating - Barchart.com",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUEZlMjNXOTBaYVltQ3ExaWFvaUlreWNUTGxRdGJQUnJoeHVuY3NHNU9yekw0cU1ZYVZzRVVzQ3VHV3hxbEtfYnNxNmtDamZGMXVVajNvdWx2VjFudndkSzZkeVNLNFFaLVRqNVNudEcxUlpEQWU3azlDRmR6YzFTZzFjMjZoSFFVbmpTWE03ZUpaQnlBUVdORw?oc=5",
-          "pub": "Fri, 11 Sep 2026 17:55:44 GMT",
-          "source": "Barchart.com"
+          "title": "Where Will Rocket Lab Stock Be by This Time Next Year? - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdGozSVRId3hWWFF2aVdSUEYwWmRUS19id0pDRWFQWVdPSXZ1LWRDQ0o3VTQ5Qmw0cTZUaHExeUpFblpYR2FDLTlwOW83TjZqdHpaUmgzTDhKenpBZ0RoY2h4cS1UVUJDRUIxX1FXaUw0N0ZCUzJ0TTcxYnQ4N1poV2YwOXBGN3lGVm4zZ3JoamZFNFVwaGkw?oc=5",
+          "pub": "Thu, 10 Sep 2026 15:50:00 GMT",
+          "source": "Yahoo Finance"
         },
         {
           "title": "Raymond James initiates Rocket Lab stock with outperform rating - Investing.com",
@@ -194,14 +194,14 @@
     },
     {
       "symbol": "IREN",
-      "price": 44.07,
+      "price": 43.725,
       "prev_close": 43.63999938964844,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": 0.9853359678404588,
-      "drawdown_pct": 42.669443963354695,
+      "day_change_pct": 0.19477683671032855,
+      "drawdown_pct": 43.118253625996914,
       "name": "IREN",
       "news": [
         {
@@ -211,10 +211,10 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "Is Iren Stock a Buy Now? - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE53azNIQUlvb0E3OWN5cTRONUcxY19zM0s5WEhVZ1ZvSzB5VHlOSkZfd2RCLU9rVVFtcTNHcUFQclllalVVeVVXeGpMdHJFWXZCNGdueTFNVXJyVGoyUkZOY2tEMHJjTW11NEJ6S2w4LVpLZVhD?oc=5",
-          "pub": "Wed, 09 Sep 2026 20:15:00 GMT",
-          "source": "The Motley Fool"
+          "title": "Iris Energy Stock (IREN) Opinions on AI Data Center Pivot and Recent Earnings - Quiver Quantitative",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNzFudjdHcWNwcDVEMGpQWnFTMi0tejc1VXQ0cWpEOEg4aDZ6ajJFajluaGFWdE5MOXQ4d3FGVTJ3YkxvbDZpLXY0TkE1bTl2SUstOXF1Z0JBcW9tVTNwUnVvS0pVUVFyNW8tWm1GMGc2X2dXMlBaSU1hbzEyM2x0Y3hwb0JYV2pTNkc1b3ZsS2prbjk5ZmlWcS1iTkVqNUZhOHByb0tmb0o0SHNpNWY0anhWR0w?oc=5",
+          "pub": "Fri, 11 Sep 2026 17:38:00 GMT",
+          "source": "Quiver Quantitative"
         },
         {
           "title": "TeraWulf Drops 4% on Profit Taking After a 44% YTD Run; Applied Digital Falls 3%, IREN Pulls Back - 24/7 Wall St.",
@@ -223,10 +223,10 @@
           "source": "24/7 Wall St."
         },
         {
-          "title": "IREN Stock Slides as Co-CEO Notes Investors Want Proof for $1B AI Revenue Run-Rate - TipRanks",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObGc2OVBTcHdRUnR3QWpKcUdMaWdheHFpTGtOUFU0bTh0VDNXR1BuMnZYbWRHbkVaVW9ZTTVpNk1Sa3E3RXFhWUxJcXhYMkRHV09UY3JNT1RhRHpYa1EyMXRTOWx4cnlEZmRWVG1OWHdKZHBkWWhxRjVsd3lETmNMODVEZUFrUDUyTjdJWGdlZ1gzQWVRaDRhWk5ldi1pUUlYdzRCOXR0Zk9kQU1kUDFsbQ?oc=5",
-          "pub": "Fri, 11 Sep 2026 08:45:56 GMT",
-          "source": "TipRanks"
+          "title": "Is Iren Stock a Buy Now? - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE53azNIQUlvb0E3OWN5cTRONUcxY19zM0s5WEhVZ1ZvSzB5VHlOSkZfd2RCLU9rVVFtcTNHcUFQclllalVVeVVXeGpMdHJFWXZCNGdueTFNVXJyVGoyUkZOY2tEMHJjTW11NEJ6S2w4LVpLZVhD?oc=5",
+          "pub": "Wed, 09 Sep 2026 20:15:00 GMT",
+          "source": "The Motley Fool"
         }
       ]
     },
@@ -242,12 +242,6 @@
       "drawdown_pct": 7.057368071144879,
       "name": "MilDef Group",
       "news": [
-        {
-          "title": "Making Battlefield Tech Fuels an 80% Rally for Swedish Stock - bloomberg.com",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWFZjRE0wOVJoN0E4MHI1dUJOOHZySlIzcHRjbXA2LVlnOW9FbGx4VzktajJlaXJ1S0VhRm8zMUVSWjhVekY5RGxsaWR3WWRQZ2pFdjZOQzF0Ml9yb3FJS3FycTJjZExXMy1VcmpwOVdiQjdvaEhONlh2Y28yNDVKRENpRWVoel9nV1VJU2dYMUlybTZkUFlVZEIya3VETV9sTlJ4dEVPd0t5UDFJMU9Ec0ZvRE0?oc=5",
-          "pub": "Fri, 21 Aug 2026 07:00:00 GMT",
-          "source": "bloomberg.com"
-        },
         {
           "title": "MILDEF Forecast — Price Target — Prediction for 2027 - TradingView",
           "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9hWW9rMkp5VFlIZmlhT1RWd3k5bVQyVTVlLXktUHJfNm43Qld6bURaV0wwTDN1ZmJwZ0c2c2FPNV8wRVYyaVRRNndDaUZOeHdPQTkwS1doZUdWQ180N051Ym91OXZxYW9YRklxUFRIcVFJOFJxbXFVSEl2dWg?oc=5",
@@ -265,6 +259,12 @@
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNGFTODUwbXhPdy1abF9UdjM5d2h2blUxMzJXeWwxdWhuSkZ1eDBaUnF4MVk2cWlxQjJpU0s4eGN2UnMtMWNBZjV5T19HeVd3c2ZlZGUzX2kyZ2dWRjF1NGFvQ0trYVJFSVNyMlg0YUhEcnc3Sk9LSk0zd3ZhMFJ0M3drZkdGT1BIall4ZzRVTlVjLU1VVjRXWXZkSzBGTEVoZ2luLTNwZWJCR2FuUmZuXzB6TDR4VTd4SmYtRWdiNFVtdDVrc3c?oc=5",
           "pub": "Thu, 16 Jul 2026 07:00:00 GMT",
           "source": "Investing.com"
+        },
+        {
+          "title": "MilDef Group: Highlights from DNB Carnegie's Small & Mid Cap Seminar - marketscreener.com",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOHE3V2REWFZxYXM2WXlCMVBod3dENmJuUF92RmVIdlE1d3RGZHAxR0VncTRIUGNFblpXSnVDZDZOaDB6cTlWMUlLQ2pPay0tOWVPaFd6MG1pNGRxV2dXWHJwcDBMRmZqckVpWjNORmdlNG9pejcyaXJ1dkVmYnFqWndWaWk0ZEFYRDF4N09sM2pSQnprbmQtMjJad28yaGdxZmRXcU11NnNmRjcyd1REZTN0SUQyd3Q3Q1E?oc=5",
+          "pub": "Wed, 02 Sep 2026 05:04:06 GMT",
+          "source": "marketscreener.com"
         }
       ]
     },
