@@ -1,24 +1,24 @@
 {
-  "updated_at": "2026-09-11T19:30:36.465039+00:00",
-  "updated_at_display": "2026-09-11 19:30 UTC",
+  "updated_at": "2026-09-11T20:00:45.090526+00:00",
+  "updated_at_display": "2026-09-11 20:00 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 218.28,
+      "price": 218.29,
       "prev_close": 218.36000061035156,
       "high_52w": 236.54,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -0.03663702607068452,
-      "drawdown_pct": 7.719624587807555,
+      "day_change_pct": -0.03205743275137728,
+      "drawdown_pct": 7.715396973027818,
       "name": "NVIDIA",
       "news": [
         {
-          "title": "Prediction: NVIDIA Stock Has Returned 14,700% in 10 Years. Can It Do It Again? - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaVNsbEg4bmw2ZE1yY2dmQ1dDdkJ6OUctUERqYWZSblcxblpRRnZOLXVZcU9rdXVTc21WZ1FsZEFHZUpJWlRLOW1UNGxxY2xtVWNleHFsVkVCaGNGZWw3T0VidFBmNm4yVlJ3c2RKLThVekZYSnFCaHU4NFBjUXhWTVIwNTZLeVhXNUVDVFNvUGluRkxkNjBmSjVXYWpHeGdYTHc?oc=5",
-          "pub": "Wed, 09 Sep 2026 14:00:07 GMT",
-          "source": "Yahoo Finance"
+          "title": "Dear Nvidia Stock Fans, Mark Your Calendars for September 10 - Barchart.com",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVkgwdkU0a1VmdFBndEhZVmMwOTVMNFpyN3hBSmQydEdxUmJYX292bGd2eGlzaXJaZlhjZFJBRGpPM1Q1eFUwcVptZnI0aUV3bkxxQ0hVajRnS1FUVHRGNlZpdi0wQzZ1Vk1MUEdQN003WmN1X2FZWjhBUENmQUtFcWc2TzZvNnBxY3hpaTZpM2xuUXFnQ3hVTHZJWDRWRXFUdVR3M2FR?oc=5",
+          "pub": "Tue, 08 Sep 2026 19:42:39 GMT",
+          "source": "Barchart.com"
         },
         {
           "title": "Marvell Rises 5% as Piper Sandler Starts Coverage With $270 Target; Broadcom Edges Higher, NVIDIA Holds Steady - Yahoo Finance",
@@ -42,20 +42,20 @@
     },
     {
       "symbol": "META",
-      "price": 650.855,
+      "price": 648.03,
       "prev_close": 644.3800048828125,
       "high_52w": 790.8,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 1.0048410981289009,
-      "drawdown_pct": 17.696636317653002,
+      "day_change_pct": 0.5664351918944573,
+      "drawdown_pct": 18.053869499241273,
       "name": "Meta Platforms",
       "news": [
         {
-          "title": "Meta Rises 6% as Muse AI Agent Arrives With Paid Subscription Tiers; Alphabet Falls 2% - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSV9VZ0sxb2IzTktBTVpja0Zpd01uLU1EZG5lNXJYMEUxVUtOU0pSTXBjWFQ0UTF4eUs5SS1KSjdLVG5FbVZ6ZUxOSUpYZVk5RkQ0d2o5djFzMmpkNWdBeFFBbDlBbW9jOU5QTmd4ZEk1V0pkbWFnUGlYMHFqZ0NiZ3lVRVpvcXN5UzBsa1h3?oc=5",
-          "pub": "Wed, 09 Sep 2026 13:19:27 GMT",
+          "title": "Why Are Meta (META) Shares Soaring Today - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNc1hoamg4VWlOUXcyUTQ3QzdQQVI3X1RfOEtQdy13SVFyZDQwRHFkN0pnQzRsMkg2RW9LUTk5c2d5S0t2RTNIZ2wtZ3lmR3dOVGljREZmbmZUbFFGWWgwTzlyaFE5aDlaQnBKblFvbGM0QW1rbXN1aWpRdHpGZk1iZzc1TzQtTkVCV1FuUG93Z3JYaFg4S3ZPQQ?oc=5",
+          "pub": "Thu, 10 Sep 2026 00:02:00 GMT",
           "source": "Yahoo Finance"
         },
         {
@@ -80,14 +80,14 @@
     },
     {
       "symbol": "AVGO",
-      "price": 363.045,
+      "price": 361.99,
       "prev_close": 360.8299865722656,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 0.6138662279086321,
-      "drawdown_pct": 26.657575757575753,
+      "day_change_pct": 0.32148476315785945,
+      "drawdown_pct": 26.870707070707066,
       "name": "Broadcom",
       "news": [
         {
@@ -118,14 +118,14 @@
     },
     {
       "symbol": "AMD",
-      "price": 516.175,
+      "price": 516.13,
       "prev_close": 503.6000061035156,
       "high_52w": 584.73,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 2.497020203351531,
-      "drawdown_pct": 11.724214594770247,
+      "day_change_pct": 2.488084540235056,
+      "drawdown_pct": 11.73191045439776,
       "name": "AMD",
       "news": [
         {
@@ -135,9 +135,9 @@
           "source": "Barron's"
         },
         {
-          "title": "Advanced Micro Devices vs. Qualcomm: Which Technology Stock Is a Better Buy in 2026? - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNclpFeTRvXy01M2tkU0ZacDlvOTZWT1k5aHNmSklmOXFfaFZKZXE4aHdKUGtfS1VpNUhfaG9uSU1mZ1NDUTR3Qm1uanVSWE5rUlV2UUVVMWdIQ0luMUM4UVB0VXg0dzNvdHo2ZXFPdjluY2trd285b1hMdVhueTN3bzk4QXlGLUtQRm5aTThFU3pUZlF4N2J4cGd2X2syMjlx?oc=5",
-          "pub": "Fri, 11 Sep 2026 15:17:37 GMT",
+          "title": "NVIDIA vs. AMD After Earnings: Which AI Stock Should You Buy Now? - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxON0VLZlhIdWhFNWhyOGtQak5PUVd3dU0tc3FjNEp5VDF6TWR0WUZ6R3ZZRXdZWUNOTzIycUJZcEdOdERkOGJBckRqTHMzZnhjQmZiS1JlOHBmNGVMdEw3NW0wcTlNS2FHSmhTdDRZZEtNc2RZUjVMeHNoOHlRMUViUXo2TEVPOG9vc0FTR1hQNWVQVjA?oc=5",
+          "pub": "Thu, 10 Sep 2026 19:00:00 GMT",
           "source": "Yahoo Finance"
         },
         {
@@ -156,14 +156,14 @@
     },
     {
       "symbol": "RKLB",
-      "price": 63.5,
+      "price": 62.95,
       "prev_close": 61.959999084472656,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 2.4854760140131638,
-      "drawdown_pct": 57.94701986754966,
+      "day_change_pct": 1.5978065367264402,
+      "drawdown_pct": 58.311258278145694,
       "name": "Rocket Lab",
       "news": [
         {
@@ -173,35 +173,35 @@
           "source": "Barron's"
         },
         {
-          "title": "Grounded and Falling: Why One Wall Street Pro Says Rocket Lab Will More Than Double Soon - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWU1wR0pYQ2Y5d2s2RnJCcC13bkpSamQwX1RzMERXeHpVNnV1SnhBSzRjalFROW1PbUNqMllPNUpsMXAwMEJxMVdIY0NJcFRLSmNnZEZSZTBaUHVyMGsyZUR2R1BkelJ3bWd0VE1kb3pOOWp1YlUwaWktalhMeWRXUUpvMUlrbE9HNC1TTVVrdERHaUhHMmV0Sm9B?oc=5",
-          "pub": "Tue, 08 Sep 2026 13:29:59 GMT",
-          "source": "Yahoo Finance"
+          "title": "Rocket Lab: Time To Pounce (Rating Upgrade) - Seeking Alpha",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBCQW1YNU40Q2k4MTFHd0h5M0xaMXFkWkdNeS1fMnEzRTg5VkRBZTZsdGNtaEI2QzA4NGxNd25uREhyOUtKVWhPd2tnWjlGRm1QeWFKVzM5UVQtbmVxWktkbEFfc2FUSHpoMFFWYWNmRXBpVWpObzJQLXZlVHRXWTQ?oc=5",
+          "pub": "Tue, 08 Sep 2026 19:32:41 GMT",
+          "source": "Seeking Alpha"
+        },
+        {
+          "title": "Rocket Lab (RKLB) And The Valuation Case For Its Space Systems Shift - simplywall.st",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVi1Ib0RacGFhNG1ETnZBZFZ3OW5scWxCZEQzbkd2elBFYnVuVjZXa1p5Z2hCTU5iRUZlblJVdmRQWmIteHpkRnZ1OEFFMU9QQmx5OXp5VFlQSTBvN2FRQTRnbksxRWJNdkdPd3Bfc3VqOW5XMktIdndBbEh3REFmemJITUFLb1dqOUNSc0p4dk1NUEZVMWJZdl9Ob084M1FLT1dNV0JtXzE4YWllR2ZhTnczUWZvZ2p1YWZORTdYb3FjR19Cdzh6RHVMVzB0U2vSAdQBQVVfeXFMUFhDVGJDXzlNTlNYdUVkZmJ4WTFXeW1KaklmblhmdVAzTDNLbjRKQ2tENDQ5QkZ1bHRSdjU2cmhFRFNUUWt4SHphdHpzX3VqcGhrY0hnUTRhb3I0WVFxZFNwc0Y2U1FVenhFQzVnRXQ2R3ZKb2IteGJ1WW4weDF4TjFUSm9iZ3hnbmN6NVBIbE50aHZKRkpyWGJ4TkstSEJ2Y0lqMUNiMlR0VTR4V3Z1WlRQcURPc2xPZ3IwaFI2ZEJuaXNuZkQwODRwaVY4d0dWdmRWdVk?oc=5",
+          "pub": "Fri, 11 Sep 2026 19:30:40 GMT",
+          "source": "simplywall.st"
         },
         {
           "title": "Raymond James initiates Rocket Lab stock with outperform rating - Investing.com",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMktsaFF6UnRpYUZEYjVQdFYyNXo0Y0wwYWxrR1ljWHo2aEVObHI3LWtzcjR6akdIT1ZraGtoWWJFbWtTZGd2SVVzTVl3T0g5ZjJmMVV0dHZKUUZzNm9QOG4xbEF1TXYwdmE1Y2pKMUZzSktXSWg4RE4xNU9NOURsYVVXTmhVNmVQdTdGWEtyUGFFX2J6VU90UXd4b1NYbFJwYlUwUDBMdG5LaS1uYWQzanUwSE95aGpoRzNNQnFUelo?oc=5",
           "pub": "Fri, 11 Sep 2026 11:34:39 GMT",
           "source": "Investing.com"
-        },
-        {
-          "title": "RKLB Stock: What’s Behind The 39% Drop? - Trefis",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPLVIyUWxqZW1hbDZtU0FwRUhwbnRyaFg3MVQxMGliS0dUc2xPWVdzNndyZkg3NkU2RFk3Y1dEM0xPM3NFOV9QLTJBY1BYbFhvUWtnT1I1VVZ0QWlzUUVxcnlfLVJranhDTi1HZ2RXRnFiTFFFdnFPRzB6emFWQnRLZUc1akpNWXFJakhFX2pfN3F6NVB4TF9TNVUyZlc?oc=5",
-          "pub": "Fri, 11 Sep 2026 17:41:00 GMT",
-          "source": "Trefis"
         }
       ]
     },
     {
       "symbol": "IREN",
-      "price": 43.666,
+      "price": 43.83,
       "prev_close": 43.63999938964844,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": 0.05957976790835326,
-      "drawdown_pct": 43.195006582796594,
+      "day_change_pct": 0.4353817896629706,
+      "drawdown_pct": 42.98165938084493,
       "name": "IREN",
       "news": [
         {
@@ -211,10 +211,10 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "Iris Energy Stock (IREN) Opinions on AI Data Center Pivot and Recent Earnings - Quiver Quantitative",
+          "title": "Iris Energy Stock (IREN) Opinions on AI Data Center Pivot and Recent Earnings - quiverquant.com",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNzFudjdHcWNwcDVEMGpQWnFTMi0tejc1VXQ0cWpEOEg4aDZ6ajJFajluaGFWdE5MOXQ4d3FGVTJ3YkxvbDZpLXY0TkE1bTl2SUstOXF1Z0JBcW9tVTNwUnVvS0pVUVFyNW8tWm1GMGc2X2dXMlBaSU1hbzEyM2x0Y3hwb0JYV2pTNkc1b3ZsS2prbjk5ZmlWcS1iTkVqNUZhOHByb0tmb0o0SHNpNWY0anhWR0w?oc=5",
           "pub": "Fri, 11 Sep 2026 17:38:00 GMT",
-          "source": "Quiver Quantitative"
+          "source": "quiverquant.com"
         },
         {
           "title": "Is Iren Stock a Buy Now? - The Motley Fool",
