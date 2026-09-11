@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-09-11T15:45:12.315820+00:00",
-  "updated_at_display": "2026-09-11 15:45 UTC",
+  "updated_at": "2026-09-11T16:00:52.374976+00:00",
+  "updated_at_display": "2026-09-11 16:00 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 219.63,
+      "price": 219.74,
       "prev_close": 218.36000061035156,
       "high_52w": 236.54,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 0.5816080720363523,
-      "drawdown_pct": 7.148896592542487,
+      "day_change_pct": 0.631983598548784,
+      "drawdown_pct": 7.102392829965326,
       "name": "NVIDIA",
       "news": [
         {
@@ -42,14 +42,14 @@
     },
     {
       "symbol": "META",
-      "price": 653.06,
+      "price": 652.305,
       "prev_close": 644.3800048828125,
       "high_52w": 790.8,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 1.3470304868888656,
-      "drawdown_pct": 17.41780475467881,
+      "day_change_pct": 1.2298635986739992,
+      "drawdown_pct": 17.51327769347496,
       "name": "Meta Platforms",
       "news": [
         {
@@ -80,14 +80,14 @@
     },
     {
       "symbol": "AVGO",
-      "price": 365.54,
+      "price": 364.93,
       "prev_close": 360.8299865722656,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 1.3053276066320203,
-      "drawdown_pct": 26.15353535353535,
+      "day_change_pct": 1.13627292085195,
+      "drawdown_pct": 26.276767676767676,
       "name": "Broadcom",
       "news": [
         {
@@ -103,10 +103,10 @@
           "source": "finance.yahoo.com"
         },
         {
-          "title": "Broadcom Could Be Above $1,000 In 2 Years - Seeking Alpha",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQmR6N1dVWWY0X2xuOXFHUUxZYUdpZ3lLS0xKYkQ2M2pobWxIeTRQUmhzTHlKRXJvM2JKM0V3cW80dW1RMUhPUVl6WXZNVGhXQndkRkFhTjNWaHlZU0VZZXhfQjhsSDFkempwSlRvU0ZWS19oYUpTVF90NXEzNmN5STV5d194cXU0SlEyUktQU0lpZw?oc=5",
-          "pub": "Fri, 11 Sep 2026 11:30:01 GMT",
-          "source": "Seeking Alpha"
+          "title": "Prediction: Broadcom Could Become One of the World’s Most Valuable Tech Companies - finance.yahoo.com",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUW5kTlo5RVotUkktSUFWdzNlWi1EU1pwaGdKcV9TM1AtQzNFdTJtbmRvWTNEMWVzODNiRnpTU3gwWWVFQXpWeFN5R0MyaXRYWWtKalJkMU51N01jY2ZDWUU5WjZud0U0Y0xfdWI1eXBETDJMQXRTLUtaM3d4UFVNZlBPQ2FPTzBwWC1uQ2l1YWxPcXh1NFQ3d25NVEJUU1p1SGpn?oc=5",
+          "pub": "Thu, 10 Sep 2026 15:30:32 GMT",
+          "source": "finance.yahoo.com"
         },
         {
           "title": "Not Nvidia. Not Broadcom. But This Semiconductor Stock Is Set to Grow Faster Than Any Other Major AI Chipmaker Through the End of the Decade. - The Motley Fool",
@@ -118,14 +118,14 @@
     },
     {
       "symbol": "AMD",
-      "price": 514.889,
+      "price": 515.745,
       "prev_close": 503.6000061035156,
       "high_52w": 584.73,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 2.2416588085115943,
-      "drawdown_pct": 11.944145161014488,
+      "day_change_pct": 2.4116349780162554,
+      "drawdown_pct": 11.797752808988767,
       "name": "AMD",
       "news": [
         {
@@ -156,14 +156,14 @@
     },
     {
       "symbol": "RKLB",
-      "price": 63.33,
+      "price": 63.35,
       "prev_close": 61.959999084472656,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 2.211105448306354,
-      "drawdown_pct": 58.05960264900663,
+      "day_change_pct": 2.243384338389513,
+      "drawdown_pct": 58.04635761589404,
       "name": "Rocket Lab",
       "news": [
         {
@@ -194,14 +194,14 @@
     },
     {
       "symbol": "IREN",
-      "price": 44.13,
+      "price": 44.14,
       "prev_close": 43.63999938964844,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": 1.122824512384835,
-      "drawdown_pct": 42.591390108982125,
+      "day_change_pct": 1.1457392698088924,
+      "drawdown_pct": 42.578381133253366,
       "name": "IREN",
       "news": [
         {
