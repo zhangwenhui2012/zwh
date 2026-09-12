@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-09-12T01:30:35.936285+00:00",
-  "updated_at_display": "2026-09-12 01:30 UTC",
+  "updated_at": "2026-09-12T02:00:44.740723+00:00",
+  "updated_at_display": "2026-09-12 02:00 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
       "price": 218.29,
-      "prev_close": 223.6699981689453,
+      "prev_close": 218.36000061035156,
       "high_52w": 236.54,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -2.405328480792328,
+      "day_change_pct": -0.03205743275137728,
       "drawdown_pct": 7.715396973027818,
       "name": "NVIDIA",
       "news": [
@@ -43,20 +43,20 @@
     {
       "symbol": "META",
       "price": 648.03,
-      "prev_close": 653.6900024414062,
+      "prev_close": 644.3800048828125,
       "high_52w": 790.8,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -0.8658542153417152,
+      "day_change_pct": 0.5664351918944573,
       "drawdown_pct": 18.053869499241273,
       "name": "Meta Platforms",
       "news": [
         {
-          "title": "Meta Announces Quarterly Cash Dividend - investor.atmeta.com",
+          "title": "Meta Announces Quarterly Cash Dividend - Meta Investor Relations",
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPcktVMHo2eUFRdkQ4ajM0aTVNV2VuVFZSbXRlTjRTdldTXzU4U054MHJsbEV4bWRHWHVUdDh0Z245YjNVMGhvZ0xhRFR1ZXQ3QzFldEx3bDZkZ2thMHVlcFpHME9tUV9JQnZPSjJFZkVrMGVmcGJkLVBmWkIyeVpqeXpjN25EWUFmRjBEVFVNTnBLYVdpWjRJUnYzR1lwTGVYYjlwX28zZ3dNak5JSGRNTjl1bWxXampBMmpzckhfYWNtZmdFVWpEZ3Zn?oc=5",
           "pub": "Thu, 10 Sep 2026 23:03:29 GMT",
-          "source": "investor.atmeta.com"
+          "source": "Meta Investor Relations"
         },
         {
           "title": "Meta shares are still cheap and worth buying. Here's why - CNBC",
@@ -81,12 +81,12 @@
     {
       "symbol": "AVGO",
       "price": 361.99,
-      "prev_close": 364.3800048828125,
+      "prev_close": 360.8299865722656,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -0.6559099980200986,
+      "day_change_pct": 0.32148476315785945,
       "drawdown_pct": 26.870707070707066,
       "name": "Broadcom",
       "news": [
@@ -119,12 +119,12 @@
     {
       "symbol": "AMD",
       "price": 516.13,
-      "prev_close": 521.0999755859375,
+      "prev_close": 503.6000061035156,
       "high_52w": 584.73,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -0.9537470387230671,
+      "day_change_pct": 2.488084540235056,
       "drawdown_pct": 11.73191045439776,
       "name": "AMD",
       "news": [
@@ -135,10 +135,10 @@
           "source": "Barron's"
         },
         {
-          "title": "AMD Stock Jumps Over 5% Today on Bullish AI Outlook - TipRanks",
+          "title": "AMD Stock Jumps Over 5% Today on Bullish AI Outlook - tipranks.com",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMmFrbUFsNnpoTGhmWG5Rd0JaSFloZEhYbFRUQlRCUVJRM0F1TFA4SlBtXzdFajc4NGZEXy1kb2lLLVQ3M0ZOcUNLaWxxT25YY2d4RXk0SXpxVVZ0S1Z5LVJ2ZE1pQk1rU3p5TmN4ako3NURkVWdsVWFtZFVIdVB5eUF3RUpoZFQ4VDBZeQ?oc=5",
           "pub": "Tue, 08 Sep 2026 15:30:37 GMT",
-          "source": "TipRanks"
+          "source": "tipranks.com"
         },
         {
           "title": "AMD Stock’s 10-Year, 6,800% Rally Was Just the Beginning. Here’s Where AMD Could Be Headed Next - Yahoo Finance",
@@ -157,12 +157,12 @@
     {
       "symbol": "RKLB",
       "price": 62.95,
-      "prev_close": 63.06999969482422,
+      "prev_close": 61.959999084472656,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -0.19026430221160057,
+      "day_change_pct": 1.5978065367264402,
       "drawdown_pct": 58.311258278145694,
       "name": "Rocket Lab",
       "news": [
@@ -195,12 +195,12 @@
     {
       "symbol": "IREN",
       "price": 43.83,
-      "prev_close": 45.369998931884766,
+      "prev_close": 43.63999938964844,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": -3.3943111486443063,
+      "day_change_pct": 0.4353817896629706,
       "drawdown_pct": 42.98165938084493,
       "name": "IREN",
       "news": [
@@ -243,16 +243,16 @@
       "name": "MilDef Group",
       "news": [
         {
-          "title": "3 European Defense Stocks Worth Watching After Germany’s Political Shift - simplywall.st",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRkJEYjM4aVM5ZktwbF83WEl4YzZZc0FWYllHamY1MjhXaVR4d0g0R0N5MXlOVEp6UFdybVhEN1ZJaWd2b0FreXlhSW93Ri1iNmUwQjVsYWh5akZKMEFPV2tROGFOOVNmUzd3SVdFR3FJZlRfOE1DeGd5X3U1NC1IX2tYLXhRMENrOXJaSFoteTBIZklxMF9Sd1lOUjJFd3c4ZmxqdTJMTUZpVUhUSllBWXJieUJiNWJVVVU5R0FWVWI5WUdTRHlPU2E5cTTSAdIBQVVfeXFMUDh5VUgtZjB3YUFGSE1iS3RxQ0tGOTE2LTMySlVyWlZaaS1VQ2dJbHVmN3JTeTVHNEN0aDVUdUtMVzUzYkF0VksybXdlY1QydE1mV0tRLVlZX0xuc1pzU2xNeHRSZDdScndEVjY4ZkZoNFRKdkJiSVdNaXNMa21rTDFkcmZweU11LXozWnYwVUhiTGJsMDktQXNYWFM4anNNM1hQZVdWRUZSbC16N25lWm01SjRTdHZuS1VRMFpOVGhkaFctYkZLM1pZX0NQTjhGVlpn?oc=5",
-          "pub": "Tue, 08 Sep 2026 00:22:53 GMT",
-          "source": "simplywall.st"
-        },
-        {
           "title": "MILDEF Forecast — Price Target — Prediction for 2027 - TradingView",
           "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9hWW9rMkp5VFlIZmlhT1RWd3k5bVQyVTVlLXktUHJfNm43Qld6bURaV0wwTDN1ZmJwZ0c2c2FPNV8wRVYyaVRRNndDaUZOeHdPQTkwS1doZUdWQ180N051Ym91OXZxYW9YRklxUFRIcVFJOFJxbXFVSEl2dWg?oc=5",
           "pub": "Thu, 25 Jun 2026 11:58:03 GMT",
           "source": "TradingView"
+        },
+        {
+          "title": "3 European Defense Stocks Worth Watching After Germany’s Political Shift - simplywall.st",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRkJEYjM4aVM5ZktwbF83WEl4YzZZc0FWYllHamY1MjhXaVR4d0g0R0N5MXlOVEp6UFdybVhEN1ZJaWd2b0FreXlhSW93Ri1iNmUwQjVsYWh5akZKMEFPV2tROGFOOVNmUzd3SVdFR3FJZlRfOE1DeGd5X3U1NC1IX2tYLXhRMENrOXJaSFoteTBIZklxMF9Sd1lOUjJFd3c4ZmxqdTJMTUZpVUhUSllBWXJieUJiNWJVVVU5R0FWVWI5WUdTRHlPU2E5cTTSAdIBQVVfeXFMUDh5VUgtZjB3YUFGSE1iS3RxQ0tGOTE2LTMySlVyWlZaaS1VQ2dJbHVmN3JTeTVHNEN0aDVUdUtMVzUzYkF0VksybXdlY1QydE1mV0tRLVlZX0xuc1pzU2xNeHRSZDdScndEVjY4ZkZoNFRKdkJiSVdNaXNMa21rTDFkcmZweU11LXozWnYwVUhiTGJsMDktQXNYWFM4anNNM1hQZVdWRUZSbC16N25lWm01SjRTdHZuS1VRMFpOVGhkaFctYkZLM1pZX0NQTjhGVlpn?oc=5",
+          "pub": "Tue, 08 Sep 2026 00:22:53 GMT",
+          "source": "simplywall.st"
         },
         {
           "title": "Earnings call transcript: Mildef posts strong Q2 2026 growth, shares slip - Investing.com",
