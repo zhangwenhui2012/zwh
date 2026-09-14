@@ -1,55 +1,55 @@
 {
-  "updated_at": "2026-09-14T14:30:38.113114+00:00",
-  "updated_at_display": "2026-09-14 14:30 UTC",
+  "updated_at": "2026-09-14T15:00:46.692559+00:00",
+  "updated_at_display": "2026-09-14 15:00 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 210.72,
+      "price": 210.54,
       "prev_close": 218.2899932861328,
       "high_52w": 236.54,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -3.467860881836267,
-      "drawdown_pct": 10.915701361291957,
+      "day_change_pct": -3.550319998395066,
+      "drawdown_pct": 10.991798427327302,
       "name": "NVIDIA",
       "news": [
         {
-          "title": "Nvidia Stock Drops. It’s Still the Best Bet in an AI Slowdown. - Barron's",
+          "title": "Stock Market Today: Dow Falls On Surging Oil; Nvidia, Micron, Sandisk Dive On AI Warning (Live Coverage) - Investor's Business Daily",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMXMwY3VLd2lIb2U3M294dVpad1JqaVFhb3lnU2pZY1NGMWRoNUdRamEtdlE1WUlpamRjeUtMclppcUNWQV9xbVFmRzdMS0pRZkkzc2dVcENKNXViUjZWUjZfRksxcWQ3OUJzNFJ4bVU1MGExV2NDSU5ycXZzb3J2cFUycnUyd2NpODVKMDNjZ3N2Wk5yZ2QwY2ROVlJDbkZuNExXbmFzUDBMV0dXS1gtWDJkd2p6a0JmUXJra1d3?oc=5",
+          "pub": "Mon, 14 Sep 2026 13:44:00 GMT",
+          "source": "Investor's Business Daily"
+        },
+        {
+          "title": "Nvidia Stock Drops. It’s Still the Best Chip Bet in an AI Slowdown. - Barron's",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNd28zaEgxYzJOZi1kWWhWa0Y5RG5za0VEUDN5dEVXTjVPdzhnTlhLX3BIaUdTNUEtN20zRWhkandEbDlZaTNiX0VrUkQ2aFQ3Z3BvbmlDeTI5enc2RUJqaTkzV3FZZWxZUmxqMXBNZ25MNnRLMDhPYmV1aTd0WWc3MERLWQ?oc=5",
-          "pub": "Mon, 14 Sep 2026 11:51:00 GMT",
+          "pub": "Mon, 14 Sep 2026 13:49:00 GMT",
           "source": "Barron's"
         },
         {
-          "title": "JPMorgan double upgraded a data center stock that struck a deal with Nvidia earlier this year - cnbc.com",
+          "title": "JPMorgan double upgraded a data center stock that struck a deal with Nvidia earlier this year - CNBC",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZDNCekNDRXFHY1Y1bWdCSW5vd0ctZ0tWYy1mX3ZlVTdJMXZxQVdBVjVsc3RfekZsbUZudndLOVVVamNkZXQ4ZmRLbVJnck4zZ25MVS1pa3BCa2hQV3BlczFPcmV6bklHWFlwX1R6bWFnVnlvMjFMSXo3bjFIMDNhYXlJeGRSb0xLdS02Q25qa2lVNVR1UDFtMG5hbmxvYUFfdTRrSm5GRzl5LVBtVDJ3Z2RR?oc=5",
           "pub": "Mon, 14 Sep 2026 14:03:26 GMT",
-          "source": "cnbc.com"
+          "source": "CNBC"
         },
         {
           "title": "Stocks to Watch Monday: Nvidia, Oracle, SoftBank - WSJ",
           "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNZko0STVLVE1QalBLaU1kQ19ZWGZSbmFXSUNyLTE4eFpNVXNHZ3BQOExlTS1kaVc4YjFlSkV0Y29meGtyTmlYQ0VrektjUWExdmFUbUg0N2xsbjlWMUYxNzc0RzYwUGpYaWs1WTNWczQtWnlRU3NwSGRvd3NpeHQtYnNKckp5dllFa29KTDZhMVZOc2FrRTlFV2s1RzVKbUtIS1pvczU1U1RRVE15Y1Z4azFTM29waGwyWW5CTU9CYjlPN3BHdWtFZW5TT2RSUjkxTFYxOXd6Z0xjV0NMQUN6bmN1SFpfWUU?oc=5",
           "pub": "Mon, 14 Sep 2026 08:50:00 GMT",
           "source": "WSJ"
-        },
-        {
-          "title": "Nvidia Returned a Record $26 Billion to Shareholders. Here's Why That Matters. - The Globe and Mail",
-          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPSDVTR2ljUk5VekVCbEVVc2ZHU0hZeXJWVU52VW4tLVBvXzdQZnZjRDJxVUZLUDdQcnRuVUo4U01rOWhMRXNIZEtyMFlxR3pYdmtKT2RUWGlxT29SUEFCV05WWHFKWF9UekdTYjdLbnZkbV9MRW4tUzQ1bE9fdWdWaDdudTdLN2VQOVdiQTFGdEd2WW9abVBUeGNJOGk5bGhDcXMxUnhoQ1QzekExQThzQ1RFei13cU54dDRCNHA1dnBYVWVzV3VGa1d1VXlaTE45WnhhWUY5VUFucmQ4OFBkZENuWklCRkFUblpzRWVMRnI?oc=5",
-          "pub": "Mon, 14 Sep 2026 11:50:16 GMT",
-          "source": "The Globe and Mail"
         }
       ]
     },
     {
       "symbol": "META",
-      "price": 652.67,
+      "price": 654.4,
       "prev_close": 648.030029296875,
       "high_52w": 790.8,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 0.7160116805326778,
-      "drawdown_pct": 17.467121901871526,
+      "day_change_pct": 0.9829746177096943,
+      "drawdown_pct": 17.248356095093577,
       "name": "Meta Platforms",
       "news": [
         {
@@ -80,14 +80,14 @@
     },
     {
       "symbol": "AVGO",
-      "price": 346.16,
+      "price": 344.52,
       "prev_close": 361.989990234375,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -4.373046399466916,
-      "drawdown_pct": 30.06868686868686,
+      "day_change_pct": -4.826097600948538,
+      "drawdown_pct": 30.400000000000006,
       "name": "Broadcom",
       "news": [
         {
@@ -103,29 +103,29 @@
           "source": "Seeking Alpha"
         },
         {
-          "title": "Zacks Market Edge Highlights: Broadcom, Bloom Energy, and Sandisk - TradingView",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMXNWV052RFl4V2JIalpjd3l4blo5OXJvczAwQ29FSkVlMUhjdkhmNTdGVXNncHkxZWwtU0hlaUJOamlKNHVTcUpDR1M4TmwwbHYycjlmejBZTXRHTnZqdlZmV2x2c0E4R25nMENyR3JGT1lIRnRzQnJFT3JLT2dmQmRxaDVQZHhPYXNPS2Jzajh1MDVsYjhuY3BHWVp5NmE2SkZBQ0JBWEVGdWxSV3E2OUc0b2Utdi1NUVE?oc=5",
-          "pub": "Mon, 14 Sep 2026 07:40:00 GMT",
-          "source": "TradingView"
-        },
-        {
           "title": "Broadcom Just Named Its Next Customer to Pass Google: Anthropic. Here's Why That Matters More Than the Earnings Beat. - The Motley Fool",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVDFFalZremRScWxORGRVVlBzVEhHTWo5djFQOVJGM1FOTWFTTzZmVGZmZHR5WVZHTDBKUXZubFNBMnYwYUdwYU9pZXFpNmpDLVRmaHpwYXVUaU5VSTcxamsyU2FqWjNXQ0hMV2FtYlJWZ0thWjM0ZEtFOEdOUTFkdl9MSzBMQ1V4azFpRV8yWjZCOG9RaGpRWQ?oc=5",
           "pub": "Mon, 14 Sep 2026 12:00:00 GMT",
           "source": "The Motley Fool"
+        },
+        {
+          "title": "Zacks Market Edge Highlights: Broadcom, Bloom Energy, and Sandisk - TradingView",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMXNWV052RFl4V2JIalpjd3l4blo5OXJvczAwQ29FSkVlMUhjdkhmNTdGVXNncHkxZWwtU0hlaUJOamlKNHVTcUpDR1M4TmwwbHYycjlmejBZTXRHTnZqdlZmV2x2c0E4R25nMENyR3JGT1lIRnRzQnJFT3JLT2dmQmRxaDVQZHhPYXNPS2Jzajh1MDVsYjhuY3BHWVp5NmE2SkZBQ0JBWEVGdWxSV3E2OUc0b2Utdi1NUVE?oc=5",
+          "pub": "Mon, 14 Sep 2026 07:40:00 GMT",
+          "source": "TradingView"
         }
       ]
     },
     {
       "symbol": "AMD",
-      "price": 488.17,
+      "price": 485.25,
       "prev_close": 516.1300048828125,
       "high_52w": 584.73,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -5.417240737469005,
-      "drawdown_pct": 16.513604569630427,
+      "day_change_pct": -5.982989671337518,
+      "drawdown_pct": 17.01298034990509,
       "name": "AMD",
       "news": [
         {
@@ -156,14 +156,14 @@
     },
     {
       "symbol": "RKLB",
-      "price": 63.1,
+      "price": 62.14,
       "prev_close": 62.95000076293945,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 0.23828313779601626,
-      "drawdown_pct": 58.21192052980133,
+      "day_change_pct": -1.2867367007504855,
+      "drawdown_pct": 58.8476821192053,
       "name": "Rocket Lab",
       "news": [
         {
@@ -179,29 +179,29 @@
           "source": "Barchart.com"
         },
         {
-          "title": "SpaceX and Rocket Lab Have a New Space Rival -- in Norway - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORnphX1hhdnpNdmVzaDdjTWNLalU4Zzg0TUptcmpXNThSVklLd0Rha1J3SkNoNWN5Yy0xVS1IN3JwUEtONHpaNXc2ZmJvcXRsdkpESEZPbml0SWIzSXpEWThVS1VBeFBnSlRMTXN4M2lEaFZTaWtaT2Zhcy1SMFhZVDVHcFd5OGU3Sl93eFJJU1dtdTd6QlN5eg?oc=5",
-          "pub": "Sun, 13 Sep 2026 12:07:00 GMT",
-          "source": "The Motley Fool"
-        },
-        {
           "title": "Rocket Lab Tackles a Supply Chain Bottleneck as the Stock Hunts for a Bottom. Time to Buy? - MarketBeat",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNLVFpRHNpQWUxaGhhOUlEM3ZBOE1USzNnNTdQWWVsYmpyN3VCOVVmT0o0WkJGcC1FeDNHdUllTXJTdEVKR1Zha1lmeXpjdjlZX0wxQ3hRNzhxeDJ6ZFRBTVZwUld2QXFQaXR6R2UxZ1dZVE9NQzNiTWp0cmFEX0NRcWM1aVBCNnJnemNTdzhhTjhDNEQ2R2h4ZEtXUDlJYjRibGdXQlVPZWg4cW5HcEdsNDlWM2hoTXRHUjZua2hBTkRjUm8?oc=5",
           "pub": "Sat, 12 Sep 2026 15:42:08 GMT",
           "source": "MarketBeat"
+        },
+        {
+          "title": "SpaceX and Rocket Lab Have a New Space Rival -- in Norway - Currently.com",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNWtqR1B6MnFzWUtrQTVLcHBkdlNrTGRvQkdUYTktU1NnYTNpVF9CbzFLWWlYMTNXd3VkdDhZSnNueXd4TkRLMjVucE9EelBfOTlWRFFEZlVzYVQwWlFaX2hPSmYya0V2TW1FM0dCaTU4UmFHTXpwYjd2S0FkbDdJcWRnWk00S28?oc=5",
+          "pub": "Sun, 13 Sep 2026 11:27:00 GMT",
+          "source": "Currently.com"
         }
       ]
     },
     {
       "symbol": "IREN",
-      "price": 43.77,
+      "price": 42.82,
       "prev_close": 43.83000183105469,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": -0.13689671126632608,
-      "drawdown_pct": 43.05971323521749,
+      "day_change_pct": -2.3043618271972663,
+      "drawdown_pct": 44.29556592944969,
       "name": "IREN",
       "news": [
         {
@@ -225,21 +225,21 @@
         {
           "title": "IREN's Latest Deal Just Became More Than a Promise - The Motley Fool",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWWxTb29FcEM4SVFBdzFROUNNVzgxT1hqMFFYZ0htSmhxemN2ZkloNm93Q29mdHFZOGIwWTMzTzRDWFE3UlRlVEZ4NDk2cGdNWlUzVFNHNzhfMlc3U1g5UzhQa2FqUnFqRlM3aWkzMzNGRVc0bGdoSW0ydmNkWXdzc2JTNS1HUzc2ZHN3WmtsSy1EY1BNNUNj?oc=5",
-          "pub": "Mon, 14 Sep 2026 13:32:34 GMT",
+          "pub": "Mon, 14 Sep 2026 13:52:52 GMT",
           "source": "The Motley Fool"
         }
       ]
     },
     {
       "symbol": "MILDEF.ST",
-      "price": 221.4,
+      "price": 223.7,
       "prev_close": 225.1999969482422,
       "high_52w": 242.3000030517578,
       "currency": "SEK",
       "yahoo_name": "Mildef Group AB",
       "exchange": "Stockholm",
-      "day_change_pct": -1.6873876553006957,
-      "drawdown_pct": 8.62567180706694,
+      "day_change_pct": -0.6660732542491746,
+      "drawdown_pct": 7.676435335324642,
       "name": "MilDef Group",
       "news": [
         {
@@ -270,14 +270,14 @@
     },
     {
       "symbol": "IVSO.ST",
-      "price": 225.2,
+      "price": 224.2,
       "prev_close": 229.0,
       "high_52w": 344.0,
       "currency": "SEK",
       "yahoo_name": "INVISIO AB",
       "exchange": "Stockholm",
-      "day_change_pct": -1.6593886462882144,
-      "drawdown_pct": 34.53488372093024,
+      "day_change_pct": -2.096069868995638,
+      "drawdown_pct": 34.82558139534884,
       "name": "Invisio",
       "news": [
         {
@@ -308,14 +308,14 @@
     },
     {
       "symbol": "NORBT.OL",
-      "price": 158.8,
+      "price": 158.6,
       "prev_close": 162.0,
       "high_52w": 244.8000030517578,
       "currency": "NOK",
       "yahoo_name": "NORBIT",
       "exchange": "Oslo",
-      "day_change_pct": -1.9753086419753016,
-      "drawdown_pct": 35.130719762930276,
+      "day_change_pct": -2.098765432098769,
+      "drawdown_pct": 35.21241910831702,
       "name": "Norbit ASA",
       "news": [
         {
