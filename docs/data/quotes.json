@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-09-14T13:29:43.723107+00:00",
-  "updated_at_display": "2026-09-14 13:29 UTC",
+  "updated_at": "2026-09-14T13:30:38.859959+00:00",
+  "updated_at_display": "2026-09-14 13:30 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 218.29,
-      "prev_close": 218.36000061035156,
+      "price": 211.03,
+      "prev_close": 218.2899932861328,
       "high_52w": 236.54,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -0.03205743275137728,
-      "drawdown_pct": 7.715396973027818,
+      "day_change_pct": -3.3258479588738954,
+      "drawdown_pct": 10.784645303119976,
       "name": "NVIDIA",
       "news": [
         {
@@ -42,14 +42,14 @@
     },
     {
       "symbol": "META",
-      "price": 648.03,
-      "prev_close": 644.3800048828125,
+      "price": 657.23,
+      "prev_close": 648.030029296875,
       "high_52w": 790.8,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 0.5664351918944573,
-      "drawdown_pct": 18.053869499241273,
+      "day_change_pct": 1.41968277505707,
+      "drawdown_pct": 16.890490642387448,
       "name": "Meta Platforms",
       "news": [
         {
@@ -80,22 +80,16 @@
     },
     {
       "symbol": "AVGO",
-      "price": 361.99,
-      "prev_close": 360.8299865722656,
+      "price": 349.19,
+      "prev_close": 361.989990234375,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 0.32148476315785945,
-      "drawdown_pct": 26.870707070707066,
+      "day_change_pct": -3.5360066796563867,
+      "drawdown_pct": 29.456565656565658,
       "name": "Broadcom",
       "news": [
-        {
-          "title": "Broadcom CEO Hock Tan Says Demand Already Exceeds Broadcom's $115 Billion AI Forecast. Here's What That Means for the Stock. - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOS3E3dEZKMHJZSGNnbGRJR0xBMTh5ZUppMmNxTGpwNFRTNmJQS2Z6My1uSXRkWEMwUExob3NVLW1mUGhaN3VBcm5MbVJPR0VsY1VSM1JIX0tJTksyemgwWVRXMGtqLUJpTnA0VzZZcjJwbk9kcjR4VTlrQm1DQ0RBQjkzU0hQMkVSMk8wYlBQUXZial9hOVE?oc=5",
-          "pub": "Sun, 13 Sep 2026 13:20:00 GMT",
-          "source": "Yahoo Finance"
-        },
         {
           "title": "Broadcom: Buckle Up For What's Coming (NASDAQ:AVGO) - Seeking Alpha",
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPS0tIeGE3NjZkOE5wSE81Rmkxd2cyLUlUWjZxSUM0Rk9KTXBUTU9jT2JCbmZ2MDhLVzBjUUVscTlXQjIxQno2aFluMDJ0cHhsb0ZQY1JKdHYzYmYyellsOU4zQ3V2NHQ4S1FiWkVJeS1UdEt6V1hmcjhHRnN2bkkzSHZB?oc=5",
@@ -113,19 +107,25 @@
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSHNOWmdTc1F4M3phZzlua0Q4Tk1lWmw0VzBJbGhwSnFkREJBQkg0MlhoNWZNSVRzbEMyQi1GaVotU2pMOFByUlhoQ2Y1b2lUVlQ1cENkcndxajl1WnVpVmFjSXBfR1FZUjVmaUFBOXh1emZsTkZnVXhydFJlYUVPSDI2NzV1cnFHU0VwSHREY3VlODZG?oc=5",
           "pub": "Sun, 13 Sep 2026 15:55:00 GMT",
           "source": "The Motley Fool"
+        },
+        {
+          "title": "Broadcom vs. Nvidia: 3 Key Metrics Point to the Stronger AI Chipmaker to Buy After Earnings - The Globe and Mail",
+          "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQZHJxelppTXl5eGNLLXR6aDNZMGpEajctbTF2YWV6eWVtYXkwaUZubTNFSmNNbHBLbjhqNVJORFBtazFnSi03QzV4b0laUWMydlhCNXRfRzlaVVlmbDR6ZDdDQXF3MHlSR2pwMzVBU2s5OFRnZENKTm1aYUdKRzVqdXByYWtSZ0thbTRacGZDVXVUT01fOUpHTXZudENRWndtYVNJSkhIN1NsUGE5NjFLSmNjaWJkUVQ5NGpsYjVZTEV2YkJVVGtQendQbGpmMFE0SjNMTU9PYS1EYWc3N3lfZHdqQTNaUl9RNVljUUxIdXdaSWJ4SlY1cTJSNDhyR3pKMmRBbw?oc=5",
+          "pub": "Mon, 14 Sep 2026 10:21:18 GMT",
+          "source": "The Globe and Mail"
         }
       ]
     },
     {
       "symbol": "AMD",
-      "price": 516.13,
-      "prev_close": 503.6000061035156,
+      "price": 486.9,
+      "prev_close": 516.1300048828125,
       "high_52w": 584.73,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 2.488084540235056,
-      "drawdown_pct": 11.73191045439776,
+      "day_change_pct": -5.663302773774837,
+      "drawdown_pct": 16.730798830229343,
       "name": "AMD",
       "news": [
         {
@@ -156,14 +156,14 @@
     },
     {
       "symbol": "RKLB",
-      "price": 62.95,
-      "prev_close": 61.959999084472656,
+      "price": 60.99,
+      "prev_close": 62.95000076293945,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 1.5978065367264402,
-      "drawdown_pct": 58.311258278145694,
+      "day_change_pct": -3.113583382342645,
+      "drawdown_pct": 59.6092715231788,
       "name": "Rocket Lab",
       "news": [
         {
@@ -179,10 +179,10 @@
           "source": "The Motley Fool"
         },
         {
-          "title": "Cathie Wood Just Bet $45 Million on This Beaten-Down Space Stock. Wall Street Sees 70% Upside. - barchart.com",
+          "title": "Cathie Wood Just Bet $45 Million on This Beaten-Down Space Stock. Wall Street Sees 70% Upside. - Barchart.com",
           "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZFFEWWZ0MU1yNlhyeVRRYjd6N1hjejBUNEhiOVpPYlBNVmlIOTZrcnVvSlJ5MkV0LTVBSkRYWUxWMVJlMWVOdVNyemdxbHQzZGpKZUhyM25UZGxEeWFVM2NZWjdGSDIxbzlCVkpZU1BZeFo3M0FfN3BxRUVZaXFzTHBaLVJRMFpGM0lwcEVENUd4UnI2YnBUOVpKem50T01TU1VkdGh1c3VsT0FOQm5FdHA3dDRORjhwaVdmYm5tN0hQTG5BRmRFUUxjN2pjR1k?oc=5",
           "pub": "Fri, 11 Sep 2026 18:36:06 GMT",
-          "source": "barchart.com"
+          "source": "Barchart.com"
         },
         {
           "title": "RKLB Stock: What's Behind The 39% Drop? - Yahoo Finance",
@@ -194,14 +194,14 @@
     },
     {
       "symbol": "IREN",
-      "price": 43.83,
-      "prev_close": 43.63999938964844,
+      "price": 42.01,
+      "prev_close": 43.83000183105469,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": 0.4353817896629706,
-      "drawdown_pct": 42.98165938084493,
+      "day_change_pct": -4.152411031306805,
+      "drawdown_pct": 45.34929296347926,
       "name": "IREN",
       "news": [
         {
@@ -232,14 +232,14 @@
     },
     {
       "symbol": "MILDEF.ST",
-      "price": 219.2,
+      "price": 219.3,
       "prev_close": 225.1999969482422,
       "high_52w": 242.3000030517578,
       "currency": "SEK",
       "yahoo_name": "Mildef Group AB",
       "exchange": "Stockholm",
-      "day_change_pct": -2.6642970823934693,
-      "drawdown_pct": 9.533637127863932,
+      "day_change_pct": -2.6198921084346973,
+      "drawdown_pct": 9.492365976918606,
       "name": "MilDef Group",
       "news": [
         {
@@ -270,14 +270,14 @@
     },
     {
       "symbol": "IVSO.ST",
-      "price": 225.6,
+      "price": 225.2,
       "prev_close": 229.0,
       "high_52w": 344.0,
       "currency": "SEK",
       "yahoo_name": "INVISIO AB",
       "exchange": "Stockholm",
-      "day_change_pct": -1.4847161572052427,
-      "drawdown_pct": 34.418604651162795,
+      "day_change_pct": -1.6593886462882144,
+      "drawdown_pct": 34.53488372093024,
       "name": "Invisio",
       "news": [
         {
