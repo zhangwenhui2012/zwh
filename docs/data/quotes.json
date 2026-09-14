@@ -1,30 +1,30 @@
 {
-  "updated_at": "2026-09-14T18:00:44.757321+00:00",
-  "updated_at_display": "2026-09-14 18:00 UTC",
+  "updated_at": "2026-09-14T18:30:34.353990+00:00",
+  "updated_at_display": "2026-09-14 18:30 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 212.51,
+      "price": 212.14,
       "prev_close": 218.2899932861328,
       "high_52w": 236.54,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -2.647850778279356,
-      "drawdown_pct": 10.158958315718273,
+      "day_change_pct": -2.817350073427994,
+      "drawdown_pct": 10.315380062568702,
       "name": "NVIDIA",
       "news": [
         {
-          "title": "Nvidia Stock Drops. It’s Still the Best Chip Bet in an AI Slowdown. - Barron's",
+          "title": "Nvidia Stock Drops. It’s Still the Best Chip Bet in an AI Slowdown. - barrons.com",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNd28zaEgxYzJOZi1kWWhWa0Y5RG5za0VEUDN5dEVXTjVPdzhnTlhLX3BIaUdTNUEtN20zRWhkandEbDlZaTNiX0VrUkQ2aFQ3Z3BvbmlDeTI5enc2RUJqaTkzV3FZZWxZUmxqMXBNZ25MNnRLMDhPYmV1aTd0WWc3MERLWQ?oc=5",
           "pub": "Mon, 14 Sep 2026 13:49:00 GMT",
-          "source": "Barron's"
+          "source": "barrons.com"
         },
         {
-          "title": "Wall St falls as AI anxiety batters Nvidia, chipmakers - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYVB5TUc4VTc5MGdNMjVWcVYxUUszYjdXU3hrVnZXbVRCRm40Z3JBX3BhTElKaXVFQmU4SW82WWRwLVdxcGFTVVhPclllM25kSzR0MWdqUmU5YjQydl9MZDhLZ1MzQmF0b01UY3MxaWx0VkxOMjJUQzhmbHJPQjQzdXJMWkJ2OGs5R0ZQc2FjeVpEdjZkM2VqMC1aeGhXSm8?oc=5",
-          "pub": "Mon, 14 Sep 2026 16:18:44 GMT",
-          "source": "Reuters"
+          "title": "Wall St falls as AI anxiety batters Nvidia, chipmakers - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPLUFFaDBPNXQyQ3J4aUp3M3NsenNDMWU2SFRVQUhseDZTcHdMVTZSLVZ1dFBXZUNDcnROWHdxM2c0N0N5QW9xbVVWUWZ4ZnV0R1hVWmhWd0xyMWpWRUxpWHVYR093bVRERmlIb2pFYWJ5NzNxcU1kNzVReDFiOWZWcnVad01fS0xMSlZWRWhkVm1MUmR0Uk5VUHRQOGw?oc=5",
+          "pub": "Mon, 14 Sep 2026 16:18:27 GMT",
+          "source": "Yahoo Finance"
         },
         {
           "title": "JPMorgan double upgraded a data center stock that struck a deal with Nvidia earlier this year - CNBC",
@@ -42,21 +42,21 @@
     },
     {
       "symbol": "META",
-      "price": 665.4,
+      "price": 667.992,
       "prev_close": 648.030029296875,
       "high_52w": 790.8,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 2.68042681941325,
-      "drawdown_pct": 15.857359635811836,
+      "day_change_pct": 3.0804082836692124,
+      "drawdown_pct": 15.529590288315628,
       "name": "Meta Platforms",
       "news": [
         {
-          "title": "Why Google and Meta Stocks Are the Big Winners From the Latest AI Concerns - Barron's",
+          "title": "Why Google and Meta Stocks Are the Big Winners From the Latest AI Concerns - barrons.com",
           "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5RR3JsN0djU2JiMVZvbVduTm1wTk1KVGlUZHFvTVU5aEd3c1FqclFQUTI2eXloa1F1VVFJU3R6Q3R6NmFtQzhFMVBROFJ5TERITUFzeU1LV3Z1aGpWV1R0dUktd0EwSUV2WS1nZmRPTXFMUFZ4aE13bEtWUQ?oc=5",
           "pub": "Mon, 14 Sep 2026 13:37:00 GMT",
-          "source": "Barron's"
+          "source": "barrons.com"
         },
         {
           "title": "A $30 Trillion Reason to Buy Meta Platforms Stock Now - Yahoo Finance",
@@ -80,26 +80,26 @@
     },
     {
       "symbol": "AVGO",
-      "price": 346.3,
+      "price": 345.99,
       "prev_close": 361.989990234375,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -4.334371296901416,
-      "drawdown_pct": 30.040404040404038,
+      "day_change_pct": -4.420009024010745,
+      "drawdown_pct": 30.103030303030305,
       "name": "Broadcom",
       "news": [
         {
-          "title": "Why Is Broadcom Stock Falling Monday? - Benzinga",
+          "title": "Why Is Broadcom Stock Falling Monday? - benzinga.com",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOLVBZb0d3cm42Vm5IbDhua01UbGtsTUowNllpRDFIZGFRM2pLbjcwVEZ0NFJNWml5Sk5ES29vQ0hGUnNjSVdyeXBTSldsRUhwRTZkZFNIMGVRN09OWkdRZWN0WkxQc1ZnZ1J1YmpfWlowajcwamlabG40TGNzcXNha0VOa2h5eVVyRExERlNRemt4Y2M?oc=5",
           "pub": "Mon, 14 Sep 2026 13:26:22 GMT",
-          "source": "Benzinga"
+          "source": "benzinga.com"
         },
         {
-          "title": "Fantastic News for Broadcom Stock Investors - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeWF2UUdOY2d2MjFWZ25zR0Jfd1ROcjNfWVlBcUozTUdCOFNyYkpvRVF4a19EMXR2a0tmTTIzY1JSel9xNWNNMVduZHQwcTBPUW1JWFdzUHFmUU1lZmQ3em4xRkRaTFdoTUdOOHkxM1ZuelZxUlJSWWVBdWhaT1duTTViUnZ6X2ZfSDR4OExhbE1KcDUwQmh4XzNGVVM4d3d0UjduTmRGZw?oc=5",
-          "pub": "Mon, 14 Sep 2026 15:05:02 GMT",
+          "title": "Is Broadcom Stock in Trouble? - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNelctV0ZDbEItVVhPeXNISjJoMjRiSGNnbjM0SjZWT2tETmpNVmxETFNjcV90RDRlM0R2VnAwczJSYXAyMmFQN3pneWwxVElsdEt0WXRrYzI0VUR5Q0x0ZHRMNmxFYTdESkh3ZW9EZTB6NjJjRVpHdUJNdURaX29rRGVnTFlwMDVYS1hiS21haW4?oc=5",
+          "pub": "Mon, 14 Sep 2026 18:05:01 GMT",
           "source": "Yahoo Finance"
         },
         {
@@ -118,14 +118,14 @@
     },
     {
       "symbol": "AMD",
-      "price": 496.72,
+      "price": 496.93,
       "prev_close": 516.1300048828125,
       "high_52w": 584.73,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -3.7606813591896335,
-      "drawdown_pct": 15.051391240401552,
+      "day_change_pct": -3.719993935863477,
+      "drawdown_pct": 15.015477228806459,
       "name": "AMD",
       "news": [
         {
@@ -141,36 +141,36 @@
           "source": "TipRanks"
         },
         {
-          "title": "Chip Stocks Tumble as AI Pacing Call Reaches Beyond Memory: Intel Drops 7%, AMD Sinks 6%, NVIDIA Pulls Back - 247wallst.com",
+          "title": "Chip Stocks Tumble as AI Pacing Call Reaches Beyond Memory: Intel Drops 7%, AMD Sinks 6%, NVIDIA Pulls Back - 24/7 Wall St.",
           "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNWVotaFlCUllmUDFoWHpPdmtPamVBQzNkcTZCaW9TelVPa3ZmNGVnZ3dqRDE0ajduS0hUSEF1ekZRamNtb2Q5MXlnb0RBd1g4QXMweG50ZWFfdUp0ZS1DaFp2dEJfdDNkWGVQWHotOXZBeEFrU0wxNWtKTjRNX3F6b1lOaHNkOGJ5SGswMkV4aGFKbzlIMWJHXzlxdnNwTHpTaE1FbFBLYkN4M3JEZk1DWVdsODZ6VkhraEctYWVKRzcyRWJWN01kczJSdWtGVVFmUjRhYnAxUkJMbWE3SXFZ?oc=5",
           "pub": "Mon, 14 Sep 2026 13:23:00 GMT",
-          "source": "247wallst.com"
+          "source": "24/7 Wall St."
         },
         {
-          "title": "Why Is AMD Stock Falling Monday? - Benzinga",
+          "title": "Why Is AMD Stock Falling Monday? - benzinga.com",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdEhDUGF6QlZZUllrQzhaQllfcHZ6MU9SbnlPREJsM3IyS2FuRXNvZTAzTFFKaWZ1UzdTX3BjMmt5VC1VS3JSUzdVdUdpdVd0WTBFYVJ4c183bUZIMUlnTkRha0tlUUNlaWRqdU5GdUtJMlNibG83RkJHbk9DdlgzVjNxZ2xsMUEtcmRyRw?oc=5",
           "pub": "Mon, 14 Sep 2026 11:13:59 GMT",
-          "source": "Benzinga"
+          "source": "benzinga.com"
         }
       ]
     },
     {
       "symbol": "RKLB",
-      "price": 62.77,
+      "price": 61.97,
       "prev_close": 62.95000076293945,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -0.2859424317043406,
-      "drawdown_pct": 58.43046357615893,
+      "day_change_pct": -1.5567922971597643,
+      "drawdown_pct": 58.96026490066225,
       "name": "Rocket Lab",
       "news": [
         {
-          "title": "Buy Rocket Lab Stock. It Has Something SpaceX Doesn’t. - Barron's",
+          "title": "Buy Rocket Lab Stock. It Has Something SpaceX Doesn’t. - barrons.com",
           "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBJT3pXeDlmTVZBQjF1NlhucTd5OUk5OE1kOEE3VkVJbUE1cFQ0dl96YWJFWnpxdlFJcDNvXzVfTjRUMnZCQVFUWHBPa3hQY0hDdGttTzVhRjdOallHQlBjRFc2UUdRRjIyVi10Ti1CcHZ6MjNjalV2aw?oc=5",
           "pub": "Fri, 11 Sep 2026 20:17:00 GMT",
-          "source": "Barron's"
+          "source": "barrons.com"
         },
         {
           "title": "Rocket Lab Stock Just Scored a New Bullish Rating - Barchart.com",
@@ -185,23 +185,23 @@
           "source": "The Motley Fool"
         },
         {
-          "title": "Rocket Lab Analysis - Will RKLB Reverse and Head Higher? - Rocket Lab (NASDAQ:RKLB) - Benzinga",
+          "title": "Rocket Lab Analysis - Will RKLB Reverse and Head Higher? - Rocket Lab (NASDAQ:RKLB) - benzinga.com",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVlRDVlNaLUZCT0o4NHJud2xUYTNtdl9vN2lmM1VlSHJ1eEMwM19kVkxEb1RTbGNaaTNnOWhtQ3dFSldNTTROSE5WcTVEek9BZFBWZ3lUWEJZeG1fazZOSWxsZ3Bib0x2TU1wVFhycnpOblVNOEhsMXZQSG85SlhXeF9RYjhDWEFsenFfVjVhNHBSc0RKTmI2a2pacWhXN0JvUDYxQ2JENkFKMHp4T1ptR2JYTFVlMWRjcGc?oc=5",
           "pub": "Mon, 14 Sep 2026 13:27:35 GMT",
-          "source": "Benzinga"
+          "source": "benzinga.com"
         }
       ]
     },
     {
       "symbol": "IREN",
-      "price": 44.265,
+      "price": 43.62,
       "prev_close": 43.83000183105469,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": 0.9924666912450496,
-      "drawdown_pct": 42.41576893664387,
+      "day_change_pct": -0.4791280453606971,
+      "drawdown_pct": 43.2548478711489,
       "name": "IREN",
       "news": [
         {
@@ -211,10 +211,10 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "Why Iren Stock Just Got a Double Upgrade to Buy - Barron's",
+          "title": "Why Iren Stock Just Got a Double Upgrade to Buy - barrons.com",
           "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1ERDZFbUlWSERUN1psUHYtWHR6WlB2bm9Eamp4RXpzb3dHc3RIRldDZV8ySkdvOHB1MHBYMTlGZEd4TW1BdEJ2YjI1aHlGQ2RaTHd3YTFwVTZ3NjExa09TS0JKMi1sVVBVdU1UUE9ZeEV6Q01iY19zOFRuNA?oc=5",
           "pub": "Mon, 14 Sep 2026 14:10:00 GMT",
-          "source": "Barron's"
+          "source": "barrons.com"
         },
         {
           "title": "Iren Falls 5% in premarket as CEO sees AI compute supply crunch (IREN:NASDAQ) - Seeking Alpha",
