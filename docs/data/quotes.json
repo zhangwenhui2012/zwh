@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-15T07:00:43.236538+00:00",
-  "updated_at_display": "2026-09-15 07:00 UTC",
+  "updated_at": "2026-09-15T07:30:33.720537+00:00",
+  "updated_at_display": "2026-09-15 07:30 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
@@ -232,16 +232,28 @@
     },
     {
       "symbol": "MILDEF.ST",
-      "price": 224.8,
+      "price": 226.0,
       "prev_close": 225.1999969482422,
       "high_52w": 242.3000030517578,
       "currency": "SEK",
       "yahoo_name": "Mildef Group AB",
       "exchange": "Stockholm",
-      "day_change_pct": -0.17761854070278144,
-      "drawdown_pct": 7.22245267492614,
+      "day_change_pct": 0.3552411468023588,
+      "drawdown_pct": 6.727198863582334,
       "name": "MilDef Group",
       "news": [
+        {
+          "title": "Mildef to expand further in Rosersberg - marketscreener.com",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPU08xRFQ3TFNNejhFeXNQU2dpTF9aelU2SFZjaUtkSzhjbFgtNkZ4TjVhZGRhd2dWanpldHg2d2FDbzIyNTBZb0dabVhObGFHNDR2U19lZkVUYWRNUU1nTlVvRl9aOVRfcHRCaVU0cXYyQXAxSjhhQXdwdG5FYW40aTgydFBPODZKUVZ5OVliZnFZcUVMbEE?oc=5",
+          "pub": "Tue, 15 Sep 2026 07:01:19 GMT",
+          "source": "marketscreener.com"
+        },
+        {
+          "title": "Making Battlefield Tech Fuels an 80% Rally for Swedish Stock - Bloomberg.com",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWFZjRE0wOVJoN0E4MHI1dUJOOHZySlIzcHRjbXA2LVlnOW9FbGx4VzktajJlaXJ1S0VhRm8zMUVSWjhVekY5RGxsaWR3WWRQZ2pFdjZOQzF0Ml9yb3FJS3FycTJjZExXMy1VcmpwOVdiQjdvaEhONlh2Y28yNDVKRENpRWVoel9nV1VJU2dYMUlybTZkUFlVZEIya3VETV9sTlJ4dEVPd0t5UDFJMU9Ec0ZvRE0?oc=5",
+          "pub": "Fri, 21 Aug 2026 07:00:00 GMT",
+          "source": "Bloomberg.com"
+        },
         {
           "title": "MILDEF Forecast — Price Target — Prediction for 2027 - TradingView",
           "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9hWW9rMkp5VFlIZmlhT1RWd3k5bVQyVTVlLXktUHJfNm43Qld6bURaV0wwTDN1ZmJwZ0c2c2FPNV8wRVYyaVRRNndDaUZOeHdPQTkwS1doZUdWQ180N051Ym91OXZxYW9YRklxUFRIcVFJOFJxbXFVSEl2dWg?oc=5",
@@ -249,35 +261,23 @@
           "source": "TradingView"
         },
         {
-          "title": "MilDef Group (OM:MILDEF) Stock Turnaround To Profitability Tests Bullish Narratives After Q2 Earnings - simplywall.st",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQWh3OW13WUJIaXlYOW9waGdUS1ZhaXkyV3NpLWx6Z2I1S2tvX001N3RoVE1sbFVyNzZ5aXhuR2d5ZVd0cG45ZEJBRTNPUS1IcTZHUHRaeEFhN01CNnlxdGhQR1ZUUTRqMS1iMGQxd1N2UWI2SGJFREZjNFVkVXBkel82T1l0ek9QSHVXalFoUGhxN2NkYzNoN0NKNGx5ZWM2S0JpdEwwcjEzbXpKeGpveDJUSkxnWnRpREZ1eUowR3FWQmxpMll1SG52UlFPaGxneDhzWnVISWpUZ9IB3wFBVV95cUxPMHloUkVRcUlsVmlMUFlPRUNMYTdGajY1M2ZMZjU2VTBQb3lUUnZFOVY1R0k0T0xsTDhIa2JPT21NX0VrX2tTMGdZS2Y0THJYekNrcDRBLVFra242WFBrYXlZYnVaRXFLXy1PV0VIcUsxeE00VVgwcDlBWHhWQkIyQ3l2OGNKcnA3UkdBU2tMaENGVEY0djVROU9aWXh0a0k1YTlTMGV5cnQwQjZtY3pBTFBvenM4QUgwVlJ6VENfdWhUa0UxU2FUMmhRY3F4dnNTN2ltSmZ5TU1vSnNXaFpF?oc=5",
-          "pub": "Fri, 17 Jul 2026 07:00:00 GMT",
-          "source": "simplywall.st"
-        },
-        {
-          "title": "Earnings call transcript: Mildef posts strong Q2 2026 growth, shares slip - Investing.com",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNGFTODUwbXhPdy1abF9UdjM5d2h2blUxMzJXeWwxdWhuSkZ1eDBaUnF4MVk2cWlxQjJpU0s4eGN2UnMtMWNBZjV5T19HeVd3c2ZlZGUzX2kyZ2dWRjF1NGFvQ0trYVJFSVNyMlg0YUhEcnc3Sk9LSk0zd3ZhMFJ0M3drZkdGT1BIall4ZzRVTlVjLU1VVjRXWXZkSzBGTEVoZ2luLTNwZWJCR2FuUmZuXzB6TDR4VTd4SmYtRWdiNFVtdDVrc3c?oc=5",
-          "pub": "Thu, 16 Jul 2026 07:00:00 GMT",
-          "source": "Investing.com"
-        },
-        {
-          "title": "MilDef Group: Highlights from DNB Carnegie's Small & Mid Cap Seminar - marketscreener.com",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOHE3V2REWFZxYXM2WXlCMVBod3dENmJuUF92RmVIdlE1d3RGZHAxR0VncTRIUGNFblpXSnVDZDZOaDB6cTlWMUlLQ2pPay0tOWVPaFd6MG1pNGRxV2dXWHJwcDBMRmZqckVpWjNORmdlNG9pejcyaXJ1dkVmYnFqWndWaWk0ZEFYRDF4N09sM2pSQnprbmQtMjJad28yaGdxZmRXcU11NnNmRjcyd1REZTN0SUQyd3Q3Q1E?oc=5",
-          "pub": "Wed, 02 Sep 2026 05:04:06 GMT",
+          "title": "Mildef invests in expansion of facility in Rosersberg - marketscreener.com",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUnNVR0w1S2xOc3hmVDlvTXpDUWdyQ1FRcjE1WTQ3RUk2NW9MN00zc0xnZFBmSmVON2ZUaFhBQ1U4cnNPWF9ZZGx0RF8tMlZ2S1hnOGh3OENVLVlMcHJmWkNXdmtKMmxkdjBMUm9fNngxZUpqSXZoRU81TGRkRHZnX01hWG9EdXhmNEFVbjVPeXh3MExkM2c5ZVpZbGp4d0l0QVQzZjlFYThsZw?oc=5",
+          "pub": "Tue, 15 Sep 2026 07:06:21 GMT",
           "source": "marketscreener.com"
         }
       ]
     },
     {
       "symbol": "IVSO.ST",
-      "price": 223.4,
+      "price": 225.6,
       "prev_close": 229.0,
       "high_52w": 344.0,
       "currency": "SEK",
       "yahoo_name": "INVISIO AB",
       "exchange": "Stockholm",
-      "day_change_pct": -2.4454148471615698,
-      "drawdown_pct": 35.05813953488372,
+      "day_change_pct": -1.4847161572052427,
+      "drawdown_pct": 34.418604651162795,
       "name": "Invisio",
       "news": [
         {
@@ -308,14 +308,14 @@
     },
     {
       "symbol": "NORBT.OL",
-      "price": 158.6,
-      "prev_close": 157.39999389648438,
+      "price": 157.3,
+      "prev_close": 162.0,
       "high_52w": 244.8000030517578,
       "currency": "NOK",
       "yahoo_name": "NORBIT",
       "exchange": "Oslo",
-      "day_change_pct": 0.7623927255707614,
-      "drawdown_pct": 35.21241910831702,
+      "day_change_pct": -2.9012345679012275,
+      "drawdown_pct": 35.743464853330806,
       "name": "Norbit ASA",
       "news": [
         {
