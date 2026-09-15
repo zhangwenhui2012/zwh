@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-09-15T17:00:43.992557+00:00",
-  "updated_at_display": "2026-09-15 17:00 UTC",
+  "updated_at": "2026-09-15T17:10:06.111980+00:00",
+  "updated_at_display": "2026-09-15 17:10 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 211.73,
+      "price": 211.48,
       "prev_close": 210.9600067138672,
       "high_52w": 236.54,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 0.3649949097589727,
-      "drawdown_pct": 10.488712268538091,
+      "day_change_pct": 0.24648903563891533,
+      "drawdown_pct": 10.594402638031623,
       "name": "NVIDIA",
       "news": [
         {
@@ -33,23 +33,23 @@
           "source": "The Globe and Mail"
         },
         {
-          "title": "JPMorgan double upgraded a data center stock that struck a deal with Nvidia earlier this year - cnbc.com",
+          "title": "JPMorgan double upgraded a data center stock that struck a deal with Nvidia earlier this year - CNBC",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZDNCekNDRXFHY1Y1bWdCSW5vd0ctZ0tWYy1mX3ZlVTdJMXZxQVdBVjVsc3RfekZsbUZudndLOVVVamNkZXQ4ZmRLbVJnck4zZ25MVS1pa3BCa2hQV3BlczFPcmV6bklHWFlwX1R6bWFnVnlvMjFMSXo3bjFIMDNhYXlJeGRSb0xLdS02Q25qa2lVNVR1UDFtMG5hbmxvYUFfdTRrSm5GRzl5LVBtVDJ3Z2RR?oc=5",
           "pub": "Mon, 14 Sep 2026 14:03:26 GMT",
-          "source": "cnbc.com"
+          "source": "CNBC"
         }
       ]
     },
     {
       "symbol": "META",
-      "price": 665.015,
+      "price": 666.21,
       "prev_close": 665.5999755859375,
       "high_52w": 790.8,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -0.08788696024553651,
-      "drawdown_pct": 15.906044511886694,
+      "day_change_pct": 0.09165030595524329,
+      "drawdown_pct": 15.75493171471926,
       "name": "Meta Platforms",
       "news": [
         {
@@ -80,22 +80,16 @@
     },
     {
       "symbol": "AVGO",
-      "price": 338.655,
+      "price": 338.245,
       "prev_close": 344.7200012207031,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -1.7593992803510414,
-      "drawdown_pct": 31.58484848484849,
+      "day_change_pct": -1.8783363883076727,
+      "drawdown_pct": 31.667676767676767,
       "name": "Broadcom",
       "news": [
-        {
-          "title": "Why Is Broadcom Stock Falling Monday? - Benzinga",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOLVBZb0d3cm42Vm5IbDhua01UbGtsTUowNllpRDFIZGFRM2pLbjcwVEZ0NFJNWml5Sk5ES29vQ0hGUnNjSVdyeXBTSldsRUhwRTZkZFNIMGVRN09OWkdRZWN0WkxQc1ZnZ1J1YmpfWlowajcwamlabG40TGNzcXNha0VOa2h5eVVyRExERlNRemt4Y2M?oc=5",
-          "pub": "Mon, 14 Sep 2026 13:26:22 GMT",
-          "source": "Benzinga"
-        },
         {
           "title": "Fantastic News for Broadcom Stock Investors - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeWF2UUdOY2d2MjFWZ25zR0Jfd1ROcjNfWVlBcUozTUdCOFNyYkpvRVF4a19EMXR2a0tmTTIzY1JSel9xNWNNMVduZHQwcTBPUW1JWFdzUHFmUU1lZmQ3em4xRkRaTFdoTUdOOHkxM1ZuelZxUlJSWWVBdWhaT1duTTViUnZ6X2ZfSDR4OExhbE1KcDUwQmh4XzNGVVM4d3d0UjduTmRGZw?oc=5",
@@ -109,23 +103,29 @@
           "source": "Zacks Investment Research"
         },
         {
-          "title": "Nvidia, Broadcom Tumble In AI Rotation; These U.K.-Based Names Gain - Investor's Business Daily",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMHJ4RTRVdHlRYlBrN0R1SEt6b2o2Q19PTU1MU3ZTRlFNcmN1X2dsZm91aHJxRFJTa1B4dXdQSnJ0RTdPdmNidlk0ckl6ZEJqT1R5RWNEb0VLcl9KVWRuYXE2TlJqRjUyaHMta3Z1QVpfekppT0pjejJFM00yUnNPb1NfN1FtNHNlQ3pnVTZVRWoxTG5EaUdmRnFpXzBMOTRqelRSdzFB?oc=5",
-          "pub": "Mon, 14 Sep 2026 16:38:00 GMT",
-          "source": "Investor's Business Daily"
+          "title": "Broadcom Shares Fall 3.2% as AI Development Debate Weighs on Semiconductor Stocks - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYUFvTW40UnRpUV8tcTNzZmRKRUF6dVp5dDZGbjFrWWp6WXJhckMzRUh0a1JhTmpUNXF3MFVPWnFmZUJTWXpDVmRFQkFnYnVNX1MtREQ3d2EwTnA3UGttcXFCZXdQc3IxbkpnQWdTbmxoRDVEU0NIS1V1TG9jZEl2ZGtxMlp4dWlOdkRreXc2MktkOXM?oc=5",
+          "pub": "Mon, 14 Sep 2026 11:12:58 GMT",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Fantastic News for Broadcom Stock Investors - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPM3hCck5wVHdPdlptRUM5OGJzN0l0ajJHN0hTcFZ2QVJLYUlFSVdiQXdnYngxc2JDN09NTkFMeThVQ3VrU2dOd2d5WFdHLVN3cjBkRTNrUTZJa25fVWxlb3BXZWNlejlIZ3BuSlRBR1ZnbkotZ2pZOWtNREUta052UlNuWGJmU21Kc3A5UFJfOA?oc=5",
+          "pub": "Mon, 14 Sep 2026 15:45:00 GMT",
+          "source": "The Motley Fool"
         }
       ]
     },
     {
       "symbol": "AMD",
-      "price": 502.604,
+      "price": 501.24,
       "prev_close": 493.4100036621094,
       "high_52w": 584.73,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 1.8633583165425083,
-      "drawdown_pct": 14.045114839327558,
+      "day_change_pct": 1.5869147929259801,
+      "drawdown_pct": 14.278384895592838,
       "name": "AMD",
       "news": [
         {
@@ -156,22 +156,16 @@
     },
     {
       "symbol": "RKLB",
-      "price": 64.19,
+      "price": 64.34,
       "prev_close": 62.54999923706055,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 2.621903729725002,
-      "drawdown_pct": 57.490066225165556,
+      "day_change_pct": 2.8617118861272353,
+      "drawdown_pct": 57.39072847682118,
       "name": "Rocket Lab",
       "news": [
-        {
-          "title": "Rocket Lab Analysis - Will RKLB Reverse and Head Higher? - Rocket Lab (NASDAQ:RKLB) - Benzinga",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVlRDVlNaLUZCT0o4NHJud2xUYTNtdl9vN2lmM1VlSHJ1eEMwM19kVkxEb1RTbGNaaTNnOWhtQ3dFSldNTTROSE5WcTVEek9BZFBWZ3lUWEJZeG1fazZOSWxsZ3Bib0x2TU1wVFhycnpOblVNOEhsMXZQSG85SlhXeF9RYjhDWEFsenFfVjVhNHBSc0RKTmI2a2pacWhXN0JvUDYxQ2JENkFKMHp4T1ptR2JYTFVlMWRjcGc?oc=5",
-          "pub": "Mon, 14 Sep 2026 13:27:35 GMT",
-          "source": "Benzinga"
-        },
         {
           "title": "Rocket Lab Stock Jumps After $1.94 Billion Financing for Iridium Deal - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTlJBZWgtdkwtdXFWUDRodHVMdnNraEJiRG9HeERtRThORVBlX1RGSGtEZjN2UUJHVDFhTzFJLS1CZXQ0WGNBVVJ4YzVSZjJIOUxXOUNCaWRXWnIyOEJ6X1A2UzIzWk9DS2d1eUJyVlNwWTF3U0toT19nTXhCaGJSbW01dHRuZC15R29tWGN5T3QwemM?oc=5",
@@ -179,29 +173,35 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "RKLB Fully Funds $8B Iridium Deal: Rocket Lab’s Stock Sale Removes Key Risk Ahead Of Acquisition - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQLUZ0ZXl2NE5MMUdpaFhEaTNqT1N0ZDJYYmFnVnNLaDRZSW5HRHB0Q3QtTWZHMEhwUEh4RnUyQTBmVFJmZ0JRLUV1X2ZKdkdraHhaLTM1Wk9WMGR2TWFsSnEtbUxlOWJFQXkwZXhVRzcyczVQZkcwc21weG5GRENJSzBPRTNDX3B5MW9JR1hySWtuNFB3bmRN?oc=5",
-          "pub": "Tue, 15 Sep 2026 12:21:18 GMT",
-          "source": "Yahoo Finance"
-        },
-        {
-          "title": "Rocket Lab cancels a $3.6 billion bridge loan commitment. Iridium deal awaits regulatory approvals. - Stock Titan",
+          "title": "Rocket Lab cancels a $3.6 billion bridge loan commitment. Iridium deal awaits regulatory approvals. - stocktitan.net",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZUhpYk5tU09YUi1SUnkzdTFZQjRvd1JYNnlncWxmY19vU19VUDloODZwaGlRYzdMT1FrSUl3bGJLQ1JlVmwxbjd3QmlpSEZ1Sld0T2hXT0IzODlSMGo3WUNFdlI2MmNGd2Z4R08yWVA3cmp2VDNkYkV6UVFUaTQwN2hBQ2hHSDEtLXlUZGJyQ1MzeFhjRTY1QUpxQTN3c2FrYzdGZjFJejlzdHJXczk3SF9IM2w2MERESmtQZldCVkc?oc=5",
           "pub": "Tue, 15 Sep 2026 10:00:00 GMT",
-          "source": "Stock Titan"
+          "source": "stocktitan.net"
+        },
+        {
+          "title": "SpaceX and Rocket Lab Have a New Space Rival -- in Norway - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORnphX1hhdnpNdmVzaDdjTWNLalU4Zzg0TUptcmpXNThSVklLd0Rha1J3SkNoNWN5Yy0xVS1IN3JwUEtONHpaNXc2ZmJvcXRsdkpESEZPbml0SWIzSXpEWThVS1VBeFBnSlRMTXN4M2lEaFZTaWtaT2Zhcy1SMFhZVDVHcFd5OGU3Sl93eFJJU1dtdTd6QlN5eg?oc=5",
+          "pub": "Sun, 13 Sep 2026 12:07:00 GMT",
+          "source": "The Motley Fool"
+        },
+        {
+          "title": "Rocket Lab Tackles a Supply Chain Bottleneck as the Stock Hunts for a Bottom. Time to Buy? - marketbeat.com",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNLVFpRHNpQWUxaGhhOUlEM3ZBOE1USzNnNTdQWWVsYmpyN3VCOVVmT0o0WkJGcC1FeDNHdUllTXJTdEVKR1Zha1lmeXpjdjlZX0wxQ3hRNzhxeDJ6ZFRBTVZwUld2QXFQaXR6R2UxZ1dZVE9NQzNiTWp0cmFEX0NRcWM1aVBCNnJnemNTdzhhTjhDNEQ2R2h4ZEtXUDlJYjRibGdXQlVPZWg4cW5HcEdsNDlWM2hoTXRHUjZua2hBTkRjUm8?oc=5",
+          "pub": "Sat, 12 Sep 2026 15:42:08 GMT",
+          "source": "marketbeat.com"
         }
       ]
     },
     {
       "symbol": "IREN",
-      "price": 41.365,
+      "price": 41.35,
       "prev_close": 43.16999816894531,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": -4.1811402490254235,
-      "drawdown_pct": 46.18837189798427,
+      "day_change_pct": -4.215886602132269,
+      "drawdown_pct": 46.207885361577404,
       "name": "IREN",
       "news": [
         {
@@ -299,10 +299,10 @@
           "source": "TradingView"
         },
         {
-          "title": "SB1 initiates coverage of Invisio with buy rating and target price of 315 kronor - marketscreener.com",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOeXB3OWxQbGx0bWNwOWtoUDQyRFY2NHByR0o4X21OS00xNFF2WEdGQTkyTXpTMjdEUzhfVjZmOHNndVBBaEpHYmFoNWJlZlE1b3REMHRrZ2ZYMGE1TnFOOW5NOVV2WU1nb1I2cEdRZHdGczRvR3lGMjVvaUZXMjI3djVuUHhlLV9abUU1Nng5WThvQjRNNzlSZl9iVE9SenZFZExKOWw5RHJ5dV9walN1QXhxMlJKWHZhWXlTYmtjTzJ1dEZkbVI3YVFZdHVCZw?oc=5",
-          "pub": "Thu, 27 Aug 2026 07:27:26 GMT",
-          "source": "marketscreener.com"
+          "title": "3 European Defence Stocks Worth Watching For Long Term Military Spending - simplywall.st",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUUM2azNuSnRFSDR5WU9INUJBTUQ1Q1A5NHAzWHBmeVJMbU0xMzh2bG5xelc2UnN6aDdVbk0waFhCdjI4NWxKVTI3cmVpdjBxNEtJWmhZdFlMWUw3OERtbjhoOF80cUpkUnNZcUU4N1BCNWR0bzRrc2hBOThyallxTHZsX1BaXzV1Y0JDR0xzcmxpdml0SXRWeC1hem1neEozQXFBbGZoWXhHUmlwd0gtUnlRTlRfa2pwMTBBUWIyYWlDY2ZBb0FuLVFrLVg3NXho0gHWAUFVX3lxTE5qY2hEQUxSQVRHYThtTzBkdEV5Z3g0OGxwdWtiZnJ6UzFlZWRERlFkcThicFVpUVVXSEFvSHRWcGZTa1ZjV1ptQjFfZ2NtLWZaNUlMSHkxOEpyVk10UUQ0NS04MlhybUxLTTFraTJNZElMRkI2VUItY051T0tjUGdYSk0zRVFmckNlS2NGZ3lTSW1tY1BySEthcjZha0hqZnBDUGNick54ZXFZSm4tRER0TDRPNkNjZ0RQczA0cElMM2F4MDRnbFhuMnFYMXhNOGRneVBLcWc?oc=5",
+          "pub": "Mon, 07 Sep 2026 18:29:47 GMT",
+          "source": "simplywall.st"
         }
       ]
     },
@@ -319,10 +319,10 @@
       "name": "Norbit ASA",
       "news": [
         {
-          "title": "NORBIT ASA – Mandatory notification of trade by primary insider - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNR1BHSUhoVmR4UU1hX3JjT0E1SVVQdUJwcThsTHVTM3JiWXltZVRxMFlfaWVXOTJmOHluLVFXd2lOUE1qbWdfREk2ZTBkX3FqY0tqQnpBOVlFS3RHejhpMENHblA3Q3ExbHFDdWhtT0FySk9vY0VDSFlZZnJpTVpjcW5rczhxYmp3dmJCZTlCSGcwXzRIeDNzcWJTZ2JjX3JCODc0TkJzWQ?oc=5",
-          "pub": "Fri, 04 Sep 2026 07:00:00 GMT",
-          "source": "Yahoo Finance"
+          "title": "NORBIT ASA – Mandatory notification of trade by primary insider - marketscreener.com",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTkZLMUlKSFluUTdocmpBTmRVWlplMEFCWmFPZ3lETmhmM2lzeTNmT3JTY0oxM1UyeVM2Y2I1WWNZbUw2YWg1U2x1eVg5ZTg1NGNmSFFUZHNYWHozMEh4eUw2Mllta1ctWW0xMGJFSTRMRGNKNHJpaUZUZ0I3S2llYmpEd1ppRGlPQVhKNE9mRGc4S3BObWdVTUxVSkNkbEpVamVJWDdxaDQ2YnZKem1fZTktU253bXc?oc=5",
+          "pub": "Fri, 11 Sep 2026 11:34:04 GMT",
+          "source": "marketscreener.com"
         },
         {
           "title": "NORBT Forecast — Price Target — Prediction for 2027 - TradingView",
