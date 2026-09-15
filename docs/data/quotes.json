@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-09-15T19:00:46.409503+00:00",
-  "updated_at_display": "2026-09-15 19:00 UTC",
+  "updated_at": "2026-09-15T19:30:37.675371+00:00",
+  "updated_at_display": "2026-09-15 19:30 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 212.06,
+      "price": 212.085,
       "prev_close": 210.9600067138672,
       "high_52w": 236.54,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 0.5214226635974544,
-      "drawdown_pct": 10.349200980806625,
+      "day_change_pct": 0.5332732510094628,
+      "drawdown_pct": 10.33863194385727,
       "name": "NVIDIA",
       "news": [
         {
@@ -33,23 +33,23 @@
           "source": "24/7 Wall St."
         },
         {
-          "title": "Signal Says 'Buy the Dip' After Nvidia Stock Pullback - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZnpHckRPUGFBcEFRanUyeXpUZGtORnc0SjlMZE5JRHFkWHg1Q3U0dFJ4al80cWEzMnZGVW56M2JPMkNYdjhTR0JMQmNRR0thVUd1RXFheGVFcmY5VzdySFNsRVRkeDJnRGVjUkJwemxaTkQwLWhEUkloR3FRMVZuOUVUaWFIbnIzcUpvRG5TLWplU3ZBWkE?oc=5",
-          "pub": "Tue, 15 Sep 2026 18:03:57 GMT",
-          "source": "Yahoo Finance"
+          "title": "Jim Cramer Tries To Predict NVIDIA Corporation (NASDAQ:NVDA) Share Price Movement Following Anthropic CEO’s Remarks - finance.yahoo.com",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWVhZM0FqUkQ1dEpUQU5ZNzBkbHZuYWJpaWxIendUTDNDQjhNb20wVGEtampJcHNPYlhtRENrY002VXhrZ1VnV3BLVFdSa3dJOW9nZmxyRFBIbnUzd2NrelJteXpKbFFwcXpSa0llbk1mQXJGdVRDVDZUNUdPbmFCWnZCUkdJUE9ZaUpzaHNaa3A2X3d6LUpNQTFOb3c?oc=5",
+          "pub": "Mon, 14 Sep 2026 09:57:28 GMT",
+          "source": "finance.yahoo.com"
         }
       ]
     },
     {
       "symbol": "META",
-      "price": 671.31,
+      "price": 671.88,
       "prev_close": 665.5999755859375,
       "high_52w": 790.8,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 0.857876295598693,
-      "drawdown_pct": 15.110015174506831,
+      "day_change_pct": 0.943513317970617,
+      "drawdown_pct": 15.037936267071316,
       "name": "Meta Platforms",
       "news": [
         {
@@ -59,10 +59,10 @@
           "source": "Barron's"
         },
         {
-          "title": "Meta Bulls Bet Stock Will Break Out After Year of Head Fakes - Yahoo Finance",
+          "title": "Meta Bulls Bet Stock Will Break Out After Year of Head Fakes - finance.yahoo.com",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUHZCazdCNml5SVVvZ1RxcUlwYUZnb0pWaGZYeG9BRW53ZVl3YTRmTmtBQmpXUU0tZlk1Y2sweDhPTjJzMGJRejliTUNWSFBHRmY3a01qVEo5VkQwQllVVWhmcXNuU2NaM0dQMUVSRzlRdHJfcUIydmdkOTBMLXM0RGpnaTRHbmdSb3ljTTJhanpUN2pZS2c?oc=5",
           "pub": "Tue, 15 Sep 2026 09:30:36 GMT",
-          "source": "Yahoo Finance"
+          "source": "finance.yahoo.com"
         },
         {
           "title": "Meta plans wider use of in-house AI chips as it targets lower costs (META:NASDAQ) - Seeking Alpha",
@@ -80,33 +80,33 @@
     },
     {
       "symbol": "AVGO",
-      "price": 340.26,
+      "price": 339.572,
       "prev_close": 344.7200012207031,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -1.2938040162768705,
-      "drawdown_pct": 31.26060606060606,
+      "day_change_pct": -1.493386285238254,
+      "drawdown_pct": 31.39959595959596,
       "name": "Broadcom",
       "news": [
         {
-          "title": "Fantastic News for Broadcom Stock Investors - Yahoo Finance",
+          "title": "Fantastic News for Broadcom Stock Investors - finance.yahoo.com",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeWF2UUdOY2d2MjFWZ25zR0Jfd1ROcjNfWVlBcUozTUdCOFNyYkpvRVF4a19EMXR2a0tmTTIzY1JSel9xNWNNMVduZHQwcTBPUW1JWFdzUHFmUU1lZmQ3em4xRkRaTFdoTUdOOHkxM1ZuelZxUlJSWWVBdWhaT1duTTViUnZ6X2ZfSDR4OExhbE1KcDUwQmh4XzNGVVM4d3d0UjduTmRGZw?oc=5",
           "pub": "Mon, 14 Sep 2026 15:05:02 GMT",
-          "source": "Yahoo Finance"
-        },
-        {
-          "title": "Credo vs. Broadcom: Which AI Connectivity Stock Is the Better Pick? - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVVNzalRPdEhsdy1iSUJodHA1REpxVU01YXRzY2FjWmJ0VTAtLWpVbnlwREk0ZncwV2hraFRTaERUQmpZNER1N083WmdEcFhQRVMtdGZJVTZSazVRdlozY1A1Mnl3ZTVnenhZUy04U0txWWk1MzZzWm04dVdjaGlpeFVMSFBVU1RuOUV3VkZHY0M4cUtHNy1PZkZzQUhLUQ?oc=5",
-          "pub": "Tue, 15 Sep 2026 14:03:00 GMT",
-          "source": "Yahoo Finance"
+          "source": "finance.yahoo.com"
         },
         {
           "title": "Nvidia, Broadcom Tumble In AI Rotation; These U.K.-Based Names Gain - Investor's Business Daily",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMHJ4RTRVdHlRYlBrN0R1SEt6b2o2Q19PTU1MU3ZTRlFNcmN1X2dsZm91aHJxRFJTa1B4dXdQSnJ0RTdPdmNidlk0ckl6ZEJqT1R5RWNEb0VLcl9KVWRuYXE2TlJqRjUyaHMta3Z1QVpfekppT0pjejJFM00yUnNPb1NfN1FtNHNlQ3pnVTZVRWoxTG5EaUdmRnFpXzBMOTRqelRSdzFB?oc=5",
           "pub": "Mon, 14 Sep 2026 16:38:00 GMT",
           "source": "Investor's Business Daily"
+        },
+        {
+          "title": "Credo vs. Broadcom: Which AI Connectivity Stock Is the Better Pick? - Zacks Investment Research",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRXJRUFhCNDQtSnY0V2g5bGdnNW1haVJTNUFSX196RHJZM2FmVHZMNEx0T1dvSDhxdEhsMWRvUWx1NW1ycWtVcS1HS3RPNXhHaWFGWm5sb1ZuaWZqWFVXZmVMN2RQemRyUzJLd1p3SWFVQV9hQUFoWVRKUEVmZV85QUR2NTd3UUg3aTJpdUZwLWVOX0I0WGNDYzJ3TnlmWW90Q0Z1NEFhMXY?oc=5",
+          "pub": "Tue, 15 Sep 2026 13:23:30 GMT",
+          "source": "Zacks Investment Research"
         },
         {
           "title": "Zacks Market Edge Highlights: Broadcom, Bloom Energy, and Sandisk - TradingView",
@@ -118,14 +118,14 @@
     },
     {
       "symbol": "AMD",
-      "price": 503.74,
+      "price": 503.915,
       "prev_close": 493.4100036621094,
       "high_52w": 584.73,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 2.093592805419626,
-      "drawdown_pct": 13.850837138508373,
+      "day_change_pct": 2.129060266294183,
+      "drawdown_pct": 13.820908795512457,
       "name": "AMD",
       "news": [
         {
@@ -135,10 +135,10 @@
           "source": "Fast Company"
         },
         {
-          "title": "AMD Shares Fall 5.6% as AI Development Debate Weighs on Semiconductor Stocks - Yahoo Finance",
+          "title": "AMD Shares Fall 5.6% as AI Development Debate Weighs on Semiconductor Stocks - finance.yahoo.com",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSC11SHlMYV9qQUlpeVJJd054VVRlVEdHaVIwSWQ1UHFPcHJwWmFlUUxPR0NVUjVIT1FyUFk5VGRNNDFkRTFOamZsU1FuRUFST1kzVUNpLWZ0Umk4VGZQdkRtblBMaEFqY1lJeWMtOC1nODdyUTVpMHZCa0ZaemxxUElieUl2TjB5cU9WZg?oc=5",
           "pub": "Mon, 14 Sep 2026 12:02:52 GMT",
-          "source": "Yahoo Finance"
+          "source": "finance.yahoo.com"
         },
         {
           "title": "Nvidia Will Still Beat AMD Through 2028. Here's the Data Behind My Conviction. - The Globe and Mail",
@@ -156,21 +156,21 @@
     },
     {
       "symbol": "RKLB",
-      "price": 63.94,
+      "price": 63.435,
       "prev_close": 62.54999923706055,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 2.222223469054629,
-      "drawdown_pct": 57.65562913907285,
+      "day_change_pct": 1.4148693425004826,
+      "drawdown_pct": 57.99006622516556,
       "name": "Rocket Lab",
       "news": [
         {
-          "title": "Rocket Lab Stock Jumps After $1.94 Billion Financing for Iridium Deal - Yahoo Finance",
+          "title": "Rocket Lab Stock Jumps After $1.94 Billion Financing for Iridium Deal - finance.yahoo.com",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTlJBZWgtdkwtdXFWUDRodHVMdnNraEJiRG9HeERtRThORVBlX1RGSGtEZjN2UUJHVDFhTzFJLS1CZXQ0WGNBVVJ4YzVSZjJIOUxXOUNCaWRXWnIyOEJ6X1A2UzIzWk9DS2d1eUJyVlNwWTF3U0toT19nTXhCaGJSbW01dHRuZC15R29tWGN5T3QwemM?oc=5",
           "pub": "Tue, 15 Sep 2026 15:51:31 GMT",
-          "source": "Yahoo Finance"
+          "source": "finance.yahoo.com"
         },
         {
           "title": "Rocket Lab cancels a $3.6 billion bridge loan commitment. Iridium deal awaits regulatory approvals. - Stock Titan",
@@ -185,23 +185,23 @@
           "source": "TipRanks"
         },
         {
-          "title": "Rocket Lab Expects Iridium Deal To Double Its Size ‘Overnight’ — CFO Says More Space Deals May Follow - Yahoo Finance",
+          "title": "Rocket Lab Expects Iridium Deal To Double Its Size ‘Overnight’ — CFO Says More Space Deals May Follow - finance.yahoo.com",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeXNnNUg5WXdXd3BJRUkwSmZDWjhXSVpHWDFJWWVEVzh1YWFCOXNIS2NtQU1ESGlZTWEydzNrVDR1UV9EY01QcVN0ODJnOVg2aEdvVXRic2Z5eTBTaUxURHZuMUo4ZEVrNDAyWjZJNDBfYjZUNWoxcmRQVlVrMjhwR3FCb1FaRVN0NkxwZHpRUUYtVDdVaHo5YkpIUWQ?oc=5",
           "pub": "Tue, 15 Sep 2026 05:25:00 GMT",
-          "source": "Yahoo Finance"
+          "source": "finance.yahoo.com"
         }
       ]
     },
     {
       "symbol": "IREN",
-      "price": 41.61,
+      "price": 41.385,
       "prev_close": 43.16999816894531,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": -3.6136164816136374,
-      "drawdown_pct": 45.86965199262965,
+      "day_change_pct": -4.134811778216306,
+      "drawdown_pct": 46.16235394652675,
       "name": "IREN",
       "news": [
         {
@@ -211,10 +211,10 @@
           "source": "Barron's"
         },
         {
-          "title": "TeraWulf Falls 5% as AI Infrastructure Names Extend a Month-Long Slide; IREN Drops 4%, Applied Digital Declines 3% - Yahoo Finance",
+          "title": "TeraWulf Falls 5% as AI Infrastructure Names Extend a Month-Long Slide; IREN Drops 4%, Applied Digital Declines 3% - finance.yahoo.com",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMVpRMGZxaUtOemZGS0pGczJHQmZKTFo3aEppdXFjUDdpcHZVQnMwamFzcFZMa3VTeUhucjZzdHhSQ1d4RTNJZFF1MzJsY2FqWHA5am1wb2UwQkVEank2MmlMMVJTb0ZQZHd3SW94Zm1DeExoZ3RrZElWQXhXdGlQc201RnFSQ0VLYTVCcXYzTUFRaWZwdS1zSUM5dV9XUFBP?oc=5",
           "pub": "Tue, 15 Sep 2026 15:30:49 GMT",
-          "source": "Yahoo Finance"
+          "source": "finance.yahoo.com"
         },
         {
           "title": "Iren Falls 5% in premarket as CEO sees AI compute supply crunch (IREN:NASDAQ) - Seeking Alpha",
@@ -223,10 +223,10 @@
           "source": "Seeking Alpha"
         },
         {
-          "title": "IREN's Latest Deal Just Became More Than a Promise - fool.com",
+          "title": "IREN's Latest Deal Just Became More Than a Promise - The Motley Fool",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWWxTb29FcEM4SVFBdzFROUNNVzgxT1hqMFFYZ0htSmhxemN2ZkloNm93Q29mdHFZOGIwWTMzTzRDWFE3UlRlVEZ4NDk2cGdNWlUzVFNHNzhfMlc3U1g5UzhQa2FqUnFqRlM3aWkzMzNGRVc0bGdoSW0ydmNkWXdzc2JTNS1HUzc2ZHN3WmtsSy1EY1BNNUNj?oc=5",
           "pub": "Mon, 14 Sep 2026 14:15:00 GMT",
-          "source": "fool.com"
+          "source": "The Motley Fool"
         }
       ]
     },
