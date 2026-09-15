@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-09-15T17:30:38.755498+00:00",
-  "updated_at_display": "2026-09-15 17:30 UTC",
+  "updated_at": "2026-09-15T18:00:47.216715+00:00",
+  "updated_at_display": "2026-09-15 18:00 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 211.443,
+      "price": 211.98,
       "prev_close": 210.9600067138672,
       "high_52w": 236.54,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 0.2289501662691574,
-      "drawdown_pct": 10.610044812716657,
+      "day_change_pct": 0.48350078387903006,
+      "drawdown_pct": 10.38302189904456,
       "name": "NVIDIA",
       "news": [
         {
@@ -27,10 +27,10 @@
           "source": "Fast Company"
         },
         {
-          "title": "The Fastest-Growing AI Stock Looks Like a Brilliant Buy (It's Also a Nvidia Investment) - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWHJqVW96NHVIMjZsLWJTUk5ELWtja1Y5RkFROUdHdHlEWTh0aktTWjhIaHNPSlpyYzhTQlhHdzJyOUdhVXVpOGNYeHRBWjNpNUFUak9JTmFvZ054NnprM21QbjRBQVR0X1I0SHFqQnVfb2lzcFNTWHM3THpXalJLNDlIdTJHc3A1OTFVYkRsTTFiTHlkRWV4MUozbw?oc=5",
-          "pub": "Tue, 15 Sep 2026 17:05:00 GMT",
-          "source": "Yahoo Finance"
+          "title": "The Fastest-Growing AI Stock Looks Like a Brilliant Buy (It's Also a Nvidia Investment) - The Globe and Mail",
+          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNck5sMmZLRzRBczRDTFpBY2hJZDktVGxmaVlzVUNQbExIZEZxSkswSVp3QlJ0SnRRRnJnQmFfZkFzVjhvVDFKeGpxdkJxYUVxcHlldzlvX0hrMFNFclhVaWo2dFNsWm05NEtJNS16bVI2X0V2V1hJOERPREJUdXMwTmxFT2NoaDlubUNDQ3pFWUs4eGlQb1A0OUdDcWJQOHpIQTZxS3VudTBNaEJLQzk0NGlONUhfVXlCWmtsMGhsMFhFV2cycTJQbTB3MGcxX0xZY3JuMkZhTVBhSzFhWWVhVVM0TGlXd2w4dnZTTW9PRUZ4SExXSjdGaExlOHZOdF9meGc?oc=5",
+          "pub": "Tue, 15 Sep 2026 17:11:37 GMT",
+          "source": "The Globe and Mail"
         },
         {
           "title": "JPMorgan double upgraded a data center stock that struck a deal with Nvidia earlier this year - CNBC",
@@ -42,14 +42,14 @@
     },
     {
       "symbol": "META",
-      "price": 665.03,
+      "price": 667.439,
       "prev_close": 665.5999755859375,
       "high_52w": 790.8,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -0.08563335439364603,
-      "drawdown_pct": 15.90414769853313,
+      "day_change_pct": 0.27629574542029456,
+      "drawdown_pct": 15.59951947395043,
       "name": "Meta Platforms",
       "news": [
         {
@@ -80,14 +80,14 @@
     },
     {
       "symbol": "AVGO",
-      "price": 338.2,
+      "price": 338.8,
       "prev_close": 344.7200012207031,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -1.8913904611321868,
-      "drawdown_pct": 31.676767676767682,
+      "day_change_pct": -1.717336156805389,
+      "drawdown_pct": 31.555555555555554,
       "name": "Broadcom",
       "news": [
         {
@@ -97,10 +97,10 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "Credo vs. Broadcom: Which AI Connectivity Stock Is the Better Pick? - zacks.com",
+          "title": "Credo vs. Broadcom: Which AI Connectivity Stock Is the Better Pick? - Zacks Investment Research",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRXJRUFhCNDQtSnY0V2g5bGdnNW1haVJTNUFSX196RHJZM2FmVHZMNEx0T1dvSDhxdEhsMWRvUWx1NW1ycWtVcS1HS3RPNXhHaWFGWm5sb1ZuaWZqWFVXZmVMN2RQemRyUzJLd1p3SWFVQV9hQUFoWVRKUEVmZV85QUR2NTd3UUg3aTJpdUZwLWVOX0I0WGNDYzJ3TnlmWW90Q0Z1NEFhMXY?oc=5",
           "pub": "Tue, 15 Sep 2026 13:23:30 GMT",
-          "source": "zacks.com"
+          "source": "Zacks Investment Research"
         },
         {
           "title": "Broadcom Shares Fall 3.2% as AI Development Debate Weighs on Semiconductor Stocks - Yahoo Finance",
@@ -118,28 +118,16 @@
     },
     {
       "symbol": "AMD",
-      "price": 504.92,
+      "price": 503.435,
       "prev_close": 493.4100036621094,
       "high_52w": 584.73,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 2.332744827316628,
-      "drawdown_pct": 13.649034597164503,
+      "day_change_pct": 2.0317780878953995,
+      "drawdown_pct": 13.902997964872679,
       "name": "AMD",
       "news": [
-        {
-          "title": "The Fund’s Largest Relative Detractor: Unowned Advanced Micro Devices (AMD) - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOT0RpM3AwSVBZUUNwdWVLVTNnc3k2UTRSY2VHNExCTXJ3ZXdabEJtQVVGWHhhSTVyYUFWblhLM20zZVVocUJYY2NVQ3pYYkZtWjE5RkxGVkRwcEY0RFRGT1MwQS1nb2VHS29pdG1LVlcwLTM3Q0xjcTBMbjRwX053T2gwb0RPUkR6UjJtU0NMTWFaZXFuZk1IRHkyUnZiazFsZ3VqekpoSQ?oc=5",
-          "pub": "Tue, 15 Sep 2026 15:26:42 GMT",
-          "source": "Yahoo Finance"
-        },
-        {
-          "title": "Piper Sandler reiterates AMD stock rating on strong AI demand By Investing.com - Investing.com UK",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdHM1d1hlYXBNbXRKV0l6RG81d2lrXzdtZ0J1NU9pNTI4ckRjblhId0xPZ3ZkYlBqcVlCWjdKR1B1ZGF4X2MyVWUyTnlUSEZIbWpEam13S09YNDFBUWtHdmVCWUJua24yZW95UzFpYmNtd0swT1VLRXZNUEJTckJHRFpzSi1QMXZNNWtWTXE1bmIzR2U4UG80MkYyckMwVkF3LU91VUdpS1JTbnhVS09uQzBLZl9MemszcVQxQTBRVQ?oc=5",
-          "pub": "Tue, 15 Sep 2026 15:52:00 GMT",
-          "source": "Investing.com UK"
-        },
         {
           "title": "Chip stocks down: AMD, Nvidia, Intel, and Sandisk lead market selloff after AI bosses call for a pause - Fast Company",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYjdTRlRpcXdoYWdFS3JwcG1EMVp0YzllMTNzenkwUEFibDBNdF8tZHk0bnZmQXlyUGIzNEtBRk92NWlacnRkYUFoSGtwbGJWMG5MX1RlVFlqcFBsdFd3SmVnOWdkNnZfZ3F5aFRDVTd2QTN2ZGEtWUpsc1BTQmd0c0pDWFU4WDVtbWtuTlZsZ09hYl9YblZvQ0RFTUlKMnl4?oc=5",
@@ -151,19 +139,31 @@
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSC11SHlMYV9qQUlpeVJJd054VVRlVEdHaVIwSWQ1UHFPcHJwWmFlUUxPR0NVUjVIT1FyUFk5VGRNNDFkRTFOamZsU1FuRUFST1kzVUNpLWZ0Umk4VGZQdkRtblBMaEFqY1lJeWMtOC1nODdyUTVpMHZCa0ZaemxxUElieUl2TjB5cU9WZg?oc=5",
           "pub": "Mon, 14 Sep 2026 12:02:52 GMT",
           "source": "Yahoo Finance"
+        },
+        {
+          "title": "AMD Stock Leads Semiconductor Stocks Lower Amid AI Slowdown Debate - Barchart.com",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSTkzc3JndnZJMFJyN0hmU25nMGVQMmIwb0ZWSURXRFEtYVlqb2NKYWVQNmhmdF84bExTS1pTNS16MEJ4eXVVZ19OODBUWmNBZmZFYWtDOEdGeWxzd0gyRmpJYWdaMmFzSnhrQVNNYndSNlF0MjlQY1ktN29zY0lCZlRDenVoMkM3ajBHYzlDblpQVlIybXRYSmNQMzZGLTcxU21nd09CMnowMjdranU4?oc=5",
+          "pub": "Mon, 14 Sep 2026 19:55:46 GMT",
+          "source": "Barchart.com"
+        },
+        {
+          "title": "Chip Stocks Tumble as AI Pacing Call Reaches Beyond Memory: Intel Drops 7%, AMD Sinks 6%, NVIDIA Pulls Back - 24/7 Wall St.",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNWVotaFlCUllmUDFoWHpPdmtPamVBQzNkcTZCaW9TelVPa3ZmNGVnZ3dqRDE0ajduS0hUSEF1ekZRamNtb2Q5MXlnb0RBd1g4QXMweG50ZWFfdUp0ZS1DaFp2dEJfdDNkWGVQWHotOXZBeEFrU0wxNWtKTjRNX3F6b1lOaHNkOGJ5SGswMkV4aGFKbzlIMWJHXzlxdnNwTHpTaE1FbFBLYkN4M3JEZk1DWVdsODZ6VkhraEctYWVKRzcyRWJWN01kczJSdWtGVVFmUjRhYnAxUkJMbWE3SXFZ?oc=5",
+          "pub": "Mon, 14 Sep 2026 13:23:00 GMT",
+          "source": "24/7 Wall St."
         }
       ]
     },
     {
       "symbol": "RKLB",
-      "price": 63.675,
+      "price": 63.615,
       "prev_close": 62.54999923706055,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 1.7985623927440324,
-      "drawdown_pct": 57.83112582781457,
+      "day_change_pct": 1.7026391301831505,
+      "drawdown_pct": 57.870860927152314,
       "name": "Rocket Lab",
       "news": [
         {
@@ -179,29 +179,29 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "Rocket Lab cancels a $3.6 billion bridge loan commitment. Iridium deal awaits regulatory approvals. - stocktitan.net",
+          "title": "Rocket Lab cancels a $3.6 billion bridge loan commitment. Iridium deal awaits regulatory approvals. - Stock Titan",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZUhpYk5tU09YUi1SUnkzdTFZQjRvd1JYNnlncWxmY19vU19VUDloODZwaGlRYzdMT1FrSUl3bGJLQ1JlVmwxbjd3QmlpSEZ1Sld0T2hXT0IzODlSMGo3WUNFdlI2MmNGd2Z4R08yWVA3cmp2VDNkYkV6UVFUaTQwN2hBQ2hHSDEtLXlUZGJyQ1MzeFhjRTY1QUpxQTN3c2FrYzdGZjFJejlzdHJXczk3SF9IM2w2MERESmtQZldCVkc?oc=5",
           "pub": "Tue, 15 Sep 2026 10:00:00 GMT",
-          "source": "stocktitan.net"
+          "source": "Stock Titan"
         },
         {
-          "title": "SpaceX and Rocket Lab Have a New Space Rival -- in Norway - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORnphX1hhdnpNdmVzaDdjTWNLalU4Zzg0TUptcmpXNThSVklLd0Rha1J3SkNoNWN5Yy0xVS1IN3JwUEtONHpaNXc2ZmJvcXRsdkpESEZPbml0SWIzSXpEWThVS1VBeFBnSlRMTXN4M2lEaFZTaWtaT2Zhcy1SMFhZVDVHcFd5OGU3Sl93eFJJU1dtdTd6QlN5eg?oc=5",
-          "pub": "Sun, 13 Sep 2026 12:07:00 GMT",
-          "source": "The Motley Fool"
+          "title": "Rocket Lab Stock (RKLB) Rises Today, Sept. 15 — Here’s What’s Driving It - TipRanks",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVjlHNFAxLXBkT0w3V0JBOTdwVG1JTTkzcEJTa3dNelQ3bFFuYzBIeHBvcGNaelhKSmR2YnV2UktDSFhMRkZwNjVaeXZkOUVkdzFtRUd3Vm15bTZUWDV6N2NJdlBobmdMNDFRaFFqN0hReHVzX21zM0pRSzBtYzhNMFJmc1dMYlRibGZXdUUwM1NuaDFJWlNCV1Bn?oc=5",
+          "pub": "Tue, 15 Sep 2026 13:43:45 GMT",
+          "source": "TipRanks"
         }
       ]
     },
     {
       "symbol": "IREN",
-      "price": 41.3,
+      "price": 41.43,
       "prev_close": 43.16999816894531,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": -4.331707779155093,
-      "drawdown_pct": 46.272930240221214,
+      "day_change_pct": -4.030572718895769,
+      "drawdown_pct": 46.10381355574733,
       "name": "IREN",
       "news": [
         {
@@ -261,10 +261,10 @@
           "source": "TradingView"
         },
         {
-          "title": "Mildef invests in expansion of facility in Rosersberg - marketscreener.com",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUnNVR0w1S2xOc3hmVDlvTXpDUWdyQ1FRcjE1WTQ3RUk2NW9MN00zc0xnZFBmSmVON2ZUaFhBQ1U4cnNPWF9ZZGx0RF8tMlZ2S1hnOGh3OENVLVlMcHJmWkNXdmtKMmxkdjBMUm9fNngxZUpqSXZoRU81TGRkRHZnX01hWG9EdXhmNEFVbjVPeXh3MExkM2c5ZVpZbGp4d0l0QVQzZjlFYThsZw?oc=5",
-          "pub": "Tue, 15 Sep 2026 07:06:21 GMT",
-          "source": "marketscreener.com"
+          "title": "MilDef Group (OM:MILDEF) Stock Turnaround To Profitability Tests Bullish Narratives After Q2 Earnings - simplywall.st",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQWh3OW13WUJIaXlYOW9waGdUS1ZhaXkyV3NpLWx6Z2I1S2tvX001N3RoVE1sbFVyNzZ5aXhuR2d5ZVd0cG45ZEJBRTNPUS1IcTZHUHRaeEFhN01CNnlxdGhQR1ZUUTRqMS1iMGQxd1N2UWI2SGJFREZjNFVkVXBkel82T1l0ek9QSHVXalFoUGhxN2NkYzNoN0NKNGx5ZWM2S0JpdEwwcjEzbXpKeGpveDJUSkxnWnRpREZ1eUowR3FWQmxpMll1SG52UlFPaGxneDhzWnVISWpUZ9IB3wFBVV95cUxPMHloUkVRcUlsVmlMUFlPRUNMYTdGajY1M2ZMZjU2VTBQb3lUUnZFOVY1R0k0T0xsTDhIa2JPT21NX0VrX2tTMGdZS2Y0THJYekNrcDRBLVFra242WFBrYXlZYnVaRXFLXy1PV0VIcUsxeE00VVgwcDlBWHhWQkIyQ3l2OGNKcnA3UkdBU2tMaENGVEY0djVROU9aWXh0a0k1YTlTMGV5cnQwQjZtY3pBTFBvenM4QUgwVlJ6VENfdWhUa0UxU2FUMmhRY3F4dnNTN2ltSmZ5TU1vSnNXaFpF?oc=5",
+          "pub": "Fri, 17 Jul 2026 07:00:00 GMT",
+          "source": "simplywall.st"
         }
       ]
     },
@@ -337,10 +337,10 @@
           "source": "simplywall.st"
         },
         {
-          "title": "NORBIT enters exclusive negotiations for an Oceans technology acquisition - GlobeNewswire",
+          "title": "NORBIT enters exclusive negotiations for an Oceans technology acquisition - globenewswire.com",
           "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOekFGUzJuXy1VYWFrVW9HZWZwV0ZNNGVUZnVsakU2U2I5UUt5QVFCSVJ2akJSR3lJX1FOckJTVTdBWTFvSlJCVUhtYlJMak95NG1CT1AwZlJqbXpPZ2Z6Y0tuYV9waEJTa3d2Q1BJRE1JMVZmWE9PdzVnQXA4RGZIazNUYjNEX3RiMWRHa0dSdnhqQWxLUUVOdURQYWZEb0JmNmhYSTB2Slo4ay1HbmJPdkk0OThHbW82UWtYMnZUQVdfQW5ub2ticnVDeVVsM3ZENmtyazd4ZmpZSGQtQ0E?oc=5",
           "pub": "Wed, 06 May 2026 07:00:00 GMT",
-          "source": "GlobeNewswire"
+          "source": "globenewswire.com"
         }
       ]
     }
