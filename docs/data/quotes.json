@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-09-15T17:10:06.111980+00:00",
-  "updated_at_display": "2026-09-15 17:10 UTC",
+  "updated_at": "2026-09-15T17:30:38.755498+00:00",
+  "updated_at_display": "2026-09-15 17:30 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 211.48,
+      "price": 211.443,
       "prev_close": 210.9600067138672,
       "high_52w": 236.54,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 0.24648903563891533,
-      "drawdown_pct": 10.594402638031623,
+      "day_change_pct": 0.2289501662691574,
+      "drawdown_pct": 10.610044812716657,
       "name": "NVIDIA",
       "news": [
         {
@@ -27,10 +27,10 @@
           "source": "Fast Company"
         },
         {
-          "title": "Buy TI and NVIDIA for Exposure to Semiconductor Boom - The Globe and Mail",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbktCQ2pUbnJqcTVPdmhIVVM5MGpUWVlzeVVmZ2xDTkliLTlvZDdEU0NQakR3dFg5WTlvcFdHM1RkWldrS2Zabi1PLTRfajVXa01ETmx1Z1VSSGVGR3VhRjZBWS1XNzM5bERTQnVidTdtT0txQXNuc2owUjZtendzSENtVmN0SWFfZ21xbUl3a3VMMmVBQzFkWXFCdE9uaXBoZUpwOGNONkJxa0dscDhTUUtIWjAycURJWExUemxhS0pmRld3YmNCQ2RiVGlodDBTWGc?oc=5",
-          "pub": "Tue, 15 Sep 2026 16:36:43 GMT",
-          "source": "The Globe and Mail"
+          "title": "The Fastest-Growing AI Stock Looks Like a Brilliant Buy (It's Also a Nvidia Investment) - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWHJqVW96NHVIMjZsLWJTUk5ELWtja1Y5RkFROUdHdHlEWTh0aktTWjhIaHNPSlpyYzhTQlhHdzJyOUdhVXVpOGNYeHRBWjNpNUFUak9JTmFvZ054NnprM21QbjRBQVR0X1I0SHFqQnVfb2lzcFNTWHM3THpXalJLNDlIdTJHc3A1OTFVYkRsTTFiTHlkRWV4MUozbw?oc=5",
+          "pub": "Tue, 15 Sep 2026 17:05:00 GMT",
+          "source": "Yahoo Finance"
         },
         {
           "title": "JPMorgan double upgraded a data center stock that struck a deal with Nvidia earlier this year - CNBC",
@@ -42,14 +42,14 @@
     },
     {
       "symbol": "META",
-      "price": 666.21,
+      "price": 665.03,
       "prev_close": 665.5999755859375,
       "high_52w": 790.8,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 0.09165030595524329,
-      "drawdown_pct": 15.75493171471926,
+      "day_change_pct": -0.08563335439364603,
+      "drawdown_pct": 15.90414769853313,
       "name": "Meta Platforms",
       "news": [
         {
@@ -80,14 +80,14 @@
     },
     {
       "symbol": "AVGO",
-      "price": 338.245,
+      "price": 338.2,
       "prev_close": 344.7200012207031,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -1.8783363883076727,
-      "drawdown_pct": 31.667676767676767,
+      "day_change_pct": -1.8913904611321868,
+      "drawdown_pct": 31.676767676767682,
       "name": "Broadcom",
       "news": [
         {
@@ -97,10 +97,10 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "Credo vs. Broadcom: Which AI Connectivity Stock Is the Better Pick? - Zacks Investment Research",
+          "title": "Credo vs. Broadcom: Which AI Connectivity Stock Is the Better Pick? - zacks.com",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRXJRUFhCNDQtSnY0V2g5bGdnNW1haVJTNUFSX196RHJZM2FmVHZMNEx0T1dvSDhxdEhsMWRvUWx1NW1ycWtVcS1HS3RPNXhHaWFGWm5sb1ZuaWZqWFVXZmVMN2RQemRyUzJLd1p3SWFVQV9hQUFoWVRKUEVmZV85QUR2NTd3UUg3aTJpdUZwLWVOX0I0WGNDYzJ3TnlmWW90Q0Z1NEFhMXY?oc=5",
           "pub": "Tue, 15 Sep 2026 13:23:30 GMT",
-          "source": "Zacks Investment Research"
+          "source": "zacks.com"
         },
         {
           "title": "Broadcom Shares Fall 3.2% as AI Development Debate Weighs on Semiconductor Stocks - Yahoo Finance",
@@ -118,14 +118,14 @@
     },
     {
       "symbol": "AMD",
-      "price": 501.24,
+      "price": 504.92,
       "prev_close": 493.4100036621094,
       "high_52w": 584.73,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 1.5869147929259801,
-      "drawdown_pct": 14.278384895592838,
+      "day_change_pct": 2.332744827316628,
+      "drawdown_pct": 13.649034597164503,
       "name": "AMD",
       "news": [
         {
@@ -156,16 +156,22 @@
     },
     {
       "symbol": "RKLB",
-      "price": 64.34,
+      "price": 63.675,
       "prev_close": 62.54999923706055,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 2.8617118861272353,
-      "drawdown_pct": 57.39072847682118,
+      "day_change_pct": 1.7985623927440324,
+      "drawdown_pct": 57.83112582781457,
       "name": "Rocket Lab",
       "news": [
+        {
+          "title": "Rocket Lab Analysis - Will RKLB Reverse and Head Higher? - Rocket Lab (NASDAQ:RKLB) - Benzinga",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVlRDVlNaLUZCT0o4NHJud2xUYTNtdl9vN2lmM1VlSHJ1eEMwM19kVkxEb1RTbGNaaTNnOWhtQ3dFSldNTTROSE5WcTVEek9BZFBWZ3lUWEJZeG1fazZOSWxsZ3Bib0x2TU1wVFhycnpOblVNOEhsMXZQSG85SlhXeF9RYjhDWEFsenFfVjVhNHBSc0RKTmI2a2pacWhXN0JvUDYxQ2JENkFKMHp4T1ptR2JYTFVlMWRjcGc?oc=5",
+          "pub": "Mon, 14 Sep 2026 13:27:35 GMT",
+          "source": "Benzinga"
+        },
         {
           "title": "Rocket Lab Stock Jumps After $1.94 Billion Financing for Iridium Deal - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTlJBZWgtdkwtdXFWUDRodHVMdnNraEJiRG9HeERtRThORVBlX1RGSGtEZjN2UUJHVDFhTzFJLS1CZXQ0WGNBVVJ4YzVSZjJIOUxXOUNCaWRXWnIyOEJ6X1A2UzIzWk9DS2d1eUJyVlNwWTF3U0toT19nTXhCaGJSbW01dHRuZC15R29tWGN5T3QwemM?oc=5",
@@ -183,25 +189,19 @@
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORnphX1hhdnpNdmVzaDdjTWNLalU4Zzg0TUptcmpXNThSVklLd0Rha1J3SkNoNWN5Yy0xVS1IN3JwUEtONHpaNXc2ZmJvcXRsdkpESEZPbml0SWIzSXpEWThVS1VBeFBnSlRMTXN4M2lEaFZTaWtaT2Zhcy1SMFhZVDVHcFd5OGU3Sl93eFJJU1dtdTd6QlN5eg?oc=5",
           "pub": "Sun, 13 Sep 2026 12:07:00 GMT",
           "source": "The Motley Fool"
-        },
-        {
-          "title": "Rocket Lab Tackles a Supply Chain Bottleneck as the Stock Hunts for a Bottom. Time to Buy? - marketbeat.com",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNLVFpRHNpQWUxaGhhOUlEM3ZBOE1USzNnNTdQWWVsYmpyN3VCOVVmT0o0WkJGcC1FeDNHdUllTXJTdEVKR1Zha1lmeXpjdjlZX0wxQ3hRNzhxeDJ6ZFRBTVZwUld2QXFQaXR6R2UxZ1dZVE9NQzNiTWp0cmFEX0NRcWM1aVBCNnJnemNTdzhhTjhDNEQ2R2h4ZEtXUDlJYjRibGdXQlVPZWg4cW5HcEdsNDlWM2hoTXRHUjZua2hBTkRjUm8?oc=5",
-          "pub": "Sat, 12 Sep 2026 15:42:08 GMT",
-          "source": "marketbeat.com"
         }
       ]
     },
     {
       "symbol": "IREN",
-      "price": 41.35,
+      "price": 41.3,
       "prev_close": 43.16999816894531,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": -4.215886602132269,
-      "drawdown_pct": 46.207885361577404,
+      "day_change_pct": -4.331707779155093,
+      "drawdown_pct": 46.272930240221214,
       "name": "IREN",
       "news": [
         {
