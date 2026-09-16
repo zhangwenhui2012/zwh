@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-09-16T17:00:45.525412+00:00",
-  "updated_at_display": "2026-09-16 17:00 UTC",
+  "updated_at": "2026-09-16T17:10:11.485882+00:00",
+  "updated_at_display": "2026-09-16 17:10 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 215.708,
+      "price": 215.721,
       "prev_close": 212.1699981689453,
       "high_52w": 236.54,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 1.6675316310449648,
-      "drawdown_pct": 8.80696710915701,
+      "day_change_pct": 1.6736587932791154,
+      "drawdown_pct": 8.801471209943346,
       "name": "NVIDIA",
       "news": [
         {
@@ -21,10 +21,10 @@
           "source": "Investor's Business Daily"
         },
         {
-          "title": "Nvidia Stock Drops. It’s Still the Best Chip Bet in an AI Slowdown. - barrons.com",
+          "title": "Nvidia Stock Drops. It’s Still the Best Chip Bet in an AI Slowdown. - Barron's",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNd28zaEgxYzJOZi1kWWhWa0Y5RG5za0VEUDN5dEVXTjVPdzhnTlhLX3BIaUdTNUEtN20zRWhkandEbDlZaTNiX0VrUkQ2aFQ3Z3BvbmlDeTI5enc2RUJqaTkzV3FZZWxZUmxqMXBNZ25MNnRLMDhPYmV1aTd0WWc3MERLWQ?oc=5",
           "pub": "Mon, 14 Sep 2026 18:26:00 GMT",
-          "source": "barrons.com"
+          "source": "Barron's"
         },
         {
           "title": "Tech stocks today: OpenAI raising funds at $1.2 trillion valuation, SK Hynix and Intel moves - Yahoo Finance",
@@ -42,21 +42,21 @@
     },
     {
       "symbol": "META",
-      "price": 676.6,
+      "price": 676.83,
       "prev_close": 670.239990234375,
       "high_52w": 790.8,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 0.9489152927746078,
-      "drawdown_pct": 14.441072331815874,
+      "day_change_pct": 0.9832313591614539,
+      "drawdown_pct": 14.411987860394525,
       "name": "Meta Platforms",
       "news": [
         {
-          "title": "Why Google and Meta Stocks Are the Big Winners From the Latest AI Concerns - barrons.com",
+          "title": "Why Google and Meta Stocks Are the Big Winners From the Latest AI Concerns - Barron's",
           "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5RR3JsN0djU2JiMVZvbVduTm1wTk1KVGlUZHFvTVU5aEd3c1FqclFQUTI2eXloa1F1VVFJU3R6Q3R6NmFtQzhFMVBROFJ5TERITUFzeU1LV3Z1aGpWV1R0dUktd0EwSUV2WS1nZmRPTXFMUFZ4aE13bEtWUQ?oc=5",
           "pub": "Mon, 14 Sep 2026 19:51:00 GMT",
-          "source": "barrons.com"
+          "source": "Barron's"
         },
         {
           "title": "Meta Bulls Bet Stock Will Break Out After Year of Head Fakes - Yahoo Finance",
@@ -80,14 +80,14 @@
     },
     {
       "symbol": "AVGO",
-      "price": 341.117,
+      "price": 341.26,
       "prev_close": 339.2699890136719,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 0.544407417731756,
-      "drawdown_pct": 31.08747474747474,
+      "day_change_pct": 0.58655673969675,
+      "drawdown_pct": 31.058585858585865,
       "name": "Broadcom",
       "news": [
         {
@@ -118,14 +118,14 @@
     },
     {
       "symbol": "AMD",
-      "price": 521.61,
+      "price": 521.74,
       "prev_close": 504.20001220703125,
       "high_52w": 584.73,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 3.4529923386475425,
-      "drawdown_pct": 10.794725770868606,
+      "day_change_pct": 3.4787757573013716,
+      "drawdown_pct": 10.772493287500215,
       "name": "AMD",
       "news": [
         {
@@ -156,14 +156,14 @@
     },
     {
       "symbol": "RKLB",
-      "price": 63.375,
+      "price": 63.36,
       "prev_close": 63.54999923706055,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -0.2753725242509402,
-      "drawdown_pct": 58.02980132450332,
+      "day_change_pct": -0.29897598637537875,
+      "drawdown_pct": 58.039735099337754,
       "name": "Rocket Lab",
       "news": [
         {
@@ -194,21 +194,21 @@
     },
     {
       "symbol": "IREN",
-      "price": 43.02,
+      "price": 42.95,
       "prev_close": 41.58000183105469,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": 3.4631989070039677,
-      "drawdown_pct": 44.03538641487448,
+      "day_change_pct": 3.2948487460674194,
+      "drawdown_pct": 44.12644924497581,
       "name": "IREN",
       "news": [
         {
-          "title": "Why Iren Stock Just Got a Double Upgrade to Buy - barrons.com",
+          "title": "Why Iren Stock Just Got a Double Upgrade to Buy - Barron's",
           "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1ERDZFbUlWSERUN1psUHYtWHR6WlB2bm9Eamp4RXpzb3dHc3RIRldDZV8ySkdvOHB1MHBYMTlGZEd4TW1BdEJ2YjI1aHlGQ2RaTHd3YTFwVTZ3NjExa09TS0JKMi1sVVBVdU1UUE9ZeEV6Q01iY19zOFRuNA?oc=5",
           "pub": "Mon, 14 Sep 2026 18:26:00 GMT",
-          "source": "barrons.com"
+          "source": "Barron's"
         },
         {
           "title": "JPMorgan aggressively double-upgrades another AI stock by 41% - thestreet.com",
