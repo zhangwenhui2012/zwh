@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-09-16T13:00:44.998002+00:00",
-  "updated_at_display": "2026-09-16 13:00 UTC",
+  "updated_at": "2026-09-16T13:30:35.254498+00:00",
+  "updated_at_display": "2026-09-16 13:30 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 212.17,
-      "prev_close": 210.9600067138672,
+      "price": 213.6,
+      "prev_close": 212.1699981689453,
       "high_52w": 236.54,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 0.5735652482102725,
-      "drawdown_pct": 10.302697218229477,
+      "day_change_pct": 0.6739887087692811,
+      "drawdown_pct": 9.698148304726473,
       "name": "NVIDIA",
       "news": [
         {
@@ -42,14 +42,14 @@
     },
     {
       "symbol": "META",
-      "price": 670.24,
-      "prev_close": 665.5999755859375,
+      "price": 683.7,
+      "prev_close": 670.239990234375,
       "high_52w": 790.8,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 0.6971190781637014,
-      "drawdown_pct": 15.245321193727865,
+      "day_change_pct": 2.0082373421075994,
+      "drawdown_pct": 13.543247344461296,
       "name": "Meta Platforms",
       "news": [
         {
@@ -80,16 +80,28 @@
     },
     {
       "symbol": "AVGO",
-      "price": 339.27,
-      "prev_close": 344.7200012207031,
+      "price": 342.48,
+      "prev_close": 339.2699890136719,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -1.580993618416078,
-      "drawdown_pct": 31.460606060606068,
+      "day_change_pct": 0.9461523536639094,
+      "drawdown_pct": 30.81212121212121,
       "name": "Broadcom",
       "news": [
+        {
+          "title": "Prediction: This Is What a $5,000 Investment in Broadcom Will Be Worth by 2028 - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWDBidFFFTWlUZWdrRVlGSnpDY2pZa1hCTTNFR3J5bW8tOHBrMWNVTVVINjBZc1NKZnY4aGZIaGdtMHh4M0wta3BoUWd0Z193QVFyekh4M0hJRUVzRkQtTy1Bd0txTl9lbmFiZ1NLQktWUURMQ1BYVU9TUDB2R0RPTS02Y3BORWxRTTc2YlBLZnJyVzdRY3VpVlZmM0tVTFd2Sjk4?oc=5",
+          "pub": "Wed, 16 Sep 2026 13:08:00 GMT",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "3 Semiconductor Stocks to Buy Before AI Demand Explodes in September - 247wallst.com",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMHcyZWZ5eExPSE10TXBTR29JMTUyOFNfbnRsQXdaRHVlZkdyQl9PZDZ2VmJ2ZHg4MTlDTXpVYjMwdzY4aTVCUVJVRVgxbWdENG82djN0RVQ1WEFTRjlTbV9UM0NHTy1QbkNCajJvQzJpdE15NkJOekxUMFVmdWZJdHJ3UjVQSzdxY2RNMXVVZnY1X3Z2ZktqbHRzUHdxaU1xZEdoLVNjUVZXRm51WE5VVURR?oc=5",
+          "pub": "Wed, 16 Sep 2026 10:00:00 GMT",
+          "source": "247wallst.com"
+        },
         {
           "title": "Is Broadcom Stock in Trouble? - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNelctV0ZDbEItVVhPeXNISjJoMjRiSGNnbjM0SjZWT2tETmpNVmxETFNjcV90RDRlM0R2VnAwczJSYXAyMmFQN3pneWwxVElsdEt0WXRrYzI0VUR5Q0x0ZHRMNmxFYTdESkh3ZW9EZTB6NjJjRVpHdUJNdURaX29rRGVnTFlwMDVYS1hiS21haW4?oc=5",
@@ -97,35 +109,23 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "3 Semiconductor Stocks to Buy Before AI Demand Explodes in September - 24/7 Wall St.",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMHcyZWZ5eExPSE10TXBTR29JMTUyOFNfbnRsQXdaRHVlZkdyQl9PZDZ2VmJ2ZHg4MTlDTXpVYjMwdzY4aTVCUVJVRVgxbWdENG82djN0RVQ1WEFTRjlTbV9UM0NHTy1QbkNCajJvQzJpdE15NkJOekxUMFVmdWZJdHJ3UjVQSzdxY2RNMXVVZnY1X3Z2ZktqbHRzUHdxaU1xZEdoLVNjUVZXRm51WE5VVURR?oc=5",
-          "pub": "Wed, 16 Sep 2026 10:00:00 GMT",
-          "source": "24/7 Wall St."
-        },
-        {
-          "title": "Broadcom Stock Reaffirms Long-Term Revenue Goals Despite AI Slowdown Fears - TIKR.com",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5ma3VUVmNEY0tXZkM1YjB4OWxvSnBDQ1JXa1dyNFN5U01MRkkxNVNSSnVwRW45WnZLb0w1X3gwWWt0aC1zQTduSWxoRmJpWEVwYUFvRlRZQk8xb2lBLTFlVTY4T1c0WlU5SjBGS3pkZUk1TThiOXN4bEFlN1E?oc=5",
-          "pub": "Wed, 16 Sep 2026 12:25:23 GMT",
-          "source": "TIKR.com"
-        },
-        {
-          "title": "Broadcom Shares Fall 3.2% as AI Development Debate Weighs on Semiconductor Stocks - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYUFvTW40UnRpUV8tcTNzZmRKRUF6dVp5dDZGbjFrWWp6WXJhckMzRUh0a1JhTmpUNXF3MFVPWnFmZUJTWXpDVmRFQkFnYnVNX1MtREQ3d2EwTnA3UGttcXFCZXdQc3IxbkpnQWdTbmxoRDVEU0NIS1V1TG9jZEl2ZGtxMlp4dWlOdkRreXc2MktkOXM?oc=5",
-          "pub": "Mon, 14 Sep 2026 11:12:58 GMT",
-          "source": "Yahoo Finance"
+          "title": "NVIDIA vs. Broadcom: Which AI Stock Should You Buy After Earnings? - Zacks Investment Research",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYlNKcGtQc1ZpY1NHUHVIU2pMSzVSMlI3SllhYnZLUV8xbkYyS081Qm01eS11WGh6Q1ZCVE5YNFREeENubDBtQXJWNVhneTk0WEg1dXVXUTlvTlN0RGE3bksyLXdZVERTUjJBVkd1MFFGZmQydV9lam02MUE2UEl2SXBaQmNsMm15b3dIdXMta3JLdnZ1YU9qLUFNdkViblZYZUVRenRkQQ?oc=5",
+          "pub": "Tue, 15 Sep 2026 18:33:57 GMT",
+          "source": "Zacks Investment Research"
         }
       ]
     },
     {
       "symbol": "AMD",
-      "price": 504.2,
-      "prev_close": 493.4100036621094,
+      "price": 516.57,
+      "prev_close": 504.20001220703125,
       "high_52w": 584.73,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 2.1868215597184526,
-      "drawdown_pct": 13.772168351204833,
+      "day_change_pct": 2.4533890308375317,
+      "drawdown_pct": 11.656662049150885,
       "name": "AMD",
       "news": [
         {
@@ -147,23 +147,23 @@
           "source": "Fast Company"
         },
         {
-          "title": "AMD Stock Leads Semiconductor Stocks Lower Amid AI Slowdown Debate - Barchart.com",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSTkzc3JndnZJMFJyN0hmU25nMGVQMmIwb0ZWSURXRFEtYVlqb2NKYWVQNmhmdF84bExTS1pTNS16MEJ4eXVVZ19OODBUWmNBZmZFYWtDOEdGeWxzd0gyRmpJYWdaMmFzSnhrQVNNYndSNlF0MjlQY1ktN29zY0lCZlRDenVoMkM3ajBHYzlDblpQVlIybXRYSmNQMzZGLTcxU21nd09CMnowMjdranU4?oc=5",
-          "pub": "Mon, 14 Sep 2026 19:55:46 GMT",
-          "source": "Barchart.com"
+          "title": "Piper Sandler Keeps Their Buy Rating on Advanced Micro Devices (AMD) - The Globe and Mail",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOcnNsek5LQkJnZW5MWXBsaWl0d2xycENSbFhvaWFydmdQVGFxWDZvTUczTXZtejZuZ3FxMWFDVWJDWENYSHYwS2tpV0JiWU5CR09FU1l6RWZzNnRjUXoyaEtQbmN1eVNDWGUtQy14UmhDVi1IMWRmaFctd0RaZHpRWUI4WkVyVTVUaUM3b05wU0xKR1YxMTlEbTNTUGJtX0g2SThaTEtENEFKQWdfVGVPREtldFl0S3Q2cUJFeWExSnFJbFdIVUFpVUVWaG1GYzA3S05BRXZibFBRb0ZvWU12emw5Qnk?oc=5",
+          "pub": "Wed, 16 Sep 2026 12:07:42 GMT",
+          "source": "The Globe and Mail"
         }
       ]
     },
     {
       "symbol": "RKLB",
-      "price": 63.55,
-      "prev_close": 62.54999923706055,
+      "price": 63.51,
+      "prev_close": 63.54999923706055,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 1.598722262408846,
-      "drawdown_pct": 57.913907284768214,
+      "day_change_pct": -0.06294136513100451,
+      "drawdown_pct": 57.940397350993386,
       "name": "Rocket Lab",
       "news": [
         {
@@ -179,10 +179,10 @@
           "source": "Barchart.com"
         },
         {
-          "title": "Rocket Lab cancels a $3.6 billion bridge loan commitment. Iridium deal awaits regulatory approvals. - Stock Titan",
+          "title": "Rocket Lab cancels a $3.6 billion bridge loan commitment. Iridium deal awaits regulatory approvals. - stocktitan.net",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZUhpYk5tU09YUi1SUnkzdTFZQjRvd1JYNnlncWxmY19vU19VUDloODZwaGlRYzdMT1FrSUl3bGJLQ1JlVmwxbjd3QmlpSEZ1Sld0T2hXT0IzODlSMGo3WUNFdlI2MmNGd2Z4R08yWVA3cmp2VDNkYkV6UVFUaTQwN2hBQ2hHSDEtLXlUZGJyQ1MzeFhjRTY1QUpxQTN3c2FrYzdGZjFJejlzdHJXczk3SF9IM2w2MERESmtQZldCVkc?oc=5",
           "pub": "Tue, 15 Sep 2026 10:00:00 GMT",
-          "source": "Stock Titan"
+          "source": "stocktitan.net"
         },
         {
           "title": "Rocket Lab Stock (RKLB) Rises Today, Sept. 15 — Here’s What’s Driving It - TipRanks",
@@ -194,14 +194,14 @@
     },
     {
       "symbol": "IREN",
-      "price": 41.58,
-      "prev_close": 43.16999816894531,
+      "price": 43.038,
+      "prev_close": 41.58000183105469,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": -3.6831091878273283,
-      "drawdown_pct": 45.908678919815934,
+      "day_change_pct": 3.5064889483876356,
+      "drawdown_pct": 44.01197025856273,
       "name": "IREN",
       "news": [
         {
@@ -232,14 +232,14 @@
     },
     {
       "symbol": "MILDEF.ST",
-      "price": 224.4,
+      "price": 225.0,
       "prev_close": 222.89999389648438,
       "high_52w": 242.3000030517578,
       "currency": "SEK",
       "yahoo_name": "Mildef Group AB",
       "exchange": "Stockholm",
-      "day_change_pct": 0.6729502667515725,
-      "drawdown_pct": 7.387537278707413,
+      "day_change_pct": 0.9421292781599967,
+      "drawdown_pct": 7.1399103730355105,
       "name": "MilDef Group",
       "news": [
         {
@@ -261,23 +261,23 @@
           "source": "Investing.com"
         },
         {
-          "title": "MilDef Group: Highlights from DNB Carnegie's Small & Mid Cap Seminar - marketscreener.com",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOHE3V2REWFZxYXM2WXlCMVBod3dENmJuUF92RmVIdlE1d3RGZHAxR0VncTRIUGNFblpXSnVDZDZOaDB6cTlWMUlLQ2pPay0tOWVPaFd6MG1pNGRxV2dXWHJwcDBMRmZqckVpWjNORmdlNG9pejcyaXJ1dkVmYnFqWndWaWk0ZEFYRDF4N09sM2pSQnprbmQtMjJad28yaGdxZmRXcU11NnNmRjcyd1REZTN0SUQyd3Q3Q1E?oc=5",
-          "pub": "Wed, 02 Sep 2026 05:04:06 GMT",
-          "source": "marketscreener.com"
+          "title": "MilDef Group AB (publ) Just Recorded A 87% EPS Beat: Here's What Analysts Are Forecasting Next - simplywall.st",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdUxveldZdUxZOTFvSTdIdHZtc1M2Y2E1eG82NnVNRWU2WFVjazNJUTZJbFpDNWx0WHZjZmdVOFBBRVhSRklLejdaaUxUeFVUN3hha0JGRndqaENkbEJNV216MlQ1SEF6RXZqZWRla01aWlFfQzJkZnBuTm9zenRzdEp1djFmYUF5NGlBdzdza1BISk9Fc3BCdGRmbXBobm1HV0VocXR5SVVTZ1JrTlczZ0toQVdGTlB3NF9Rc2ZNRFE3RWlBbkJZRjVnYXdmaEg4VU85Xzk2cEzSAd4BQVVfeXFMT2hETVNqZlNNY0JLZElRZW85cnBtQ3pjSVVYOWlVMWZIZUlYd0NuNHpUcHNrMWdzV09VSUZDbFV3MHRSZ0g1NER2a2ZyQThpNG4wampaRVlWd0hjOXlycEl3TS1QSHVZekEwR0RpeUh1UHVBVEJfOExoOFRZTU9maHlrN20xb0VhUWFLb0V0OFhJOXh6YkFnRFBfQU9PTmxRemsxRktKUmdMcTdQaldZWlppamhYUi0xM3I2UDlpM2tlaVFhYW0tcEk3TkMtcE12bTU2RWhVMm9aaHBrcG1R?oc=5",
+          "pub": "Mon, 20 Jul 2026 07:00:00 GMT",
+          "source": "simplywall.st"
         }
       ]
     },
     {
       "symbol": "IVSO.ST",
-      "price": 227.8,
+      "price": 227.6,
       "prev_close": 226.1999969482422,
       "high_52w": 344.0,
       "currency": "SEK",
       "yahoo_name": "INVISIO AB",
       "exchange": "Stockholm",
-      "day_change_pct": 0.7073399970575277,
-      "drawdown_pct": 33.779069767441854,
+      "day_change_pct": 0.6189226660680052,
+      "drawdown_pct": 33.83720930232558,
       "name": "Invisio",
       "news": [
         {
@@ -308,14 +308,14 @@
     },
     {
       "symbol": "NORBT.OL",
-      "price": 160.2,
+      "price": 159.7,
       "prev_close": 159.39999389648438,
       "high_52w": 244.8000030517578,
       "currency": "NOK",
       "yahoo_name": "NORBIT",
       "exchange": "Oslo",
-      "day_change_pct": 0.5018859059901495,
-      "drawdown_pct": 34.55882434522312,
+      "day_change_pct": 0.1882096079065348,
+      "drawdown_pct": 34.76307270868997,
       "name": "Norbit ASA",
       "news": [
         {
