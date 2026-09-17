@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-09-17T15:00:46.167166+00:00",
-  "updated_at_display": "2026-09-17 15:00 UTC",
+  "updated_at": "2026-09-17T15:30:37.607421+00:00",
+  "updated_at_display": "2026-09-17 15:30 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 219.12,
+      "price": 219.265,
       "prev_close": 213.89999389648438,
       "high_52w": 236.54,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 2.4403956299511727,
-      "drawdown_pct": 7.364504946309287,
+      "day_change_pct": 2.508184318187486,
+      "drawdown_pct": 7.303204532003046,
       "name": "NVIDIA",
       "news": [
         {
@@ -27,29 +27,29 @@
           "source": "Investor's Business Daily"
         },
         {
-          "title": "Breakout Watch: Savvy Investors Get Wired Up For This Nvidia, Amazon Partner - Investor's Business Daily",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUzg1RElWX3NCUHg5bXVNcFpZRVl4bDRJeTBId01DaURpWEZOZk1pWVhIcGZVTkEyRW5EYy04TUV0elA4Sk92TGVMOG9mV0RfNi1YWGJFNEExNGJzQ1k0dFdTd0Q0NUc0YWZwX0xGOWhRaGtNd3liSXphZGFfNERxaVJPN0hmSGxjTDd5OC1FR2U3dU1GU0JpSHZEeWdHOUNXdUZlZ1hDOHRYS0VlT0VaRVVjRzhBVHNmQWUxQjFn?oc=5",
-          "pub": "Thu, 17 Sep 2026 12:00:00 GMT",
-          "source": "Investor's Business Daily"
+          "title": "Looking for a Good Deal on an AI Stock? This Leading Chipmaker Is Cheaper Than Broadcom and AMD. - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOS1JyLVprajgxOEpFd0dNcTV6elJZRGYzdlFBajU4Q0V6cVVfNkpidy1aVjkwaGRQVVE2b2lCSkZqV3AtcnBFV1Zmc0M0VFlfODNpRWR4UXdzamR5aHJ6cjZUdVlGd0JoVzBzaHNuOFdUMDQ2N3owSW5GSTd4M3JUTmg1N211THdTUGJsS3czamd4aExf?oc=5",
+          "pub": "Thu, 17 Sep 2026 14:29:00 GMT",
+          "source": "Yahoo Finance"
         },
         {
-          "title": "Semiconductor Sell-Off: 1 AI Chip Stock to Buy, 1 to Hold, and 1 to Sell After Broadcom's Beat - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaHZIM1dWbnNnenpGaFVCaGdKdlNrbWczX2xCOHRJN0ptVkJNSUNSOUQySnhBQXh5UGlNX1k2M09ZWE5seGxxbDJKdFFFVFNXOXZkcnJ5YjVDeFZuX1VMY20yQ2xhNUg3bkJURkFERVhhX3lHLV9wNWJlSmlTQTNaVHlGME9ZWGJhWHNrbDVlVF9fSTFXOVFiOQ?oc=5",
-          "pub": "Thu, 17 Sep 2026 10:37:24 GMT",
-          "source": "The Motley Fool"
+          "title": "JPMorgan double upgraded a data center stock that struck a deal with Nvidia earlier this year - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZDNCekNDRXFHY1Y1bWdCSW5vd0ctZ0tWYy1mX3ZlVTdJMXZxQVdBVjVsc3RfekZsbUZudndLOVVVamNkZXQ4ZmRLbVJnck4zZ25MVS1pa3BCa2hQV3BlczFPcmV6bklHWFlwX1R6bWFnVnlvMjFMSXo3bjFIMDNhYXlJeGRSb0xLdS02Q25qa2lVNVR1UDFtMG5hbmxvYUFfdTRrSm5GRzl5LVBtVDJ3Z2RR?oc=5",
+          "pub": "Mon, 14 Sep 2026 14:03:26 GMT",
+          "source": "CNBC"
         }
       ]
     },
     {
       "symbol": "META",
-      "price": 672.675,
+      "price": 674.17,
       "prev_close": 673.3099975585938,
       "high_52w": 790.8,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -0.09430983661259773,
-      "drawdown_pct": 14.937405159332323,
+      "day_change_pct": 0.12772756152805656,
+      "drawdown_pct": 14.748356095093577,
       "name": "Meta Platforms",
       "news": [
         {
@@ -59,10 +59,10 @@
           "source": "Barron's"
         },
         {
-          "title": "Meta Bulls Bet Stock Will Break Out After Year of Head Fakes - Bloomberg.com",
+          "title": "Meta Bulls Bet Stock Will Break Out After Year of Head Fakes - bloomberg.com",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdEp4Q3RwQkFDc1QwdDg0enNxbXphaTc0NmZmYjZaRlE3VERqeWRITGFiZ0t4eW42M0R3bGM5Q0hOY3B3NG9HRW5pOGd6Vi1CelJVaWhhWjNlUjhOZjZxd29rMzA3cVdVTHhmMjVUZXN3S3gwbHlJY3drakxwTFVQQ3RHZnRpSEVpNThqdWNnaHlHUXJnSmlCdmk3c2JTaW1YUEFTVDhxb09uQmRPUzlnSQ?oc=5",
           "pub": "Tue, 15 Sep 2026 13:40:10 GMT",
-          "source": "Bloomberg.com"
+          "source": "bloomberg.com"
         },
         {
           "title": "META Stock Alert: What to Know as Meta Platforms Plans Expanded Use of Proprietary Chips - Barchart.com",
@@ -71,29 +71,29 @@
           "source": "Barchart.com"
         },
         {
-          "title": "Is META Stock’s $130B AI Buildout Your Ticket to an 8.7% Yield? - Trefis",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcE0xOFVMd0NWRGg3WklHcHg2aGtSMDI0UjB6b2VpMEdSZUdSblNST1lTVWdJSU9zczFtdGd0bjEyRl8zVHU4RVB1RW4zRHhwUkY0SW1DbnRRejFzMDMxcTlXUGdIZllfYWZlRUNMWWFBZ2xHRkUxb2RXamtFZk9iSHBHbVhReEhpZ3JkUUpJZTd2WkcxQVdaMmdrYTBMVWxqcnBacEhuSi1UYjVQNUtnQ3pNNGRVV2E4dlNkRw?oc=5",
-          "pub": "Mon, 14 Sep 2026 20:21:09 GMT",
-          "source": "Trefis"
+          "title": "Meta Stock Climbs On Muse AI Excitement. Here's The Next Potential Catalyst. - Investor's Business Daily",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQT2ZQMjVLOGx6YXAySW9SSkFlZmZycXpCUDRFNEo0MkFIVHU3V3dHTUUtc3A0REY1NV92ckVGU3FGUEpXS0xEMnRWVVp6TEhQYndBQzZHbVJ4RlVBV0RMZEFET1J1VFZDVks1RXNZVEwzc2JONF9oalU2RjhXM1phTTUtX1huelRZeDZnYnBDOW1WT3JzVjVRM2lnQzNqTTA1M2o1MGUteWFZNVZzMmN3SVpDM2RnZG8?oc=5",
+          "pub": "Thu, 17 Sep 2026 15:14:00 GMT",
+          "source": "Investor's Business Daily"
         }
       ]
     },
     {
       "symbol": "AVGO",
-      "price": 349.21,
+      "price": 350.88,
       "prev_close": 339.510009765625,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 2.8570557436793114,
-      "drawdown_pct": 29.45252525252526,
+      "day_change_pct": 3.3489410937321336,
+      "drawdown_pct": 29.115151515151517,
       "name": "Broadcom",
       "news": [
         {
           "title": "Semiconductor Sell-Off: 1 AI Chip Stock to Buy, 1 to Hold, and 1 to Sell After Broadcom's Beat - The Motley Fool",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaHZIM1dWbnNnenpGaFVCaGdKdlNrbWczX2xCOHRJN0ptVkJNSUNSOUQySnhBQXh5UGlNX1k2M09ZWE5seGxxbDJKdFFFVFNXOXZkcnJ5YjVDeFZuX1VMY20yQ2xhNUg3bkJURkFERVhhX3lHLV9wNWJlSmlTQTNaVHlGME9ZWGJhWHNrbDVlVF9fSTFXOVFiOQ?oc=5",
-          "pub": "Thu, 17 Sep 2026 10:37:24 GMT",
+          "pub": "Thu, 17 Sep 2026 11:16:00 GMT",
           "source": "The Motley Fool"
         },
         {
@@ -118,14 +118,14 @@
     },
     {
       "symbol": "AMD",
-      "price": 541.795,
+      "price": 544.81,
       "prev_close": 512.5,
       "high_52w": 584.73,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 5.7160975609756015,
-      "drawdown_pct": 7.342705180168635,
+      "day_change_pct": 6.304390243902429,
+      "drawdown_pct": 6.827082585124771,
       "name": "AMD",
       "news": [
         {
@@ -156,14 +156,14 @@
     },
     {
       "symbol": "RKLB",
-      "price": 67.39,
+      "price": 66.349,
       "prev_close": 63.70000076293945,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 5.792777382833852,
-      "drawdown_pct": 55.37086092715232,
+      "day_change_pct": 4.158554482469856,
+      "drawdown_pct": 56.06026490066225,
       "name": "Rocket Lab",
       "news": [
         {
@@ -194,14 +194,14 @@
     },
     {
       "symbol": "IREN",
-      "price": 43.445,
+      "price": 43.274,
       "prev_close": 42.619998931884766,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": 1.9357134884816642,
-      "drawdown_pct": 43.48250494640219,
+      "day_change_pct": 1.5344933939591576,
+      "drawdown_pct": 43.704958431363984,
       "name": "IREN",
       "news": [
         {
@@ -232,14 +232,14 @@
     },
     {
       "symbol": "MILDEF.ST",
-      "price": 235.2,
+      "price": 234.4,
       "prev_close": 224.0,
       "high_52w": 242.3000030517578,
       "currency": "SEK",
       "yahoo_name": "Mildef Group AB",
       "exchange": "Stockholm",
-      "day_change_pct": 4.999999999999995,
-      "drawdown_pct": 2.9302529766131244,
+      "day_change_pct": 4.642857142857145,
+      "drawdown_pct": 3.2604221841756575,
       "name": "MilDef Group",
       "news": [
         {
@@ -270,14 +270,14 @@
     },
     {
       "symbol": "IVSO.ST",
-      "price": 236.2,
+      "price": 236.8,
       "prev_close": 228.60000610351562,
       "high_52w": 344.0,
       "currency": "SEK",
       "yahoo_name": "INVISIO AB",
       "exchange": "Stockholm",
-      "day_change_pct": 3.3245816682274727,
-      "drawdown_pct": 31.337209302325586,
+      "day_change_pct": 3.5870488528207782,
+      "drawdown_pct": 31.162790697674414,
       "name": "Invisio",
       "news": [
         {
