@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-09-17T18:00:45.264123+00:00",
-  "updated_at_display": "2026-09-17 18:00 UTC",
+  "updated_at": "2026-09-17T18:30:36.460281+00:00",
+  "updated_at_display": "2026-09-17 18:30 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 219.08,
+      "price": 219.62,
       "prev_close": 213.89999389648438,
       "high_52w": 236.54,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 2.421695302161846,
-      "drawdown_pct": 7.381415405428249,
+      "day_change_pct": 2.6741497273178005,
+      "drawdown_pct": 7.153124207322224,
       "name": "NVIDIA",
       "news": [
         {
@@ -33,23 +33,23 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "Semiconductor Sell-Off: 1 AI Chip Stock to Buy, 1 to Hold, and 1 to Sell After Broadcom's Beat - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaHZIM1dWbnNnenpGaFVCaGdKdlNrbWczX2xCOHRJN0ptVkJNSUNSOUQySnhBQXh5UGlNX1k2M09ZWE5seGxxbDJKdFFFVFNXOXZkcnJ5YjVDeFZuX1VMY20yQ2xhNUg3bkJURkFERVhhX3lHLV9wNWJlSmlTQTNaVHlGME9ZWGJhWHNrbDVlVF9fSTFXOVFiOQ?oc=5",
-          "pub": "Thu, 17 Sep 2026 11:16:00 GMT",
+          "title": "Micron vs. Sandisk: Which AI Memory Stock Benefits More From Nvidia's $279 Billion Warning? - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZzJ6aFBNOEc2TnlSWEtFRWxvNHgyTWcyeFctZlROVjI3eDRFRkRHOC1McVpQakRSbF9STXNLdnhsdEd4bmtwY1ZoeGlwX2dQUUh3clI1aGpTT0Z1eE5Ob21LY043dEpyVmotNXhlQzE5ZkU0Z1FJdVJLcE0yYmRaVU5ORHBzNENhclJ4WmlJTDJMYVl3M0E?oc=5",
+          "pub": "Thu, 17 Sep 2026 02:21:00 GMT",
           "source": "The Motley Fool"
         }
       ]
     },
     {
       "symbol": "META",
-      "price": 677.305,
+      "price": 677.762,
       "prev_close": 673.3099975585938,
       "high_52w": 790.8,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 0.5933377576290245,
-      "drawdown_pct": 14.35192210419828,
+      "day_change_pct": 0.6612113970606481,
+      "drawdown_pct": 14.294132524026304,
       "name": "Meta Platforms",
       "news": [
         {
@@ -80,22 +80,16 @@
     },
     {
       "symbol": "AVGO",
-      "price": 348.87,
+      "price": 348.66,
       "prev_close": 339.510009765625,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 2.7569114209140744,
-      "drawdown_pct": 29.52121212121212,
+      "day_change_pct": 2.695057574500253,
+      "drawdown_pct": 29.56363636363636,
       "name": "Broadcom",
       "news": [
-        {
-          "title": "Investors Want to Know When Broadcom’s Custom Hyperscaler Chips Will Move Share Prices - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQ0FXblhybnhYMFFxZU11aEVHWi1CZkRzTWVYWFAyejZfR1Z4Q2RIcUs2QjhrME51ak9OYUNaWWIxMWFka3ZLa1puM0ZieFp6UkE5Rm41N2N4bVNjQTdvU19sT2dhTEhMVktrbWRERHhhOG9oajRqbFV0a3B4dFQ5dnV3UEdXbTc0MW9DSWp6OTRvQUdldE9hSE1la1l1S0hRdnc?oc=5",
-          "pub": "Thu, 17 Sep 2026 12:55:14 GMT",
-          "source": "Yahoo Finance"
-        },
         {
           "title": "Broadcom CEO Hock Tan Says He Isn’t Worried – ‘No, Not in the Least’ – About AVGO as AI Extinction Fears Rattle Stocks - Barchart.com",
           "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNdlFoaXUwYWFuOFpsbHZWQkZSMVBJTmxkX0pNd2xzNFpqeWdMVTdNLWRrVks4aDBXcmxYcUhzVHVqa2xBUG56aE9SVno4aDRGckJaNDVWbWFZQ3ltQWdnRWwyR1pVamQ0QmRfUWdVSzAtQmVtZnRNcm50TkNFNjNvU2FXUVBpTW1leG1pZm1EMzNfSnQycllJNDlrRGJNUlY2SmxkdTUtSlVpdENDb1RuQS0walBoOVNFNHcwUnlWYjVCRWQ0Sm9SdUc4a0tYYkFYZnpIeXhSa1BEQlp2ZFY2SXJIaUFVc2J1MXc?oc=5",
@@ -113,19 +107,25 @@
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOS1JyLVprajgxOEpFd0dNcTV6elJZRGYzdlFBajU4Q0V6cVVfNkpidy1aVjkwaGRQVVE2b2lCSkZqV3AtcnBFV1Zmc0M0VFlfODNpRWR4UXdzamR5aHJ6cjZUdVlGd0JoVzBzaHNuOFdUMDQ2N3owSW5GSTd4M3JUTmg1N211THdTUGJsS3czamd4aExf?oc=5",
           "pub": "Thu, 17 Sep 2026 14:29:00 GMT",
           "source": "Yahoo Finance"
+        },
+        {
+          "title": "Semiconductor Sell-Off: 1 AI Chip Stock to Buy, 1 to Hold, and 1 to Sell After Broadcom's Beat - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaHZIM1dWbnNnenpGaFVCaGdKdlNrbWczX2xCOHRJN0ptVkJNSUNSOUQySnhBQXh5UGlNX1k2M09ZWE5seGxxbDJKdFFFVFNXOXZkcnJ5YjVDeFZuX1VMY20yQ2xhNUg3bkJURkFERVhhX3lHLV9wNWJlSmlTQTNaVHlGME9ZWGJhWHNrbDVlVF9fSTFXOVFiOQ?oc=5",
+          "pub": "Thu, 17 Sep 2026 11:16:00 GMT",
+          "source": "The Motley Fool"
         }
       ]
     },
     {
       "symbol": "AMD",
-      "price": 546.338,
+      "price": 544.86,
       "prev_close": 512.5,
       "high_52w": 584.73,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 6.602536585365846,
-      "drawdown_pct": 6.565765395994741,
+      "day_change_pct": 6.314146341463417,
+      "drawdown_pct": 6.818531629983069,
       "name": "AMD",
       "news": [
         {
@@ -156,14 +156,14 @@
     },
     {
       "symbol": "RKLB",
-      "price": 67.913,
+      "price": 67.605,
       "prev_close": 63.70000076293945,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 6.61381347975063,
-      "drawdown_pct": 55.02450331125828,
+      "day_change_pct": 6.130297002025269,
+      "drawdown_pct": 55.228476821192054,
       "name": "Rocket Lab",
       "news": [
         {
@@ -179,29 +179,29 @@
           "source": "Barchart.com"
         },
         {
+          "title": "Rocket Lab: A Stronger Business Still Has To Grow Into Its Price (NASDAQ:RKLB) - Seeking Alpha",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMEZBWlM4RXV4bzFETmM2N19jMTJwWEg3eGhvcjhoRUdGbG9yRjYwckpyeU5wQWhmcnlCalNSX1FFUzUzdlRlck9QcWo5d2QzNlZWUi1RWUp0MUNzd3VXa2NpY2pvMTJVWnRGTThvTEZGc3A2WWZkUnRlMm1VOTU0MTJJY19uMFo0WklTeUt2Vkk0bmZFRG9CdFRJZVRFYlhRM20yXzVaYw?oc=5",
+          "pub": "Thu, 17 Sep 2026 17:29:54 GMT",
+          "source": "Seeking Alpha"
+        },
+        {
           "title": "Prediction: Rocket Lab's Revenue Tops $1.5 Billion in 2027 Without Counting Iridium - The Motley Fool",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOWwtVU5LaUtCNTJZbVBGU3JsdmhNbjFSTkhMLXpCd05pZlFBT1lMVWgya2Y2dXdndEdxSkw2czlfY3owdldvMURrYmNpQ0NZNjd1U3FmMDdraWl3Q1ZBamZWU0N4TkZqUGFQWHFNWVBrSkU2b2dRU2otSVcxTUhyWTZIRks4NVM3NlZGTTJLanRkZW5OZmwwbmlFdU1YMXAwN0hOZnJINU9BZzRhdml0WU5wWTJMbEQ3M3B3TlZ3N0d3ZU5LLUE?oc=5",
           "pub": "Wed, 16 Sep 2026 08:38:00 GMT",
           "source": "The Motley Fool"
-        },
-        {
-          "title": "‘Gamble Away (But Keep Some Chips),’ Says Investor About Rocket Lab Stock - TipRanks",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOX282Sm1CdmZQNU01RnRRRV8yNXo4RjQ0aFRnWHlRMEQ3bWJZdHZXanRuYkhlQ2tjS2tfYTFJNFZzUUhIVDVPRHZvVnpPZG5qbDE3MDREVkJfQ3poMElLbmVhdjNBdGdHRTQ4WHZWU0NaX2xvZThiVDN5MlhyR0w3UW9aejhVTW91aktjNlpDMl9oUWpnZDlOLWU3enlGV3BOSmMzNDJVNFJ3Zw?oc=5",
-          "pub": "Thu, 17 Sep 2026 16:59:35 GMT",
-          "source": "TipRanks"
         }
       ]
     },
     {
       "symbol": "IREN",
-      "price": 43.255,
+      "price": 43.315,
       "prev_close": 42.619998931884766,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": 1.4899133834566607,
-      "drawdown_pct": 43.72967548524863,
+      "day_change_pct": 1.6306923639908626,
+      "drawdown_pct": 43.65162163087607,
       "name": "IREN",
       "news": [
         {
@@ -209,12 +209,6 @@
           "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1ERDZFbUlWSERUN1psUHYtWHR6WlB2bm9Eamp4RXpzb3dHc3RIRldDZV8ySkdvOHB1MHBYMTlGZEd4TW1BdEJ2YjI1aHlGQ2RaTHd3YTFwVTZ3NjExa09TS0JKMi1sVVBVdU1UUE9ZeEV6Q01iY19zOFRuNA?oc=5",
           "pub": "Mon, 14 Sep 2026 18:26:00 GMT",
           "source": "Barron's"
-        },
-        {
-          "title": "IREN Limited's Next AI Breakout Depends On This (NASDAQ:IREN) - Seeking Alpha",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPamRTa3p1OE9jVXIzWGd6M0xRMEVaUDRJSEphbElRQldacHNYeU83OTUzTnk3aHVVZFdnQVpUcTlVcGRRVkxsS05jMEZOY2lvS0lDWkVmNnhodDM2VFVFRkVPUzN4UV84eUFBbjhXS1JSRjBfU3JuVC1kMmtudWdHMDJVR3Z0UQ?oc=5",
-          "pub": "Thu, 17 Sep 2026 10:48:05 GMT",
-          "source": "Seeking Alpha"
         },
         {
           "title": "Nebius Stock and IREN Gain. AI Neoclouds Are Flexing Their Pricing Power. - Barron's",
@@ -227,6 +221,12 @@
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVWk1UzlBbVJPQ2dNVmNnTUJ5ZGJldl9qaUJNOVltVTVGZS1yQW9LaEoyanBhdngtZG8tNVVINkh5clNjRXRNRWVNRXlUVWxQQkFEUHkzbnVSVFlCZldIdE1hQkVKWVZnY0J6ZjBXWEFibGQ5Y0JmemZkQUdhZnM3UXp6c3JXX0syR3E2aVJ1aHctVUY4MzJyQlpSRDlkV29zMy1B?oc=5",
           "pub": "Thu, 17 Sep 2026 03:10:00 GMT",
           "source": "Yahoo Finance"
+        },
+        {
+          "title": "IREN Climbs 6%, Nebius Jumps 10% as GPU Rental Rates Head Higher; CoreWeave Slips - 24/7 Wall St.",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQX0pNcGNrdlFVakZyamtGSWVJUWkwSzRWSTdPakRWblhLalVjMVVuQXNjRVFIRmdCOXVlM3JCSzA4elFUd1BKc2xnSmx2Z25NUFU3dHI2NTd0dHZyN1o2TVFqTGt6Y3ltY2hsYlBzZ3Ftb1dzT2g1cjlmSEFibjZVVU5SUFFaM2M5SDk1Q0NYLXh4cFNlekh1R0ttTVRWU2tfTmVZVTQzSnViU0ZjUlp3VHFQSDlhTjlWZjY5d21B?oc=5",
+          "pub": "Thu, 17 Sep 2026 13:11:00 GMT",
+          "source": "24/7 Wall St."
         }
       ]
     },
