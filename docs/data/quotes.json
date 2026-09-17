@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-09-17T15:30:37.607421+00:00",
-  "updated_at_display": "2026-09-17 15:30 UTC",
+  "updated_at": "2026-09-17T16:00:44.949939+00:00",
+  "updated_at_display": "2026-09-17 16:00 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 219.265,
+      "price": 218.885,
       "prev_close": 213.89999389648438,
       "high_52w": 236.54,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 2.508184318187486,
-      "drawdown_pct": 7.303204532003046,
+      "day_change_pct": 2.330531204188851,
+      "drawdown_pct": 7.463853893633213,
       "name": "NVIDIA",
       "news": [
         {
@@ -42,14 +42,14 @@
     },
     {
       "symbol": "META",
-      "price": 674.17,
+      "price": 678.97,
       "prev_close": 673.3099975585938,
       "high_52w": 790.8,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 0.12772756152805656,
-      "drawdown_pct": 14.748356095093577,
+      "day_change_pct": 0.840623555558259,
+      "drawdown_pct": 14.141375821952446,
       "name": "Meta Platforms",
       "news": [
         {
@@ -59,10 +59,10 @@
           "source": "Barron's"
         },
         {
-          "title": "Meta Bulls Bet Stock Will Break Out After Year of Head Fakes - bloomberg.com",
+          "title": "Meta Bulls Bet Stock Will Break Out After Year of Head Fakes - Bloomberg.com",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdEp4Q3RwQkFDc1QwdDg0enNxbXphaTc0NmZmYjZaRlE3VERqeWRITGFiZ0t4eW42M0R3bGM5Q0hOY3B3NG9HRW5pOGd6Vi1CelJVaWhhWjNlUjhOZjZxd29rMzA3cVdVTHhmMjVUZXN3S3gwbHlJY3drakxwTFVQQ3RHZnRpSEVpNThqdWNnaHlHUXJnSmlCdmk3c2JTaW1YUEFTVDhxb09uQmRPUzlnSQ?oc=5",
           "pub": "Tue, 15 Sep 2026 13:40:10 GMT",
-          "source": "bloomberg.com"
+          "source": "Bloomberg.com"
         },
         {
           "title": "META Stock Alert: What to Know as Meta Platforms Plans Expanded Use of Proprietary Chips - Barchart.com",
@@ -80,16 +80,22 @@
     },
     {
       "symbol": "AVGO",
-      "price": 350.88,
+      "price": 349.015,
       "prev_close": 339.510009765625,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 3.3489410937321336,
-      "drawdown_pct": 29.115151515151517,
+      "day_change_pct": 2.7996200291521878,
+      "drawdown_pct": 29.491919191919198,
       "name": "Broadcom",
       "news": [
+        {
+          "title": "Investors Want to Know When Broadcom’s Custom Hyperscaler Chips Will Move Share Prices - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQ0FXblhybnhYMFFxZU11aEVHWi1CZkRzTWVYWFAyejZfR1Z4Q2RIcUs2QjhrME51ak9OYUNaWWIxMWFka3ZLa1puM0ZieFp6UkE5Rm41N2N4bVNjQTdvU19sT2dhTEhMVktrbWRERHhhOG9oajRqbFV0a3B4dFQ5dnV3UEdXbTc0MW9DSWp6OTRvQUdldE9hSE1la1l1S0hRdnc?oc=5",
+          "pub": "Thu, 17 Sep 2026 12:55:14 GMT",
+          "source": "Yahoo Finance"
+        },
         {
           "title": "Semiconductor Sell-Off: 1 AI Chip Stock to Buy, 1 to Hold, and 1 to Sell After Broadcom's Beat - The Motley Fool",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaHZIM1dWbnNnenpGaFVCaGdKdlNrbWczX2xCOHRJN0ptVkJNSUNSOUQySnhBQXh5UGlNX1k2M09ZWE5seGxxbDJKdFFFVFNXOXZkcnJ5YjVDeFZuX1VMY20yQ2xhNUg3bkJURkFERVhhX3lHLV9wNWJlSmlTQTNaVHlGME9ZWGJhWHNrbDVlVF9fSTFXOVFiOQ?oc=5",
@@ -107,25 +113,19 @@
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeU5EZ0hySmIxQjBtYjlRdjdzVW9OZjU0MU82eGVEbVZqTHg0Q1RZVGwzbnNvcy1wVkhYTDRtalFxcUozSHZsbXRKbzMwX0hOcEFreVFmbFJ2ejlqN2ZlRUlocEFoenhaaVlYaHk2bWFGWlU4dlljN2x5dTE4WFFMcWNFNlpOaFNaaEN5cDVkVUpxX29mWEszRHV3ZUZIY1l1bjFKMl9iR0VrbTlGU1VnSVJVdnU2NzN3WWRBU2NSSUN2aGpF?oc=5",
           "pub": "Mon, 14 Sep 2026 16:15:00 GMT",
           "source": "24/7 Wall St."
-        },
-        {
-          "title": "Investors Want to Know When Broadcom’s Custom Hyperscaler Chips Will Move Share Prices - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQ0FXblhybnhYMFFxZU11aEVHWi1CZkRzTWVYWFAyejZfR1Z4Q2RIcUs2QjhrME51ak9OYUNaWWIxMWFka3ZLa1puM0ZieFp6UkE5Rm41N2N4bVNjQTdvU19sT2dhTEhMVktrbWRERHhhOG9oajRqbFV0a3B4dFQ5dnV3UEdXbTc0MW9DSWp6OTRvQUdldE9hSE1la1l1S0hRdnc?oc=5",
-          "pub": "Thu, 17 Sep 2026 12:55:14 GMT",
-          "source": "Yahoo Finance"
         }
       ]
     },
     {
       "symbol": "AMD",
-      "price": 544.81,
+      "price": 545.665,
       "prev_close": 512.5,
       "high_52w": 584.73,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 6.304390243902429,
-      "drawdown_pct": 6.827082585124771,
+      "day_change_pct": 6.471219512195114,
+      "drawdown_pct": 6.680861252201881,
       "name": "AMD",
       "news": [
         {
@@ -147,23 +147,23 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "Advanced Micro Devices vs. Texas Instruments: Which Tech Stock Is a Better Buy in 2026? - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUkk1UGdpSWVZb3FMWjJzeVJ6LW5KYTFKZ0c3S05EeGxfa015TndJdmhqa0VfcVZpdjRWS1U1eUpMbjVGYlU0WmVWMzRneU81dFEzVHVPcW9aM0FUbmJPSnVmV3JfQlppQ2ZHQmg2VUQ0SUs5YTdITGotMnRWdDk1MzYzdDFDcm0zdWFSUmRJZXdlU3RZcHFua2JfTzhFaUhrVDY2VE5OZVlDQVVGVjJTYUM1c0QxalR2M3Mwc1hNTXhHZnBlSms5Qk9fWFVmUjI3TnU0?oc=5",
-          "pub": "Thu, 17 Sep 2026 12:00:03 GMT",
+          "title": "Looking for a Good Deal on an AI Stock? This Leading Chipmaker Is Cheaper Than Broadcom and AMD. - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWXJmMFZkZW1lVmRvd3hfd0kzazlXRFNib0ZrYmhHZE04WXR2U2pDNlRuVElqOHZUQXBrUjZLV1pOVkl4M3hYSVRVOGFBT0x1cng0OUlWdFJsZGZRRjZGUkVUSVluVEp0ZkJnZjdUR2F5UVhYYkYtZk4tMHAwRWY4S1ZneFA2MDYwRjZYVGhMSEF2c3hZSUVRbA?oc=5",
+          "pub": "Thu, 17 Sep 2026 14:21:51 GMT",
           "source": "The Motley Fool"
         }
       ]
     },
     {
       "symbol": "RKLB",
-      "price": 66.349,
+      "price": 66.99,
       "prev_close": 63.70000076293945,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 4.158554482469856,
-      "drawdown_pct": 56.06026490066225,
+      "day_change_pct": 5.1648339052684245,
+      "drawdown_pct": 55.63576158940398,
       "name": "Rocket Lab",
       "news": [
         {
@@ -194,14 +194,14 @@
     },
     {
       "symbol": "IREN",
-      "price": 43.274,
+      "price": 43.562,
       "prev_close": 42.619998931884766,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": 1.5344933939591576,
-      "drawdown_pct": 43.704958431363984,
+      "day_change_pct": 2.210232500523374,
+      "drawdown_pct": 43.3302999303757,
       "name": "IREN",
       "news": [
         {
@@ -243,10 +243,10 @@
       "name": "MilDef Group",
       "news": [
         {
-          "title": "MILDEF Forecast — Price Target — Prediction for 2027 - TradingView",
+          "title": "MILDEF Forecast — Price Target — Prediction for 2027 - tradingview.com",
           "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9hWW9rMkp5VFlIZmlhT1RWd3k5bVQyVTVlLXktUHJfNm43Qld6bURaV0wwTDN1ZmJwZ0c2c2FPNV8wRVYyaVRRNndDaUZOeHdPQTkwS1doZUdWQ180N051Ym91OXZxYW9YRklxUFRIcVFJOFJxbXFVSEl2dWg?oc=5",
           "pub": "Thu, 25 Jun 2026 11:58:03 GMT",
-          "source": "TradingView"
+          "source": "tradingview.com"
         },
         {
           "title": "Mildef to expand further in Rosersberg - marketscreener.com",
@@ -287,10 +287,10 @@
           "source": "simplywall.st"
         },
         {
-          "title": "IVSO Forecast — Price Target — Prediction for 2027 - TradingView",
+          "title": "IVSO Forecast — Price Target — Prediction for 2027 - tradingview.com",
           "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1keUhnMUVzX0VnclVQS3Ywd29Ka1hUdVMzRndVV01Qb2xGYllhOFlfb0IyNEk1Q2VGYWViMkJXSVZDYi1FQWdLRzZqQTFlUnVocmdGRDM5ejdhaF9mQWlhaGVDZ29rZE9hdnNzU0FzVnpPX1pENHlDbl9n?oc=5",
           "pub": "Thu, 25 Jun 2026 19:04:11 GMT",
-          "source": "TradingView"
+          "source": "tradingview.com"
         },
         {
           "title": "Invisio climbs on a choppy Stockholm market, OMXS30 index down 0.1 percent - marketscreener.com",
@@ -337,10 +337,10 @@
           "source": "simplywall.st"
         },
         {
-          "title": "NORBIT enters exclusive negotiations for an Oceans technology acquisition - GlobeNewswire",
+          "title": "NORBIT enters exclusive negotiations for an Oceans technology acquisition - globenewswire.com",
           "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOekFGUzJuXy1VYWFrVW9HZWZwV0ZNNGVUZnVsakU2U2I5UUt5QVFCSVJ2akJSR3lJX1FOckJTVTdBWTFvSlJCVUhtYlJMak95NG1CT1AwZlJqbXpPZ2Z6Y0tuYV9waEJTa3d2Q1BJRE1JMVZmWE9PdzVnQXA4RGZIazNUYjNEX3RiMWRHa0dSdnhqQWxLUUVOdURQYWZEb0JmNmhYSTB2Slo4ay1HbmJPdkk0OThHbW82UWtYMnZUQVdfQW5ub2ticnVDeVVsM3ZENmtyazd4ZmpZSGQtQ0E?oc=5",
           "pub": "Wed, 06 May 2026 07:00:00 GMT",
-          "source": "GlobeNewswire"
+          "source": "globenewswire.com"
         }
       ]
     }
