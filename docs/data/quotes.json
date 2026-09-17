@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-09-16T23:30:32.638215+00:00",
-  "updated_at_display": "2026-09-16 23:30 UTC",
+  "updated_at": "2026-09-17T00:00:42.447058+00:00",
+  "updated_at_display": "2026-09-17 00:00 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
       "price": 213.9,
-      "prev_close": 212.1699981689453,
+      "prev_close": 210.9600067138672,
       "high_52w": 236.54,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 0.8153847603265466,
+      "day_change_pct": 1.393625897121078,
       "drawdown_pct": 9.57131986133423,
       "name": "NVIDIA",
       "news": [
@@ -43,12 +43,12 @@
     {
       "symbol": "META",
       "price": 673.31,
-      "prev_close": 670.239990234375,
+      "prev_close": 665.5999755859375,
       "high_52w": 790.8,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 0.45804634315409903,
+      "day_change_pct": 1.1583570758510315,
       "drawdown_pct": 14.857106727364696,
       "name": "Meta Platforms",
       "news": [
@@ -81,12 +81,12 @@
     {
       "symbol": "AVGO",
       "price": 339.51,
-      "prev_close": 339.2699890136719,
+      "prev_close": 344.7200012207031,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 0.07074335900616426,
+      "day_change_pct": -1.511371896685359,
       "drawdown_pct": 31.412121212121214,
       "name": "Broadcom",
       "news": [
@@ -97,48 +97,48 @@
           "source": "Yahoo Finance"
         },
         {
+          "title": "Investors Don’t Have 9 Lives, So Stop Chasing Dead-Count Bounces in Hot Stocks Like Broadcom - Barchart.com",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVVNjWG9POFZ0YWRWY1J1R0hKbnpHdG8zcmp0RnNiWFZWVEpEOXZwa0xfdkdkTDNLUE5VM3pIa09KSnV5RVFWUUR1UnFZMnRlcDMteDhybUlEdVlHWnJIWEVxZjNhR0VuX3EwVWR0eG5DQmZJR244VE90cEQzZVhEV3c0bGVad0Z4MEJHUGx0WkNxSmlPRzZfb2NFM3hwY01fd1dFeVY4OWJJUnJybTcyWmNnZV9fSVRVd0dKLThna1FSclN4Z2hBa1Y5NHpwbjA?oc=5",
+          "pub": "Wed, 16 Sep 2026 19:58:16 GMT",
+          "source": "Barchart.com"
+        },
+        {
           "title": "Vertiv vs. Broadcom: Which AI Infrastructure Stock Has More Upside? - Zacks Investment Research",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTWdCVmZ2T0Q4RkVHRWJKVEFlYjZ1S3JMMFBkZHFESGVQMEVyQXQxU0dyamRXQXRfRGRNdUtQZ1NLWWduWXk2dDVVczJKdTVWNzc3UlhJa2ZnYkswbTZBamRMMGtXdG4xblVORE9Nc2NfLVI1VDloR190WUdGQzFOdDEwLWJNNFlwS2Z2b3liUHFEaktqNXNPTm1kNlJwRjZ2RlF6RW9pMi0?oc=5",
           "pub": "Mon, 14 Sep 2026 16:12:28 GMT",
           "source": "Zacks Investment Research"
         },
         {
-          "title": "An AI Slowdown Could Hurt Semiconductors, But Here’s Why You Should Load Up on Broadcom Stock - Barchart.com",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbmdNYVhrOVZTWTcwQm5yaHZtUFNzOE4tOEZqLTRhUXRPVVdNQ3FzemJmUE5ONHlQczZhVl9tSzR3bDlJaEpzQXhNYUJpZzJVeFVDQnhvTWM2RkVVaTloWWxVLUZpZjBUUkRRZ0oxakhwNzkxWE53T2w5R0FobEpUX1RzVVZlaUp4NjlPQWxDYW9STXhWcVMzT2E5Y21vdWp1VXJLUEFERkw4MVc1VEoyZi12NnJRUTUxYXhwLTZYQXFVZThXTExTUnJXdnFsdnl2?oc=5",
-          "pub": "Tue, 15 Sep 2026 11:30:34 GMT",
-          "source": "Barchart.com"
-        },
-        {
-          "title": "Nvidia, Broadcom Tumble In AI Rotation; These U.K.-Based Names Gain - Investor's Business Daily",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMHJ4RTRVdHlRYlBrN0R1SEt6b2o2Q19PTU1MU3ZTRlFNcmN1X2dsZm91aHJxRFJTa1B4dXdQSnJ0RTdPdmNidlk0ckl6ZEJqT1R5RWNEb0VLcl9KVWRuYXE2TlJqRjUyaHMta3Z1QVpfekppT0pjejJFM00yUnNPb1NfN1FtNHNlQ3pnVTZVRWoxTG5EaUdmRnFpXzBMOTRqelRSdzFB?oc=5",
-          "pub": "Mon, 14 Sep 2026 16:38:00 GMT",
-          "source": "Investor's Business Daily"
+          "title": "Broadcom CEO Hock Tan defends $230B AI chip revenue target - qz.com",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE80RlRHa3lSV2xnMnFiQnZnSWI5b0pwaTBjd2ZrcTVJNXBsTlZHT1FEdTdSSTI4a3JBS0lCMkdPbDZYQW1PYTFxWmQ2bWlNS25nZ1RXNlh2YUtZcE83dHk1bEU4VW53ZWhFTEU0aU1fYTVBRWlw?oc=5",
+          "pub": "Tue, 15 Sep 2026 11:16:35 GMT",
+          "source": "qz.com"
         }
       ]
     },
     {
       "symbol": "AMD",
       "price": 512.5,
-      "prev_close": 504.20001220703125,
+      "prev_close": 493.4100036621094,
       "high_52w": 584.73,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 1.646169692983003,
+      "day_change_pct": 3.8689925611973583,
       "drawdown_pct": 12.352709797684405,
       "name": "AMD",
       "news": [
+        {
+          "title": "Why Advanced Micro Devices Stock Just Popped - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQkV5Z003OVVnVlg5dTVKRzFHVjRkRG02UU1CeGo2VHB6NmVqUmtCS0RJRDVrbjBIbTdxX2VDT3ZYbUI5ZV9ia1pKcmJmUmZxeHd6dEd5dFhSV0dnYjVyakE4S1hTZF9vOFl3MzJFRm12MGVLRFptN0ZneTJhZHVhZVpuNVFtRlprWXJqakNoSnE?oc=5",
+          "pub": "Wed, 16 Sep 2026 18:37:00 GMT",
+          "source": "The Motley Fool"
+        },
         {
           "title": "Bank of America says investors get AMD stock wrong - thestreet.com",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBkRXpvTmU0RGxYSmVTME1zUU8tRU9JRUw2a0hZS2VDQnBFME9CSXd1ajFXRlpWNVFCdm1PV3U1MEJOcVJzVHRVZXdWcTEwQlRNWHZkaFZiYlpUeGZUcXhPQ3FDbUpuS3M0Z1E?oc=5",
           "pub": "Wed, 16 Sep 2026 10:41:26 GMT",
           "source": "thestreet.com"
-        },
-        {
-          "title": "Why Advanced Micro Devices Stock Just Popped - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeFZYQThMSGRkN0Z4TGJ3LVJGOEpYam0wbjBxX1R0Y0Z6MGU5VkhyUVBJZXJtWnYwbHFlcjhlTWJuVHY5ZmoxSEpoYjBERFlwSTExUHJvMHU4LWZtbU1zOXp4dlBXeVpTSmF0SEkwS3JqYXM1RHlibldVWEtGdzQyWVpDZ1hXMFhkMVhZVmxHbXFhaUp6bHJuc1VoS3NWZw?oc=5",
-          "pub": "Wed, 16 Sep 2026 17:57:59 GMT",
-          "source": "Yahoo Finance"
         },
         {
           "title": "AMD (NASDAQ:AMD) Stock Rises as Piper Sandler’s $600 Target Bets on a New 52-Week High - Stocks Down Under",
@@ -157,12 +157,12 @@
     {
       "symbol": "RKLB",
       "price": 63.7,
-      "prev_close": 63.54999923706055,
+      "prev_close": 62.54999923706055,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 0.23603582177854662,
+      "day_change_pct": 1.838530418811079,
       "drawdown_pct": 57.814569536423846,
       "name": "Rocket Lab",
       "news": [
@@ -173,10 +173,10 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "Rocket Lab cancels a $3.6 billion bridge loan commitment. Iridium deal awaits regulatory approvals. - Stock Titan",
+          "title": "Rocket Lab cancels a $3.6 billion bridge loan commitment. Iridium deal awaits regulatory approvals. - stocktitan.net",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZUhpYk5tU09YUi1SUnkzdTFZQjRvd1JYNnlncWxmY19vU19VUDloODZwaGlRYzdMT1FrSUl3bGJLQ1JlVmwxbjd3QmlpSEZ1Sld0T2hXT0IzODlSMGo3WUNFdlI2MmNGd2Z4R08yWVA3cmp2VDNkYkV6UVFUaTQwN2hBQ2hHSDEtLXlUZGJyQ1MzeFhjRTY1QUpxQTN3c2FrYzdGZjFJejlzdHJXczk3SF9IM2w2MERESmtQZldCVkc?oc=5",
           "pub": "Tue, 15 Sep 2026 10:00:00 GMT",
-          "source": "Stock Titan"
+          "source": "stocktitan.net"
         },
         {
           "title": "Rocket Lab Stock Jumps After $1.94 Billion Financing for Iridium Deal - Yahoo Finance",
@@ -195,12 +195,12 @@
     {
       "symbol": "IREN",
       "price": 42.62,
-      "prev_close": 41.58000183105469,
+      "prev_close": 43.16999816894531,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": 2.501197987366539,
+      "day_change_pct": -1.2740287057527853,
       "drawdown_pct": 44.55574544402489,
       "name": "IREN",
       "news": [
