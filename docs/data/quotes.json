@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-09-17T16:30:36.701834+00:00",
-  "updated_at_display": "2026-09-17 16:30 UTC",
+  "updated_at": "2026-09-17T17:00:44.803977+00:00",
+  "updated_at_display": "2026-09-17 17:00 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 218.965,
+      "price": 218.875,
       "prev_close": 213.89999389648438,
       "high_52w": 236.54,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 2.3679318597675176,
-      "drawdown_pct": 7.430032975395277,
+      "day_change_pct": 2.3258561222415226,
+      "drawdown_pct": 7.468081508412951,
       "name": "NVIDIA",
       "news": [
         {
@@ -42,14 +42,14 @@
     },
     {
       "symbol": "META",
-      "price": 679.65,
+      "price": 678.0,
       "prev_close": 673.3099975585938,
       "high_52w": 790.8,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 0.9416171547125287,
-      "drawdown_pct": 14.055386949924126,
+      "day_change_pct": 0.6965591567646536,
+      "drawdown_pct": 14.264036418816383,
       "name": "Meta Platforms",
       "news": [
         {
@@ -59,73 +59,73 @@
           "source": "Barron's"
         },
         {
-          "title": "Meta Bulls Bet Stock Will Break Out After Year of Head Fakes - Bloomberg.com",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdEp4Q3RwQkFDc1QwdDg0enNxbXphaTc0NmZmYjZaRlE3VERqeWRITGFiZ0t4eW42M0R3bGM5Q0hOY3B3NG9HRW5pOGd6Vi1CelJVaWhhWjNlUjhOZjZxd29rMzA3cVdVTHhmMjVUZXN3S3gwbHlJY3drakxwTFVQQ3RHZnRpSEVpNThqdWNnaHlHUXJnSmlCdmk3c2JTaW1YUEFTVDhxb09uQmRPUzlnSQ?oc=5",
-          "pub": "Tue, 15 Sep 2026 13:40:10 GMT",
-          "source": "Bloomberg.com"
-        },
-        {
-          "title": "META Stock Alert: What to Know as Meta Platforms Plans Expanded Use of Proprietary Chips - barchart.com",
+          "title": "META Stock Alert: What to Know as Meta Platforms Plans Expanded Use of Proprietary Chips - Barchart.com",
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcmo5MWhBbVVuMzlQbzZmV3RTUHdGTXpqbjJ0OHE0ZVkzeWNKUTM0bmQyLUJUZkNpeVY0YXROUFR4Q3I0OTJuaHBsR2UzVlc4NjFNclZiaVNkZ0p3Z2NLU3g1a1gxRlAyakh3dnMxbmhTOEV3Z1RIaFVMTUFOOWFydFM5dkdLSmd6S3J5UnlIbTVnSElOdFhtaFVTWDV4TnplWnFpWWpDQ0tPSXFaT09NdHV2U1ByNHJYc0E4eThwWnRZRUcyenRLYWVMSQ?oc=5",
           "pub": "Tue, 15 Sep 2026 21:10:54 GMT",
-          "source": "barchart.com"
+          "source": "Barchart.com"
         },
         {
-          "title": "Is META Stock’s $130B AI Buildout Your Ticket to an 8.7% Yield? - Trefis",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcE0xOFVMd0NWRGg3WklHcHg2aGtSMDI0UjB6b2VpMEdSZUdSblNST1lTVWdJSU9zczFtdGd0bjEyRl8zVHU4RVB1RW4zRHhwUkY0SW1DbnRRejFzMDMxcTlXUGdIZllfYWZlRUNMWWFBZ2xHRkUxb2RXamtFZk9iSHBHbVhReEhpZ3JkUUpJZTd2WkcxQVdaMmdrYTBMVWxqcnBacEhuSi1UYjVQNUtnQ3pNNGRVV2E4dlNkRw?oc=5",
-          "pub": "Mon, 14 Sep 2026 20:21:09 GMT",
-          "source": "Trefis"
-        }
-      ]
-    },
-    {
-      "symbol": "AVGO",
-      "price": 348.18,
-      "prev_close": 339.510009765625,
-      "high_52w": 495.0,
-      "currency": "USD",
-      "yahoo_name": "Broadcom Inc.",
-      "exchange": "NasdaqGS",
-      "day_change_pct": 2.553677354125785,
-      "drawdown_pct": 29.66060606060606,
-      "name": "Broadcom",
-      "news": [
-        {
-          "title": "Wall Street Sees 56% Upside in Broadcom After Summer Selloff - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQN0lSUzRhNDEzaTJfUUExU0F2ODNXcnJocXFuakJEazNlTWdhYUMtbWhlT0JnQzk3V05hbm1aanFoWjMxeEpvRVZ1SlFpUUZjLXBFNjN0SFR6cjB2cGs3Q25CV0JfazR0TmRvdmdWQkZhXzJuLVUxVjktQUJqYlFGajN6bzVHdFM4d3JhSEVFS0pmYVdLQ0E?oc=5",
-          "pub": "Wed, 16 Sep 2026 13:35:44 GMT",
+          "title": "META Stock Alert: What to Know as Meta Platforms Plans Expanded Use of Proprietary Chips - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNVR3SjNHOHkweF96SW15RFNzaGpyRmVPYm53aEtYME1wNmp1NmxySlJxLVpHSVh0QjlVU1NyYml1U3FHTlNBd3hXYTZPU3FEcHprTC1rZUNPY0NzZGZXbXJaRnFONG82TFJPUThkVC1UMmd4QzNBTkozd1hGMlZWYkxDcUptNjM4bmV0Q3NlYmNQUTVJ?oc=5",
+          "pub": "Tue, 15 Sep 2026 21:10:54 GMT",
           "source": "Yahoo Finance"
         },
         {
-          "title": "Semiconductor Sell-Off: 1 AI Chip Stock to Buy, 1 to Hold, and 1 to Sell After Broadcom's Beat - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaHZIM1dWbnNnenpGaFVCaGdKdlNrbWczX2xCOHRJN0ptVkJNSUNSOUQySnhBQXh5UGlNX1k2M09ZWE5seGxxbDJKdFFFVFNXOXZkcnJ5YjVDeFZuX1VMY20yQ2xhNUg3bkJURkFERVhhX3lHLV9wNWJlSmlTQTNaVHlGME9ZWGJhWHNrbDVlVF9fSTFXOVFiOQ?oc=5",
-          "pub": "Thu, 17 Sep 2026 11:16:00 GMT",
-          "source": "The Motley Fool"
-        },
-        {
-          "title": "Looking for a Good Deal on an AI Stock? This Leading Chipmaker Is Cheaper Than Broadcom and AMD. - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOS1JyLVprajgxOEpFd0dNcTV6elJZRGYzdlFBajU4Q0V6cVVfNkpidy1aVjkwaGRQVVE2b2lCSkZqV3AtcnBFV1Zmc0M0VFlfODNpRWR4UXdzamR5aHJ6cjZUdVlGd0JoVzBzaHNuOFdUMDQ2N3owSW5GSTd4M3JUTmg1N211THdTUGJsS3czamd4aExf?oc=5",
-          "pub": "Thu, 17 Sep 2026 14:29:00 GMT",
-          "source": "Yahoo Finance"
-        },
-        {
-          "title": "Forget the Magnificent 7. This Duo Says Broadcom, Not Nvidia, Wins the Next Leg of AI. - 24/7 Wall St.",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeU5EZ0hySmIxQjBtYjlRdjdzVW9OZjU0MU82eGVEbVZqTHg0Q1RZVGwzbnNvcy1wVkhYTDRtalFxcUozSHZsbXRKbzMwX0hOcEFreVFmbFJ2ejlqN2ZlRUlocEFoenhaaVlYaHk2bWFGWlU4dlljN2x5dTE4WFFMcWNFNlpOaFNaaEN5cDVkVUpxX29mWEszRHV3ZUZIY1l1bjFKMl9iR0VrbTlGU1VnSVJVdnU2NzN3WWRBU2NSSUN2aGpF?oc=5",
-          "pub": "Mon, 14 Sep 2026 16:15:00 GMT",
+          "title": "Big Wall Street Insider Says Buy META Before September 23 - 24/7 Wall St.",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcXRpWkdWaGxwUXZQMmZyZGhwN1RSZGNhRmRGdzEwdXhnUFp3NHBoRHd1NEJRRi1SbFZLZWhCZzlyVEhhanVZWWJGZHdWYkEtWGdpM2ZuNGcyeGg0ZHp3TFNtQ3FkRFpUYV9tcVpnTU9KYTZ1MDdwX0dtejNGX3JqZF9aaDRVVTJlVmNfS19fYXhrU2JMYWtoQ19qWTloWUJKR3ZB?oc=5",
+          "pub": "Thu, 17 Sep 2026 13:00:00 GMT",
           "source": "24/7 Wall St."
         }
       ]
     },
     {
+      "symbol": "AVGO",
+      "price": 349.33,
+      "prev_close": 339.510009765625,
+      "high_52w": 495.0,
+      "currency": "USD",
+      "yahoo_name": "Broadcom Inc.",
+      "exchange": "NasdaqGS",
+      "day_change_pct": 2.892400798772928,
+      "drawdown_pct": 29.428282828282832,
+      "name": "Broadcom",
+      "news": [
+        {
+          "title": "‘A Striking Counterpoint,’ Says Top Investor About Broadcom Stock - TipRanks",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcmZDZy1YY0JXM3NwcXdaa3E4dzU4Z2E1VEdKbUppSkxHTEhGcGlXcTh3c2o5bVVveTMtV0h3bWJIRWtlZ1JWNzUzQlVqTlNXSnFYTUVKNDFoTW5wQ21LTTlOOUxiQXFkZHVzQnVWSW9Ld01RWTRTdjl2bXhsUGRUUmdQcWV1SGROSW92aUltV3YyN3NaQlMw?oc=5",
+          "pub": "Wed, 16 Sep 2026 13:04:06 GMT",
+          "source": "TipRanks"
+        },
+        {
+          "title": "Semiconductor Sell-Off: 1 AI Chip Stock to Buy, 1 to Hold, and 1 to Sell After Broadcom's Beat - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZHJ1c09LZU9JSDJyTW12NUMxLXpLRnpxb21ldWV2MXBHMHBpQnlReGtvX25qc3h1WVdTcy1VbXZNQ2k4Q2RZdDI3M2V6NUk0NDQ4eHV4WVpyaDI2MXpJOThaOXNJRWNFVGlES2QtNkhPZDRHUF82S0xkTGR6M3htTFlRQmp3MmxYNlNlSFhfT3hYRkpiVnVr?oc=5",
+          "pub": "Thu, 17 Sep 2026 10:36:00 GMT",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "The AI Stock I’m Buying on Repeat (And It Isn’t Nvidia) - 24/7 Wall St.",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcXEtc2hNM1JERDVVS25Sb1BEdG5yZ1dra1BuYWQzUW9SeFRyUVIxaWcwZFdoVzRka2xrV2thRS01Tm4teUI1Z1UyQmhudHJ3OXl3azgzVmdtbXFESVVTLUhMS3hRTjJTeTd1VGxUWEpYQThZRDM4NDV5Zm5oM0hLREJ1aE5vV3lwRmNMMlEwSGpLY0dTVU1HT3hpWQ?oc=5",
+          "pub": "Tue, 15 Sep 2026 15:15:00 GMT",
+          "source": "24/7 Wall St."
+        },
+        {
+          "title": "NVIDIA vs. Broadcom: Which AI Stock Should You Buy After Earnings? - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYnN4YTdpT1o3LUdKakhTLVdiUmowbU5GbzZxYlpUSHJ4LVVOWmZBTGpuWnh0ZnVUZ3V4dVEyUFVKUFNoTzk3R2xMV3IxYVgyNDVwb1lRcjhrejd1WHJRZEVkU08ySVdSaWxLcFFDN1U1RVhWVFd2WjVXb29XenBPOUthQ3gxa0hfSFJIem02Zy04ZlJtaTJN?oc=5",
+          "pub": "Tue, 15 Sep 2026 19:00:00 GMT",
+          "source": "Yahoo Finance"
+        }
+      ]
+    },
+    {
       "symbol": "AMD",
-      "price": 550.005,
+      "price": 549.83,
       "prev_close": 512.5,
       "high_52w": 584.73,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 7.318048780487804,
-      "drawdown_pct": 5.938638345903241,
+      "day_change_pct": 7.283902439024398,
+      "drawdown_pct": 5.968566688899147,
       "name": "AMD",
       "news": [
         {
@@ -135,35 +135,35 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "Looking for a Good Deal on an AI Stock? This Leading Chipmaker Is Cheaper Than Broadcom and AMD. - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOS1JyLVprajgxOEpFd0dNcTV6elJZRGYzdlFBajU4Q0V6cVVfNkpidy1aVjkwaGRQVVE2b2lCSkZqV3AtcnBFV1Zmc0M0VFlfODNpRWR4UXdzamR5aHJ6cjZUdVlGd0JoVzBzaHNuOFdUMDQ2N3owSW5GSTd4M3JUTmg1N211THdTUGJsS3czamd4aExf?oc=5",
-          "pub": "Thu, 17 Sep 2026 14:29:00 GMT",
-          "source": "Yahoo Finance"
-        },
-        {
-          "title": "AMD Shares Fall 5.6% as AI Development Debate Weighs on Semiconductor Stocks - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSC11SHlMYV9qQUlpeVJJd054VVRlVEdHaVIwSWQ1UHFPcHJwWmFlUUxPR0NVUjVIT1FyUFk5VGRNNDFkRTFOamZsU1FuRUFST1kzVUNpLWZ0Umk4VGZQdkRtblBMaEFqY1lJeWMtOC1nODdyUTVpMHZCa0ZaemxxUElieUl2TjB5cU9WZg?oc=5",
-          "pub": "Mon, 14 Sep 2026 12:02:52 GMT",
-          "source": "Yahoo Finance"
+          "title": "AMD Stock Leads Chip Stocks Higher Amid Sector Rebound - Investor's Business Daily",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPXzFqQ0VoTWF2NHRlQTQ2Mk5iX01wTUNLMkZBZF9iSDIwU2JaRTVUdWNkUHhJQUJ5YUFaanlNdEhPZlZIdkZjdzBJUWE4ZVJ5WUlvUGU2OWZIc3FxLVlXM0lHTm9YdGpzaGczN2k5SGc4UnhZcG81ZXlITlJ3X1NNZS1HbDk2eTVaeTVyRE9IOEZFX0ZkeWEwaThkaGFBbmZ2SGtwa2hMX1NtQms?oc=5",
+          "pub": "Thu, 17 Sep 2026 16:41:00 GMT",
+          "source": "Investor's Business Daily"
         },
         {
           "title": "QQQ is up 1.7% today, on AMD stock price movement - Quiver Quantitative",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcFVDZnctWWUyQ3ZxWkUtTFczNGZMVmRwczktVGVHVUs3WWRkQnZ1Z2VqcjQyZkZHRW8ydkoyTlBHTFlsWkwycmZTN1lqSGdjQ0FwRFZaUENwLTVGWGRldGx3N1JiZnF1b09qWVJ5Z2hEdHZXdDdFY1hNaXh5ZWJhVGdVb3FYelY5R3BzNWlmcw?oc=5",
           "pub": "Thu, 17 Sep 2026 16:15:00 GMT",
           "source": "Quiver Quantitative"
+        },
+        {
+          "title": "CORZ Stock Gets AMD Boost, While HUT, CIFR, WULF Shares Win Tenant Nod As Wells Fargo Backs Bitcoin Miners’ AI Pivot - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNX0w3TmdvTFI3Szd2MHI5dGk0Z1pfQUZEeVpuMTQ1TTF0TGs3WW05Y0NBczRHb0gwLU1TdEowcmMwdER3SWlKZmttRkREX0JPUFVlaHN2SUllaUFmWEJ0dDlCb1YzSzI2UHM0ams4NUFJYk9lNVB0Q3JXV3NEel94UlpDVzFGRFJRODlFNXk4RmFIV2Ju?oc=5",
+          "pub": "Thu, 17 Sep 2026 12:41:34 GMT",
+          "source": "Yahoo Finance"
         }
       ]
     },
     {
       "symbol": "RKLB",
-      "price": 67.935,
+      "price": 67.615,
       "prev_close": 63.70000076293945,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 6.648350371016737,
-      "drawdown_pct": 55.009933774834444,
+      "day_change_pct": 6.14599558896439,
+      "drawdown_pct": 55.22185430463576,
       "name": "Rocket Lab",
       "news": [
         {
@@ -194,14 +194,14 @@
     },
     {
       "symbol": "IREN",
-      "price": 43.43,
+      "price": 43.575,
       "prev_close": 42.619998931884766,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": 1.9005187433481094,
-      "drawdown_pct": 43.50201840999533,
+      "day_change_pct": 2.240734612972466,
+      "drawdown_pct": 43.3133882619283,
       "name": "IREN",
       "news": [
         {
@@ -243,10 +243,10 @@
       "name": "MilDef Group",
       "news": [
         {
-          "title": "MILDEF Forecast — Price Target — Prediction for 2027 - tradingview.com",
+          "title": "MILDEF Forecast — Price Target — Prediction for 2027 - TradingView",
           "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9hWW9rMkp5VFlIZmlhT1RWd3k5bVQyVTVlLXktUHJfNm43Qld6bURaV0wwTDN1ZmJwZ0c2c2FPNV8wRVYyaVRRNndDaUZOeHdPQTkwS1doZUdWQ180N051Ym91OXZxYW9YRklxUFRIcVFJOFJxbXFVSEl2dWg?oc=5",
           "pub": "Thu, 25 Jun 2026 11:58:03 GMT",
-          "source": "tradingview.com"
+          "source": "TradingView"
         },
         {
           "title": "Mildef to expand further in Rosersberg - marketscreener.com",
@@ -287,10 +287,10 @@
           "source": "simplywall.st"
         },
         {
-          "title": "IVSO Forecast — Price Target — Prediction for 2027 - tradingview.com",
+          "title": "IVSO Forecast — Price Target — Prediction for 2027 - TradingView",
           "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1keUhnMUVzX0VnclVQS3Ywd29Ka1hUdVMzRndVV01Qb2xGYllhOFlfb0IyNEk1Q2VGYWViMkJXSVZDYi1FQWdLRzZqQTFlUnVocmdGRDM5ejdhaF9mQWlhaGVDZ29rZE9hdnNzU0FzVnpPX1pENHlDbl9n?oc=5",
           "pub": "Thu, 25 Jun 2026 19:04:11 GMT",
-          "source": "tradingview.com"
+          "source": "TradingView"
         },
         {
           "title": "Invisio climbs on a choppy Stockholm market, OMXS30 index down 0.1 percent - marketscreener.com",
@@ -325,10 +325,10 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "NORBT Forecast — Price Target — Prediction for 2027 - tradingview.com",
+          "title": "NORBT Forecast — Price Target — Prediction for 2027 - TradingView",
           "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1GWDVHdEMzX0ZmeXk5cEpuZ3F4WFNMZm5jMzhFOEsxc0Q5TnV5YUdWcWh0VXd1c29jdGl5R0hneDJTaXBwclB1V2E4Q2ZzWWpEYkZ5UDFPRTZGZjVxOXlNcUhJQ2V1ZTliemxPRnJZYzVsR3hKV3Rr?oc=5",
           "pub": "Fri, 26 Jun 2026 13:15:32 GMT",
-          "source": "tradingview.com"
+          "source": "TradingView"
         },
         {
           "title": "Earnings Not Telling The Story For Norbit ASA (OB:NORBT) - simplywall.st",
