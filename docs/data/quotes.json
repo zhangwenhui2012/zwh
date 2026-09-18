@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-09-18T18:45:25.959641+00:00",
-  "updated_at_display": "2026-09-18 18:45 UTC",
+  "updated_at": "2026-09-18T19:00:48.660620+00:00",
+  "updated_at_display": "2026-09-18 19:00 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 219.33,
+      "price": 219.605,
       "prev_close": 219.33999633789062,
       "high_52w": 236.54,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -0.004557462413381851,
-      "drawdown_pct": 7.275725035934717,
+      "day_change_pct": 0.12081866806504811,
+      "drawdown_pct": 7.159465629491842,
       "name": "NVIDIA",
       "news": [
         {
@@ -42,14 +42,14 @@
     },
     {
       "symbol": "META",
-      "price": 672.975,
+      "price": 672.79,
       "prev_close": 682.3099975585938,
       "high_52w": 790.8,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -1.3681460907792253,
-      "drawdown_pct": 14.899468892260995,
+      "day_change_pct": -1.3952598661396942,
+      "drawdown_pct": 14.922862923621649,
       "name": "Meta Platforms",
       "news": [
         {
@@ -80,14 +80,14 @@
     },
     {
       "symbol": "AVGO",
-      "price": 354.2,
+      "price": 355.096,
       "prev_close": 347.29998779296875,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 1.9867585515564286,
-      "drawdown_pct": 28.444444444444443,
+      "day_change_pct": 2.244748770817287,
+      "drawdown_pct": 28.26343434343434,
       "name": "Broadcom",
       "news": [
         {
@@ -118,14 +118,14 @@
     },
     {
       "symbol": "AMD",
-      "price": 544.19,
+      "price": 545.48,
       "prev_close": 545.0900268554688,
       "high_52w": 584.73,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -0.16511526741019217,
-      "drawdown_pct": 6.9331144288817,
+      "day_change_pct": 0.07154288747144331,
+      "drawdown_pct": 6.712499786226121,
       "name": "AMD",
       "news": [
         {
@@ -135,9 +135,9 @@
           "source": "Investor's Business Daily"
         },
         {
-          "title": "Why AMD Stock Jumped Today - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPb1dOSF9kalB5d2hESVZ6VDZTbnBGZ1h4NkNsV256RHlSdF9BTTE5X2ZMc3NHYkhHQmUzbnpFNHBXZFFIZXRHem1ON2QzdU4wOTVvTXcxVXFZNlJjZWg3TlI4Rk5oLUtNUF9YUTFBeWVDOVBMak9nc0xkNjNzLWVVUXNDZWFXVzZRYzNnLU93RUp2R0stM2c?oc=5",
-          "pub": "Thu, 17 Sep 2026 23:35:49 GMT",
+          "title": "AMD Stock Rises Premarket: Report Flags Chip Price Hike Linked To TSMC Costs - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbmNwdFl1UVhsaEdEOXFZTmxKZW5JNTlEdXJWY3IyX0lndmx5ekVlUEo2ZnJvb1VqNFN2ZmRYZ3hTZzNmVXJoNS1hN3MwdUszSlJNN3RiX0FaN0tMU1ZvRHdnTkJuUW9zdG9Hdlh6dmt2di1XOFh3eWV6dWx2Sng1YUluNzA0ZFZheFFKYWNtTkpROTFWRHVrMjFhUkdkdw?oc=5",
+          "pub": "Fri, 18 Sep 2026 09:22:13 GMT",
           "source": "Yahoo Finance"
         },
         {
@@ -147,23 +147,23 @@
           "source": "Seeking Alpha"
         },
         {
-          "title": "AMD (NASDAQ:AMD) Stock Rises as Piper Sandler’s $600 Target Bets on a New 52-Week High - stocksdownunder.com",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB0YW5BTThUZGlIU3VuMzhHZDlfTE0yRFh4WHFWR3JUSDNRdXFrcHI2UlhkNlQtMlE5RHRtcVJnV2dUYWlCSlhISHRPTWlfRlAzNDlfZjBPSHZpcFY3R3RCTXFSR0FxaEZqS1FtSzJJWlltRWluc0RYMg?oc=5",
-          "pub": "Wed, 16 Sep 2026 21:24:09 GMT",
-          "source": "stocksdownunder.com"
+          "title": "Why AMD Stock Jumped Today - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1vYXMxcUFJQ2R4WWRSY0xfM2ZtOGFoQjFyblk0OTdSa2oya1V1elNGRng2eVpPcE5jS2hwRW5pbjJDdGR0VDNMV19EanQ4LUxaT2R2MGdvbWVHRE9WRDltc2hScXpNOFphUEZTdmVCVFRlZnRlVUVWUVJmQUE?oc=5",
+          "pub": "Fri, 18 Sep 2026 00:15:00 GMT",
+          "source": "The Motley Fool"
         }
       ]
     },
     {
       "symbol": "RKLB",
-      "price": 64.08,
+      "price": 63.92,
       "prev_close": 67.81999969482422,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -5.514597038710462,
-      "drawdown_pct": 57.56291390728477,
+      "day_change_pct": -5.750515647852253,
+      "drawdown_pct": 57.668874172185426,
       "name": "Rocket Lab",
       "news": [
         {
@@ -194,14 +194,14 @@
     },
     {
       "symbol": "IREN",
-      "price": 46.04,
+      "price": 45.79,
       "prev_close": 43.47999954223633,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": 5.887765604221994,
-      "drawdown_pct": 40.10667574478897,
+      "day_change_pct": 5.31278859724859,
+      "drawdown_pct": 40.43190013800797,
       "name": "IREN",
       "news": [
         {
@@ -243,10 +243,10 @@
       "name": "MilDef Group",
       "news": [
         {
-          "title": "MILDEF Forecast — Price Target — Prediction for 2027 - tradingview.com",
+          "title": "MILDEF Forecast — Price Target — Prediction for 2027 - TradingView",
           "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9hWW9rMkp5VFlIZmlhT1RWd3k5bVQyVTVlLXktUHJfNm43Qld6bURaV0wwTDN1ZmJwZ0c2c2FPNV8wRVYyaVRRNndDaUZOeHdPQTkwS1doZUdWQ180N051Ym91OXZxYW9YRklxUFRIcVFJOFJxbXFVSEl2dWg?oc=5",
           "pub": "Thu, 25 Jun 2026 11:58:03 GMT",
-          "source": "tradingview.com"
+          "source": "TradingView"
         },
         {
           "title": "Earnings call transcript: Mildef posts strong Q2 2026 growth, shares slip - Investing.com",
@@ -261,10 +261,10 @@
           "source": "simplywall.st"
         },
         {
-          "title": "MilDef Group AB (publ) Just Recorded A 87% EPS Beat: Here's What Analysts Are Forecasting Next - simplywall.st",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdUxveldZdUxZOTFvSTdIdHZtc1M2Y2E1eG82NnVNRWU2WFVjazNJUTZJbFpDNWx0WHZjZmdVOFBBRVhSRklLejdaaUxUeFVUN3hha0JGRndqaENkbEJNV216MlQ1SEF6RXZqZWRla01aWlFfQzJkZnBuTm9zenRzdEp1djFmYUF5NGlBdzdza1BISk9Fc3BCdGRmbXBobm1HV0VocXR5SVVTZ1JrTlczZ0toQVdGTlB3NF9Rc2ZNRFE3RWlBbkJZRjVnYXdmaEg4VU85Xzk2cEzSAd4BQVVfeXFMT2hETVNqZlNNY0JLZElRZW85cnBtQ3pjSVVYOWlVMWZIZUlYd0NuNHpUcHNrMWdzV09VSUZDbFV3MHRSZ0g1NER2a2ZyQThpNG4wampaRVlWd0hjOXlycEl3TS1QSHVZekEwR0RpeUh1UHVBVEJfOExoOFRZTU9maHlrN20xb0VhUWFLb0V0OFhJOXh6YkFnRFBfQU9PTmxRemsxRktKUmdMcTdQaldZWlppamhYUi0xM3I2UDlpM2tlaVFhYW0tcEk3TkMtcE12bTU2RWhVMm9aaHBrcG1R?oc=5",
-          "pub": "Mon, 20 Jul 2026 07:00:00 GMT",
-          "source": "simplywall.st"
+          "title": "MilDef Group: Highlights from DNB Carnegie's Small & Mid Cap Seminar - marketscreener.com",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOHE3V2REWFZxYXM2WXlCMVBod3dENmJuUF92RmVIdlE1d3RGZHAxR0VncTRIUGNFblpXSnVDZDZOaDB6cTlWMUlLQ2pPay0tOWVPaFd6MG1pNGRxV2dXWHJwcDBMRmZqckVpWjNORmdlNG9pejcyaXJ1dkVmYnFqWndWaWk0ZEFYRDF4N09sM2pSQnprbmQtMjJad28yaGdxZmRXcU11NnNmRjcyd1REZTN0SUQyd3Q3Q1E?oc=5",
+          "pub": "Wed, 02 Sep 2026 05:04:06 GMT",
+          "source": "marketscreener.com"
         }
       ]
     },
@@ -287,22 +287,22 @@
           "source": "simplywall.st"
         },
         {
-          "title": "IVSO Forecast — Price Target — Prediction for 2027 - tradingview.com",
+          "title": "Invisio Stock And Two European Defense Names On Border Security Watch - webull.com",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0xWklXTzhWVXNuZG9oM3k2REFBdnFuUVZRUnF6QUIzU1diSE1TV3dOTERHQ3hyZDlnVE04XzBSbUtJSWlvb1Joci1rMTNOalIyalFUX1RxTV8?oc=5",
+          "pub": "Fri, 31 Jul 2026 07:00:00 GMT",
+          "source": "webull.com"
+        },
+        {
+          "title": "IVSO Forecast — Price Target — Prediction for 2027 - TradingView",
           "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1keUhnMUVzX0VnclVQS3Ywd29Ka1hUdVMzRndVV01Qb2xGYllhOFlfb0IyNEk1Q2VGYWViMkJXSVZDYi1FQWdLRzZqQTFlUnVocmdGRDM5ejdhaF9mQWlhaGVDZ29rZE9hdnNzU0FzVnpPX1pENHlDbl9n?oc=5",
           "pub": "Thu, 25 Jun 2026 19:04:11 GMT",
-          "source": "tradingview.com"
+          "source": "TradingView"
         },
         {
           "title": "Invisio climbs on a choppy Stockholm market, OMXS30 index down 0.1 percent - marketscreener.com",
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQXA0N0pNMDNRNW1seVJEenpqM3FsNzJDOEVuQkhyN2NxMGZEeUlOWHpDdVNKTGFKWXZXaWpfRlBFbDNDdVhGWF9wdWFjOUo3T0ZmaGhGU2xiVjlXUi0wcGRpbE52d0N0ckhIWjVtY0VWZl9wTTVjQ2lob3BTcnR4UU0zbm9FNHV3NHdUc3pZYjZEUl9Bd2V3U0VEMVdfdXYxeXRFZTh1WW1RSGJiNV9aUGtrd3c5MGdCcS1LZVhBV25LSllG?oc=5",
           "pub": "Fri, 14 Aug 2026 07:00:00 GMT",
           "source": "marketscreener.com"
-        },
-        {
-          "title": "3 European Defence Stocks Worth Watching For Long Term Military Spending - simplywall.st",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUUM2azNuSnRFSDR5WU9INUJBTUQ1Q1A5NHAzWHBmeVJMbU0xMzh2bG5xelc2UnN6aDdVbk0waFhCdjI4NWxKVTI3cmVpdjBxNEtJWmhZdFlMWUw3OERtbjhoOF80cUpkUnNZcUU4N1BCNWR0bzRrc2hBOThyallxTHZsX1BaXzV1Y0JDR0xzcmxpdml0SXRWeC1hem1neEozQXFBbGZoWXhHUmlwd0gtUnlRTlRfa2pwMTBBUWIyYWlDY2ZBb0FuLVFrLVg3NXho0gHWAUFVX3lxTE5qY2hEQUxSQVRHYThtTzBkdEV5Z3g0OGxwdWtiZnJ6UzFlZWRERlFkcThicFVpUVVXSEFvSHRWcGZTa1ZjV1ptQjFfZ2NtLWZaNUlMSHkxOEpyVk10UUQ0NS04MlhybUxLTTFraTJNZElMRkI2VUItY051T0tjUGdYSk0zRVFmckNlS2NGZ3lTSW1tY1BySEthcjZha0hqZnBDUGNick54ZXFZSm4tRER0TDRPNkNjZ0RQczA0cElMM2F4MDRnbFhuMnFYMXhNOGRneVBLcWc?oc=5",
-          "pub": "Mon, 07 Sep 2026 18:29:47 GMT",
-          "source": "simplywall.st"
         }
       ]
     },
@@ -319,10 +319,10 @@
       "name": "Norbit ASA",
       "news": [
         {
-          "title": "NORBT Forecast — Price Target — Prediction for 2027 - tradingview.com",
+          "title": "NORBT Forecast — Price Target — Prediction for 2027 - TradingView",
           "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1GWDVHdEMzX0ZmeXk5cEpuZ3F4WFNMZm5jMzhFOEsxc0Q5TnV5YUdWcWh0VXd1c29jdGl5R0hneDJTaXBwclB1V2E4Q2ZzWWpEYkZ5UDFPRTZGZjVxOXlNcUhJQ2V1ZTliemxPRnJZYzVsR3hKV3Rr?oc=5",
           "pub": "Fri, 26 Jun 2026 13:15:32 GMT",
-          "source": "tradingview.com"
+          "source": "TradingView"
         },
         {
           "title": "NORBIT - Shares of NORBIT ASA trading ex-dividend of NOK 5.00 today - Yahoo Finance",
