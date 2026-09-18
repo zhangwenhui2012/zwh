@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-09-18T16:00:46.903489+00:00",
-  "updated_at_display": "2026-09-18 16:00 UTC",
+  "updated_at": "2026-09-18T16:30:36.004456+00:00",
+  "updated_at_display": "2026-09-18 16:30 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 219.42,
+      "price": 219.57,
       "prev_close": 219.33999633789062,
       "high_52w": 236.54,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 0.03647472574318722,
-      "drawdown_pct": 7.237676502917056,
+      "day_change_pct": 0.10486170600415726,
+      "drawdown_pct": 7.174262281220935,
       "name": "NVIDIA",
       "news": [
         {
@@ -42,14 +42,14 @@
     },
     {
       "symbol": "META",
-      "price": 671.65,
+      "price": 670.59,
       "prev_close": 682.3099975585938,
       "high_52w": 790.8,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -1.562339346739286,
-      "drawdown_pct": 15.067020738492666,
+      "day_change_pct": -1.7176939515073215,
+      "drawdown_pct": 15.201062215477986,
       "name": "Meta Platforms",
       "news": [
         {
@@ -59,35 +59,35 @@
           "source": "Barron's"
         },
         {
-          "title": "Alphabet Rises 3%, Meta and Microsoft Slip: Is This a Momentum Run Rather Than a Tech Rally? - 247wallst.com",
+          "title": "Alphabet Rises 3%, Meta and Microsoft Slip: Is This a Momentum Run Rather Than a Tech Rally? - 24/7 Wall St.",
           "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTmdWMWYySTltVk1YMUdQczZzNXNkS0hGcWV5RktUVXBZMEh4UnZmbmdIZUNJcVhNd0U1LU9ZQXJhMXFKZGNMNzlrUHFKajhTWkZfRWRFOU5ud0Y5THBWaktXdzAxQzZUX3c0dVMyMDN4N2NDeENpY2h2UnFxcTl0RVF6WXlLenBDaS10RldrRGVlWHNQS2VSQUo2RjlKWFZUdVcwLXhuZHViaUlTUTZRUFRUQWxiYnZyaUt1VVJpbXNHMGltZ2xYR3dHWWc?oc=5",
           "pub": "Fri, 18 Sep 2026 13:54:00 GMT",
-          "source": "247wallst.com"
+          "source": "24/7 Wall St."
         },
         {
-          "title": "Meta Platforms Has a Secret Weapon No One Is Talking About - 247wallst.com",
+          "title": "Meta Platforms Has a Secret Weapon No One Is Talking About - 24/7 Wall St.",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVTN3ektmQkNyZUM5ZndKOHFBbHIxOXROQURObXlWZl91Y1lTNFBGb25lREZKSTQyQjdSVDh1ZXBWcXY5TzBRNlI1RWxrakQ4dndWV3lFUER6SWVrTVJGMWZvSVg3ZjNXVEVBVll0aFlKVTZOYlpwc2ZyRUZsdFBZM2tNcXhKcHRCbjVrUXNXRTlnZVJSOVVORW9vUXo1R1lxZ3pjcw?oc=5",
           "pub": "Fri, 18 Sep 2026 15:48:00 GMT",
-          "source": "247wallst.com"
+          "source": "24/7 Wall St."
         },
         {
-          "title": "Why Meta Platforms (META) Outpaced the Stock Market Today - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZFYwM05zZ0hacG53OTNxTmhaZlEwZVhNam5tdS1uSHZSMUVYQkYzV2ZHd0ViTnBLR3FMZHhIV24ydnVKQkI4YlNwaXY2UjhpZ3hqaHBxbGRpeXBRVGFQN2g0U2t1RkFXWTZWTU1rR29ialppOVU4bS1nY1M4aEtsY21ncnhpSTVGUFhyU25QQmxlYVIwUXJ2LWZ2SnRJZw?oc=5",
-          "pub": "Thu, 17 Sep 2026 21:45:08 GMT",
-          "source": "Yahoo Finance"
+          "title": "Step Aside, Nvidia: 1 Reason Why Meta Platforms Could Be the Best AI Stock to Buy in 2026. - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQclFWZi12aDJNLS1HWGplbEY5RUVhckVSR2JKeXczRUQwRldwOWxtSVN4OEFmZ0E0cFh4ZW1fSWFYMHRZa2Vma0RrYkpPU0VtUGNhcjV4S3J2d1VRYWFIRDdnYW1vNGlyRDBxSHR5UUhzQUFTYTg1aVJUM0JNOW91cVNvX1dwYm90ekxSZTBFVmY?oc=5",
+          "pub": "Fri, 18 Sep 2026 13:16:00 GMT",
+          "source": "The Motley Fool"
         }
       ]
     },
     {
       "symbol": "AVGO",
-      "price": 355.305,
+      "price": 354.615,
       "prev_close": 347.29998779296875,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 2.3049272929439826,
-      "drawdown_pct": 28.22121212121212,
+      "day_change_pct": 2.10625178927212,
+      "drawdown_pct": 28.36060606060606,
       "name": "Broadcom",
       "news": [
         {
@@ -95,12 +95,6 @@
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPLUZPMnB1cGNwVDRYS2d5VnNPNzRZVC1ISkZvLTdkMjk3a3JqX1U2aVhfVnlvVUNmdjN5R3h3azJNMVpId29HS2hwQjZKRGhwQkxYQnRNZmJBcWlRakQ2aVBnOVpQWm1BeHNOSTBTNnNrUUZJN1lRX3d1QW9HR213Tm83TWhRSHpLRC1qcF92MnpJTVpHbXpPaQ?oc=5",
           "pub": "Thu, 17 Sep 2026 18:23:00 GMT",
           "source": "The Motley Fool"
-        },
-        {
-          "title": "Why is Broadcom stock rallying today? By Investing.com - Investing.com UK",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOEhtYjBuNXU0U29Tb2phUjFRZFhwY2d1ZndxNlB1RGlET0Q4Q3Eza1R6a3FKZl9famF5cS1HX3NRNFVyY1dFM2xNQ1d1TFY2TWtRRWUzR1YyWEFqS1oyVmo1UlhwN2RDQ1Y5QmtMaWFSUkIzcDhvazFOSzNFcUU0VjdNbXFHTkFXcV9pOEtWUUgzbkNONjlnc2FuSEVvZw?oc=5",
-          "pub": "Fri, 18 Sep 2026 13:42:00 GMT",
-          "source": "Investing.com UK"
         },
         {
           "title": "3 AI Stocks Stuck in Neutral to Buy Before Their Next Catalysts Hit - Yahoo Finance",
@@ -113,19 +107,25 @@
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbHVRZElnc0syLV80UHFDNExJV2RXcEFBcHk3cDI2aDlwSVRFR3pjaEczNXpCeGlVMjZQS0k3YTFzSDVJWjk1M19ZMnZ5YmhObU9DQlhUU1ZnSlAwcEtlTzg1TDFIeXc1ckhHYkZRaEpzbTFydGZ6NF83dzItdnZHemFVMlJoNXFFZ091ZExDLTlYUWVfN2NhM1B6SQ?oc=5",
           "pub": "Thu, 17 Sep 2026 21:42:37 GMT",
           "source": "Yahoo Finance"
+        },
+        {
+          "title": "Broadcom Inc. stock underperforms Thursday when compared to competitors despite daily gains - MarketWatch",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOdkVMLVVsYlRYTE53dHZaV3AwVFlxQWpIdFhmR19tTkdTQnRJX3lVM2tKbUJia1pvYTR5cUJwTVJ4NVg3eE1vdnF6RlhWOUlpX09rbzZneTd1akVjWWpPZlk3UVRZelotRmVrZFlEYk9pZW5uNDd2Z1FFODJRaVg0X2RJMkIyQXkxdW1YWkJIMUN2Rjk0N1RUUURCRThhU3hxc2hFZVdqcjJZRDd2NWlZUkhydzRnTk1GSzU1YzJOWXdocW44WloxMnUtaUgxMFJqNWZrcEZMX0doUXF1VnFYUDIzQmU?oc=5",
+          "pub": "Thu, 17 Sep 2026 20:31:00 GMT",
+          "source": "MarketWatch"
         }
       ]
     },
     {
       "symbol": "AMD",
-      "price": 543.98,
+      "price": 543.968,
       "prev_close": 545.0900268554688,
       "high_52w": 584.73,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -0.20364101355372197,
-      "drawdown_pct": 6.9690284404768015,
+      "day_change_pct": -0.2058424847619338,
+      "drawdown_pct": 6.971080669710816,
       "name": "AMD",
       "news": [
         {
@@ -156,14 +156,14 @@
     },
     {
       "symbol": "RKLB",
-      "price": 64.345,
+      "price": 64.17,
       "prev_close": 67.81999969482422,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -5.12385684231936,
-      "drawdown_pct": 57.38741721854305,
+      "day_change_pct": -5.381892821068196,
+      "drawdown_pct": 57.503311258278146,
       "name": "Rocket Lab",
       "news": [
         {
@@ -173,10 +173,10 @@
           "source": "simplywall.st"
         },
         {
-          "title": "Rocket Lab Is Playing a Much Bigger Game Than Rocket Launches, Eyes 90% Upside - 247wallst.com",
+          "title": "Rocket Lab Is Playing a Much Bigger Game Than Rocket Launches, Eyes 90% Upside - 24/7 Wall St.",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPME5EZGpzeUxaWWhwdWx6bTByOTVSbkF3WGp6R3BNZ3NuazRUdzZvejU0c212UWlnc2Q4U3AxU2w2RkI4NWNUSmdmbTJkejhWWWdhY1lPc09iUC1EQ0FEU3FwdktrejR5cnFiSTU1NWFaNGx5NlFxWUE2ZUNkRkJQeC1YMWNNSDVZZlpRR3JZdl95TjItN1pvTTZEQ1VLOXlqU0x0dVV3ZmVaUGhVeWlaTzU4b21sS2ZLUDR6Qg?oc=5",
           "pub": "Thu, 17 Sep 2026 18:00:00 GMT",
-          "source": "247wallst.com"
+          "source": "24/7 Wall St."
         },
         {
           "title": "SpaceX or Rocket Lab: Which Space Stock Is the Better Buy for the Next Decade? - Currently.com",
@@ -194,14 +194,14 @@
     },
     {
       "symbol": "IREN",
-      "price": 44.63,
+      "price": 44.875,
       "prev_close": 43.47999954223633,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": 2.644895284892006,
-      "drawdown_pct": 41.94094132254413,
+      "day_change_pct": 3.2083727517259355,
+      "drawdown_pct": 41.62222141718951,
       "name": "IREN",
       "news": [
         {
