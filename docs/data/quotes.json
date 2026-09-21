@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-09-21T18:00:45.989965+00:00",
-  "updated_at_display": "2026-09-21 18:00 UTC",
+  "updated_at": "2026-09-21T18:30:41.934046+00:00",
+  "updated_at_display": "2026-09-21 18:30 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 227.185,
+      "price": 227.455,
       "prev_close": 222.27000427246094,
       "high_52w": 236.54,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 2.2112726112670655,
-      "drawdown_pct": 3.954933626447954,
+      "day_change_pct": 2.3327464920472365,
+      "drawdown_pct": 3.8407880273949355,
       "name": "NVIDIA",
       "news": [
         {
@@ -33,30 +33,30 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "Stock Market Today: Dow Up As Alphabet Shines, Tech Fund Offers Entry; Oil Dips On Iran Hopes (Live Coverage) - Investor's Business Daily",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcmo0ekw5d2RwR0RpRXVxV3FtVy0xczc5N2JvT2dCR1pVcXNXS016dnVMZl9pVHlRUUxrWkdhaDdKTlJaWGxRa2lPYVRHRHBMS2Q3NjlaaXEzWG9TNU1FcGVRT0FCR29nbEJEYlpFcFN4ZmNhSWRuaWk5XzltR0NVSGRudEpuV1BhbUotLUlwRzlKSDV3ckM0cFJJaG5oMUgybDM3SEYyZ3BvbFNLYW0tYWc2ZC1YYk54WkFNZzBIR3V0dzZCOERpZndXREtPZElGcUE?oc=5",
-          "pub": "Mon, 21 Sep 2026 15:07:00 GMT",
-          "source": "Investor's Business Daily"
+          "title": "Why Higher Rates Are Becoming NVIDIA’s Biggest Threat - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNVpFdVNFNDlyakNDN0FlSXNITkVoSVpqUmlSZXI4d3NIV3kwVkxUaXZmRmVPcF9GVnpRZGcwSU1jeEFob3RBRWJwVXlmRk82RzBodVgwU3JpUmRWaDNHT2R3ZHowMHpnUjRuNHNnX05kMXRUYjd5Ty1XQXE3aUU2LXhiZVFBcVBiREhtTFg4UWp1UFRZZEZfVmc4T3RmQQ?oc=5",
+          "pub": "Mon, 21 Sep 2026 18:00:54 GMT",
+          "source": "Yahoo Finance"
         }
       ]
     },
     {
       "symbol": "META",
-      "price": 743.34,
+      "price": 747.265,
       "prev_close": 665.75,
       "high_52w": 785.73,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 11.654524971836281,
-      "drawdown_pct": 5.394983009430718,
+      "day_change_pct": 12.24408561772437,
+      "drawdown_pct": 4.895447545594546,
       "name": "Meta Platforms",
       "news": [
         {
-          "title": "Why Meta Platforms Stock Skyrocketed Today - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdS1ROWZPNXVURnpCRlBnZXlCWWNRa0Y4RlllWWZvRzRWQ044T0RfOFhRV3NrYUlCZ0NpTmpWcjl0MndPMGd2U2ZOOUlLT3l2cVdMZ0FuaUhpSmE2ejAwM3BBYlR6ZVNBT2pqTm5zN2xocnhkM0JDYlRsdmhLa3Q3Ukx1MllZQzROcDRNZ1Rn?oc=5",
-          "pub": "Mon, 21 Sep 2026 16:11:51 GMT",
-          "source": "The Motley Fool"
+          "title": "We Think Meta Could Keep Soaring Higher and Wells Fargo Agrees - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdVVqMlowd0NaNVpxZHBBNld0Nkh4Mm1yZldJcERVMVlpXzlpb0piWlkzRHdoMUU4dGlQZ3E3MEg3S3dNYnFudUJETGJQYkx3UHBaOXI0aWtOb1FZZ1dTSzlxOFZxdTN1TjdvNnB1YV9CeEhNdnFYV3VuUmtEVEctZE1nUGw1RFl2Q2xoQzZsRm1EeFhjdkMzZTdB?oc=5",
+          "pub": "Mon, 21 Sep 2026 16:45:35 GMT",
+          "source": "Yahoo Finance"
         },
         {
           "title": "Meta Stock Jumps Despite Another Facebook Outage. Here's Why - TradingView",
@@ -65,29 +65,29 @@
           "source": "TradingView"
         },
         {
-          "title": "Why Meta Platforms Stock Skyrocketed Today - The Globe and Mail",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaFVXLUFocnNNSlZuWjA2WkVVcFJJSE1YanplSU1XZG9vX0pyNy1GZk95QWQya09FRDBIWlFvcWlrUmpMeFRUdk5yUHZDYWxoZXlqS0J6d3ZUaU9PUERPYklJMklzSS1zbWFETElqNk5Kd3BTWUhlLURjdndnckp4SVNPNUUzMEVhMEdaUzhQay1TN0p3RDlnWEZfWndyZU9DN0RRRWllenMyb012dGR6MDVSRHlOLXVDV3hVS01CUTNPaUhsREE?oc=5",
-          "pub": "Mon, 21 Sep 2026 16:06:56 GMT",
-          "source": "The Globe and Mail"
+          "title": "Why Meta Platforms Stock Skyrocketed Today - theglobeandmail.com",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMkp0TjJfdlBRTWtjbW9VLWJKMUV3Y0c0eFBGZTk0endBNnFiN3F4a3RBNlBkd0dBc3UyR0hHTG9yenBocjNkVUJfZnd1elhwWHptVk9Pd2lnVkd5NTRDNmdaZXkxckRkSmlUS2hiTFB1WFZSVGdRNFFXZVNVd3FjS1hVVFM2WllnT0NnVmFQUHJFOUZuUy1XQ01jcEFWQk9UTVdhRFYycXV1bDdTZ3BCRXhjZGtvWExfbzVmY0pyLURiNnBkUG9B?oc=5",
+          "pub": "Mon, 21 Sep 2026 16:06:57 GMT",
+          "source": "theglobeandmail.com"
         },
         {
-          "title": "Meta Platforms Inc Stock (META) Opened Up by 6.23% on Sep 21: What Investors Need To Know - tradingkey.com",
+          "title": "Meta Platforms Inc Stock (META) Opened Up by 6.23% on Sep 21: What Investors Need To Know - TradingKey",
           "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZ053UWlHcUdaQ3hob1VnLWlYMnphM2llT2trVkduWS00d3Y1LW5WbWhSREdPaTBNSkwwWDB3elphaFNXLVlKb29rTjkxUUNVU0RQNXRzTVAwUkdEZWUwVy1Wbkx1WWlkaGoyZVhVUWxQd0hqdGVMR2ZPa0RVckdYb1BwN3F0ZGpDRUdv?oc=5",
           "pub": "Mon, 21 Sep 2026 13:47:21 GMT",
-          "source": "tradingkey.com"
+          "source": "TradingKey"
         }
       ]
     },
     {
       "symbol": "AVGO",
-      "price": 360.935,
+      "price": 361.705,
       "prev_close": 357.6099853515625,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 0.9297879770243878,
-      "drawdown_pct": 27.083838383838383,
+      "day_change_pct": 1.1451063494247007,
+      "drawdown_pct": 26.92828282828283,
       "name": "Broadcom",
       "news": [
         {
@@ -95,6 +95,12 @@
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOX2pURTBBV2xtb1dCZnpDa0kzM01kUEhvdWwyaGc5UDc0Y19tcHVzRjB3ejN3ZVJsaUh0NTBycVR4Ujk5TmU0YTdLWGdSZXJyeF9CSk9zWms4N2NWblhzQ1lIb2ZLcG8xaEJBd19uaG1kQkNPMUl3Z1FsVEVqMHlvXzVEWk1qVGFUbVViOWRwRXBPUGdSOVBYQlVJcFJIQi0zaU1j?oc=5",
           "pub": "Mon, 21 Sep 2026 15:30:16 GMT",
           "source": "Yahoo Finance"
+        },
+        {
+          "title": "Broadcom vs. Intel: Which Semiconductor Stock Is a Better Buy in 2026? - theglobeandmail.com",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQMWduWEMyMnRKY2tDLURPeGxNel9kWGxCMnJJRE5iZzh2ZUlLVXdhSnE5RXZURjJmMkpnNjd1dnBvMlVDNTQxY082cFBOWVM5amhWMTVtWkNfbHhJdHF0VFc5ZzcyUTZmM09hNTQySkp6dEx1RDNKeGF4cDMxYWlTWkczQVoyenJqRVFYRGk2by1BazN0N21uMDRZMXlBdC16MHpQNHZ6cUdnck9Wb0h1YzVrRGZtVUdBeG9qT0QtOW52M0thWV9YNHhtaXJUbmloQmlGRmwteXZUV3gtZXpEZzUtUTRkX2M?oc=5",
+          "pub": "Mon, 21 Sep 2026 17:48:23 GMT",
+          "source": "theglobeandmail.com"
         },
         {
           "title": "Broadcom Heads 3 AI Growth Stocks To Watch - simplywall.st",
@@ -107,25 +113,19 @@
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZFZhcThGQXJGLV90cF8tdVNhQ1JiSDN4Z0FMcDU3dFBHQjhheExMenBxUlNiS2JZR3FEZVJpdmE4b0FUblF2bkRoZGRiT3JTa0VYR0RTd2ZwNTRqWmVzYm50eUx3Q2tYbVFGcmdyeVlKZWNEejBRcHpFTDdZOGpuVE9hZXdQSE1xdG9zWEd2MDgzNXl5MTZF?oc=5",
           "pub": "Sat, 19 Sep 2026 10:17:00 GMT",
           "source": "The Motley Fool"
-        },
-        {
-          "title": "Why Are Semiconductor Stocks Nvidia, AMD, Intel, and Broadcom Rising in Pre-Market Today, Sept. 18? - TipRanks",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSmc1alFjc1Zhd21nYmFoTXpMb3ozT29OT1BHdkYxNWgyamtidlFldVV3LUYwLTdQZGFSVGdrSnp3bUk4RFIza1Znc25qOWVYbXlyNzVoOUphX3RTVkkyX2FjX0lDbU5vTWlTd29tTjBjNEJVdWhwdWtMSXp3TmlJU0lhbVNucmJxVEpCSi1xLW5QRkFfa21aVVBzUGhjeXFqNnJ0eW01V2VGMkMzZklUTkxwcG5PRFY3?oc=5",
-          "pub": "Fri, 18 Sep 2026 10:58:47 GMT",
-          "source": "TipRanks"
         }
       ]
     },
     {
       "symbol": "AMD",
-      "price": 608.42,
+      "price": 609.085,
       "prev_close": 559.8200073242188,
       "high_52w": 615.99,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 8.681360444417738,
-      "drawdown_pct": 1.228916053832051,
+      "day_change_pct": 8.800148624779242,
+      "drawdown_pct": 1.1209597558401876,
       "name": "AMD",
       "news": [
         {
@@ -135,10 +135,10 @@
           "source": "qz.com"
         },
         {
-          "title": "Jim Cramer sends a blunt message to AMD stock investors - thestreet.com",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSVZzM2hBOG1fZ19TZG8xUDllOERJa0ltZ2R6eTVXUzNtRnNFc21OQ19VMFBIbGlYTUh1bjFackhXazU2UEYtWF9fZFpZZnJjQkh2WXllS2gxRGgtdWlhTlRDYjJlYk9YbmhDYVJScUhZWTNjLTQ5OVI2b3VsUVMzYU5ScHhuS3ZTUFhRWm1uM0Q0T2x5NmNCcHBoVFZUTVU?oc=5",
-          "pub": "Sun, 20 Sep 2026 00:33:00 GMT",
-          "source": "thestreet.com"
+          "title": "AMD, Intel, and Qualcomm Shares Skyrocket, What You Need To Know - TradingView",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdUpzZmdUYXJBdEVhdjd4eF83bFUtYUtxUnZXa1N1Rk1iMzY2R0dWcHVFczNiR3JqeVQ1enEwemp5Yms0SFdNZkNXWE1WSnIwZ3pnUDNwd3ladWFncGJQQzNJR3dPVjVlQ1BGcHUyOHVtMU9Mem90bzJ0dWh3V29vVS1iMFVISl8zSGJpZ2lDMUFiQmdzME5RSVJvY1JhZ1M1Slg2SmdiNjRVaFlJc0RrQTVZM2hKUzFqLW8wWEZUbw?oc=5",
+          "pub": "Mon, 21 Sep 2026 17:05:50 GMT",
+          "source": "TradingView"
         },
         {
           "title": "Why AMD Stock Is Rising Fast Today - Yahoo Finance",
@@ -156,14 +156,14 @@
     },
     {
       "symbol": "RKLB",
-      "price": 69.85,
+      "price": 69.63,
       "prev_close": 64.56999969482422,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 8.17717257260419,
-      "drawdown_pct": 53.741721854304636,
+      "day_change_pct": 7.83645706843851,
+      "drawdown_pct": 53.88741721854306,
       "name": "Rocket Lab",
       "news": [
         {
@@ -185,23 +185,23 @@
           "source": "Benzinga"
         },
         {
-          "title": "Rocket Lab Stock Price Forecast — Cantor Sees a “Good Entry Point” Ahead of Two Key Catalysts - TipRanks",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOU1VYdzZUSXdhNXhIZ3JaMGRhdWp2MnFKUW1BdEFUZHZKMVRheTVBUEFwcEJjeVpJaHNTQzVNSnNBYmJwLUo1TC00bUIxdG5aU3NIX05hb19hVTRpSzdwNFpmbXhETWlSRkVNUlNockNhaUhKcUhkM1pKaFZraW92Nlhaa2IyRGFSN2YzdkU5NFVoNUFNVk5vaG5wdDAzdUFaUXVqRHQwR1FUTmVUbGVGOWxIelQwLWtMWFBv?oc=5",
-          "pub": "Mon, 21 Sep 2026 13:14:34 GMT",
-          "source": "TipRanks"
+          "title": "Is RKLB Stock Paying You Enough For The Swings? - Trefis",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOc1BzZF9IWlJlWUFPTlZ0ZEtRWWJOLXBGaU1QLUYtS3hsdDVBV2EtXzFVVGhPbjNhUlJreHhWZXJQYmw4VEpCZkNjZlR2YWtNSXZ3ZXFBTVNfTG1iV3Y0U0F2Vi1saWZLcUcwdkltWXdDcmFxTXdVdzd2cTg1U2hfMFZERFJfVnFwRjVNSUpoSkF2dFpBOWRPM2o0RkpKb3loeE9PYjN3MnloZkE?oc=5",
+          "pub": "Fri, 18 Sep 2026 20:49:24 GMT",
+          "source": "Trefis"
         }
       ]
     },
     {
       "symbol": "IREN",
-      "price": 47.81,
+      "price": 48.55,
       "prev_close": 46.68000030517578,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": 2.4207362627179094,
-      "drawdown_pct": 37.80408704079845,
+      "day_change_pct": 4.00599760625296,
+      "drawdown_pct": 36.841422836870215,
       "name": "IREN",
       "news": [
         {
@@ -217,16 +217,16 @@
           "source": "Barchart.com"
         },
         {
-          "title": "Neocloud Boom: Comparing Nebius, CoreWeave, & IREN - TradingView",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbVhBVk0zUnFjMXlwd1J5Ml9RMTQxb3FhYS1FYWh6NUJhaU9LVDZyZ2ptU0k0Um5RWXh6cDA5ajNhS29UNk9LTFRRNVQ2cjd1aUlEWDJ3bnFIZ1hfRTBFXzgyRzVGczF0WlRZazhkNm5ZcGxJTmhyUDJtVkk1cmkzT1hnMVh1YVBPY1pPbU5kbHo2U2Rzb0V3eUVwSEpUZ05DMWRZ?oc=5",
-          "pub": "Mon, 21 Sep 2026 02:03:00 GMT",
-          "source": "TradingView"
-        },
-        {
           "title": "JPMorgan, Goldman Sachs issue bullish stock price targets for IREN, Cipher Digital - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeFZLal84bWRxMHVIYV85aUdYUTZnaHV5bldVZFlhMUtrcEZNZ0lFaHl5YkRLeWhmenZEbllxb3RyaWJLTU9JSl96RzBoUnNaTDdIcG4xSE5WQUhtbklBQXVyR3ZySUx4YlFzZUhfMmFLX2NXa0dXbUJaY1NEWldGOWU0SlFCS0VPZnFJ?oc=5",
           "pub": "Fri, 18 Sep 2026 23:29:49 GMT",
           "source": "Yahoo Finance"
+        },
+        {
+          "title": "Neocloud Boom: Comparing Nebius, CoreWeave, & IREN - TradingView",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbVhBVk0zUnFjMXlwd1J5Ml9RMTQxb3FhYS1FYWh6NUJhaU9LVDZyZ2ptU0k0Um5RWXh6cDA5ajNhS29UNk9LTFRRNVQ2cjd1aUlEWDJ3bnFIZ1hfRTBFXzgyRzVGczF0WlRZazhkNm5ZcGxJTmhyUDJtVkk1cmkzT1hnMVh1YVBPY1pPbU5kbHo2U2Rzb0V3eUVwSEpUZ05DMWRZ?oc=5",
+          "pub": "Mon, 21 Sep 2026 02:03:00 GMT",
+          "source": "TradingView"
         }
       ]
     },
