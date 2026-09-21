@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-09-21T18:51:30.940604+00:00",
-  "updated_at_display": "2026-09-21 18:51 UTC",
+  "updated_at": "2026-09-21T19:00:47.525141+00:00",
+  "updated_at_display": "2026-09-21 19:00 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 228.045,
+      "price": 227.65,
       "prev_close": 222.27000427246094,
       "high_52w": 236.54,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 2.5981894167149964,
-      "drawdown_pct": 3.591358755390211,
+      "day_change_pct": 2.420477628166242,
+      "drawdown_pct": 3.7583495391899833,
       "name": "NVIDIA",
       "news": [
         {
@@ -33,23 +33,23 @@
           "source": "finance.yahoo.com"
         },
         {
-          "title": "Here's How Much $1,000 Invested in Nvidia Stock Could Be Worth by 2027 - fool.com",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQX1NoLWsxQzdEWWc1LUpfUzMxR3pHWGZoNDNnaVRNbXJIN2h3UzA5Y05VQ1FIRXpldF9ocE5SUC03dDUtRFJYVFZ0ZkZsX25IckxldHNHQkNKd1lkTXQwQTQ2dFlLUTY0d294M1EzNThTUE55dzhNc3BYeTNHRTJ1NTE0UXJuNXkwbmZnNU9kOEgwVWVvZ0dmdg?oc=5",
-          "pub": "Mon, 21 Sep 2026 18:35:56 GMT",
-          "source": "fool.com"
+          "title": "Here's How Much $1,000 Invested in Nvidia Stock Could Be Worth by 2027 - The Globe and Mail",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQdHI2UGV2RXV4bTFfLWR2VFhXN1ZsZ0hVM1l3SzI0SWNfdHhLb2VuekVVcm5IclZBcnd4OWJGa1ZxWHJsSHluVHNQVjhNUUNLdm1FLXJyYVNLX1AzR21KZzNWeXpOQ0JtNXlhOENESHlzdGl3dGt0c09TbE1YbGZod2tzeG1CLXFPX0tjUF9wUEJmQklPaDhSWXpfOGlZZmNkUnJFdVV4QUNyMndQQXJhMjlHQl9pTDJlSVBxTzNzNUp6YzM5ZWd3V2hNUHktaDhKdzNQb1ZkbTEzM1lwWWZyNl9uWUNsdGh6X1VzXw?oc=5",
+          "pub": "Mon, 21 Sep 2026 18:53:45 GMT",
+          "source": "The Globe and Mail"
         }
       ]
     },
     {
       "symbol": "META",
-      "price": 745.84,
+      "price": 745.55,
       "prev_close": 665.75,
       "high_52w": 785.73,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 12.03004130679685,
-      "drawdown_pct": 5.076807554757994,
+      "day_change_pct": 11.986481411941414,
+      "drawdown_pct": 5.11371590750004,
       "name": "Meta Platforms",
       "news": [
         {
@@ -80,14 +80,14 @@
     },
     {
       "symbol": "AVGO",
-      "price": 362.472,
+      "price": 362.98,
       "prev_close": 357.6099853515625,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 1.359585819075406,
-      "drawdown_pct": 26.773333333333337,
+      "day_change_pct": 1.5016400180096523,
+      "drawdown_pct": 26.670707070707067,
       "name": "Broadcom",
       "news": [
         {
@@ -109,30 +109,30 @@
           "source": "simplywall.st"
         },
         {
-          "title": "Semiconductor Stocks to Buy and Hold Through 2030 - fool.com",
+          "title": "Semiconductor Stocks to Buy and Hold Through 2030 - The Motley Fool",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZFZhcThGQXJGLV90cF8tdVNhQ1JiSDN4Z0FMcDU3dFBHQjhheExMenBxUlNiS2JZR3FEZVJpdmE4b0FUblF2bkRoZGRiT3JTa0VYR0RTd2ZwNTRqWmVzYm50eUx3Q2tYbVFGcmdyeVlKZWNEejBRcHpFTDdZOGpuVE9hZXdQSE1xdG9zWEd2MDgzNXl5MTZF?oc=5",
           "pub": "Sat, 19 Sep 2026 10:17:00 GMT",
-          "source": "fool.com"
+          "source": "The Motley Fool"
         }
       ]
     },
     {
       "symbol": "AMD",
-      "price": 608.16,
+      "price": 612.014,
       "prev_close": 559.8200073242188,
       "high_52w": 615.99,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 8.634916945329037,
-      "drawdown_pct": 1.2711245312423969,
+      "day_change_pct": 9.32335250489774,
+      "drawdown_pct": 0.6454650237828535,
       "name": "AMD",
       "news": [
         {
-          "title": "AMD stock crosses $1 trillion market cap for first time - qz.com",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1RcXpsQ1ZUMU05dWZIbFEtVmJrbl9mdy1MT3lHVGVSS2ZyMlMxWE9aOFBaQUlTaGRwSWhmeHA4Vm5zNEVTaXBGZ05Qak5jbUxaaEpWVC1oSGtiMnM4NlBPWm5ncG5ZdVE1blg2c3h5TQ?oc=5",
-          "pub": "Mon, 21 Sep 2026 17:10:57 GMT",
-          "source": "qz.com"
+          "title": "AMD stock soars to new record as semiconductors bounce: Chart of the Day - finance.yahoo.com",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORUJJNHBURTVmX3A4WmRCcEkxMjg2Sks4ZEhKRXFDT0lOeGp5NDlhU19MaWpkb1hCdGYxWU5TVGktRFdPOXRGYnctOVJZNTBhczEwUkd6a0k2MnVEYTdhS1NMSWFRbmNlaGdfSDRtR3h4Vjh1Q0Q1Q0F0UlEzV2RiYlNHMW5qenZVMUJ0dmJ5TXVvNmxJQUlnM2tMd3FMQThDSWZ4ekt4UmltUDVOZUs3d282QzFQYXlNOEN3eGU3UzBCOWhqdG1j?oc=5",
+          "pub": "Mon, 21 Sep 2026 16:16:27 GMT",
+          "source": "finance.yahoo.com"
         },
         {
           "title": "Meta’s Muse AI Agent Triggers Intel, Chip Stock Rally. AMD Hits $1T Market Cap. - Barron's",
@@ -141,29 +141,29 @@
           "source": "Barron's"
         },
         {
-          "title": "My AMD Price Prediction Comes Down to One Crucial Growth Opportunity - finance.yahoo.com",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcmpkTjl2QVpBZG5QQWJkQ2lyc2hTZmQ5ZUIxQy03eE82SGJoVUVxUmZZZi1FYmpycGJrTmwydk5tY0ZOelRyWVZFdTlfRWRBcGgwNTdjTTNQWFhFbklQLXBfZWJuMU80NE5HcjBwZUFmUDU5dnd5TnY1OWdSbHNCSjluY3ZTZFVfLVQ4M1ZUdkpvWWJUanlPNGJ4VlM?oc=5",
-          "pub": "Mon, 21 Sep 2026 12:30:36 GMT",
-          "source": "finance.yahoo.com"
+          "title": "AMD Set to Top $1 Trillion in Market Value as Chip Stocks Soar - Bloomberg.com",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQblZZejdQaDFtRVUyc1A0d3RwdzVDQVlfSml6WTNHU3NhZ2FYbHhDdHl1elNiekhoTjFZakFoenZMZmpSTGljXzd0Y25zZV9qaE5rM3JTUFEtYXQ5UkZ1MXpFVWc3RGRoU1NFU092Z1c1dHBpdlJzSnJ2dkE4aVpKN1h3RDR1M0Z1SDM4clJGVVZtWnBuQ2lraTBEcEk5dFVFTUs2U3VXYnhpeVlIaE1qUHBn?oc=5",
+          "pub": "Mon, 21 Sep 2026 15:36:44 GMT",
+          "source": "Bloomberg.com"
         },
         {
-          "title": "Why AMD Stock Is Rising Fast Today - fool.com",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWjItUFhHU3FoVlN1eWYwOGxObmpMd1UyUmtRVEpwNWtIVEdBenFka2lKeDdEM0wzZUJFdXpSYjVjckx0dUlHeEg5NnFubTBsZ0cxM1ljMFItWGVPOEI2bm9ucWhUNDNHcXVEM28xdzRsUWw3VjhwRTlIcXpLWnhxem0xcw?oc=5",
-          "pub": "Mon, 21 Sep 2026 16:03:00 GMT",
-          "source": "fool.com"
+          "title": "AMD, Intel, and Qualcomm Shares Skyrocket, What You Need To Know - TradingView",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdUpzZmdUYXJBdEVhdjd4eF83bFUtYUtxUnZXa1N1Rk1iMzY2R0dWcHVFczNiR3JqeVQ1enEwemp5Yms0SFdNZkNXWE1WSnIwZ3pnUDNwd3ladWFncGJQQzNJR3dPVjVlQ1BGcHUyOHVtMU9Mem90bzJ0dWh3V29vVS1iMFVISl8zSGJpZ2lDMUFiQmdzME5RSVJvY1JhZ1M1Slg2SmdiNjRVaFlJc0RrQTVZM2hKUzFqLW8wWEZUbw?oc=5",
+          "pub": "Mon, 21 Sep 2026 17:05:50 GMT",
+          "source": "TradingView"
         }
       ]
     },
     {
       "symbol": "RKLB",
-      "price": 69.56,
+      "price": 69.29,
       "prev_close": 64.56999969482422,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 7.728047589840349,
-      "drawdown_pct": 53.93377483443709,
+      "day_change_pct": 7.309896743818835,
+      "drawdown_pct": 54.11258278145695,
       "name": "Rocket Lab",
       "news": [
         {
@@ -194,14 +194,14 @@
     },
     {
       "symbol": "IREN",
-      "price": 48.517,
+      "price": 48.46,
       "prev_close": 46.68000030517578,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": 3.9353035193115433,
-      "drawdown_pct": 36.88435245677512,
+      "day_change_pct": 3.813195550958163,
+      "drawdown_pct": 36.95850361842905,
       "name": "IREN",
       "news": [
         {
