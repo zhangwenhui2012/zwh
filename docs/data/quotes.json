@@ -1,54 +1,54 @@
 {
-  "updated_at": "2026-09-21T23:30:35.633000+00:00",
-  "updated_at_display": "2026-09-21 23:30 UTC",
+  "updated_at": "2026-09-22T00:30:38.962966+00:00",
+  "updated_at_display": "2026-09-22 00:30 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
       "price": 227.38,
-      "prev_close": 222.27000427246094,
+      "prev_close": 219.33999633789062,
       "high_52w": 236.54,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 2.299003747386071,
+      "day_change_pct": 3.665543811591864,
       "drawdown_pct": 3.8724951382430017,
       "name": "NVIDIA",
       "news": [
         {
-          "title": "Not Nvidia. Not Micron. Meet the AI Infrastructure Stock That Could Triple in Just 3 Years - fool.com",
+          "title": "Micron, Nvidia lead $1T market-cap stocks by Quant ratings as AMD joins the club (XLK:NYSEARCA) - Seeking Alpha",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOV2ZzUnV3NVdXMGlLejk5ejRWMXgwbXJaRWZnOGVMNTJtVF9aaWFJRll3YUFDWGI0eHFuZmFRTTFzM1hBd1ZhTllVNjlUZWJmV1k2UVhSUHhacm1peE9UTmJycXM3OEJ6OFVGVE5xVGRrSlpFNkY5Z2h0MEVnT1RiOFBpbTJsczlXZExoYURCb01XZDhfYUtRanNwRHBqbjFqX2M2RDRPQ284anpFeE9xUEQxRVRkQ2M?oc=5",
+          "pub": "Mon, 21 Sep 2026 18:16:35 GMT",
+          "source": "Seeking Alpha"
+        },
+        {
+          "title": "Not Nvidia. Not Micron. Meet the AI Infrastructure Stock That Could Triple in Just 3 Years - The Motley Fool",
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOV0dPOG9jbF9JRlo3Q0xSeFFiRUM3R0F3b1JrNURoZmlodEFPT2JfSFZGTGFLNE9KM1p4ZTVRTkQwVG1pcE00amRFRk1LOHRGeWlFRUtIaGo0dExmblV1V25kX1hFNVVJUnh4WklkUW56MzFDS20wUVM2cGQxYkZVWTZsdmI1eFhTdTJEQXJBdjRERHJPTjdPSFZmZU1LZGlBWTFXRTRsNXlmT1pWRlk3SVRwNWJMT2EtVkV6QzZSZW1JU3B0akZ0ak1mdw?oc=5",
           "pub": "Mon, 21 Sep 2026 18:14:00 GMT",
-          "source": "fool.com"
+          "source": "The Motley Fool"
+        },
+        {
+          "title": "MU vs. Nvidia: Which AI Chip Stock Offers More Upside Ahead of MU’s Sept. 30 Earnings? - TipRanks",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9HaHlhUFVxaE1QRUdpb0VpOVY1MDRFMjFwbE5fR1JWb281czBRSjB2Y0Zqa25SRHJ5ME9NcVFuSjhQZjBRZWVrcFhPVE9OYkJE?oc=5",
+          "pub": "Mon, 21 Sep 2026 14:21:35 GMT",
+          "source": "TipRanks"
         },
         {
           "title": "Nvidia Stock: Are Trump Talks With China's Xi the AI Chips Catalyst It Needs? - Barron's",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSWIzWXFnQ3VTZjVDUXRCcm5OeUx5Q094XzI4alVVaUNFZWc4T285YWo2Y0phRm8xSDVBS0gycU56VlJ2emw2SUQwdGpCS0J3bjc0NGJFT1ZYZUY0YlJ5RkJ3bVFHQkhZVHNPQnd4VXZPYmxXOGVwajdlZnQ2OS1vWDN1Y0dESjk1ZktGUw?oc=5",
           "pub": "Mon, 21 Sep 2026 20:14:00 GMT",
           "source": "Barron's"
-        },
-        {
-          "title": "$500 a Month in Nvidia Stock Since ChatGPT Launched Is Now Worth About $79,000 - The Globe and Mail",
-          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOZjhtX1RvSENwaXJ6TEk5cVZVVlJwWTlNTGlJajRHMmtxVURaS0c3QzlhVnNiTnVaS0x6MTFHZ3U3ZkgxU2kxTUxFc3JGLXBXUUNHa0tQSmxYX3lWejZfd0lkaG5kVS1ZblN6OXNjNTJZakRvYllYOXBQM01oazU0ckxJRjZuNlZSeVd3MEFsLUVSc2YzNHZCZEFJbGpkU1hZSHh4UFZtQ0hxZFhpMFhPOW1XMk5EQTFvT2ctcTJ1V0pPUFBHSjdqZjNicUZMbWlFR2JNR3NOdWpOcU9iRDBldXNORl9zdnFEV2V5ZzZsQk93WFIxcXc?oc=5",
-          "pub": "Mon, 21 Sep 2026 23:07:02 GMT",
-          "source": "The Globe and Mail"
-        },
-        {
-          "title": "AMD Rises 5% as Report Flags 10% Chip Price Increase; NVIDIA and Taiwan Semiconductor Tick Up - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZ3ZrMEFiZmt3VWVaZmpzQlFNTFlmNHFKN250bk42ekZlWnE5NnpxaW9ZZFlSQTNvMFI5WVVKMnYxaFMzNzQ4eDREbnhzNGk4aTFSNWZSS205VDJ5eHRBQzZGRzZEVHhid3JpX0phUnVwcmxxWV9IaG5oNEp5RHd0bzBibllvWXlwMG5xdG1mTHlpbkU?oc=5",
-          "pub": "Mon, 21 Sep 2026 13:37:53 GMT",
-          "source": "Yahoo Finance"
         }
       ]
     },
     {
       "symbol": "META",
       "price": 741.245,
-      "prev_close": 665.75,
+      "prev_close": 682.3099975585938,
       "high_52w": 785.73,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 11.339842283139317,
+      "day_change_pct": 8.637569821970134,
       "drawdown_pct": 5.661614040446465,
       "name": "Meta Platforms",
       "news": [
@@ -59,9 +59,9 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "We Think Meta Could Keep Soaring Higher and Wells Fargo Agrees - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdVVqMlowd0NaNVpxZHBBNld0Nkh4Mm1yZldJcERVMVlpXzlpb0piWlkzRHdoMUU4dGlQZ3E3MEg3S3dNYnFudUJETGJQYkx3UHBaOXI0aWtOb1FZZ1dTSzlxOFZxdTN1TjdvNnB1YV9CeEhNdnFYV3VuUmtEVEctZE1nUGw1RFl2Q2xoQzZsRm1EeFhjdkMzZTdB?oc=5",
-          "pub": "Mon, 21 Sep 2026 16:45:35 GMT",
+          "title": "Meta (META) Stock Trades Up, Here Is Why - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWUFYa0JKa0VRd25SY21oTll0Mi1WcFpEOXhhVERJb0g3Z2U5a3dyY3NlMVVtRFZDRzcySWFwbU9SbG02amw0NXFQQlYtRzZOTkNzNlNJR0dXQURzVzdGUEVFS0VsRVBEdWRJd29UbTMyN093MERUUmVrbmVOc1oySkZLVFpNdmRfT00xbHVCcVpRRjl2b3c?oc=5",
+          "pub": "Mon, 21 Sep 2026 23:50:25 GMT",
           "source": "Yahoo Finance"
         },
         {
@@ -81,12 +81,12 @@
     {
       "symbol": "AVGO",
       "price": 362.66,
-      "prev_close": 357.6099853515625,
+      "prev_close": 347.29998779296875,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 1.4121570580510805,
+      "day_change_pct": 4.422692987881023,
       "drawdown_pct": 26.73535353535353,
       "name": "Broadcom",
       "news": [
@@ -109,22 +109,22 @@
           "source": "simplywall.st"
         },
         {
-          "title": "Broadcom Stock Jumps. Anthropic Could Become Its Biggest Custom Chip Customer - TradingView",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTk03STFXbHBJakplZjREaVQyaTk0amt3S3RlNThwU2hYU1BvS2NrR0tPdmNvckZzVi1qRkhFQXJUbjdOTmNDYkZpYnFQZ2l2SjROX3o5R21CQmlTNXZlNFpDYjlOSHF0Snl0WW9PNV9qN0NENkdqS3VHMWN5OGppckpHb0Z6VWRBYW55czJITDhlZzlQbDZ5UHprRFB2NDJiTlJybXJrbzNkV21EemVWYVRkd1BEaG5ZX0ZSQkU0TlJmNVowMVR5d2pmdXlGUjRaWnc?oc=5",
-          "pub": "Mon, 21 Sep 2026 15:18:59 GMT",
-          "source": "TradingView"
+          "title": "Why is Broadcom stock rallying today? - Investing.com",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbG9SMWlCLTlITV9BQUtTMlQzU2x5S3ExLXBmaVRiRmFVMDQtTjRGMUlTRUtfbUJLREdkRG1pbElpSzM5clNjb2VqSk9Gc0FlUFJpdVpyZWtfS215UTlmMmU3d0JSSUdJMU1qbXRqTk9zbUQxREtpeFNNcDVkSHV6N09ERGQ3QlFQR1ZXUGN3TkFaaDk2bC1jeTNqakN2cUU?oc=5",
+          "pub": "Fri, 18 Sep 2026 13:44:16 GMT",
+          "source": "Investing.com"
         }
       ]
     },
     {
       "symbol": "AMD",
       "price": 615.52,
-      "prev_close": 559.8200073242188,
+      "prev_close": 545.0900268554688,
       "high_52w": 616.68,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 9.94962522722463,
+      "day_change_pct": 12.920796506006488,
       "drawdown_pct": 0.1881040409937031,
       "name": "AMD",
       "news": [
@@ -157,26 +157,26 @@
     {
       "symbol": "RKLB",
       "price": 69.89,
-      "prev_close": 64.56999969482422,
+      "prev_close": 67.81999969482422,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 8.23912084608887,
+      "day_change_pct": 3.0521974557510307,
       "drawdown_pct": 53.715231788079464,
       "name": "Rocket Lab",
       "news": [
         {
-          "title": "Rocket Lab Poised to Become “Only Viable Alternative” to SpaceX, Says Cantor Fitzgerald - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNS2xUQnN5ZnI0VmUyb25iQXpBaW1FbEllaWs0VXVBRS1fLU1haWVyTnZ4eV9LY0RvYmFxcWkwd0hCSU1RazUxRTFnUzhXeUllWVVuZThwTThVWGVqVEkwaExmNXQ1OFNMd2tZWE9CS0J6NktKUWYtVi01ckllMU5EZDVtUmZyR0hnMlBsR0wxdkxmQW85NnVKRjh3?oc=5",
-          "pub": "Mon, 21 Sep 2026 19:01:02 GMT",
-          "source": "Yahoo Finance"
+          "title": "Rocket Lab Looks More and More Like a SpaceX Competitor. The Stock Is Up. - Barron's",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWGZYTjhndVprdk1raTRjWl9Ic3hQMkxmTGRxTEZvdzdTR2pyRVlmbXJITFBRSEVuZzN0Wjh1Mmw4T0FObTd1bmRIdkxXTzVsOWVGYVNUZzRYTFlKOWlFRlpDSFZKV2R6aWo5N1E3YUFwcHlNQjFXUTc4U2tKYTBhd3dPdGg?oc=5",
+          "pub": "Mon, 21 Sep 2026 20:36:00 GMT",
+          "source": "Barron's"
         },
         {
-          "title": "Archer Aviation vs. Rocket Lab: Which Aerospace Stock Is a Better Buy in 2026? - fool.com",
+          "title": "Archer Aviation vs. Rocket Lab: Which Aerospace Stock Is a Better Buy in 2026? - The Motley Fool",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONmViNmFnZWxZTlljRDF3TlNOMENfQ3lDb3Y5Q0dnU0VMcjgxWXd6VXRnRjdYOU5IdXVQay0tV2pCWll6RDhKY25WV29JcWtlUm1hTWoxNXR3OWRxUHA4QzZSeklXSFBxNXNVM2VtTkJBV3VCRlc2bVF5T2VMSUIzRUJ2akVnd3JEWWZPaUlab2hORHI3NHZsOGVoSDB4MnY4U0RSZ2JWUmlLZ0ZEaHpud2E1X0xmN0VrbTVHc2QyZU8yX2JYME5N?oc=5",
           "pub": "Mon, 21 Sep 2026 20:03:00 GMT",
-          "source": "fool.com"
+          "source": "The Motley Fool"
         },
         {
           "title": "Rocket Lab (RKLB) Stock May Be 43% Undervalued Following $1.9B Equity Offering - simplywall.st",
@@ -185,22 +185,22 @@
           "source": "simplywall.st"
         },
         {
-          "title": "Here’s How Much You Would Have Made Owning Rocket Lab Stock In The Last 5 Years - Benzinga",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTTlVM24zbnRfR2hjOGJJSzQzaDRicW1aOU1jcm5xeFllOXY3ZzFybTVBVEFsRlhMLU9vUm02RC1IX3VEa0lpVWNra1lnQjdwQkhQcHg1Sm91b29tY25pMFRoUmhBbEUtY0VPQUVUdlJxMENpTV90ako1VkxHaV9Dcmk4WngySVc3R1M3RWZ6TTZsQlZWbTk2OUVwV1dwNEgwNmhSdG96bmJ6NnlyV3p3V2tEa0F1WWR4?oc=5",
-          "pub": "Mon, 21 Sep 2026 21:00:36 GMT",
-          "source": "Benzinga"
+          "title": "Rocket Lab Poised to Become “Only Viable Alternative” to SpaceX, Says Cantor Fitzgerald - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNS2xUQnN5ZnI0VmUyb25iQXpBaW1FbEllaWs0VXVBRS1fLU1haWVyTnZ4eV9LY0RvYmFxcWkwd0hCSU1RazUxRTFnUzhXeUllWVVuZThwTThVWGVqVEkwaExmNXQ1OFNMd2tZWE9CS0J6NktKUWYtVi01ckllMU5EZDVtUmZyR0hnMlBsR0wxdkxmQW85NnVKRjh3?oc=5",
+          "pub": "Mon, 21 Sep 2026 19:01:02 GMT",
+          "source": "Yahoo Finance"
         }
       ]
     },
     {
       "symbol": "IREN",
       "price": 47.23,
-      "prev_close": 46.68000030517578,
+      "prev_close": 43.47999954223633,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": 1.1782341285958235,
+      "day_change_pct": 8.62465615741539,
       "drawdown_pct": 38.55860763306653,
       "name": "IREN",
       "news": [
