@@ -1,36 +1,36 @@
 {
-  "updated_at": "2026-09-22T17:00:46.703154+00:00",
-  "updated_at_display": "2026-09-22 17:00 UTC",
+  "updated_at": "2026-09-22T17:30:45.474204+00:00",
+  "updated_at_display": "2026-09-22 17:30 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 229.474,
+      "price": 229.52,
       "prev_close": 227.3800048828125,
       "high_52w": 236.54,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 0.9209231560473825,
-      "drawdown_pct": 2.9872326033651824,
+      "day_change_pct": 0.9411536068399791,
+      "drawdown_pct": 2.9677855753783637,
       "name": "NVIDIA",
       "news": [
         {
-          "title": "Nvidia Stock: Are Trump Talks With China's Xi the AI Chips Catalyst It Needs? - Barron's",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSWIzWXFnQ3VTZjVDUXRCcm5OeUx5Q094XzI4alVVaUNFZWc4T285YWo2Y0phRm8xSDVBS0gycU56VlJ2emw2SUQwdGpCS0J3bjc0NGJFT1ZYZUY0YlJ5RkJ3bVFHQkhZVHNPQnd4VXZPYmxXOGVwajdlZnQ2OS1vWDN1Y0dESjk1ZktGUw?oc=5",
-          "pub": "Mon, 21 Sep 2026 10:23:03 GMT",
-          "source": "Barron's"
-        },
-        {
-          "title": "Not Nvidia. Not Micron. Meet the AI Infrastructure Stock That Could Triple in Just 3 Years - fool.com",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOV0dPOG9jbF9JRlo3Q0xSeFFiRUM3R0F3b1JrNURoZmlodEFPT2JfSFZGTGFLNE9KM1p4ZTVRTkQwVG1pcE00amRFRk1LOHRGeWlFRUtIaGo0dExmblV1V25kX1hFNVVJUnh4WklkUW56MzFDS20wUVM2cGQxYkZVWTZsdmI1eFhTdTJEQXJBdjRERHJPTjdPSFZmZU1LZGlBWTFXRTRsNXlmT1pWRlk3SVRwNWJMT2EtVkV6QzZSZW1JU3B0akZ0ak1mdw?oc=5",
-          "pub": "Mon, 21 Sep 2026 18:14:00 GMT",
-          "source": "fool.com"
+          "title": "Not Micron. Not Alphabet. Here's My Top Artificial Intelligence (AI) Stock Pick for the Next 3 Years. - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSGdURXFrNW1oN0pRM0Z6Z3Y3YmpFaXEyaHFiRDVCS1lYSFR0Y0MtSGJoeUk4Zmdud3ZUNzY4QUNEQTJkV1VJT2dVMGpDd2FEMndwVmxKVzJVVTkzVE05dkNRam9KMFlCOXh6S0VLN0hEaWM3ODUxamJuTUplS3hWUGNWMVlwVENiaHFpN2pRbnFjeVpISWg5VA?oc=5",
+          "pub": "Tue, 22 Sep 2026 07:30:00 GMT",
+          "source": "The Motley Fool"
         },
         {
           "title": "Nvidia’s Stock Is Flashing a Warning Sign as Valuation Falls - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQVB0djBZRHItdW9ub3BCOEFrUGtQZlhfNmEwXzdhR1dVU3BuX0ZFRmNvOXcxMUlBMUtEb3dxWVd6cURqbkV3dXcxMWR3WUo2MTBkZDdETWJWWGNnWk0wNk9ZVGw5N2VRVTQ2ZWVtSUJBeWpGXzZsOUJSbzNsX1lJZ1g5dDRKS3JFb29UX0JwSWs4a3FxVlJmd21pSE9nRHB2?oc=5",
           "pub": "Tue, 22 Sep 2026 09:28:02 GMT",
           "source": "Yahoo Finance"
+        },
+        {
+          "title": "Nvidia options are doing something unusual ahead of two catalysts. Here's how one trader is playing it - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWmh6Ykkza0ktNjVYNFY0Y1ZtNGdZek1wcGczX2Z1VklDY0VqVXRRM0FfVUJQNlc5YTBGVnZkRzFxcWpmU181V1p2RF83X1ljV1pEOUI5WFZibTRnczhQSUsxWWNoYzROMlpreXZ5VVlvWGQ4SmkyWEZyeTFiSTNEMEJtai1RVFB6MEFjdmFvTmJhZ1dETVo5czFxTkpDbVZNMVRyT3NybEpjVHRDd2ZuMjd3cjhIbmJJN1RTcFBfaWpUYTBDTHVBQWE0UVdZTEUzQWo00gHYAUFVX3lxTFBPM25WRlJZMlJDLVRDaFp3a0tkZDB1azUzYVl5Uld1Z2dJT1JoajZpY1pXMUppUjZPa28wRF9Rczg4alJRVTdpVGZxV0Q0bGd4WkVhSnRxSHlKR3pIOWFlR0pQcE5iSER0eFlLQlVBQWREX081RWFlQTJtWG9sZ2FtczhseVl1NFhDSWhHcjZmNTE5UF9KUmt6VENFR0lGNDBDNmRsWUVVUDYzdWZqbk5JSDZCOTM0b1d5NTBVd1RZbEhfZmtycnlEREd2OHdDR0pQVUlaR2h4UA?oc=5",
+          "pub": "Tue, 22 Sep 2026 16:58:28 GMT",
+          "source": "CNBC"
         },
         {
           "title": "How More Pieces Are Falling Into Place For Google's Nvidia AI Chip Challenge - Investor's Business Daily",
@@ -42,14 +42,14 @@
     },
     {
       "symbol": "META",
-      "price": 741.6,
+      "price": 742.72,
       "prev_close": 741.25,
       "high_52w": 785.72998046875,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 0.04721753794266748,
-      "drawdown_pct": 5.616430779747383,
+      "day_change_pct": 0.19831365935919423,
+      "drawdown_pct": 5.4738881725107555,
       "name": "Meta Platforms",
       "news": [
         {
@@ -65,29 +65,29 @@
           "source": "Yahoo Finance"
         },
         {
+          "title": "Stocks to Watch: Meta, Shopify, Roche - WSJ",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQV2ZPOTBDUUYyMFREMlZpd2V1cUQ4N0dBSjJkTmxwSVBoTXFtZmNjdUJPYXJVeDBmQ0U2QV9FMElfNm9PaTlaTUZWeWxTUk1zVUFmSG9tOFlPSkNuby1zb0MzUXh2Qll5WWc1eVNyOWtZQUNxMkxtSlRBOGZQVm1MU3VIZFBVbVpDTnpOT0M0dG5ZY1ZXMmZsZ1haSHBGLXVheEx3U3Bmc0RPTjEwQVQxZmMtbVN2cEh4TU1pYlUzWHpQUldoNGxVcHc1dmtPR1lKaHJoSnk1MVg?oc=5",
+          "pub": "Tue, 22 Sep 2026 15:10:14 GMT",
+          "source": "WSJ"
+        },
+        {
           "title": "PayPal Is Partnering With Muse. The Stock Rises. - Barron's",
           "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBZdVZQZUxsSUJHTmhXRUJjbjVWRE1fQ1ZWclBUaHdINnotRnR6dWpvU3dqaWVXc1E4eVpWMHFoelBXNGxxcGE3d2t4T2hiVHhXdmVWVUxFSW9ETTNRd1liUVA4Znc3ekVMZUR4NFZsZnF4VEt5NGlKb0NVcC0yZw?oc=5",
           "pub": "Tue, 22 Sep 2026 16:05:00 GMT",
           "source": "Barron's"
-        },
-        {
-          "title": "Why Shopify Stock, Twilio Are Rising On Meta's Muse Rollout - Investor's Business Daily",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbmtLQnhlM1Bfd1cyV2pxNEJ0RUYwS1RSeS1mNWR2R3NkZTlPTW9yTkl0dlMxczNYNldZU2hza0EyQUI4eWh5V3lBOUZwM3BoaHpTNnhlamE0X3QwTGJUTHVicVN5VGVFREt2aXYwVDJURkowR2ZGSXBJR1haWk5FREJ0eDFBMVRUNWVpb2p4ZjNnQkk?oc=5",
-          "pub": "Tue, 22 Sep 2026 16:31:00 GMT",
-          "source": "Investor's Business Daily"
         }
       ]
     },
     {
       "symbol": "AVGO",
-      "price": 363.24,
+      "price": 364.51,
       "prev_close": 362.6600036621094,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 0.15992839906079556,
-      "drawdown_pct": 26.618181818181817,
+      "day_change_pct": 0.5101186563749829,
+      "drawdown_pct": 26.361616161616162,
       "name": "Broadcom",
       "news": [
         {
@@ -97,16 +97,16 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "The Zacks Analyst Blog Highlights NVIDIA, Vertiv, Arista Networks, Broadcom and Hewlett Packard - The Globe and Mail",
-          "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPVzVtUnZfbWlRMlBuYV9hUklxNjVxbGhTZ2E2RkVCNVhfeVFkZU15a1NEM3M3cW42R1ltU3lCNFhDMFFMdXNVUjNPM1p3b3ZjYU1CeHlndk5URlZfMFJTYWNqN1VrUExzQnhYTEtIVTI3V3hsMHg0OE5HV3QybFpOcmowX3IzMy1ISWUxQW0zX09JZXhjVk9XZy0tUXFQbnBUMmxqSlV4a29IYzdOZXpiandzdFM1UkZKZnJEaDVCNmthdzdKcXlmU0JNWHF0WEZ3RVdfSFFLN3ZtZk9VT3ZJeEVVQ1Noa00wbFBobmctVjhYUWd6czY0T05WVXo4UGhwbFVHdEg1Nnc?oc=5",
-          "pub": "Tue, 22 Sep 2026 13:50:21 GMT",
-          "source": "The Globe and Mail"
+          "title": "Broadcom Heads 3 AI Growth Stocks To Watch - simplywall.st",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPLXAzekdSWnhCQ1V1dDNYYVlvWENBd1J4d2d0THdWSDdiUTJmM2FEZmxBUXVxWnhXYTQxY2sxdXo3SjJ6azRIeW93SklOOHFMYk9BYXBOOVFRS0thUEZtY3FTckFVVGEtSkZaRkdEQjVmVU5EbmFTUjRfdnVMeFprZEtkcWMwWmhHeWdVYmRET2JtRnlLby1UNnFpX192b0tUSDZvODl0MldLWkhEcXI2SE1MSEtWUdIBuwFBVV95cUxPVXdhbFQxYU9yZVZmUDRmY3ozSWNzcWdNc000YmN6dENUeXhYYU5mdmhMU004Vk5hYzVFZVRVVmZGWGhJREljQjhZUHNPMjVlQURhNXdBNDdWNzJvemFTWXJrbWFrWXlLdGV1dkVNc3RVMUtZQ0NLM1ZBdTlJUE5GajU3bVlDMXFMaE9ZNTVrUlUyOHUzRm9TY1J3NVA2MVNBd3JlWC11R2tkN1V3NmZrZVpjMFlGYklvN3Vv?oc=5",
+          "pub": "Sun, 20 Sep 2026 13:52:39 GMT",
+          "source": "simplywall.st"
         },
         {
-          "title": "Prediction: Broadcom Will Be a $3 Trillion Company by the End of 2030 - fool.com",
+          "title": "Prediction: Broadcom Will Be a $3 Trillion Company by the End of 2030 - The Motley Fool",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVEZQWDZNSTZ3U29YSENCek9iSnY1ZjBvZXpnbi1mOW9iZDVWWGlFdWFMeXJWVUcyNk1KNmRZRmhkZGlEZmVSUC01dUtsTlNDNEVvazFrdWtNVHJ0VDFiSzAwQjBoZDN3eTJjd05qU2pUQ1hjOExEMi13R0d1UXRNcXZTTjJwYUFyT3lqZUZ3N2F6Tm4tSTFUNzFwLU9SLVhISlZFNTVCc0JJSkM5Vi1MV3U0TQ?oc=5",
           "pub": "Tue, 22 Sep 2026 13:26:00 GMT",
-          "source": "fool.com"
+          "source": "The Motley Fool"
         },
         {
           "title": "History Says a $1,000 Investment in Broadcom Will Be Worth This Much by 2028 - Yahoo Finance",
@@ -118,14 +118,14 @@
     },
     {
       "symbol": "AMD",
-      "price": 616.4,
+      "price": 616.71,
       "prev_close": 615.52001953125,
       "high_52w": 622.0,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 0.1429653692531605,
-      "drawdown_pct": 0.9003215434083637,
+      "day_change_pct": 0.1933292875926712,
+      "drawdown_pct": 0.8504823151125342,
       "name": "AMD",
       "news": [
         {
@@ -141,29 +141,29 @@
           "source": "Yahoo Finance"
         },
         {
+          "title": "AMD Stock Beat Nvidia By 160 Points In 2026: A Historic AI Boom First - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUXhOS3NFbjBiNHZ6OHFsX3VDZGlNSTNqaFdieEVOLV9neDQ1bEpWZWRYMDRJblZCTmpyMVNYMExqSlVaeW9xX3hzcV9tcE95QmlMeTViTl9GcGV3b082ZUMyekVnbjVHM3hOQ1kzWENtUnhDM2pMTjZaRFVjY3ZGWlY2VU1vNV9leHFlWHZ2aTdrdmJZ?oc=5",
+          "pub": "Tue, 22 Sep 2026 15:45:26 GMT",
+          "source": "Yahoo Finance"
+        },
+        {
           "title": "Why Gabelli Global Growth Fund Added Advanced Micro Devices (AMD) in Q2 - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbWtlckVYQVJpU2ZDcVV2bzlBZktIVXZWMkZIa0E3VGJDeUtTbEo2M28tbjVzaDMtUUkyMmx3SzNjOFd0TGFJMDlEendfZ0dkRGdQMXp5RlpUSzJYYm1IaEhMWUxqRG8zNUlXMWVVUjg4NjNDQXFKQXNtR0VxZHVrMUMybE55SEFSM3lLMU1OV3E1VE5pUmxpNG9WMA?oc=5",
           "pub": "Tue, 22 Sep 2026 16:39:47 GMT",
           "source": "Yahoo Finance"
-        },
-        {
-          "title": "AMD Set to Top $1 Trillion in Market Value as Chip Stocks Soar - Bloomberg.com",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQblZZejdQaDFtRVUyc1A0d3RwdzVDQVlfSml6WTNHU3NhZ2FYbHhDdHl1elNiekhoTjFZakFoenZMZmpSTGljXzd0Y25zZV9qaE5rM3JTUFEtYXQ5UkZ1MXpFVWc3RGRoU1NFU092Z1c1dHBpdlJzSnJ2dkE4aVpKN1h3RDR1M0Z1SDM4clJGVVZtWnBuQ2lraTBEcEk5dFVFTUs2U3VXYnhpeVlIaE1qUHBn?oc=5",
-          "pub": "Mon, 21 Sep 2026 20:35:45 GMT",
-          "source": "Bloomberg.com"
         }
       ]
     },
     {
       "symbol": "RKLB",
-      "price": 72.1,
+      "price": 71.54,
       "prev_close": 69.88999938964844,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 3.1621127910309936,
-      "drawdown_pct": 52.25165562913908,
+      "day_change_pct": 2.360853662556984,
+      "drawdown_pct": 52.62251655629139,
       "name": "Rocket Lab",
       "news": [
         {
@@ -173,10 +173,10 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "Rocket Lab Sold $1.9 Billion of New Stock to Pay for Iridium. Here's the Dilution Math. - fool.com",
+          "title": "Rocket Lab Sold $1.9 Billion of New Stock to Pay for Iridium. Here's the Dilution Math. - The Motley Fool",
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOaHdMX0V5X21iVmFJRGFTWjV4V0E4Yjlla192a010YmVwQUhNNXJSUHZ0dENQb3JEbFVPbzI4bXA2MUZuemRfT3BVMTNKRUNkT0pwV2U3czZ3U29JeDNZd0FSRTZVZ2hMUmZySzc0OURqUGFkSzVnZ0tPaXkwWmJFOWFTbUVwemdUWm81RXNIVG1ReDhyR1BCTnlnaDlBdGMwdGJfSEsxTFVTdHllT3lubkhpcU5uR3dleGxpSHRWbm9MZmIyZk92YlFn?oc=5",
           "pub": "Tue, 22 Sep 2026 08:14:00 GMT",
-          "source": "fool.com"
+          "source": "The Motley Fool"
         },
         {
           "title": "Rocket Lab Looks More and More Like a SpaceX Competitor. The Stock Is Up. - Barron's",
@@ -194,14 +194,14 @@
     },
     {
       "symbol": "IREN",
-      "price": 48.1,
+      "price": 48.19,
       "prev_close": 47.22999954223633,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": 1.8420505318566833,
-      "drawdown_pct": 37.42682674466441,
+      "day_change_pct": 2.0326073831636835,
+      "drawdown_pct": 37.30974596310557,
       "name": "IREN",
       "news": [
         {
