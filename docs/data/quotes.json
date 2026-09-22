@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-09-22T17:30:45.474204+00:00",
-  "updated_at_display": "2026-09-22 17:30 UTC",
+  "updated_at": "2026-09-22T18:00:44.287207+00:00",
+  "updated_at_display": "2026-09-22 18:00 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 229.52,
+      "price": 229.16,
       "prev_close": 227.3800048828125,
       "high_52w": 236.54,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 0.9411536068399791,
-      "drawdown_pct": 2.9677855753783637,
+      "day_change_pct": 0.7828283397675505,
+      "drawdown_pct": 3.1199797074490556,
       "name": "NVIDIA",
       "news": [
         {
@@ -33,23 +33,23 @@
           "source": "CNBC"
         },
         {
-          "title": "How More Pieces Are Falling Into Place For Google's Nvidia AI Chip Challenge - Investor's Business Daily",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdlNwcmVjVWZYRURJdk5vdm1TR082V2c3ZGlhVnhSRFktYjlOWUtBakk2aTdubndLYTZBMkU0RG9FanBDWEw1QXQ1ZDZyMkNBNElueUJXSXdmSUFjZTU0bUVVM2dzUEhfR0JTVDdQVnJ4SGdSV3JhTGtnTXJfZTlCV05CWFh5TmtzQ0p0NE5kWVdKaVNw?oc=5",
-          "pub": "Tue, 22 Sep 2026 12:00:00 GMT",
-          "source": "Investor's Business Daily"
+          "title": "Jensen Huang Just Gave Nvidia Investors Great News and a Reason Why the Stock May Continue Surging in 2027 - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQkhPNzF4UHZmZTM0THV2TER0R3I4eldFVzdQM0NzQU1PS2pGUTNuRVROMlRQU21KNHlXWE82SzdiT0JjSEdMcjBlVU5IVTI2aVJIWDFJZF9KTVd0T2Y2d0JuaExlX3ZvNldVSU1iRU91U1lPeFJfQlpBbnZlMHlhdVNFVWptT054VlBlNmkxSWlOMG1iUEpiZU5n?oc=5",
+          "pub": "Mon, 21 Sep 2026 19:47:27 GMT",
+          "source": "Yahoo Finance"
         }
       ]
     },
     {
       "symbol": "META",
-      "price": 742.72,
+      "price": 740.58,
       "prev_close": 741.25,
       "high_52w": 785.72998046875,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 0.19831365935919423,
-      "drawdown_pct": 5.4738881725107555,
+      "day_change_pct": -0.09038785834738065,
+      "drawdown_pct": 5.7462463684807386,
       "name": "Meta Platforms",
       "news": [
         {
@@ -59,9 +59,9 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "Meta's Muse AI Is Soaring in Popularity. Could It Send the Stock to New Heights? - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZ29sQVNNbEJQX1BhS1JZcElfdW10czlval82SWV2ZDVDUmNmLXZLMGd2QTRpc3ZBRlJYTjFQcTQxTUtxS3IxZ0V2QkZsZUZsUnJ1LXhkLXg2NWlDc2hHWlltRDd0ZlQ1SEhidFZpVE1XdXJVNjdNVWxMMkp3SGRrdF9ObTAtR1FLYlpHTkhaNHQ0Zm5QVDRpeDA1Q2gxZw?oc=5",
-          "pub": "Tue, 22 Sep 2026 12:17:28 GMT",
+          "title": "Meta (META) Stock Trades Up, Here Is Why - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWUFYa0JKa0VRd25SY21oTll0Mi1WcFpEOXhhVERJb0g3Z2U5a3dyY3NlMVVtRFZDRzcySWFwbU9SbG02amw0NXFQQlYtRzZOTkNzNlNJR0dXQURzVzdGUEVFS0VsRVBEdWRJd29UbTMyN093MERUUmVrbmVOc1oySkZLVFpNdmRfT00xbHVCcVpRRjl2b3c?oc=5",
+          "pub": "Mon, 21 Sep 2026 23:50:25 GMT",
           "source": "Yahoo Finance"
         },
         {
@@ -71,23 +71,23 @@
           "source": "WSJ"
         },
         {
-          "title": "PayPal Is Partnering With Muse. The Stock Rises. - Barron's",
+          "title": "PayPal Will Use Meta’s Muse, Too. PayPal Stock Rises. - Barron's",
           "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBZdVZQZUxsSUJHTmhXRUJjbjVWRE1fQ1ZWclBUaHdINnotRnR6dWpvU3dqaWVXc1E4eVpWMHFoelBXNGxxcGE3d2t4T2hiVHhXdmVWVUxFSW9ETTNRd1liUVA4Znc3ekVMZUR4NFZsZnF4VEt5NGlKb0NVcC0yZw?oc=5",
-          "pub": "Tue, 22 Sep 2026 16:05:00 GMT",
+          "pub": "Tue, 22 Sep 2026 16:27:00 GMT",
           "source": "Barron's"
         }
       ]
     },
     {
       "symbol": "AVGO",
-      "price": 364.51,
+      "price": 364.28,
       "prev_close": 362.6600036621094,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 0.5101186563749829,
-      "drawdown_pct": 26.361616161616162,
+      "day_change_pct": 0.44669837355429737,
+      "drawdown_pct": 26.408080808080815,
       "name": "Broadcom",
       "news": [
         {
@@ -103,29 +103,29 @@
           "source": "simplywall.st"
         },
         {
-          "title": "Prediction: Broadcom Will Be a $3 Trillion Company by the End of 2030 - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVEZQWDZNSTZ3U29YSENCek9iSnY1ZjBvZXpnbi1mOW9iZDVWWGlFdWFMeXJWVUcyNk1KNmRZRmhkZGlEZmVSUC01dUtsTlNDNEVvazFrdWtNVHJ0VDFiSzAwQjBoZDN3eTJjd05qU2pUQ1hjOExEMi13R0d1UXRNcXZTTjJwYUFyT3lqZUZ3N2F6Tm4tSTFUNzFwLU9SLVhISlZFNTVCc0JJSkM5Vi1MV3U0TQ?oc=5",
-          "pub": "Tue, 22 Sep 2026 13:26:00 GMT",
-          "source": "The Motley Fool"
+          "title": "Price Prediction: Marvell, AMD & Broadcom- Our Bold Price Predictions for 2027 - 24/7 Wall St.",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaTE0b0RTVDUwd0ZTRzIxcVZkRzdPYzVzUnd3OWw1cHVVaW5hQTg5Q29qRU5YRkJ4MXg5MHBsNVFhRk1mQlVHUXpfQm1naWg4NG01d0U2c1R4Tk12YkhkTDV3bkVHZGlDTzZweUFyVWVTMGZ2ZzJkd19hdWFuUEQtZDljeFFhNjQ4cm5EMUdlNkNId19kV1BOQ1dLWVY2UTdFazJWYWh1THRhdVBxek41dlljSUE5Nmcx?oc=5",
+          "pub": "Tue, 22 Sep 2026 16:00:00 GMT",
+          "source": "24/7 Wall St."
         },
         {
-          "title": "History Says a $1,000 Investment in Broadcom Will Be Worth This Much by 2028 - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTFVwQVh4Wm01ZmhOdGVQNnlQUlFwNTR3aWtiRWdWX3dfMGU1YXYzX3FqXzJXb1Rib1NqNWliaVRnMGJpeEF3RmlEWm9VWDhGR2kwTk5XMW5vWEdfZ3gtZXg4UlV0QTQ0dDNxSk5jU18xVGR3X2s0bm5rSDRCYUdtZ3MzVTFtVXJMV0E3NGNxZ1lKLXg2TVRxQzB3?oc=5",
-          "pub": "Tue, 22 Sep 2026 06:35:00 GMT",
-          "source": "Yahoo Finance"
+          "title": "Why is Broadcom stock rallying today? - Investing.com",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbG9SMWlCLTlITV9BQUtTMlQzU2x5S3ExLXBmaVRiRmFVMDQtTjRGMUlTRUtfbUJLREdkRG1pbElpSzM5clNjb2VqSk9Gc0FlUFJpdVpyZWtfS215UTlmMmU3d0JSSUdJMU1qbXRqTk9zbUQxREtpeFNNcDVkSHV6N09ERGQ3QlFQR1ZXUGN3TkFaaDk2bC1jeTNqakN2cUU?oc=5",
+          "pub": "Fri, 18 Sep 2026 13:44:16 GMT",
+          "source": "Investing.com"
         }
       ]
     },
     {
       "symbol": "AMD",
-      "price": 616.71,
+      "price": 617.67,
       "prev_close": 615.52001953125,
       "high_52w": 622.0,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 0.1933292875926712,
-      "drawdown_pct": 0.8504823151125342,
+      "day_change_pct": 0.349294970192404,
+      "drawdown_pct": 0.696141479099685,
       "name": "AMD",
       "news": [
         {
@@ -147,31 +147,25 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "Why Gabelli Global Growth Fund Added Advanced Micro Devices (AMD) in Q2 - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbWtlckVYQVJpU2ZDcVV2bzlBZktIVXZWMkZIa0E3VGJDeUtTbEo2M28tbjVzaDMtUUkyMmx3SzNjOFd0TGFJMDlEendfZ0dkRGdQMXp5RlpUSzJYYm1IaEhMWUxqRG8zNUlXMWVVUjg4NjNDQXFKQXNtR0VxZHVrMUMybE55SEFSM3lLMU1OV3E1VE5pUmxpNG9WMA?oc=5",
-          "pub": "Tue, 22 Sep 2026 16:39:47 GMT",
-          "source": "Yahoo Finance"
+          "title": "AMD Set to Top $1 Trillion in Market Value as Chip Stocks Soar - Bloomberg.com",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQblZZejdQaDFtRVUyc1A0d3RwdzVDQVlfSml6WTNHU3NhZ2FYbHhDdHl1elNiekhoTjFZakFoenZMZmpSTGljXzd0Y25zZV9qaE5rM3JTUFEtYXQ5UkZ1MXpFVWc3RGRoU1NFU092Z1c1dHBpdlJzSnJ2dkE4aVpKN1h3RDR1M0Z1SDM4clJGVVZtWnBuQ2lraTBEcEk5dFVFTUs2U3VXYnhpeVlIaE1qUHBn?oc=5",
+          "pub": "Mon, 21 Sep 2026 20:35:45 GMT",
+          "source": "Bloomberg.com"
         }
       ]
     },
     {
       "symbol": "RKLB",
-      "price": 71.54,
+      "price": 71.773,
       "prev_close": 69.88999938964844,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 2.360853662556984,
-      "drawdown_pct": 52.62251655629139,
+      "day_change_pct": 2.6942346927970555,
+      "drawdown_pct": 52.468211920529804,
       "name": "Rocket Lab",
       "news": [
-        {
-          "title": "3 Reasons We’re Fans of Rocket Lab (RKLB) - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQmVqY3Q4Tk10SEZScHhIN1pmYndkUkExTGVsR0hiVTVXRDk0WWtac0pzR0Y0d3pabEhSbHJlNWhCbGY5T2ZUbXd0XzVzY0pZVVVkODkyS0hUWHZ2TERXR2pMVFAxM2kwYU94OUpET2ZqOGdrVm9LVnFTV3VEZXlVUVlnaFcwdW14aDFjcmpKVnNMMEp3?oc=5",
-          "pub": "Tue, 22 Sep 2026 16:13:46 GMT",
-          "source": "Yahoo Finance"
-        },
         {
           "title": "Rocket Lab Sold $1.9 Billion of New Stock to Pay for Iridium. Here's the Dilution Math. - The Motley Fool",
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOaHdMX0V5X21iVmFJRGFTWjV4V0E4Yjlla192a010YmVwQUhNNXJSUHZ0dENQb3JEbFVPbzI4bXA2MUZuemRfT3BVMTNKRUNkT0pwV2U3czZ3U29JeDNZd0FSRTZVZ2hMUmZySzc0OURqUGFkSzVnZ0tPaXkwWmJFOWFTbUVwemdUWm81RXNIVG1ReDhyR1BCTnlnaDlBdGMwdGJfSEsxTFVTdHllT3lubkhpcU5uR3dleGxpSHRWbm9MZmIyZk92YlFn?oc=5",
@@ -179,37 +173,37 @@
           "source": "The Motley Fool"
         },
         {
-          "title": "Rocket Lab Looks More and More Like a SpaceX Competitor. The Stock Is Up. - Barron's",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWGZYTjhndVprdk1raTRjWl9Ic3hQMkxmTGRxTEZvdzdTR2pyRVlmbXJITFBRSEVuZzN0Wjh1Mmw4T0FObTd1bmRIdkxXTzVsOWVGYVNUZzRYTFlKOWlFRlpDSFZKV2R6aWo5N1E3YUFwcHlNQjFXUTc4U2tKYTBhd3dPdGg?oc=5",
-          "pub": "Mon, 21 Sep 2026 20:36:00 GMT",
-          "source": "Barron's"
-        },
-        {
           "title": "Why Are Rocket Lab (RKLB) Shares Soaring Today - StockStory",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdWg2R0xsVlU3Z3FPT1B4UW8tZE1Sa1lFaU4tWXNseFhqTUEwWXhTUk1ETGNQTGc2b3FpcEJRb1RPMnJmdkJicnlFSW9TSjc3RWxCTm9HRW80dmVFaDZqdjA0SjdlbDduYm96d1Z0SE90NjZWWDg1dkJ0MnpTUnUybnBuZEkyYUw5TktlZ2otUUd5Z05hSFBsZ1FQRzl3MFlxM1RQTGpIclRuaDEz?oc=5",
           "pub": "Mon, 21 Sep 2026 17:42:59 GMT",
           "source": "StockStory"
+        },
+        {
+          "title": "3 Reasons We’re Fans of Rocket Lab (RKLB) - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQmVqY3Q4Tk10SEZScHhIN1pmYndkUkExTGVsR0hiVTVXRDk0WWtac0pzR0Y0d3pabEhSbHJlNWhCbGY5T2ZUbXd0XzVzY0pZVVVkODkyS0hUWHZ2TERXR2pMVFAxM2kwYU94OUpET2ZqOGdrVm9LVnFTV3VEZXlVUVlnaFcwdW14aDFjcmpKVnNMMEp3?oc=5",
+          "pub": "Tue, 22 Sep 2026 16:13:46 GMT",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Redwire vs. Rocket Lab: Which Space Stock Is a Better Buy in 2026? - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQem1GQUJhaDZsUUF2bEY2ekI4RDVla09IcHExNnoxeEhFWlhPa0E0X3BrOWt6SjNtQXJ0VXpMRy1BbDRDcktMeEp2RWNYTkFNdlJhLVlnMTBaRkd2aVFfaTRFeFkxMVEzU21fYTJGZVpqTWNLVmM0TjhDRkZoV1hmaHViUkFSSzZkZ045NGl1cjFSSHNJZzJHZm1PQ1FZclRfT0xhMGxiQjBubzdKU1UwRnlFZTdFTlk?oc=5",
+          "pub": "Tue, 22 Sep 2026 17:04:49 GMT",
+          "source": "The Motley Fool"
         }
       ]
     },
     {
       "symbol": "IREN",
-      "price": 48.19,
+      "price": 48.22,
       "prev_close": 47.22999954223633,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": 2.0326073831636835,
-      "drawdown_pct": 37.30974596310557,
+      "day_change_pct": 2.0961263335993556,
+      "drawdown_pct": 37.27071903591929,
       "name": "IREN",
       "news": [
-        {
-          "title": "IREN Broadens Its AI Customer Base: Can Diversification Pay Off? - The Globe and Mail",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPWmlxdnQ5MWhSMTlycDMxLWM0MGVlRjdVLUFpSXFfaVlIT0xuV25tNjE2VGdMWEFESUpycWItOFNwOXFlMDcxQVRuaTlhRXkxR3lFTW91YzJ1YzRZYnJWazVCbVpzNUZZQUh0bGJVU0VyUDdjSVFyXzh0TUNNZEhwemZtTWpjeTJ4R0otZlN3Wm1Vd0w4a0RIdHJXbnlPbzZDOGdNbUJqLXVfcGNwS2dlQWZtMlhJSzZXeUVlX2RSVVRjREhQQTB5RllNN1pZVTd5Z0JpZ3RQX1g2MmE2V2YwUg?oc=5",
-          "pub": "Tue, 22 Sep 2026 15:18:12 GMT",
-          "source": "The Globe and Mail"
-        },
         {
           "title": "Iris Energy Is Sitting on $7.6 Billion in Cash and Building One of the Largest AI Data Centers in the World. Is IREN Stock a Buy? - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMjZhUkZCbXZ2aERaZHh2TGprOWZESHh5Q0lRSWJ1WTc4dFU4TXRjWTVaZVhTa1Ficy1qbGZlaXlsZWZVX1JTZFFPZFBqY0h5REIwQkk3VzEyTUN6SzZtenVqTGVHNGxuUG5PVXhFdERHQm5maUNWUHl0aGhtbzhoMzUxYngxYUZVTEJVU0N4UW0?oc=5",
@@ -223,10 +217,16 @@
           "source": "Barchart.com"
         },
         {
-          "title": "Why Is IREN Stock Gaining Monday? - Benzinga",
+          "title": "IREN Broadens Its AI Customer Base: Can Diversification Pay Off? - The Globe and Mail",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPWmlxdnQ5MWhSMTlycDMxLWM0MGVlRjdVLUFpSXFfaVlIT0xuV25tNjE2VGdMWEFESUpycWItOFNwOXFlMDcxQVRuaTlhRXkxR3lFTW91YzJ1YzRZYnJWazVCbVpzNUZZQUh0bGJVU0VyUDdjSVFyXzh0TUNNZEhwemZtTWpjeTJ4R0otZlN3Wm1Vd0w4a0RIdHJXbnlPbzZDOGdNbUJqLXVfcGNwS2dlQWZtMlhJSzZXeUVlX2RSVVRjREhQQTB5RllNN1pZVTd5Z0JpZ3RQX1g2MmE2V2YwUg?oc=5",
+          "pub": "Tue, 22 Sep 2026 15:18:12 GMT",
+          "source": "The Globe and Mail"
+        },
+        {
+          "title": "Why Is IREN Stock Gaining Monday? - benzinga.com",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNXd1OHNlal9FNVlaLXAxNDJveUdRT1pqU1dzLW16TUdlaEdVc0F0eXJxc3NHdzF1N01Vd2p6Qm9haHRlQ09PekFfa3phaXBOcVF5SHJiRTd0VFdCdXNwMHZOdDAtNS15TldRQnZzSjZFTGlIMEdtbGVFMWgyMTJWNjZJeFZXVUhuLUFUZ1A2My1LQVV1b29xRA?oc=5",
           "pub": "Mon, 21 Sep 2026 11:53:25 GMT",
-          "source": "Benzinga"
+          "source": "benzinga.com"
         }
       ]
     },
