@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-09-23T16:30:38.264047+00:00",
-  "updated_at_display": "2026-09-23 16:30 UTC",
+  "updated_at": "2026-09-23T17:00:45.222609+00:00",
+  "updated_at_display": "2026-09-23 17:00 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 224.615,
+      "price": 224.715,
       "prev_close": 227.3800048828125,
       "high_52w": 236.54,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -1.2160281570217768,
-      "drawdown_pct": 5.041430624841457,
+      "day_change_pct": -1.1720489161683285,
+      "drawdown_pct": 4.999154477044048,
       "name": "NVIDIA",
       "news": [
         {
@@ -42,14 +42,14 @@
     },
     {
       "symbol": "META",
-      "price": 755.97,
+      "price": 752.13,
       "prev_close": 741.25,
       "high_52w": 770.5999755859375,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 1.9858347386172044,
-      "drawdown_pct": 1.8985175252326407,
+      "day_change_pct": 1.467790893760539,
+      "drawdown_pct": 2.39683054387506,
       "name": "Meta Platforms",
       "news": [
         {
@@ -80,14 +80,14 @@
     },
     {
       "symbol": "AVGO",
-      "price": 355.64,
+      "price": 355.1,
       "prev_close": 362.6600036621094,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -1.9356983376225663,
-      "drawdown_pct": 28.153535353535357,
+      "day_change_pct": -2.08459813207111,
+      "drawdown_pct": 28.262626262626256,
       "name": "Broadcom",
       "news": [
         {
@@ -97,9 +97,9 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "Broadcom (AVGO) Is Up 7.4% After Massive Buybacks And AI Chip Deals With Hyperscalers - Has The Bull Case Changed? - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNLU4wTFdINnhXYi0xeElNa0RkaHd2NVo5czA3YkVFcTNsZ3lobnZpdXdEYktGaGNKcmVPSlY3dTlOaFZLc2xVWmxTeVhuNGxHZzRuMlVTRW1vbkFoaEZYdkU1SENCSHQ2aWdFR0JLamg4WUN0YXZaT3lpbHBqLUFzM25rcEVrTkVCTUdNMFJva1dXS0k?oc=5",
-          "pub": "Wed, 23 Sep 2026 02:13:00 GMT",
+          "title": "Broadcom Stock Jumps. Anthropic Could Become Its Biggest Custom Chip Customer - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNa0NrelpLeWlLYktvSTVfdmlJOTlxM0MwcDlFYWtNM0FGTDI5Ung2aTBpZFJVdGhJNUVYUVplTGNOWDJaSU56a25wamEyTlNaT29NWVVsS0E5aTVqZjg4alZ4N3BKX1VTeGlCTXpuVEctYU1tZ1ZWcm9iUUE0UUc0MUdXU2hpa2RvUEo3XzFGWlBjUm1iR3VyLVp2ZzNiRUZ6NGc?oc=5",
+          "pub": "Mon, 21 Sep 2026 15:18:59 GMT",
           "source": "Yahoo Finance"
         },
         {
@@ -118,20 +118,20 @@
     },
     {
       "symbol": "AMD",
-      "price": 614.215,
+      "price": 612.16,
       "prev_close": 615.52001953125,
       "high_52w": 624.69,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -0.21201902291395935,
-      "drawdown_pct": 1.6768317085274331,
+      "day_change_pct": -0.5458830622290497,
+      "drawdown_pct": 2.0057948742576452,
       "name": "AMD",
       "news": [
         {
-          "title": "AMD Stock Just Sent a Huge AI Signal - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPR3NzUzdTcDdRTVBoSkgzTURqYXZsUklITlpsOVdZVm5sLWViOE9ycEtCS2w1TU03Ql82aWhtLXVWc0trY0RNUTNTUVJLNXFOanFsZ1RJWVFlUjBoRGlYMGoxcXdMZ2p1LVZpWktGRUlnN0ZESF9CYTBiTkR4d2NySGhWMmFsaVN3SDNkb1FiNE1yUQ?oc=5",
-          "pub": "Tue, 22 Sep 2026 19:07:55 GMT",
+          "title": "AMD Stock Just Entered Rarefied Territory - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPX0VPcnA2Q1FzUWplbFRUUDlyaExhSFZmQUtZWExJYlFtbEdCZHUzWnkyWWJXZk43cEtaMDFhTk9GQjZKclJIdGhUbDdGcHE0N1p3Y1I0eFBSZ0tLWkZQZlFrS1M0VEhHRm9DTnRnTDZRaHU1YVJMZzJsRF9PeDhYUGdoMTlsOEhFWEFlMFRxQW1jZk5SNk40TXhrTlQ?oc=5",
+          "pub": "Tue, 22 Sep 2026 18:04:16 GMT",
           "source": "Yahoo Finance"
         },
         {
@@ -147,23 +147,23 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "AMD (AMD) Stock Looks Fairly Valued Despite $1 Trillion Milestone - simplywall.st",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOX0NucVFUbVpOVnh2SVh6ZW53eFFDQUpuUjF2WU1JWTFxcWk4Ymp3VWFVcUJ6LUxEMTkta3k3QmdzeVU5bHNTQ3VsZUlxTDR6TUt5bWZpbkJVTHlzMVFsNjNOSkxpc2FENUZuNDFRVVYyVDBfRTVUNjJ1S3FRbExrYmo4TU5NY0VqRjRRTXZrRWwzWlQ3aFpxMmFLS0pnVHJLOXQwcEt2MGkzaklydTJFQUYxT005Xy1uOTRhdnJOWVkyX3ZGU1Jodjh0UFhkU0tSUmgtR1YyTnBqcHo4c21r0gHkAUFVX3lxTE1Ud01aeUZvWUFKcnllZmNKcHpLcktKVXBVSTE3blB6RTBBWE9mRDdRaGdCWUN4bnhZNzhHWm85TFRCYlJTVjA2Z1lfMnhHNE5Lbk9fdEp0aXh3ZS1KMmhPbUJhd0VwZjczcFJHRkhJVzBlbHlQQ3FzNDNybzJFZnVyaWo2TFN0YmtBOTR5QTNlWDBIaVRSTmVic2lueDFpZkU1SVBTaXlQVkhPMW0yQWg5LW9tYWwxREZpaWNzYlZKUlUxVklpb2VreEN3YnhPMHhWMGMyd0ZkUHloWW9Zdjc0NEd6cg?oc=5",
-          "pub": "Wed, 23 Sep 2026 10:35:17 GMT",
-          "source": "simplywall.st"
+          "title": "Advanced Micro Devices Stock: 6 Straight Green Days, Up 26% - Trefis",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdWRvNmdLWFJLU3F5TDJlaTBGWXhNLWp3ZHBLX2Nqb2RHUlUtSUMzempFcTRrZHF2b1dpYUtJTVg4MVRmUHkzY0E3VHRwX243dFRBenRkM282cEM1cFhVOWFBTGxUcUlVS3djTXpxWXN0MTFKSkctem5XMEZHRzVHenJNX0VOWUhPRDBOMWg2WnNhUzh2bkFleWluT1B3TTFQOUZGaFk1YlVzU0pLQ0V2dDhDWWxxb1U?oc=5",
+          "pub": "Wed, 23 Sep 2026 06:41:28 GMT",
+          "source": "Trefis"
         }
       ]
     },
     {
       "symbol": "RKLB",
-      "price": 71.22,
+      "price": 71.1,
       "prev_close": 69.88999938964844,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 1.9029913034289576,
-      "drawdown_pct": 52.83443708609271,
+      "day_change_pct": 1.7312929187559452,
+      "drawdown_pct": 52.913907284768214,
       "name": "Rocket Lab",
       "news": [
         {
@@ -175,7 +175,7 @@
         {
           "title": "Rocket Lab Looks More and More Like a SpaceX Competitor. The Stock Is Up. - Barron's",
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWGZYTjhndVprdk1raTRjWl9Ic3hQMkxmTGRxTEZvdzdTR2pyRVlmbXJITFBRSEVuZzN0Wjh1Mmw4T0FObTd1bmRIdkxXTzVsOWVGYVNUZzRYTFlKOWlFRlpDSFZKV2R6aWo5N1E3YUFwcHlNQjFXUTc4U2tKYTBhd3dPdGg?oc=5",
-          "pub": "Mon, 21 Sep 2026 19:08:49 GMT",
+          "pub": "Mon, 21 Sep 2026 20:36:00 GMT",
           "source": "Barron's"
         },
         {
@@ -187,34 +187,28 @@
         {
           "title": "Rocket Lab or Alphabet: Cathie Wood Buys $25.1M of One Stock, Sells $5.8M of the Other - TipRanks",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZi1DQUd3dm9DMzVPMk55aEZ0dHZyQ3VTWGVTZEtTYVk2ekRlZUI5ZG5TVW1iSE1jaERzZUc1UEhoYURvM3MtckpwVHN1SDZMX3M3V093Y1R1VkI2YjlBN2lwdFNLdDF3RFp0cDIzTkZMbXllQy12Nmx6bUlnV0VJRHE4cG00WVRSb3JyQlk0MXVXcnNfMFQxTg?oc=5",
-          "pub": "Wed, 23 Sep 2026 10:24:34 GMT",
+          "pub": "Wed, 23 Sep 2026 10:49:54 GMT",
           "source": "TipRanks"
         }
       ]
     },
     {
       "symbol": "IREN",
-      "price": 48.41,
+      "price": 47.87,
       "prev_close": 47.22999954223633,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": 2.498413019691924,
-      "drawdown_pct": 37.02354849707285,
+      "day_change_pct": 1.3550719118498757,
+      "drawdown_pct": 37.726033186425894,
       "name": "IREN",
       "news": [
         {
-          "title": "Iren (IREN) Stock Looks Stretched With AI Hopes Already Priced In - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQ3F6MUt1RU1LZkdMUU9xeG5XVEEza2NJNU1zZG04NmZhcnptLW1ZZVd3djlvVld0c2h6Rm5pbzJXaFhRTjh1MlItT1RlSFh5UHYta2hUSjRBMnZQbGMwVFFTUlJYZkdteDBkd2VQYi1TVDBPTmZzVDg3RFVBb3g0eTMwT19MamRpNThWQmtvTzFJaHF5eWdVNV9OTmw?oc=5",
-          "pub": "Tue, 22 Sep 2026 22:13:58 GMT",
+          "title": "IREN’s Energy Pipeline Optionality is Very Appealing So Should You Buy It? - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSWRjYi1HUnluYk1MdnNzRlpBZ09Od1pMUV9iV0JwZ19zb1hEdkJSS2NqWkJvM1Y4eGlMNzBmelZBLW9ZZVdPMTZuWVJtYzlCa0RzUG1kTjlsTTRLR3dCLXFoc29zVHJURzQ4MUJOZXhWdEV4a3hFa2JIYnUyQVNIZEZFNEwtS29WMW1LT2RQVE9UcjlGTWR2OFRrQzkxZkFBZzNjTw?oc=5",
+          "pub": "Tue, 22 Sep 2026 16:29:19 GMT",
           "source": "Yahoo Finance"
-        },
-        {
-          "title": "IREN’s Energy Pipeline Optionality is Very Appealing So Should You Buy It? - 24/7 Wall St.",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUURZbF9RTzlWS3FtanpzaXB0NkxTM0VZZ0RqNzhWMEJlVzhHSlFZcVhTZzdxaGZhNmM1VkhrbTlXTmVVbkw0LW4zTlhUNUs4ZktDWDhuY3VyWmloUEdmX1JBcGxJYTNFd21uaEdiUlFZQWNnQWwzLTdmOF94aXljd2t4YjZBd0ZuLUIwMGF4czFtQW0zYm1rdjljS1hjV01kN2VyTURHcFZaNjNqbVUtOGpGUThROFE?oc=5",
-          "pub": "Tue, 22 Sep 2026 16:29:00 GMT",
-          "source": "24/7 Wall St."
         },
         {
           "title": "Why Is IREN Stock Gaining Monday? - Benzinga",
@@ -227,6 +221,12 @@
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbDVvZEVGNG5ibXE4M0xQSGsweTVfYWRjb2c4Tl95WDBqelNSN3dHdVJsZ1pvVGcybXpObmFtTkVVakFMYmpBUDBFWEE2MGwtMzBpUDlPRkFnUTJSeVFLR0d5ODhycjJ4WWFIVnRWSVJjb0NxQ2N0alpBS2JxNE9ERFF4S3FhX1FHTzI2S3hsdndDakNJbEtMVUZlQm9BcmV2dWhUUVln?oc=5",
           "pub": "Tue, 22 Sep 2026 13:51:24 GMT",
           "source": "Zacks Investment Research"
+        },
+        {
+          "title": "IREN Stock Pops Even as Rothschild Sees 15% Downside Risk, Says Hold — Here’s Why - TipRanks",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObmxlNWYtaHhvUGNtUXFyQ2ZlUV9zenN3em91R2xEQUp5X3R2VHpLMmZ5bzk5OWpZelBQT3NNUV8wMTE3MmlNVzYtaEtuUE5zQW5JZXpmcEVST0hBaFNlVTk5cVJSWUFCWllqV3pUS0xXb1A4OEEwOE9fa1E3ZzJpZ1ZyZElhTDVBQ1pRX1BZWmoyNUZ6bGk5WG5lejNrT2NqcTRiZzEwZDI4QQ?oc=5",
+          "pub": "Mon, 21 Sep 2026 15:16:43 GMT",
+          "source": "TipRanks"
         }
       ]
     },
