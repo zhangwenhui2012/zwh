@@ -1,25 +1,19 @@
 {
-  "updated_at": "2026-09-24T17:00:51.016760+00:00",
-  "updated_at_display": "2026-09-24 17:00 UTC",
+  "updated_at": "2026-09-24T17:24:18.496968+00:00",
+  "updated_at_display": "2026-09-24 17:24 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 224.185,
+      "price": 224.27,
       "prev_close": 225.50999450683594,
       "high_52w": 236.54,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -0.5875546712390923,
-      "drawdown_pct": 5.223218060370335,
+      "day_change_pct": -0.5498623285179225,
+      "drawdown_pct": 5.187283334742531,
       "name": "NVIDIA",
       "news": [
-        {
-          "title": "Stock Market Today: Dow Extends Losses On Surprise Economic Data; Everpure Shoots Higher (Live Coverage) - Investor's Business Daily",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNN2l0R0JrY2c1cDFCU0VsV3p4d0hhLVp4Q2Q5aEVYUkYwd0o0dW1QMjRPYXVZaFNzbzczOVEzeFZTbENFQWZOVHdtX0NSZi1DVFFXWkpVb3JnLWM1eF9nbkpkSkdtMGE3XzV4NFdPZG9ha3E4YWZQZWpiQkNKZDZwWE5EeHk0cnd3LWh3QUozMUdWQ2NXS2xuWE9uMFJFaFFjMERDSTFLcjJNLW5RQVU2SkhZVU11R0N0WlFCMTI2VEhsWDg?oc=5",
-          "pub": "Thu, 24 Sep 2026 14:48:00 GMT",
-          "source": "Investor's Business Daily"
-        },
         {
           "title": "Nvidia’s Stock Is Flashing a Warning Sign as Valuation Falls - Bloomberg.com",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMmZza3lFQmV4Y3NTNVlkOThiYTlkUWFGY1lPUWF1SEpPRkRNXy1GRnpNYWlDa1JqdEJRejYyVF9mSlQ2eldpbGR0dFRRM1dWVS1oY1RmMGNqRy1aVExud1duUXhTZHdZTW9SU2J6aVBrMTVUVmNubDlQc3F6TjNHem4zWTM1dlp6dWFtbzd6d3ZOOE43NDNXYkpGMzMwR1NqQ2VfT3FPVGMtbEJHdzFMNQ?oc=5",
@@ -27,10 +21,16 @@
           "source": "Bloomberg.com"
         },
         {
-          "title": "Nvidia’s Immense Dividend Hike Puts Dividend Growth Stocks in the Spotlight - Morningstar",
+          "title": "Stock Market Today: Dow Extends Losses On Surprise Economic Data; Everpure Shoots Higher (Live Coverage) - Investor's Business Daily",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNN2l0R0JrY2c1cDFCU0VsV3p4d0hhLVp4Q2Q5aEVYUkYwd0o0dW1QMjRPYXVZaFNzbzczOVEzeFZTbENFQWZOVHdtX0NSZi1DVFFXWkpVb3JnLWM1eF9nbkpkSkdtMGE3XzV4NFdPZG9ha3E4YWZQZWpiQkNKZDZwWE5EeHk0cnd3LWh3QUozMUdWQ2NXS2xuWE9uMFJFaFFjMERDSTFLcjJNLW5RQVU2SkhZVU11R0N0WlFCMTI2VEhsWDg?oc=5",
+          "pub": "Thu, 24 Sep 2026 14:48:00 GMT",
+          "source": "Investor's Business Daily"
+        },
+        {
+          "title": "Nvidia’s Immense Dividend Hike Puts Dividend Growth Stocks in the Spotlight - morningstar.com",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdVV4dEg1UDVVUEUtcU91WXRCZFI3Zm5pQU5tMTF2Q0tqZThjQjV6Nk5QdEt1NGJHMzBhRmpUV0lQS093MVVXOTdPNHdvRTE3RWFTMGM4Y21VNmhfQ0gtREdkeW9ES3BhMDh3UDJxcFV4aE16M0hNZmtSb0x4RnVKdC0xZmEyZjAzMV9ud0xMcXlGSktJZnRENGpmVmtJeURFVFFGRA?oc=5",
           "pub": "Thu, 24 Sep 2026 14:48:06 GMT",
-          "source": "Morningstar"
+          "source": "morningstar.com"
         },
         {
           "title": "IonQ is in 'the beginning of an exciting era,' CEO says as Nvidia deal lifts stock - Yahoo Finance",
@@ -42,14 +42,14 @@
     },
     {
       "symbol": "META",
-      "price": 770.77,
+      "price": 771.145,
       "prev_close": 744.0999755859375,
-      "high_52w": 772.68,
+      "high_52w": 774.25,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 3.584199071241914,
-      "drawdown_pct": 0.24719159289744377,
+      "day_change_pct": 3.634595524985204,
+      "drawdown_pct": 0.4010332579916071,
       "name": "Meta Platforms",
       "news": [
         {
@@ -59,9 +59,9 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "Why Meta Platforms Stock Keeps Going Up - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNjEzS2VIb0FUT19zR29YRzZadXdhWFFKX2tFcFZneEJqdHIydXVrOThEcWJDMkJocmxYckZDTDRabjMtbjNHU0lSWGlKU3gwUFpldlNVRHBKYnBZWDBKMEo4Mi0xS3Q3S0NRbDNfc0w1RTg5V0hIdTBCVmFOU3l1TUtMWWR3NmY5M3c?oc=5",
-          "pub": "Thu, 24 Sep 2026 15:58:59 GMT",
+          "title": "News About Muse Drove a 1-Day 11% Jump in Meta Stock. But the AI Agent Could Be Even More Valuable Than the Market Is Giving It Credit For. - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTk5PT2JLbFQwU3dzeFMxbTd5RXczWUE2QkEyN2x6U2YxenBmUmF4X0pXZHMzeU9sMHdqOUl4XzBfdDJ5dE8xdTNNcWJCZG9JWUNGZ1Joam05ZThvQkF4bThtTjZLVTNvaVBkSW41czZLYlN3c0dMM05leVktOHdBUHhYUWIxcEdhblFhZjZYcUg1aDVvYWc0?oc=5",
+          "pub": "Thu, 24 Sep 2026 16:35:35 GMT",
           "source": "The Motley Fool"
         },
         {
@@ -71,30 +71,30 @@
           "source": "CNBC"
         },
         {
-          "title": "Meta's Muse rekindles fears over winners and losers as personal AI agent emerges - Reuters",
+          "title": "Meta's Muse rekindles fears over winners and losers as personal AI agent emerges - reuters.com",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNlVtTVRPc0JSamlpVlpnNHFRZ1FQWDE0OFpRN2JoTzhQZ2lXaDVJV2FkMjBGa0psQ2ZUWVpzbXIxbFVDS3M0eHVWWGI4aGxxZVotZGJXTHRocVhXZU9fbl9rX2xvbGFkSGIxazlPOXlVRlNISEVLTEFZNXlpRVI5V1JRS3k5N3JTLXZ3UEFnMXA5cktvaDEwa3V6dUhvTkZRTnotSnhKV2xRbDJjRTF4NW5Bd0VWcXVIZHJWbDgtLTM2M3c?oc=5",
           "pub": "Wed, 23 Sep 2026 17:13:00 GMT",
-          "source": "Reuters"
+          "source": "reuters.com"
         }
       ]
     },
     {
       "symbol": "AVGO",
-      "price": 350.67,
+      "price": 350.25,
       "prev_close": 354.989990234375,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -1.2169329708487828,
-      "drawdown_pct": 29.157575757575753,
+      "day_change_pct": -1.3352461660244326,
+      "drawdown_pct": 29.242424242424242,
       "name": "Broadcom",
       "news": [
         {
-          "title": "Why Broadcom Stock Is Worth $650 - Morningstar",
+          "title": "Why Broadcom Stock Is Worth $650 - morningstar.com",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQXZoMFoybDN3cmI0OTBaMjZQbEpYNHR5ZF9oNjNJM0FrcHNIR2pVaVFSWGwyWmFqaUZMaFhucmFjRVVJdVBJWHJXd0pqWGMwZllYUzVfcURlQUk3LXdYYXlLcDdndnBza01LWXZUSHlfM0s5bVoxbEF5MUxRXzdvYVprSC1LYWlwMGdsaE15UDZXRGM?oc=5",
           "pub": "Thu, 24 Sep 2026 10:17:53 GMT",
-          "source": "Morningstar"
+          "source": "morningstar.com"
         },
         {
           "title": "Broadcom: China Just Added A New Risk To The AI Story, Beyond Margins (NASDAQ:AVGO) - Seeking Alpha",
@@ -118,14 +118,14 @@
     },
     {
       "symbol": "AMD",
-      "price": 625.17,
+      "price": 624.845,
       "prev_close": 614.6099853515625,
       "high_52w": 628.87,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 1.7181651616670421,
-      "drawdown_pct": 0.5883568941116678,
+      "day_change_pct": 1.6652860988880624,
+      "drawdown_pct": 0.640036891567411,
       "name": "AMD",
       "news": [
         {
@@ -156,21 +156,21 @@
     },
     {
       "symbol": "RKLB",
-      "price": 74.435,
+      "price": 75.22,
       "prev_close": 70.30999755859375,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 5.866878942740153,
-      "drawdown_pct": 50.705298013245034,
+      "day_change_pct": 6.983363123166708,
+      "drawdown_pct": 50.18543046357616,
       "name": "Rocket Lab",
       "news": [
         {
-          "title": "Rocket Lab Readies For Mission, Cathie Wood Buys $25 Million In Shares - Investor's Business Daily",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcW1CYk9jNy1sTlhLZWZ3VWoyNENIUUVUUFluc19hX0ZZX0lsakNPNEVid2NnV0dYSUlubFQwYi1QaGJDYm55ZGg4VWEyZUF6ZVJYS1FXSVBaSGVTejdkcHJEdnBwenpVVzJ3TFQ3c0NERmh6Tjl4VlQwT0lwbl9HbzZWTjlRaUlWcEQ1V1gyV3FqdGk1Yk96cThDcmtqWFdnODhobkd2TmxUa05ZYVRoY2ZrbXgweUI3ejhmVFNDemY1emFr?oc=5",
-          "pub": "Wed, 23 Sep 2026 21:14:00 GMT",
-          "source": "Investor's Business Daily"
+          "title": "Why Are Rocket Lab (RKLB) Shares Soaring Today - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORnFfd0x2TjhmNFlVbTEwclBEZ21IQ1RCMzJxVzl4UnI1Z2VfVGEwWGZNRDNBbl9aeUdHSXZaM05tY3h5LXRLbng3eFNHS3prVW9OMkF1T1lSdDE0TVNRNnVrbGJMa1dRTW9xY3JKSHNDXy1sY1d6V3RSbGQ0T1VOZ21SSjdQb3UwemxJdHFINTMzX0hqbFE?oc=5",
+          "pub": "Tue, 22 Sep 2026 01:10:00 GMT",
+          "source": "Yahoo Finance"
         },
         {
           "title": "Rocket Lab Stock Breaks Above Key Trendline - Schaeffer's Investment Research",
@@ -179,29 +179,29 @@
           "source": "Schaeffer's Investment Research"
         },
         {
-          "title": "RKLB Stock Jumps Overnight: Rocket Lab Doubles Down On ‘Responsive Space’ Push With 4-Complex Launch Network - Stocktwits",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNemZfQ3Z3UC1WNllzemNpeDBzcEVhSHRjbks0RFh0SWpHNmFKRnFUTWt6U3Q1OTgwMUNzb0VQZXByQlVWT2RpNEVEeWpKb21MVHo0SDRBWm41RHBvY1VEVkJGM20tempKMm90OGtZeXBORDg4WEQzMWZpYlloT0pVckZlVFNpXzR1MVA5MEZ3LS1QMXlQQzlLSi1xTlBaUGliU0k5ck5rYklWU1VMWUxzN0dZcGpxdw?oc=5",
-          "pub": "Thu, 24 Sep 2026 11:39:53 GMT",
+          "title": "RKLB Stock Jumps Nearly 17% — Analyst Says Rocket Lab’s Iridium Deal Isn’t A Starlink Competitor Play - Stocktwits",
+          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOOWJ4RlN6bzFXYUlXUTRwWHRxWjFqOEFRXzMyOGdlOXNNdmVUZE5CVGlMT2pSN0Rpa2FrQV9wZGc1MmZRakxSQmtfekNNOXM0bDl3aEhPS3hVRUFuZmlzbkNyMFFGSUE1YkJnWTN0RmJFYmJDSDhXb3VuLU5BdkN5MkJadWQxNWdXR3A2a1ZrTm5ZYTE1SnlMQ0FqcVkyTEpMeFRpWFJJVTl1Qk80clU3cEctdUFsNTZlZTNsNHRoV2FrNExqTU1SX0RYSVIzS0NUVUNDYWxGQ2ZXOVlraUMwXzRLd0tndEpyQ216bjJja3FjckpjOUE?oc=5",
+          "pub": "Thu, 24 Sep 2026 16:22:06 GMT",
           "source": "Stocktwits"
         },
         {
-          "title": "Why is Rocket Lab stock surging today? - Investing.com",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTUk4eHc3Z1B0REZKSENWZlI3am9YZ08tQ2RvVHg1WDIwRHZKSDBSVVRaUU9SWF9qWFY5UGtHNjBkNzI5emdaRks3T2lHNl9VSXRXNWdhRmd6QTNkWHNVdDRDNzYxMVdRejdqdjdBRXQxUDBLSXQ1SHdFSml3QUdCdjBnaTNKQTFmNUZKTDlUSU9XS1JaeFFWR21PVnJCOG5V?oc=5",
-          "pub": "Mon, 21 Sep 2026 13:44:39 GMT",
-          "source": "Investing.com"
+          "title": "Rocket Lab Stock Breaks Above Key Trendline - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQmpoUWxwVkkzX29iUk02Qzh0VkVEWmRSRDFxUG1tQlZWX1lzdXhWZkZIa0Ezck91N2l1Q1hRLXRXdEZRWjQ1Q1hRMGtYc3haaVJKS1p1UXAtYnJfS08ydU9SSFIxMm1qYS1nTkYtRlJnbHpHYV9kLUc5X1ZMMGpTbWJBM2o2Q2h4OEw3TllXZncwNngyX3N4N3FB?oc=5",
+          "pub": "Tue, 22 Sep 2026 16:57:28 GMT",
+          "source": "Yahoo Finance"
         }
       ]
     },
     {
       "symbol": "IREN",
-      "price": 46.39,
+      "price": 46.28,
       "prev_close": 47.04999923706055,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": -1.4027614192619906,
-      "drawdown_pct": 39.65136159428237,
+      "day_change_pct": -1.6365552593973889,
+      "drawdown_pct": 39.79446032729873,
       "name": "IREN",
       "news": [
         {
@@ -243,9 +243,9 @@
       "name": "MilDef Group",
       "news": [
         {
-          "title": "MilDef Group (OM:MILDEF) Expands Rosersberg Capacity, Is The Upside Already Priced In? - simplywall.st",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPd1E3VFlFT0pzOGt2QzNhQVd5TWFuXzU5blhqSWFpSHdFRjB2bFd2OGFnTlY3LWxvLTJkaWNEenRnbG5SRnFWOVNPUkpydE05X29YLVdZeEZBU1g0bXlJYXNDaXNfeXZWSnhRSjZVMTd4ZVZVZ2RhRW5oYjdrbVlsaWh4V1F2Z1daaE5GNkJhSVlGZEcwdWtNNVFCTlRPczZBOEwwSFJhNGJ3ZjhsMjJjVG8xaTNsUEdPdk40VlhaSGZUS3NYTGRTdUE0bjlrenB5dWF0MW9RS1pSQdIB3wFBVV95cUxONW56RTBZMzl5T2Q0TzRJdTIyWVdKOFpZb1FwTUNGM3JUMkdEZjQxOWkzUFBVUk9Rd09lam9LN09zYnJERjhwb29lUUlGMk0wLWlPOGV2YnpPbVJQMVRpMG90RXRuTHBRSl95Yll5UkZ6NE9NOUJvdWNSSE1TanlQM1VnZWFkOVl1aURFWF9hb1pUbndoY29CS1lram9xYlphS3BQZUtzZEZIRE5TWmllUmx1ZDVTajlEWmRKWmVxVHQtVi1GVlVYajhIUUU4YkQ5dnRyQ2t0RExyOVVjZkt3?oc=5",
-          "pub": "Tue, 22 Sep 2026 00:18:33 GMT",
+          "title": "3 European Cybersecurity Stocks Investors Are Watching As Infrastructure Threats Rise - simplywall.st",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPeGNOak1idzZpOUVsMTVvZGhQc3VWT2V3cnlFcWVsOTUwcU9ldXhyWGw2b1JXWFVjb3Myb3l1aDFFbERiZlAyQk9FbjJaMVhhNlRReWlhenZWTjZDWEtZVjZOMzMyX2lhTlFET3c5NUNCMklLMHJaS2ptWWppTWpnT3h0M1F4Znhub3UzT1FJR2RvbWd5Yk9rV2dhSzdhNDVMc092dDUwUHFFbjhWQ2RIWGUxaTJ0WUVTMDdJdllTd0taeXFuNDJmUlczMFJTQXFnbHUwM08yTF9Md9IB3wFBVV95cUxQem1tQmFlMDMzTFZ2aWgxYVAxR1ZvQlpNejZyZzVVRm9rM0sxWWtOVjVOdzFQMXJHRUxuc3lCVVB4UWp2cFhIcUF6YjJtY1pZTjNMaTZTVVpKQ19PQi1veDVmXzBGYzVFNUVyMURaeDdPc21vcHJOM2pNTFN6MS02OGhfSzljYTFoSUp3TldWQklkaWp1TDVDTERzODBRQ3R4Ync2ZXZub3pETUN5N3FvVV9oTTRPZDdjRk5VSHRsTk9SMlFkR0l3LV8wcGpaMHM0T0x6eWI0cmRjdjFiQ2w4?oc=5",
+          "pub": "Thu, 24 Sep 2026 17:09:10 GMT",
           "source": "simplywall.st"
         },
         {
