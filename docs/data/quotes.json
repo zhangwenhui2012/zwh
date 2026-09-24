@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-09-24T16:30:38.446606+00:00",
-  "updated_at_display": "2026-09-24 16:30 UTC",
+  "updated_at": "2026-09-24T17:00:51.016760+00:00",
+  "updated_at_display": "2026-09-24 17:00 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 223.38,
+      "price": 224.185,
       "prev_close": 225.50999450683594,
       "high_52w": 236.54,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -0.9445233287748473,
-      "drawdown_pct": 5.56354105013951,
+      "day_change_pct": -0.5875546712390923,
+      "drawdown_pct": 5.223218060370335,
       "name": "NVIDIA",
       "news": [
         {
@@ -42,14 +42,14 @@
     },
     {
       "symbol": "META",
-      "price": 767.985,
+      "price": 770.77,
       "prev_close": 744.0999755859375,
-      "high_52w": 770.9000244140625,
+      "high_52w": 772.68,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 3.2099214081084173,
-      "drawdown_pct": 0.37813261405434606,
+      "day_change_pct": 3.584199071241914,
+      "drawdown_pct": 0.24719159289744377,
       "name": "Meta Platforms",
       "news": [
         {
@@ -65,10 +65,10 @@
           "source": "The Motley Fool"
         },
         {
-          "title": "Amazon vs. Meta: Which AI Stock Enjoys an Edge Right Now? - Yahoo! Finance Canada",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5YbzBoQTNlNHp6ZGNwVDktdlc5V2lQWm8yc2J5VmtCaGRIU0xuVW51WjJwLUVGa2cyX0RZcXZoMTJNVnQ0ZWRDOHpHYngtWjgxRGpOWTQ2RlRsWkp0eDJ0QzZJdmFxZWE0aGZpUlV4ZEFpNVFHUmZLWWdBZ0U?oc=5",
-          "pub": "Thu, 24 Sep 2026 14:48:00 GMT",
-          "source": "Yahoo! Finance Canada"
+          "title": "Stocks making the biggest moves midday: Oracle, Everpure, Meta Platforms, Nebius, Bloom Energy, MGM & more - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPLTZuY3ZNbEgxbnF1d2hNT2xRN0NURy1hMWN2YUF4QmQzMmtSS0dWSFVoZTBNWXI1Um9UVXBlaEUzVXg3UzNOQjVFNmxmamc2UG9oWnVRUVJkTEZZOVlTRTV6Wmw1NTlMbFh6d1VydU9Pd2tPZHlzeUc2eEFqS1hHZWxXMVhodjVITkpRMW5IQ2EwZmdFT18xaDFLbw?oc=5",
+          "pub": "Thu, 24 Sep 2026 16:21:43 GMT",
+          "source": "CNBC"
         },
         {
           "title": "Meta's Muse rekindles fears over winners and losers as personal AI agent emerges - Reuters",
@@ -80,14 +80,14 @@
     },
     {
       "symbol": "AVGO",
-      "price": 349.51,
+      "price": 350.67,
       "prev_close": 354.989990234375,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -1.543702748000572,
-      "drawdown_pct": 29.391919191919193,
+      "day_change_pct": -1.2169329708487828,
+      "drawdown_pct": 29.157575757575753,
       "name": "Broadcom",
       "news": [
         {
@@ -97,37 +97,49 @@
           "source": "Morningstar"
         },
         {
-          "title": "A top chip stock analyst sees big things for Nvidia, Broadcom. How his case aligns with ours - cnbc.com",
+          "title": "Broadcom: China Just Added A New Risk To The AI Story, Beyond Margins (NASDAQ:AVGO) - Seeking Alpha",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdWdxQ25kM3pzdGVXZFNzWjlWcm5hdWlkWDlNMGpOeUJjQTFvMHhKdDI3WkhmWjBROWI0MGFYbmZpeElJUm80Q25Ic0ExRWYwTzZqQTdiWkdMTlJVNTBqeWtDNmlHeVNCZlJXbGVMOWRFSjVyOWlTT1FCWnRyOVdNVURRLXFhWHJzdVU0czRKS0lyM1NSYXlrem9rNVZqV1VyTGFnWDBjVWhQTjUx?oc=5",
+          "pub": "Thu, 24 Sep 2026 13:56:17 GMT",
+          "source": "Seeking Alpha"
+        },
+        {
+          "title": "A top chip stock analyst sees big things for Nvidia, Broadcom. How his case aligns with ours - CNBC",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbkRTODEyMWV2N1ZEVVFFVXJva2hkQ1h0NTJaSXJKTTZqZXJXV29QalFHNmtReWpQU3V4N01ramJoSFQ4QkRNZXlIMUkwYWJpV2RwV01KQXYxOXFwUFRPVzBKUThDYUttMTQ1bnBxWnpQN3NWWkszTmVBSTZaclM1Tm5raEp6SENQMVRVWE1qU2hwbzlkTTAxekhyWV9EWW1sT1hfR1U4ZmFYY1BacDU1YTlsdDE5YTZLeXNVYkJZWllULXZTaFE?oc=5",
           "pub": "Tue, 22 Sep 2026 20:39:06 GMT",
-          "source": "cnbc.com"
+          "source": "CNBC"
         },
         {
           "title": "Where Will Broadcom Stock Be in 5 Years? - The Motley Fool",
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOd2VRTnF6NTJlRE5FV0JNNl9ROU9sSEhkMHoxd2tyaU9qT0JCZXBQWmhjd0ZJSWtuekFickg4ZVdyQjhDN2FjcWEtUW1JUGR0MGpMYlRBYkFoc002bDR6S1I1TjlZVWlKR3RqZzdFR18yMml3b0lpcFVMWUtBZFFmUm4yTERtVy1wUVE?oc=5",
           "pub": "Thu, 24 Sep 2026 06:30:00 GMT",
           "source": "The Motley Fool"
-        },
-        {
-          "title": "Broadcom: China Just Added A New Risk To The AI Story, Beyond Margins (NASDAQ:AVGO) - Seeking Alpha",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdWdxQ25kM3pzdGVXZFNzWjlWcm5hdWlkWDlNMGpOeUJjQTFvMHhKdDI3WkhmWjBROWI0MGFYbmZpeElJUm80Q25Ic0ExRWYwTzZqQTdiWkdMTlJVNTBqeWtDNmlHeVNCZlJXbGVMOWRFSjVyOWlTT1FCWnRyOVdNVURRLXFhWHJzdVU0czRKS0lyM1NSYXlrem9rNVZqV1VyTGFnWDBjVWhQTjUx?oc=5",
-          "pub": "Thu, 24 Sep 2026 13:56:17 GMT",
-          "source": "Seeking Alpha"
         }
       ]
     },
     {
       "symbol": "AMD",
-      "price": 619.27,
+      "price": 625.17,
       "prev_close": 614.6099853515625,
-      "high_52w": 624.8400268554688,
+      "high_52w": 628.87,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 0.7582067912176713,
-      "drawdown_pct": 0.8914324652823765,
+      "day_change_pct": 1.7181651616670421,
+      "drawdown_pct": 0.5883568941116678,
       "name": "AMD",
       "news": [
+        {
+          "title": "AI Leader AMD Breaks Out Past New Buy Point With This Bullish Signal - Investor's Business Daily",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB3WGlCSjNKdFFDR1ZZdkUzTTVhbkROV1o2VGY3ckJSWHBHZmJETlhKUW54WkhJQ1c1b2txdXNEWjhPMk42b01VVE5JUUdPaHhWWE1STDhQbUtWUnBfWlZxMDZqekNCSkVMQnpNZEdtSU9ZaXk2a01R?oc=5",
+          "pub": "Mon, 21 Sep 2026 16:26:00 GMT",
+          "source": "Investor's Business Daily"
+        },
+        {
+          "title": "Big Cap 20 Name AMD Shows The Potential Power Of Large Cap Stocks - Investor's Business Daily",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB5TFdIU2ZCTWRTNWZqWVBJNS1OTzFPY2d2X0JrVTBOTFV4c2Ywc3FibVZQUmd2Qlo0ZndBUkRpY2RhanZ3WkNhWlAxMDE1eWI5cVVoeDdfWk9lNXRIV1Q2X2RQZVdRMXlmcWlpTEN4Q25MckxjSGhiN0NuWXFRUQ?oc=5",
+          "pub": "Thu, 24 Sep 2026 16:06:00 GMT",
+          "source": "Investor's Business Daily"
+        },
         {
           "title": "AMD Stock Has Blown Past Nvidia This Year. Is It Still the Better Buy? - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZ3ZXT2pfSWZYWnZDajF1dWhLc2w2WWZqQVUteURPb3B0N3ZyVUFDaDJOT3FOM0p1cGxvRDktdnp5bkxjUVN6TW5vQmNobU51MFVRdzVXWEtlX29vNkczd3Z2S2FXbDB2OU1jbjRkeG1jODQzV3JHVXBYWFpGTTdwdkpjR2FrWFdXYmJEWjI5RnlQZkVmTEZv?oc=5",
@@ -139,31 +151,19 @@
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVWxzaEIzbzM4SlBhUmNhUnhna2pXZ3ctcGRqU05TY0JnQ0ttcURleE1wWWVNUEtYekNmWk5PRTl4NUJ6ejBpY3NhbWRzVi1SSVNoc1dJOFNnR1RudnNQZzlPTnFpMlNUbHg0NFBjcHNyUUVGNnp2UlhEYUt6UUNuaXJxN3hiWkpkSDdlSnM4bWtPek1jbWVOcA?oc=5",
           "pub": "Tue, 22 Sep 2026 13:15:00 GMT",
           "source": "The Motley Fool"
-        },
-        {
-          "title": "AMD hits $1 trillion market cap for the first time as stock rides 5-day rally - cnbc.com",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9SaGJvMThYUVlDY2hQVmVIQlRtMFR5YTBROTJhTW0weGRsYTlyQmJjNTF6UlE1MUE0UTFvZGtTQnNOMk9jUVR4WVZrYzI1X09CT29EU2ZDbUZ4QmFzOGdpbGJxaTZrODcybUE5Qm95cGbSAXZBVV95cUxOWmpqeFFKbWUwd04ybDU0MmFRdW9GVHpEN3pkUmkyR3M2SlBKeWo0Ti1TRUJGaHB4ZGRCSmQzUXhudEUxUVBmdEp0X2ttQmp4QmhwQXdNZ0JIZ0RIMWFXSm1MUG1hRXJWVVZfMDA2d2UyRFprMGpR?oc=5",
-          "pub": "Mon, 21 Sep 2026 14:47:57 GMT",
-          "source": "cnbc.com"
-        },
-        {
-          "title": "What's Going On With AMD Stock Thursday? - benzinga.com",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOG95cnNpUzhLTE1jYnNnSjJSQTc3bDBaN0QtSllZQTJ2OEZqelZYRjNTVDU4NzUwS0dLSlRwMDI0Tmt5ZjdwWWM3M2x1cnVqOUtQSkdGLXhGVl9yS2FPY0R4VWpaVFpTOFE4RDhxZUN6RHZnMGpkRkFkTTJSbEdSeEFXZXo0aVFtNmhOa1V2aTJYTFZIT3hYRDB3?oc=5",
-          "pub": "Thu, 24 Sep 2026 13:31:33 GMT",
-          "source": "benzinga.com"
         }
       ]
     },
     {
       "symbol": "RKLB",
-      "price": 73.96,
+      "price": 74.435,
       "prev_close": 70.30999755859375,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 5.191299343118973,
-      "drawdown_pct": 51.019867549668874,
+      "day_change_pct": 5.866878942740153,
+      "drawdown_pct": 50.705298013245034,
       "name": "Rocket Lab",
       "news": [
         {
@@ -173,10 +173,10 @@
           "source": "Investor's Business Daily"
         },
         {
-          "title": "Learn Why The Bull Case For Rocket Lab Stock Could Change Following Neutron Launch Progress - simplywall.st",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRU9pb19kdF9SNXFHNWNyT1BsTFdhaldIOEdCWHFHWmplWUJFb09GRkhPZzZWZWxZNEdQRlA4eDBMQkpqcG10YlhHclJXd0Y5YTRKOGRkblF6YUJTWFdMWlVlNkl0TDdpaFEwdVdyQkRyc3BPcF9SWlN1NTQzNDMzbUF4Sk40ZDVUUHZRTVhJUWpoMV9XNGtWaDBod1lfYW50S0lqQXFsd2N0R2VBcmZ4MTd3R1FxQXNkTC01TmZQSkNKeEdkdGxmSS1CNWdIQmvSAdQBQVVfeXFMTjZrNXZBdk1DZ0VOazRJM3IzU0tEb3VnRUJ2M09pSXBiWWozTmJMVHlKOTYwTEZKWE9lbnRrbHJHano2Wl9DekdvdkJKUDJ3UHBsX2ItLTVDWWZZTFNZNnkwYUFyMjQyYkVLckZfbnZUQWN6M1p3Z1d3a05BU0dYdFR6Z1JfS3BmRkswamU0SlV6cVMtdnFnNE81RUxwOTRnaHBfNDBrWE1lZ3ZIMmNRWHF6STZ1UllfRHpxS2tJTV9USzlmaGRHNzZ5ZGVIckxZM1Y2QlU?oc=5",
-          "pub": "Thu, 24 Sep 2026 12:55:11 GMT",
-          "source": "simplywall.st"
+          "title": "Rocket Lab Stock Breaks Above Key Trendline - Schaeffer's Investment Research",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdGFkSlhCRWtiYVJ0dnVLUlV5RHp6MWlnd3ZIYUxqUFlNTVNMZ3hLRFh4a0RDSmw1NC1ZS3FlQmlwUm5TRUF1Y3kwdy1zakh3dEJlaUJTSXduUmtZOEdTU2ZFOVlicjlIREFVTTl2OEdkSjhjRzFHQlJuX3VKZ0tVazRUUkQwU3BDSEhNLTRFQWlYSmV5NV9KamhzMEJHUGdUYzZrekVTNFNSQQ?oc=5",
+          "pub": "Tue, 22 Sep 2026 16:57:28 GMT",
+          "source": "Schaeffer's Investment Research"
         },
         {
           "title": "RKLB Stock Jumps Overnight: Rocket Lab Doubles Down On ‘Responsive Space’ Push With 4-Complex Launch Network - Stocktwits",
@@ -185,23 +185,23 @@
           "source": "Stocktwits"
         },
         {
-          "title": "Rocket Lab Stock Breaks Above Key Trendline - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQmpoUWxwVkkzX29iUk02Qzh0VkVEWmRSRDFxUG1tQlZWX1lzdXhWZkZIa0Ezck91N2l1Q1hRLXRXdEZRWjQ1Q1hRMGtYc3haaVJKS1p1UXAtYnJfS08ydU9SSFIxMm1qYS1nTkYtRlJnbHpHYV9kLUc5X1ZMMGpTbWJBM2o2Q2h4OEw3TllXZncwNngyX3N4N3FB?oc=5",
-          "pub": "Tue, 22 Sep 2026 16:57:28 GMT",
-          "source": "Yahoo Finance"
+          "title": "Why is Rocket Lab stock surging today? - Investing.com",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTUk4eHc3Z1B0REZKSENWZlI3am9YZ08tQ2RvVHg1WDIwRHZKSDBSVVRaUU9SWF9qWFY5UGtHNjBkNzI5emdaRks3T2lHNl9VSXRXNWdhRmd6QTNkWHNVdDRDNzYxMVdRejdqdjdBRXQxUDBLSXQ1SHdFSml3QUdCdjBnaTNKQTFmNUZKTDlUSU9XS1JaeFFWR21PVnJCOG5V?oc=5",
+          "pub": "Mon, 21 Sep 2026 13:44:39 GMT",
+          "source": "Investing.com"
         }
       ]
     },
     {
       "symbol": "IREN",
-      "price": 46.13,
+      "price": 46.39,
       "prev_close": 47.04999923706055,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": -1.9553650414002033,
-      "drawdown_pct": 39.98959496323013,
+      "day_change_pct": -1.4027614192619906,
+      "drawdown_pct": 39.65136159428237,
       "name": "IREN",
       "news": [
         {
@@ -211,10 +211,10 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "Why Is IREN Stock Gaining Monday? - benzinga.com",
+          "title": "Why Is IREN Stock Gaining Monday? - Benzinga",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNXd1OHNlal9FNVlaLXAxNDJveUdRT1pqU1dzLW16TUdlaEdVc0F0eXJxc3NHdzF1N01Vd2p6Qm9haHRlQ09PekFfa3phaXBOcVF5SHJiRTd0VFdCdXNwMHZOdDAtNS15TldRQnZzSjZFTGlIMEdtbGVFMWgyMTJWNjZJeFZXVUhuLUFUZ1A2My1LQVV1b29xRA?oc=5",
           "pub": "Mon, 21 Sep 2026 11:53:25 GMT",
-          "source": "benzinga.com"
+          "source": "Benzinga"
         },
         {
           "title": "IREN Broadens Its AI Customer Base: Can Diversification Pay Off? - Zacks Investment Research",
