@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-09-24T19:00:47.953613+00:00",
-  "updated_at_display": "2026-09-24 19:00 UTC",
+  "updated_at": "2026-09-24T19:30:38.851599+00:00",
+  "updated_at_display": "2026-09-24 19:30 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 224.22,
+      "price": 223.77,
       "prev_close": 225.50999450683594,
       "high_52w": 236.54,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -0.572034294824496,
-      "drawdown_pct": 5.208421408641241,
+      "day_change_pct": -0.7715819915836069,
+      "drawdown_pct": 5.398664073729594,
       "name": "NVIDIA",
       "news": [
         {
@@ -21,16 +21,16 @@
           "source": "Bloomberg.com"
         },
         {
-          "title": "Nvidia’s Immense Dividend Hike Puts Dividend Growth Stocks in the Spotlight - morningstar.com",
+          "title": "Nvidia’s Immense Dividend Hike Puts Dividend Growth Stocks in the Spotlight - Morningstar",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdVV4dEg1UDVVUEUtcU91WXRCZFI3Zm5pQU5tMTF2Q0tqZThjQjV6Nk5QdEt1NGJHMzBhRmpUV0lQS093MVVXOTdPNHdvRTE3RWFTMGM4Y21VNmhfQ0gtREdkeW9ES3BhMDh3UDJxcFV4aE16M0hNZmtSb0x4RnVKdC0xZmEyZjAzMV9ud0xMcXlGSktJZnRENGpmVmtJeURFVFFGRA?oc=5",
           "pub": "Thu, 24 Sep 2026 17:48:50 GMT",
-          "source": "morningstar.com"
+          "source": "Morningstar"
         },
         {
-          "title": "NVIDIA Stock Looks Expensive Until You Price The Vera Rubin Ramp - trefis.com",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUFpjZkcxVWVQeWRFNFR6RGxTWjdxeDhtd28wSnBTWDZPczQwRkFzYnFEZnVpSktxaUhkajMwZXN6cGNIXzhmUEpiN0NsMzNIZTJiZldsRTh1QnpkaDFmQmd6N2xQSmJaODBEZldGdjBOSXE4QV9rOW5XREd2YS1PM3lnRHZ2bFZubmlsakpHNTdGTjZ5TVAxSndaSVRsN2p1SG1tSXVPT0ZiVFR2d0NsemlEWjRIY0NTVTBWMHNNclFVWTQ?oc=5",
-          "pub": "Thu, 24 Sep 2026 16:09:19 GMT",
-          "source": "trefis.com"
+          "title": "Nvidia options are doing something unusual ahead of two catalysts. Here's how one trader is playing it - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWmh6Ykkza0ktNjVYNFY0Y1ZtNGdZek1wcGczX2Z1VklDY0VqVXRRM0FfVUJQNlc5YTBGVnZkRzFxcWpmU181V1p2RF83X1ljV1pEOUI5WFZibTRnczhQSUsxWWNoYzROMlpreXZ5VVlvWGQ4SmkyWEZyeTFiSTNEMEJtai1RVFB6MEFjdmFvTmJhZ1dETVo5czFxTkpDbVZNMVRyT3NybEpjVHRDd2ZuMjd3cjhIbmJJN1RTcFBfaWpUYTBDTHVBQWE0UVdZTEUzQWo00gHYAUFVX3lxTFBPM25WRlJZMlJDLVRDaFp3a0tkZDB1azUzYVl5Uld1Z2dJT1JoajZpY1pXMUppUjZPa28wRF9Rczg4alJRVTdpVGZxV0Q0bGd4WkVhSnRxSHlKR3pIOWFlR0pQcE5iSER0eFlLQlVBQWREX081RWFlQTJtWG9sZ2FtczhseVl1NFhDSWhHcjZmNTE5UF9KUmt6VENFR0lGNDBDNmRsWUVVUDYzdWZqbk5JSDZCOTM0b1d5NTBVd1RZbEhfZmtycnlEREd2OHdDR0pQVUlaR2h4UA?oc=5",
+          "pub": "Tue, 22 Sep 2026 16:58:28 GMT",
+          "source": "CNBC"
         },
         {
           "title": "Stock Market Today: Nasdaq Improves On U.S.-Iran News; MGM Resorts Plummets (Live Coverage) - Investor's Business Daily",
@@ -42,14 +42,14 @@
     },
     {
       "symbol": "META",
-      "price": 777.725,
+      "price": 777.35,
       "prev_close": 744.0999755859375,
-      "high_52w": 778.3,
+      "high_52w": 779.73,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 4.518885300000807,
-      "drawdown_pct": 0.07387896697930513,
+      "day_change_pct": 4.468488846257516,
+      "drawdown_pct": 0.30523386300385974,
       "name": "Meta Platforms",
       "news": [
         {
@@ -80,21 +80,21 @@
     },
     {
       "symbol": "AVGO",
-      "price": 350.06,
+      "price": 349.62,
       "prev_close": 354.989990234375,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -1.388768801937224,
-      "drawdown_pct": 29.28080808080808,
+      "day_change_pct": -1.512715958787899,
+      "drawdown_pct": 29.369696969696967,
       "name": "Broadcom",
       "news": [
         {
-          "title": "Why Broadcom Stock Is Worth $650 - morningstar.com",
+          "title": "Why Broadcom Stock Is Worth $650 - Morningstar",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQXZoMFoybDN3cmI0OTBaMjZQbEpYNHR5ZF9oNjNJM0FrcHNIR2pVaVFSWGwyWmFqaUZMaFhucmFjRVVJdVBJWHJXd0pqWGMwZllYUzVfcURlQUk3LXdYYXlLcDdndnBza01LWXZUSHlfM0s5bVoxbEF5MUxRXzdvYVprSC1LYWlwMGdsaE15UDZXRGM?oc=5",
           "pub": "Thu, 24 Sep 2026 10:17:53 GMT",
-          "source": "morningstar.com"
+          "source": "Morningstar"
         },
         {
           "title": "Broadcom: China Just Added A New Risk To The AI Story, Beyond Margins (NASDAQ:AVGO) - Seeking Alpha",
@@ -118,14 +118,14 @@
     },
     {
       "symbol": "AMD",
-      "price": 627.5,
+      "price": 626.96,
       "prev_close": 614.6099853515625,
       "high_52w": 628.92,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 2.0972673655902767,
-      "drawdown_pct": 0.2257838834827894,
+      "day_change_pct": 2.009406768972882,
+      "drawdown_pct": 0.3116453603001849,
       "name": "AMD",
       "news": [
         {
@@ -141,29 +141,29 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "Big Cap 20 Name AMD Shows The Potential Power Of Large Cap Stocks - Investor's Business Daily",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB5TFdIU2ZCTWRTNWZqWVBJNS1OTzFPY2d2X0JrVTBOTFV4c2Ywc3FibVZQUmd2Qlo0ZndBUkRpY2RhanZ3WkNhWlAxMDE1eWI5cVVoeDdfWk9lNXRIV1Q2X2RQZVdRMXlmcWlpTEN4Q25MckxjSGhiN0NuWXFRUQ?oc=5",
-          "pub": "Thu, 24 Sep 2026 16:06:00 GMT",
-          "source": "Investor's Business Daily"
-        },
-        {
           "title": "AMD vs. Intel: Which Artificial Intelligence (AI) Chip Stock Has More Room to Run? - The Motley Fool",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQc1ctM2dtTkJYeUpMTC1jZjY1VkxMMFNuU1ZCcGtDeDFMTEVOR3kwdFlodmN1RGpDMzRjYXpENTZya2RJSVNLYlFTOXY1Nk85OEltd01Idmhsc0dLd0pkUnVaTlA2b1BkMFN4eU0weUJXT2NYZnE5R1A2VnZfRlhrcUNDVWpuUjMzU3gzY2s2bWhJT2hPa3FsSUZ1T2lPR1lDLXItUXRXU3JiTFAzNmlCMi1POUhNTmhPdGRlNg?oc=5",
           "pub": "Thu, 24 Sep 2026 12:02:00 GMT",
           "source": "The Motley Fool"
+        },
+        {
+          "title": "What Changed In AMD’s Story? - Trefis",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMUx3NVNpb2RKOUx4aFdOWXZtUG9WNlQtWDA5RFdmNjFJTzhLbjdJS242MURKSVQ1RzA4SE96S1k0TDVySlJxTG82My1IN3Vpa1NXbVhWa2ExTkxveU1IcHVocUlBSEpPbllNc25mT2hUcENQdWtfVGZ1czA1SVAwVWlXaUIzYlYwWEZlYVZfaw?oc=5",
+          "pub": "Wed, 23 Sep 2026 15:00:17 GMT",
+          "source": "Trefis"
         }
       ]
     },
     {
       "symbol": "RKLB",
-      "price": 73.49,
+      "price": 73.26,
       "prev_close": 70.30999755859375,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 4.522831107704347,
-      "drawdown_pct": 51.331125827814574,
+      "day_change_pct": 4.195708354203586,
+      "drawdown_pct": 51.483443708609265,
       "name": "Rocket Lab",
       "news": [
         {
@@ -173,10 +173,10 @@
           "source": "Investor's Business Daily"
         },
         {
-          "title": "Space stocks Rocket Lab, Planet Labs, and AST S... - pluang.com",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVUliNzM1c3d4MU9lYU5vWTBpck1GNHRUOFVUdkN4VGV0aFhOSUN0UFVDUG5OdU5yV2VWNXdyaWNCMXIweURTVUZMX3FUcEdFelF3dU9kUkt0RlI3azVReHZZNXNfd3hBb0EtT2hGUDFQTlF1Tk90QUdENThwTnRhYnZpVkdxUUotNjBtYV93TGtuSzA5emFxc2tLWEVMMllyV2dKd0dzWQ?oc=5",
-          "pub": "Thu, 24 Sep 2026 18:04:47 GMT",
-          "source": "pluang.com"
+          "title": "Rocket Lab Looks More and More Like a SpaceX Competitor. The Stock Is Up. - Barron's",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWGZYTjhndVprdk1raTRjWl9Ic3hQMkxmTGRxTEZvdzdTR2pyRVlmbXJITFBRSEVuZzN0Wjh1Mmw4T0FObTd1bmRIdkxXTzVsOWVGYVNUZzRYTFlKOWlFRlpDSFZKV2R6aWo5N1E3YUFwcHlNQjFXUTc4U2tKYTBhd3dPdGg?oc=5",
+          "pub": "Mon, 21 Sep 2026 20:36:00 GMT",
+          "source": "Barron's"
         },
         {
           "title": "What's Going On with the Pop In Rocket Lab Stock? - Benzinga",
@@ -185,23 +185,23 @@
           "source": "Benzinga"
         },
         {
-          "title": "RKLB Stock Jumps Nearly 17% — Analyst Says Rocket Lab’s Iridium Deal Isn’t A Starlink Competitor Play - Stocktwits",
-          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOOWJ4RlN6bzFXYUlXUTRwWHRxWjFqOEFRXzMyOGdlOXNNdmVUZE5CVGlMT2pSN0Rpa2FrQV9wZGc1MmZRakxSQmtfekNNOXM0bDl3aEhPS3hVRUFuZmlzbkNyMFFGSUE1YkJnWTN0RmJFYmJDSDhXb3VuLU5BdkN5MkJadWQxNWdXR3A2a1ZrTm5ZYTE1SnlMQ0FqcVkyTEpMeFRpWFJJVTl1Qk80clU3cEctdUFsNTZlZTNsNHRoV2FrNExqTU1SX0RYSVIzS0NUVUNDYWxGQ2ZXOVlraUMwXzRLd0tndEpyQ216bjJja3FjckpjOUE?oc=5",
-          "pub": "Thu, 24 Sep 2026 16:22:06 GMT",
+          "title": "RKLB Stock Jumps Overnight: Rocket Lab Doubles Down On ‘Responsive Space’ Push With 4-Complex Launch Network - Stocktwits",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNemZfQ3Z3UC1WNllzemNpeDBzcEVhSHRjbks0RFh0SWpHNmFKRnFUTWt6U3Q1OTgwMUNzb0VQZXByQlVWT2RpNEVEeWpKb21MVHo0SDRBWm41RHBvY1VEVkJGM20tempKMm90OGtZeXBORDg4WEQzMWZpYlloT0pVckZlVFNpXzR1MVA5MEZ3LS1QMXlQQzlLSi1xTlBaUGliU0k5ck5rYklWU1VMWUxzN0dZcGpxdw?oc=5",
+          "pub": "Thu, 24 Sep 2026 11:39:53 GMT",
           "source": "Stocktwits"
         }
       ]
     },
     {
       "symbol": "IREN",
-      "price": 46.625,
+      "price": 46.12,
       "prev_close": 47.04999923706055,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": -0.9032927607909111,
-      "drawdown_pct": 39.34565066465651,
+      "day_change_pct": -1.9766190268670685,
+      "drawdown_pct": 40.00260393895889,
       "name": "IREN",
       "news": [
         {
@@ -249,22 +249,22 @@
           "source": "simplywall.st"
         },
         {
+          "title": "Pareto raises Mildef target price to 272 kronor, reiterates buy - marketscreener.com",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVGVEVGRmSnlsRUZDbHZhdkdGeGpNVG9Eck5VMVFneXFHcmlzYXBDc3hnbzJORGhlWEdWOEpFaUpUM2tMV2Q2MVg5cUxhTk5XYTBmV3Q3YkdQbC1yb2hGVllRaTBXTTBnZTluVE1hYmtWTUpjbUdMZ1hsd0t4WTBHV1QyeHozY0tCOHE1NjRMTEQ3ODlBTENVeUhXMUx1WGo0OElMT1YxaUo2eU9ZTFhQczNoaldmZw?oc=5",
+          "pub": "Tue, 22 Sep 2026 05:21:17 GMT",
+          "source": "marketscreener.com"
+        },
+        {
           "title": "MILDEF Forecast — Price Target — Prediction for 2027 - TradingView",
           "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9hWW9rMkp5VFlIZmlhT1RWd3k5bVQyVTVlLXktUHJfNm43Qld6bURaV0wwTDN1ZmJwZ0c2c2FPNV8wRVYyaVRRNndDaUZOeHdPQTkwS1doZUdWQ180N051Ym91OXZxYW9YRklxUFRIcVFJOFJxbXFVSEl2dWg?oc=5",
           "pub": "Thu, 25 Jun 2026 11:58:03 GMT",
           "source": "TradingView"
         },
         {
-          "title": "Making Battlefield Tech Fuels an 80% Rally for Swedish Stock - Bloomberg.com",
+          "title": "Making Battlefield Tech Fuels an 80% Rally for Swedish Stock - Bloomberg",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWFZjRE0wOVJoN0E4MHI1dUJOOHZySlIzcHRjbXA2LVlnOW9FbGx4VzktajJlaXJ1S0VhRm8zMUVSWjhVekY5RGxsaWR3WWRQZ2pFdjZOQzF0Ml9yb3FJS3FycTJjZExXMy1VcmpwOVdiQjdvaEhONlh2Y28yNDVKRENpRWVoel9nV1VJU2dYMUlybTZkUFlVZEIya3VETV9sTlJ4dEVPd0t5UDFJMU9Ec0ZvRE0?oc=5",
           "pub": "Fri, 21 Aug 2026 07:00:00 GMT",
-          "source": "Bloomberg.com"
-        },
-        {
-          "title": "Earnings call transcript: Mildef posts strong Q2 2026 growth, shares slip - Investing.com",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNGFTODUwbXhPdy1abF9UdjM5d2h2blUxMzJXeWwxdWhuSkZ1eDBaUnF4MVk2cWlxQjJpU0s4eGN2UnMtMWNBZjV5T19HeVd3c2ZlZGUzX2kyZ2dWRjF1NGFvQ0trYVJFSVNyMlg0YUhEcnc3Sk9LSk0zd3ZhMFJ0M3drZkdGT1BIall4ZzRVTlVjLU1VVjRXWXZkSzBGTEVoZ2luLTNwZWJCR2FuUmZuXzB6TDR4VTd4SmYtRWdiNFVtdDVrc3c?oc=5",
-          "pub": "Thu, 16 Jul 2026 07:00:00 GMT",
-          "source": "Investing.com"
+          "source": "Bloomberg"
         }
       ]
     },
