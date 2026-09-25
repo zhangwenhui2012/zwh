@@ -1,30 +1,30 @@
 {
-  "updated_at": "2026-09-25T18:30:37.383913+00:00",
-  "updated_at_display": "2026-09-25 18:30 UTC",
+  "updated_at": "2026-09-25T19:00:47.192836+00:00",
+  "updated_at_display": "2026-09-25 19:00 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 224.46,
+      "price": 224.01,
       "prev_close": 224.5800018310547,
       "high_52w": 236.54,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -0.0534338899618291,
-      "drawdown_pct": 5.106958653927447,
+      "day_change_pct": -0.2538079198536534,
+      "drawdown_pct": 5.297201319015811,
       "name": "NVIDIA",
       "news": [
         {
-          "title": "NVIDIA Stock Looks Expensive Until You Price The Vera Rubin Ramp - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbzB2VTdBSXUyZVhvanFteC1neEp5OW9QT29hb0w0NVVQQWk5SkpaWmpxd18yUGEzV1lZN1ltdTBmS2ExdXNfY2pRMDRSdFdNNzhqZUpUSmdvSDYzRlFSUHNua1ZYdG9mTnNHSFYxQ2hqSFZzajhhbmJDMjBFZ2tleERaVm9haGJBUWxiay10SERMejFhaDJOcFFrSlNIZTZm?oc=5",
-          "pub": "Thu, 24 Sep 2026 16:09:57 GMT",
-          "source": "Yahoo Finance"
+          "title": "Stock Market Today: Dow Slides As Treasury Yields Surge; Nvidia Slips While Micron Rises - Investor's Business Daily",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNN2l0R0JrY2c1cDFCU0VsV3p4d0hhLVp4Q2Q5aEVYUkYwd0o0dW1QMjRPYXVZaFNzbzczOVEzeFZTbENFQWZOVHdtX0NSZi1DVFFXWkpVb3JnLWM1eF9nbkpkSkdtMGE3XzV4NFdPZG9ha3E4YWZQZWpiQkNKZDZwWE5EeHk0cnd3LWh3QUozMUdWQ2NXS2xuWE9uMFJFaFFjMERDSTFLcjJNLW5RQVU2SkhZVU11R0N0WlFCMTI2VEhsWDg?oc=5",
+          "pub": "Thu, 24 Sep 2026 20:34:00 GMT",
+          "source": "Investor's Business Daily"
         },
         {
-          "title": "Nvidia Stock Drops as CEO Huang Suggests Drastic Alternative to AI Regulation - Barron's",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQjd6OU5hSXN5TW9nRnB0OGhIWG1jNU9FNk5iQ2RhNkhRbl9nSVc3RXBxcnJWZGhpUzU2Um8ta0NzOU5XV2lGNUZ3STBncXpBNlk2QnRhbDVXYXRzNGs1Sl9RRnNmSlpMb3FoVWNxMDV6VUt2VklXbFN3ZVl5SzF4eTRLRXpXbmJEaVpXNUFKNUtUbmRfSEE?oc=5",
-          "pub": "Thu, 24 Sep 2026 18:32:00 GMT",
-          "source": "Barron's"
+          "title": "AMD vs. Nvidia: Which AI Stock Is the Better Buy? - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPc014Mkc1LWxGUDB0bDlJc1VldlJNS1lEZzdRc1NxRXNYdThQNkcyeWNuOHYzbV85Y1hXN0FtZkhwSW9JS0l0REpTeXdoaW95d19NQ01NcDgxM1ZTN3lvY0s1cWUxTjNvbnNpZXAtdzlUazY0WGgwV3BmSjFuamVDR3R2SFB6d3dJM3NnWVFvZl8?oc=5",
+          "pub": "Fri, 25 Sep 2026 03:59:00 GMT",
+          "source": "Yahoo Finance"
         },
         {
           "title": "Nvidia's historic stock boom is turning its golden handcuffs into a ticket out the door - Business Insider",
@@ -33,23 +33,23 @@
           "source": "Business Insider"
         },
         {
-          "title": "Nvidia Tests Key Level Amid Trump-Xi Talks, China Challenge - Investor's Business Daily",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNekRWNTUxQnMzZXJGTFFKVzJIUEZFX05MYkJwbmFsVWdjT2dQNEFaRWdRZWs4ZHVGTDdkaUkzbzdOcEdBNHZjQ3g4cmZ5YmNyeTBjWnZLWUpaS3ZDWDFoYVFMVXJWZWFiRTdNSFl5YlF4ZkFwZnZ3QldoN1QyajJFanRiLVJJNktscHRVSzVJUXc?oc=5",
-          "pub": "Fri, 25 Sep 2026 16:58:00 GMT",
-          "source": "Investor's Business Daily"
+          "title": "Nvidia Stock Drops as CEO Huang Suggests Drastic Alternative to AI Regulation - barrons.com",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQjd6OU5hSXN5TW9nRnB0OGhIWG1jNU9FNk5iQ2RhNkhRbl9nSVc3RXBxcnJWZGhpUzU2Um8ta0NzOU5XV2lGNUZ3STBncXpBNlk2QnRhbDVXYXRzNGs1Sl9RRnNmSlpMb3FoVWNxMDV6VUt2VklXbFN3ZVl5SzF4eTRLRXpXbmJEaVpXNUFKNUtUbmRfSEE?oc=5",
+          "pub": "Thu, 24 Sep 2026 18:32:00 GMT",
+          "source": "barrons.com"
         }
       ]
     },
     {
       "symbol": "META",
-      "price": 750.85,
+      "price": 751.74,
       "prev_close": 777.5900268554688,
       "high_52w": 779.8200073242188,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -3.438833566783762,
-      "drawdown_pct": 3.7149607668599005,
+      "day_change_pct": -3.324377366310217,
+      "drawdown_pct": 3.6008318663904406,
       "name": "Meta Platforms",
       "news": [
         {
@@ -57,6 +57,12 @@
           "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxORlI5ZGR4VXY2UU41TmtZeVh1dHJlTzZTWU5yRmRIc3RJUUl6WjFHT05qWDA4UVlyRlZvcDhsc2RZa0RxaWtyZXZCcUsxZVZxblZsbDRHZThxVGstS0hES1U3LWNxOWNYUTNXa0syQ21heXNNQjh3aGo2MU56V016Nmh4M3plTTNPVldoQXRIOGtIRHRnc0NmUzFOSnR5UDljVmpFWUNTZXlfR1FvYWwtOUx6ZGhMMU9IemxjekdhN0tlYkJENXk4djRQb1IyNUNyNDdxVjBkdy0wY3pr?oc=5",
           "pub": "Fri, 25 Sep 2026 15:27:35 GMT",
           "source": "Yahoo Finance"
+        },
+        {
+          "title": "Why Meta Stock Could Spike if It Crosses This Price Target - barrons.com",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE54VlAwN3FqWkVGbXROblBWNmticzEyU2FxdW9JTGRZY1VwU093aHpNMFVWczhRMG9UQkVocU9lNzE3NHZCWnQ5NmRYZm9yQ2hPeG9DWEVsclkyMXN1YjlsTDFTMENCMm5Jd3pEQW03SEM?oc=5",
+          "pub": "Fri, 25 Sep 2026 17:13:00 GMT",
+          "source": "barrons.com"
         },
         {
           "title": "Meta's Stock May Plunge As Credit Market Warns Against Massive Rally (NASDAQ:META) - Seeking Alpha",
@@ -69,25 +75,19 @@
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOXdpWGVLTHoxbG1iUHcxREFGa05tcVhDZVBtSFNsSUVuajFSMHItdUlzS3BRZU9JVGFLdWpERk8wNk9qSW1JbVlGMTMxdEpGMExtYklCemhzSHQ0ZXoxeVQzcm4teENkRjVHWUlMNkVJRHdMeWFYNTZ6c19PX0RfYm1tblFuQTQzam5KQXdVZnhKd2ZYaTA4bGtLa052cEE0MTZQdTFTbWgzR2pwSmluU3Z3?oc=5",
           "pub": "Fri, 25 Sep 2026 14:00:00 GMT",
           "source": "24/7 Wall St."
-        },
-        {
-          "title": "Why Meta Stock Could Spike if It Crosses This Price Target - Barron's",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE54VlAwN3FqWkVGbXROblBWNmticzEyU2FxdW9JTGRZY1VwU093aHpNMFVWczhRMG9UQkVocU9lNzE3NHZCWnQ5NmRYZm9yQ2hPeG9DWEVsclkyMXN1YjlsTDFTMENCMm5Jd3pEQW03SEM?oc=5",
-          "pub": "Fri, 25 Sep 2026 17:13:00 GMT",
-          "source": "Barron's"
         }
       ]
     },
     {
       "symbol": "AVGO",
-      "price": 352.94,
+      "price": 352.0,
       "prev_close": 350.3599853515625,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 0.7363896438825992,
-      "drawdown_pct": 28.6989898989899,
+      "day_change_pct": 0.46809416514613006,
+      "drawdown_pct": 28.888888888888886,
       "name": "Broadcom",
       "news": [
         {
@@ -118,14 +118,14 @@
     },
     {
       "symbol": "AMD",
-      "price": 630.8,
+      "price": 629.2,
       "prev_close": 629.260009765625,
       "high_52w": 638.9500122070312,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 0.24473035159957826,
-      "drawdown_pct": 1.2755320527939118,
+      "day_change_pct": -0.0095365611501843,
+      "drawdown_pct": 1.5259428782782505,
       "name": "AMD",
       "news": [
         {
@@ -156,14 +156,14 @@
     },
     {
       "symbol": "RKLB",
-      "price": 73.959,
+      "price": 74.12,
       "prev_close": 73.61000061035156,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 0.4741195309803623,
-      "drawdown_pct": 51.0205298013245,
+      "day_change_pct": 0.6928398117371056,
+      "drawdown_pct": 50.913907284768214,
       "name": "Rocket Lab",
       "news": [
         {
@@ -179,29 +179,29 @@
           "source": "TipRanks"
         },
         {
-          "title": "Rocket Lab Crashed Back Toward Earth for 3 Months: This Analyst Says It’s About to Double - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQem5ydUM3cU9sejdlX0l1MHJ4bWxxMEhSU0VUQkhfTXN2Z2tKajF6ci1KSjVNcWI0Y2QzQXd1WkJ0STBuMnV1bi1LamxOX3lUOFV6d2pDZlppV09oWGtETXAzRVRZZXJTbFZfNGVMeHNXaWtwZHdhR1BTb0x1QWlQREc4c1BWY1dRVy1kOEtBenJvMEhHSVk3NWxFNA?oc=5",
-          "pub": "Fri, 25 Sep 2026 13:37:39 GMT",
-          "source": "Yahoo Finance"
+          "title": "RKLB Stock Rises Overnight: Rocket Lab Is Becoming More Like SpaceX, Morgan Stanley Says — Here’s Why - Stocktwits",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNN3hzNU0xcm1XTTBZVWE1aXZ5SUh5NWZ0Y2JIV29PNHdLY3JWZlY0aFdMRUhWUWM3TUduQzFwY1BpNWpqMzhCYTBscXpFN19BR2xhQnlGcklHWlJEcndzcFo4V3hIQWlLN1ZTaGpRaXFsYTFBS1ppVEdaU194bHg2TnZMRzFYYkxCeG5MNTJvTjRhY0tXSjdnM0loU1FCVHF0V3JqQWRTMkhHY2hJZkE?oc=5",
+          "pub": "Fri, 25 Sep 2026 07:30:54 GMT",
+          "source": "Stocktwits"
         },
         {
-          "title": "What's Going On With Rocket Lab Stock Friday? - Rocket Lab (NASDAQ:RKLB) - Benzinga",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZjdwVHl1WGdfaGFXZXl1cC1adVJiUG0yUW9ZWVZoYlF3YU5tTFplSFBHV3A5eHNkQU1JemZXdkFreUpFblE4eVVOQU0xZFl2SjkzNUVOZUJGUFZ3YzN4cmNIRzl3LUE3c3JnNGthVzh1UHE3VERkZXotQ2x6MXVaRnZIRjVjLVJYekJUZmExVDZnYmVxaDVQOFNnVDNMYjJtMTZTc3FR?oc=5",
-          "pub": "Fri, 25 Sep 2026 12:40:57 GMT",
-          "source": "Benzinga"
+          "title": "Rocket Lab Looks More and More Like a SpaceX Competitor. The Stock Is Up. - barrons.com",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWGZYTjhndVprdk1raTRjWl9Ic3hQMkxmTGRxTEZvdzdTR2pyRVlmbXJITFBRSEVuZzN0Wjh1Mmw4T0FObTd1bmRIdkxXTzVsOWVGYVNUZzRYTFlKOWlFRlpDSFZKV2R6aWo5N1E3YUFwcHlNQjFXUTc4U2tKYTBhd3dPdGg?oc=5",
+          "pub": "Mon, 21 Sep 2026 20:36:00 GMT",
+          "source": "barrons.com"
         }
       ]
     },
     {
       "symbol": "IREN",
-      "price": 43.98,
+      "price": 43.82,
       "prev_close": 46.150001525878906,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": -4.702061655755455,
-      "drawdown_pct": 42.786524744913535,
+      "day_change_pct": -5.048757202255655,
+      "drawdown_pct": 42.99466835657369,
       "name": "IREN",
       "news": [
         {
