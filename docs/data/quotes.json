@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-09-25T17:23:13.450557+00:00",
-  "updated_at_display": "2026-09-25 17:23 UTC",
+  "updated_at": "2026-09-25T17:30:36.822343+00:00",
+  "updated_at_display": "2026-09-25 17:30 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 225.165,
+      "price": 225.07,
       "prev_close": 224.5800018310547,
       "high_52w": 236.54,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 0.2604854235353433,
-      "drawdown_pct": 4.808911811955695,
+      "day_change_pct": 0.2181842394470714,
+      "drawdown_pct": 4.849074152363237,
       "name": "NVIDIA",
       "news": [
         {
@@ -42,14 +42,14 @@
     },
     {
       "symbol": "META",
-      "price": 751.75,
+      "price": 751.08,
       "prev_close": 777.5900268554688,
       "high_52w": 779.8200073242188,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -3.323091341585796,
-      "drawdown_pct": 3.599549519194156,
+      "day_change_pct": -3.4092549981220563,
+      "drawdown_pct": 3.685466781345318,
       "name": "Meta Platforms",
       "news": [
         {
@@ -80,14 +80,14 @@
     },
     {
       "symbol": "AVGO",
-      "price": 352.855,
+      "price": 353.43,
       "prev_close": 350.3599853515625,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 0.7121288825074987,
-      "drawdown_pct": 28.71616161616161,
+      "day_change_pct": 0.8762457976920381,
+      "drawdown_pct": 28.599999999999998,
       "name": "Broadcom",
       "news": [
         {
@@ -118,14 +118,14 @@
     },
     {
       "symbol": "AMD",
-      "price": 630.04,
+      "price": 629.845,
       "prev_close": 629.260009765625,
       "high_52w": 638.9500122070312,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 0.12395356804343562,
-      "drawdown_pct": 1.3944771948989778,
+      "day_change_pct": 0.09296478805206666,
+      "drawdown_pct": 1.4249960142548734,
       "name": "AMD",
       "news": [
         {
@@ -135,10 +135,10 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "AMD Stock at $1 Trillion: Market Underestimates the Dark Horse - io-fund.com",
+          "title": "AMD Stock at $1 Trillion: Market Underestimates the Dark Horse - I/O Fund",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBneW9iRWVFS0RjNU1OYVhObWYydHpzaFNLN2hTTEplVHdJOFp2N1U3dzM5OVRhTzIxUmdEZ3YtUmNKSkpycW9TYjBIc3poMGRyaHhWZ0N1SnktSDlZM3U4dG9xLWRLSDVOZlIxemFR?oc=5",
           "pub": "Fri, 25 Sep 2026 11:22:08 GMT",
-          "source": "io-fund.com"
+          "source": "I/O Fund"
         },
         {
           "title": "Big Cap 20 Name AMD Shows The Potential Power Of Large Cap Stocks - Investor's Business Daily",
@@ -156,14 +156,14 @@
     },
     {
       "symbol": "RKLB",
-      "price": 74.34,
+      "price": 74.285,
       "prev_close": 73.61000061035156,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 0.9917122450692973,
-      "drawdown_pct": 50.76821192052981,
+      "day_change_pct": 0.9169941367362396,
+      "drawdown_pct": 50.80463576158941,
       "name": "Rocket Lab",
       "news": [
         {
@@ -187,21 +187,21 @@
         {
           "title": "What's Going On With Rocket Lab Stock Friday? - Rocket Lab (NASDAQ:RKLB) - Benzinga",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZjdwVHl1WGdfaGFXZXl1cC1adVJiUG0yUW9ZWVZoYlF3YU5tTFplSFBHV3A5eHNkQU1JemZXdkFreUpFblE4eVVOQU0xZFl2SjkzNUVOZUJGUFZ3YzN4cmNIRzl3LUE3c3JnNGthVzh1UHE3VERkZXotQ2x6MXVaRnZIRjVjLVJYekJUZmExVDZnYmVxaDVQOFNnVDNMYjJtMTZTc3FR?oc=5",
-          "pub": "Fri, 25 Sep 2026 12:43:14 GMT",
+          "pub": "Fri, 25 Sep 2026 12:40:57 GMT",
           "source": "Benzinga"
         }
       ]
     },
     {
       "symbol": "IREN",
-      "price": 43.965,
+      "price": 43.914,
       "prev_close": 46.150001525878906,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": -4.734564363239835,
-      "drawdown_pct": 42.80603820850666,
+      "day_change_pct": -4.8450735686867805,
+      "drawdown_pct": 42.87238398472334,
       "name": "IREN",
       "news": [
         {
@@ -223,10 +223,10 @@
           "source": "24/7 Wall St."
         },
         {
-          "title": "Applied Digital vs. IREN: Which Technology Stock Is a Better Buy in 2026? - The Motley Fool",
+          "title": "Applied Digital vs. IREN: Which Technology Stock Is a Better Buy in 2026? - fool.com",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZXQ0Z2FMcEQ0TTRweVlsWVhDbU5OOC1Wd0pza1NDSnRudmtHT1ExZ3ZMdUs2V1A2OGtyU2pTRHFZSlg3ZVJjZ1RwN1c4aWJDTmtFMlBUdGlLZmFiZXZPaFdMYVdOTGJyUGxvNTJwTEVPbV9sYjhiTHNPYVdGc0VDRUV3QWVOV1JQRWhYckZjV2UwQWs0YXZ4SUIwaTkzMF83S2Y3RHRmWWJZSXV0QUlfSDZLYnhiSVdHb2duTHM2czA?oc=5",
           "pub": "Thu, 24 Sep 2026 19:02:00 GMT",
-          "source": "The Motley Fool"
+          "source": "fool.com"
         }
       ]
     },
