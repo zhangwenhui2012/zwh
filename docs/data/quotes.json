@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-28T20:00:43.059912+00:00",
-  "updated_at_display": "2026-09-28 20:00 UTC",
+  "updated_at": "2026-09-28T20:30:35.461805+00:00",
+  "updated_at_display": "2026-09-28 20:30 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
@@ -21,13 +21,13 @@
           "source": "The New York Times"
         },
         {
-          "title": "Stocks to Watch: Intel, MongoDB, Nvidia, Meta - WSJ",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNenlSVk90TUZkMlV2QkJ6RDZBb1gzNktxUTc4RmVUbF9oQVJGaGpvOFRSYTNFS1dxY2V6c0U5U3VtUXRfVXZkZnE2NXBzWTVCZWZRN0RlOFVuX2RhSlpnU2R4U0dEUFpzVnV6WUNjWUVQM3J1eWEyUWJ6SENySTd4NWdOZDNtUjN5YlJfbmpvcG9ra2gyclJObk5Ib0RxT3FySTRNdHo1bXlBaENKcy1BUXlJU0lLS3d1bkktWDhadDZUZzRqUjR4MXdGb1F1X3Q1MmFVMVQxOA?oc=5",
-          "pub": "Mon, 28 Sep 2026 19:30:00 GMT",
-          "source": "WSJ"
+          "title": "Nvidia unveils security platform to rein in AI agents and $150bn stock buyback - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZ2ZDbzFoNURoVDVfazFBZVpDelc3aWRUaURxYTNTX0tWdGt4QldvYW5SLVJvNmY5TV9hX3hka3UweWIteGVZTHpxbmx1bjJsaVg3MmozZThoRzlSdXltaGRSaFpUVHZBODAwb245MnRPTExCSjl2UV9ZRGMyLWdTeTE4ZmlTZWxyc09ISjI4NEFwS1BpNFFkdXF2UG5zcms?oc=5",
+          "pub": "Mon, 28 Sep 2026 15:32:00 GMT",
+          "source": "The Guardian"
         },
         {
-          "title": "Stock market today: US-Iran tensions, rising Treasury yields put pressure on Dow, S&P 500, and Nasdaq - Yahoo Finance",
+          "title": "Stock market today: Dow, S&P 500, Nasdaq fall as Treasury yields continue to climb - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYmhMSnFQakVTNE5EWUd5ejV4V2M2RTV3VkY5TzhmbjBkUy10Yjh0bDZjRWFja3RUVVBXQXg4MTR6TEtfSjJXZFp6UDVPcVRhUjdUOUpWaXRGMmRQY19uQzQwbGI0dTRfLWFJRFhxbkxoOExmM1JJOUlKUzBZN1NTR3B3ZHY1VHEyVER6alhLVkxQY1lrVUIxVmJaT25CWU5md2pGaEtjeWgzOEE0S2Fv?oc=5",
           "pub": "Mon, 28 Sep 2026 19:20:44 GMT",
           "source": "Yahoo Finance"
@@ -91,6 +91,12 @@
       "name": "Broadcom",
       "news": [
         {
+          "title": "Broadcom Stock Slips Lower as $115 Billion Forecast Raises the Conversion Bar - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRjBYMmJFQ2pNdV9sNGlIOG5fNy1OVk1BaGhXWm1ZeHA5R1RvVGVsTXo5SDl0Ujd2aG9iRWt4MXRNOVNoenk1TEhOZl9aY2wxaDFUbmRMNzFkS3NkYVN3OVVnNVM3bmdSZHVNXzVGR3NpVTFBTmFwd3U0a19SV0dZUzdla1Rta0xOR1VndlE4a1pISW9FUllLS0ZtMA?oc=5",
+          "pub": "Mon, 28 Sep 2026 19:35:50 GMT",
+          "source": "Yahoo Finance"
+        },
+        {
           "title": "This Chip Giant's AI Revenue Grew 221% Last Quarter. It's Also Quietly Raised Its Dividend for 15 Straight Years. - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVTJ2V3BpbFZEX1R1S2htRUFCZDMzN254RmFMT1BYQ3NuZlYxMjlmanpXeEZlWTBSNDNoeEFETk12QUMtdWtzVDFmXzNOWGZPUk0xT2RHWk5sdmxrVHBMTERKcHlOVmhfTDI4RU9SQTQwVDNRdGU5UVVCZ0hON0wzTGNiRVZENmtuZW9RdEd5bkhaOERZNGc?oc=5",
           "pub": "Mon, 28 Sep 2026 16:20:01 GMT",
@@ -107,12 +113,6 @@
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQY0NsME5kbWp0SFlNRkoyUFN4NFVqZTgtWEpmNXFyQ2psYzNDaXJ1STl5bi1DVGhhRk5fYTMtVFJrQUNrZmFTSGpac0lZS1ljZnc1aTJlN0tkck9wYzU0VlJjMk1xWlFkVkpwZHpKT1NmbnRUNW53TWUwV1BEZW03UGFwRzhncmdvRWRjSUh6TTZvSHFFV0ItbnNEcHRaWFpkTDdUYTFmT01ENXFwTHNN0gG0AUFVX3lxTE1MVEV0YUxVU2FZRVVxLVZ3UzJ6NHA0NmNaeVFsd1VZbnFlVU5SelFxcWlIWUhQZzB0a0doempqa2NuckduM1FXbWcwWmhKRUhYN0tlN3ZHaWI0d2ZnUHF6REpjSFQzX0EwTW9VbXVUOG1ocEpzMWR5cFZ4azlxSU5WSzh6NHFTWWJwN3pFa1ZMbkVfejhnS0xQY3NwM1dGNDdZRVVqWGVUNzQzczNKbVFhMWgteg?oc=5",
           "pub": "Mon, 28 Sep 2026 02:04:55 GMT",
           "source": "simplywall.st"
-        },
-        {
-          "title": "This Semiconductor Stock Is a Bargain; Seize It With This ETF - ETF Database",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdTVQaFNoSWVYcUpVRnlqZXpzVnItVF9vWjJac3NlX09KN3pqX2VobHp3N2tOWm9YSWE1cDdTWVJIVG8yV3VQdWFDWE5lS0tfektpdjEwcHFnTzlGQ1FuQkpVZWNLMENkNFN2RnVmRjh5RlZDT0tSVkdzdml5ZFFnd09R?oc=5",
-          "pub": "Mon, 28 Sep 2026 13:36:50 GMT",
-          "source": "ETF Database"
         }
       ]
     },
@@ -129,28 +129,28 @@
       "name": "AMD",
       "news": [
         {
-          "title": "NVIDIA Rises 2% as Board Authorizes Record $150B Buyback Increase; AMD and Broadcom Slip - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdkVzT3BqeWVxay03Vy1ibGtLbVdGZlZTWmJ1WTNyaGxxY19YQjNJTW9CZU4zOTd4NjBWRWwySC1SV2Q3T1FQeWpfTWstSTUzUzNjVWZNWmxvSXQ5YTRnSHd4Q0dZNTc1bjRZZV9BWjhPNzdtb1pTazdFN3VNM3FqekEybEFwNHJRSXlncHRYakg3dml3S1NkOXNzZnE?oc=5",
-          "pub": "Mon, 28 Sep 2026 13:04:01 GMT",
+          "title": "AMD Stock Crosses $1 Trillion — and the Market Still Underestimates the Dark Horse - I/O Fund",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBneW9iRWVFS0RjNU1OYVhObWYydHpzaFNLN2hTTEplVHdJOFp2N1U3dzM5OVRhTzIxUmdEZ3YtUmNKSkpycW9TYjBIc3poMGRyaHhWZ0N1SnktSDlZM3U4dG9xLWRLSDVOZlIxemFR?oc=5",
+          "pub": "Fri, 25 Sep 2026 11:22:08 GMT",
+          "source": "I/O Fund"
+        },
+        {
+          "title": "CEO Predicts: “Demand Will Continue to Rise” as AMD and Intel Soar up to 17% Thanks to Muse - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUWQySEgyMWlBc1liRHY3ZlBhQnZxQzVZbXJTdkpsLXZhcUFubnk3aGpwUjNNOHJqRm1oMmllYS03UnhMQzI4VHVRRFlGUTh4cnpIOXkzd1RxWGt1X3pFclBPd0huaWJYQVV5R3NPTFJ4V0FxZ1BBN0pGb25Qd3ZOSk5OZUp3cXJuVkxLWGZuX3hWV3BzZ1lZdWl0dnZkTzA?oc=5",
+          "pub": "Mon, 28 Sep 2026 13:33:23 GMT",
           "source": "Yahoo Finance"
+        },
+        {
+          "title": "AMD, Intel, Western Digital, Vishay Intertechnology, and Penguin Solutions Stocks Trade Down, What You Need To Know - StockStory",
+          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNQXZ6SWp0d2RxNk9ySTVhUGhxdHpQUnVOYkt6eTQwbFpCUndydDNtNVZTWDF0enRwQXdicVdxam5yTzU3OE51Q1M5MldYZUY3NUQ5NlZ6UWdyOFEtSkFDOTZ4dGVMaTEzU25yNG9pZHdwMzhONnZWNzViNy15eUZ3UmxNZUNqZHVPRHlUbjRwMjAzNzVYcVFDVHVGdWhkenJBM3pDTUE1RHcwUUVha1RHREFiM2w0cHRoT0FaWHRob2wwTENJSHVCZkhpOHpPMWh6RWhsMjVsdmhabFIwZnhmbGtQT01nbEFhZlFuaTFmTXpHZElkUTQyVndHMHEtbDAy?oc=5",
+          "pub": "Mon, 28 Sep 2026 14:56:33 GMT",
+          "source": "StockStory"
         },
         {
           "title": "Prediction: Here's What a $5,000 Investment in AMD Could Be Worth by 2030 - The Motley Fool",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVTRZWWJzazhZajA1cllHSXNjdDJOMFBxWXFvVWVYWF80MFJVcEpZRlQyYlh3cTRyMzVsVFM4WGNHQjFqNk1aOVY0d1liWVBOSDN4Rk1KNVFVLUx2MzhTcF9vbEcxSzQwYkVWYUk2RXRyYno2S25UWHV4aXU1ZXFneTNWTHdDbVBnWEY4RG5RbXZkTDZCeXhxLQ?oc=5",
           "pub": "Sun, 27 Sep 2026 02:38:00 GMT",
           "source": "The Motley Fool"
-        },
-        {
-          "title": "Bank of America Just Upped Its Price Target on AMD Stock - Barchart.com",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRzdmdkpocC1FVjFraHlBdTRYM21PSkdVdV9XYWhhNjRhU3FaOUxwRk8zU25SOHVEVUxrcVA3WGUzRzR4RzRkcjJnb1VJUjhCNy0yeW1VczRTdFA2WGU1a0ZqMXlHNlhGZUNNVUQtMTJmRmtKYjZjOXpzZGdHNkpOazRCN25TazA4UWZZN2lzaWllNGhtUXJ1NHpnYmNyOVlEN0E?oc=5",
-          "pub": "Fri, 25 Sep 2026 20:56:19 GMT",
-          "source": "Barchart.com"
-        },
-        {
-          "title": "What's Going On With AMD Stock Monday? - Benzinga",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbHdndlhQalE3cHVnRDFnYlBoOVFyRUpiNGw3X21oLWMtMmlmZU5hMjR0Vjl4VG8xeGxKRkk3eS1heGlndTB3VTVpSUFTMGVRQ1JIMzlWUGV0RFRvUkVHSVk0TlNUU1F3d3JnVjRlVjdJWkJpU2VYd3NwTTF4QTdTbnEtNnRIc2Itb2NvRXJVbld4RVZxM05z?oc=5",
-          "pub": "Mon, 28 Sep 2026 10:21:34 GMT",
-          "source": "Benzinga"
         }
       ]
     },
@@ -205,16 +205,16 @@
       "name": "IREN",
       "news": [
         {
-          "title": "IREN: The Company Is Impressive, The Valuation Is Even More (NASDAQ:IREN) - Seeking Alpha",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNM0hLTUF0c2ZERGVCbHM1Qnk0a21rLVEtLXg0bW5fOF9kcVllZHF3MkptOWZfbVpzT3I4QkVaNXhYV1A5SWN4WjJVSmwwVExaVW03N081NW5oTUctNVBSMVduN2RLcDVSbm1RbC1hdlJHaC1kSFZLRGFpeDREOHU4QU1FbTNaYjZ4QXFRNk4xRHNMUjA0bW03MGV1SHFXWjQ?oc=5",
-          "pub": "Mon, 28 Sep 2026 14:16:05 GMT",
-          "source": "Seeking Alpha"
-        },
-        {
           "title": "JPMorgan Predicts IREN Will Generate $24 Billion in Annual Revenue by 2030 - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTmx3Q3RPeVgzWDNaNVBEQ2gzajRCX3l2ME03WEtBcnRJRkZJRVRRMHI1dlNnU3hmazNrRXo4LUo2Z0FsRmgwTEdHQmMzLU0wdEszcUlwNG9zQzVMemQ4ZHpmRVE2ejkxX2lJTWJnRmdGNVFiSHZ5NU85eUVDSFFaZ3QtNWxmVGRfU095Z3I5aUhiUHBZQWlmcmFNejNKUUNR?oc=5",
           "pub": "Sat, 26 Sep 2026 15:59:44 GMT",
           "source": "Yahoo Finance"
+        },
+        {
+          "title": "IREN: The Company Is Impressive, The Valuation Is Even More (NASDAQ:IREN) - Seeking Alpha",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNM0hLTUF0c2ZERGVCbHM1Qnk0a21rLVEtLXg0bW5fOF9kcVllZHF3MkptOWZfbVpzT3I4QkVaNXhYV1A5SWN4WjJVSmwwVExaVW03N081NW5oTUctNVBSMVduN2RLcDVSbm1RbC1hdlJHaC1kSFZLRGFpeDREOHU4QU1FbTNaYjZ4QXFRNk4xRHNMUjA0bW03MGV1SHFXWjQ?oc=5",
+          "pub": "Mon, 28 Sep 2026 14:16:05 GMT",
+          "source": "Seeking Alpha"
         },
         {
           "title": "IREN Just Got a Reality Check From Wall Street - tradingview.com",
@@ -223,10 +223,10 @@
           "source": "tradingview.com"
         },
         {
-          "title": "IREN Stock Falls as Analyst Says Hold, Cites a Few ‘Polarizing’ Factors - TipRanks",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdjkzNGtWUTBDbzY0OUlKOTFZZGFaWDJrSndxQmEtX2s1LXkwclBER3ZId0Y3WVNEV2FtelBsak9ZNUpUN1VlOHpvRzljWGVTU19KRy05VVhDZzFkd3YwZHRnVUxwY2xaTF83dldBMlZuMjJnVlYzNWtQelZzTjhCbWljNHZMc3NyU2pDMEpkeWhrM0I5aHA3emFIdGlPQTA?oc=5",
-          "pub": "Mon, 28 Sep 2026 11:41:32 GMT",
-          "source": "TipRanks"
+          "title": "IREN Limited (IREN) Stock Prediction: $65 Bull, $26 Bear - FinanceFeeds",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNc0pYN1cxSjZCTXBjbmpFWnhXVWxrTDNnWHlnbXZoWFVPQ1g1VXR2dVUtWWFUUEJ3ZnlGSjhRTXQzNEw3VnlTNjJLeFJDLWNiS3RWVm1Kdmo2MUVvT0FFNGhMUzMtSUdVX1Njb0RVTm14WkpXVVJIeGtwc2NmNDV6WEpn?oc=5",
+          "pub": "Mon, 28 Sep 2026 16:30:13 GMT",
+          "source": "FinanceFeeds"
         }
       ]
     },
@@ -249,10 +249,10 @@
           "source": "simplywall.st"
         },
         {
-          "title": "MILDEF Forecast — Price Target — Prediction for 2027 - TradingView",
+          "title": "MILDEF Forecast — Price Target — Prediction for 2027 - tradingview.com",
           "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9hWW9rMkp5VFlIZmlhT1RWd3k5bVQyVTVlLXktUHJfNm43Qld6bURaV0wwTDN1ZmJwZ0c2c2FPNV8wRVYyaVRRNndDaUZOeHdPQTkwS1doZUdWQ180N051Ym91OXZxYW9YRklxUFRIcVFJOFJxbXFVSEl2dWg?oc=5",
           "pub": "Thu, 25 Jun 2026 11:58:03 GMT",
-          "source": "TradingView"
+          "source": "tradingview.com"
         },
         {
           "title": "Making Battlefield Tech Fuels an 80% Rally for Swedish Stock - Bloomberg",
