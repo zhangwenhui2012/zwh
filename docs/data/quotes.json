@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-09-28T14:30:39.197976+00:00",
-  "updated_at_display": "2026-09-28 14:30 UTC",
+  "updated_at": "2026-09-28T14:42:44.540879+00:00",
+  "updated_at_display": "2026-09-28 14:42 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 231.25,
+      "price": 230.78,
       "prev_close": 225.07000732421875,
       "high_52w": 236.54,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 2.7458090703657474,
-      "drawdown_pct": 2.2364082184831284,
+      "day_change_pct": 2.5369851557146257,
+      "drawdown_pct": 2.435106113130968,
       "name": "NVIDIA",
       "news": [
         {
@@ -29,7 +29,7 @@
         {
           "title": "Stocks to Watch: Intel, Nvidia, Meta, Oracle - WSJ",
           "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNenlSVk90TUZkMlV2QkJ6RDZBb1gzNktxUTc4RmVUbF9oQVJGaGpvOFRSYTNFS1dxY2V6c0U5U3VtUXRfVXZkZnE2NXBzWTVCZWZRN0RlOFVuX2RhSlpnU2R4U0dEUFpzVnV6WUNjWUVQM3J1eWEyUWJ6SENySTd4NWdOZDNtUjN5YlJfbmpvcG9ra2gyclJObk5Ib0RxT3FySTRNdHo1bXlBaENKcy1BUXlJU0lLS3d1bkktWDhadDZUZzRqUjR4MXdGb1F1X3Q1MmFVMVQxOA?oc=5",
-          "pub": "Mon, 28 Sep 2026 11:30:17 GMT",
+          "pub": "Mon, 28 Sep 2026 09:40:00 GMT",
           "source": "WSJ"
         },
         {
@@ -42,14 +42,14 @@
     },
     {
       "symbol": "META",
-      "price": 722.145,
+      "price": 720.25,
       "prev_close": 751.6599731445312,
       "high_52w": 779.8200073242188,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -3.9266389323694963,
-      "drawdown_pct": 7.3959383937990895,
+      "day_change_pct": -4.178747607529137,
+      "drawdown_pct": 7.6389431874952995,
       "name": "Meta Platforms",
       "news": [
         {
@@ -71,23 +71,23 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "Muse Could Be the Third ‘S-Curve’ in AI So Buy Meta Platforms Stock Now - Barchart.com",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdjdLVmJTWWYyYnVIemxhVXZkbXdnV1JUQkdtNHlHbmU5el9iWmhxUjh3Q2ttZmJ4UjBCTm5FeXNFdTFSUjRyVWVlZzNYNEZmVld1RXJXblFOVUwxWWd1b2NIRjUzaVdHY09VZVVZSEVJMlc1ei0ybllqNm1DYVMzeVFNOWNrZ1Vtc2JxTno0ZFhwSnJSRVVmZ3ViRTFyLWIzNndtQjIyOGtvRlhjNDhvamJUUQ?oc=5",
-          "pub": "Sun, 27 Sep 2026 20:30:02 GMT",
-          "source": "Barchart.com"
+          "title": "MongoDB’s stock is down more than 20% as CEO decamps to Meta - MarketWatch",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeTVKSFBiUXgtRUF1N2hqdDJTS1BBRk1jREo1RnVWSzk2Y3lITEY4VC1lZFJMVndHamxIVEZjYk42MGEtOC00SVc4S0oxakxEN2pXdlRLemIwZHZBSkl2cUNjRTI4YkFyRG1GTlpwV0dvOEVmcFNCN0pQLV9HUkpLZ3JBM3lBODdLT01zLUs0dzRMZERBWlhlcUVBM3g4aEJuaHpZ?oc=5",
+          "pub": "Mon, 28 Sep 2026 13:57:00 GMT",
+          "source": "MarketWatch"
         }
       ]
     },
     {
       "symbol": "AVGO",
-      "price": 350.55,
+      "price": 349.39,
       "prev_close": 352.80999755859375,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -0.6405707248186481,
-      "drawdown_pct": 29.18181818181818,
+      "day_change_pct": -0.9693595936225643,
+      "drawdown_pct": 29.416161616161617,
       "name": "Broadcom",
       "news": [
         {
@@ -118,14 +118,14 @@
     },
     {
       "symbol": "AMD",
-      "price": 608.088,
+      "price": 605.17,
       "prev_close": 630.6300048828125,
       "high_52w": 639.0,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -3.5745214639765557,
-      "drawdown_pct": 4.837558685446015,
+      "day_change_pct": -4.037233351677213,
+      "drawdown_pct": 5.294209702660414,
       "name": "AMD",
       "news": [
         {
@@ -156,14 +156,14 @@
     },
     {
       "symbol": "RKLB",
-      "price": 73.13,
+      "price": 72.39,
       "prev_close": 73.94999694824219,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -1.1088532550124515,
-      "drawdown_pct": 51.569536423841065,
+      "day_change_pct": -2.1095294288301774,
+      "drawdown_pct": 52.05960264900662,
       "name": "Rocket Lab",
       "news": [
         {
@@ -194,14 +194,14 @@
     },
     {
       "symbol": "IREN",
-      "price": 43.42,
+      "price": 43.054,
       "prev_close": 44.125,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": -1.5977337110481549,
-      "drawdown_pct": 43.51502738572409,
+      "day_change_pct": -2.427195467422092,
+      "drawdown_pct": 43.99115589739671,
       "name": "IREN",
       "news": [
         {
@@ -232,14 +232,14 @@
     },
     {
       "symbol": "MILDEF.ST",
-      "price": 251.0,
+      "price": 250.1,
       "prev_close": 248.8000030517578,
       "high_52w": 251.7,
       "currency": "SEK",
       "yahoo_name": "Mildef Group AB",
       "exchange": "Stockholm",
-      "day_change_pct": 0.8842431355535484,
-      "drawdown_pct": 0.2781088597536705,
+      "day_change_pct": 0.522506805585426,
+      "drawdown_pct": 0.6356773937226835,
       "name": "MilDef Group",
       "news": [
         {
@@ -270,14 +270,14 @@
     },
     {
       "symbol": "IVSO.ST",
-      "price": 230.2,
+      "price": 229.6,
       "prev_close": 231.8000030517578,
       "high_52w": 336.0,
       "currency": "SEK",
       "yahoo_name": "INVISIO AB",
       "exchange": "Stockholm",
-      "day_change_pct": -0.6902515231635112,
-      "drawdown_pct": 31.488095238095244,
+      "day_change_pct": -0.9490953506444032,
+      "drawdown_pct": 31.66666666666667,
       "name": "Invisio",
       "news": [
         {
