@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-09-30T16:01:22.693349+00:00",
-  "updated_at_display": "2026-09-30 16:01 UTC",
+  "updated_at": "2026-09-30T16:30:35.000728+00:00",
+  "updated_at_display": "2026-09-30 16:30 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 230.7,
+      "price": 230.3,
       "prev_close": 227.2100067138672,
       "high_52w": 236.54,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 1.5360209423028894,
-      "drawdown_pct": 2.4689270313689033,
+      "day_change_pct": 1.359972358094312,
+      "drawdown_pct": 2.6380316225585445,
       "name": "NVIDIA",
       "news": [
         {
@@ -42,20 +42,20 @@
     },
     {
       "symbol": "META",
-      "price": 736.385,
+      "price": 737.0,
       "prev_close": 738.7899780273438,
       "high_52w": 779.8200073242188,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -0.3255293248245372,
-      "drawdown_pct": 5.569875986287714,
+      "day_change_pct": -0.2422850986857188,
+      "drawdown_pct": 5.49101163371612,
       "name": "Meta Platforms",
       "news": [
         {
-          "title": "OpenAI Launches Muse Competitor. Meta Seen As 'Clear Leader' In Personal AI Agent Battle. - Investor's Business Daily",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE02MXZ4bVNwcHRIek01ZU03bHNRQUtBNHVUS3JZZG1nZFVZcGJXQWl3cG1UUUZpZDYzSjlLaG8xdVVTYl9hUVE1X1JEbmlUakhzTmZlMXJyZkFaZ1h5c2M0N1puTUE4M2duRlFudjlSQ3hsYkhHQXh0enFzV010QQ?oc=5",
-          "pub": "Wed, 30 Sep 2026 14:16:00 GMT",
+          "title": "Meta Stock Pulls Back After Muse-Fueled Rally. What Investors Are Watching Next. - Investor's Business Daily",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQOG1ua0pCczJCRlIwcEFUalp2MmgwdDdfcXloOTh1SnJlcU9Pbk5MelN5WnZBOXNEU1FWeVp6eXFQV3MzWTJqNlhub1BLVk1aTEFrQ0tnZnNwaFk1Z2kxaS1xcURBdVpTLWRQdUZVU3lVRFJWcngtN0UwUWRab3pXZW84NVJYemZsd1M5RmRiOU5JRDJGM283dUhHZDRtRjN5UlEwdDVKUk5LOW9nempVTkNqQWhnUFR0YXhEMXV3?oc=5",
+          "pub": "Mon, 28 Sep 2026 14:46:00 GMT",
           "source": "Investor's Business Daily"
         },
         {
@@ -65,29 +65,29 @@
           "source": "Yahoo Finance"
         },
         {
+          "title": "OpenAI Launches Muse Competitor. Meta Seen As 'Clear Leader' In Personal AI Agent Battle. - Investor's Business Daily",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE02MXZ4bVNwcHRIek01ZU03bHNRQUtBNHVUS3JZZG1nZFVZcGJXQWl3cG1UUUZpZDYzSjlLaG8xdVVTYl9hUVE1X1JEbmlUakhzTmZlMXJyZkFaZ1h5c2M0N1puTUE4M2duRlFudjlSQ3hsYkhHQXh0enFzV010QQ?oc=5",
+          "pub": "Wed, 30 Sep 2026 14:16:00 GMT",
+          "source": "Investor's Business Daily"
+        },
+        {
           "title": "Stocks making the biggest moves premarket: Meta Platforms, United Airlines, Nvidia & more - CNBC",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZ0ZRTl8tR3BSSEhfYS1GX3FrRDNwS2xpV0U0LWVoeFhPZ3Y0VXNWSnZHeUtTdnV6N3JES2VmNU15c1Bpc212VmZBTzcydDJfVU1nQVFLcUtEZjV6QS1KRGVUbG1BeHFrY1pJS2YxX3pxTExKTUo5a2NYaHpEX3NYQ0RVYUlVcE9NSEU3YldxRThROTRGMlFB?oc=5",
           "pub": "Mon, 28 Sep 2026 11:29:28 GMT",
           "source": "CNBC"
-        },
-        {
-          "title": "Meta Stock Slides as Muse Faces OpenAI Threat - Barron's",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE04UVJFeE9TbFFUUm5uSXJ1cnFnZGRwdWVaVTBlNHJoSzZROEJEd0ItOFlnZzhCVENLQV95TFdnZ1hJRzFhcGdiRnN3QVVqUXlIUkh6YjJiaG1qMFJzaUpfbEl2VmktdURsNVNXVGRnR1l2UQ?oc=5",
-          "pub": "Wed, 30 Sep 2026 11:25:06 GMT",
-          "source": "Barron's"
         }
       ]
     },
     {
       "symbol": "AVGO",
-      "price": 353.31,
+      "price": 353.07,
       "prev_close": 355.1000061035156,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -0.5040850669526082,
-      "drawdown_pct": 28.624242424242425,
+      "day_change_pct": -0.5716716611161821,
+      "drawdown_pct": 28.672727272727272,
       "name": "Broadcom",
       "news": [
         {
@@ -103,29 +103,29 @@
           "source": "Yahoo Finance"
         },
         {
+          "title": "Broadcom vs. Qualcomm: Which Technology Stock Is a Better Buy in 2026? - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYklCcVIwUUNweXhvQjBzb1dhdktCZWxyMlBVc1pwYVVkV3U4OFBxSkZaS09PdW5vZmZyUG1ieFk5QXZMVHlxN3NQaWw3Zm1SYm43YjYwbk13d0VOclAxcWtBMVpfWkNvZVlZQlczQUU4SDNzOFlHWVdlSmVpUVFUeEIzVi14dS1SQXZIUVY3YnRxSExFSVhpeEI4bXctVVdUUFUtcw?oc=5",
+          "pub": "Wed, 30 Sep 2026 12:20:01 GMT",
+          "source": "Yahoo Finance"
+        },
+        {
           "title": "History Says Broadcom Stock's Best Season Starts Now. It Has Risen in 13 Straight Fourth Quarters. - fool.com",
           "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZ2FGbEtnZFJzczZDREg3YnBpNUQ1cEJJRTdKdEU0QTBxMDlVS0UybnlsQXIyYWNBZ2FFb2V6Q0J1VmVpRXR4WjB5b2xyQVNicXJCN3VrcFBvT0EzTEhNWjRJVEd4QXRjQWViSXRZSF81WURIaGhtcUdfWTVzbnNQdkpiMXVDRUFqbjdBRWt3andKQ09ZRFcwTmppSzdwazdLWms5WnlGX25hSUJFR3l5bHQ3WmU0WElxbzg3dktwaFZmbWZxMVIyR3BnSjQ2ZDliZDM0TnlR?oc=5",
           "pub": "Wed, 30 Sep 2026 08:38:00 GMT",
           "source": "fool.com"
-        },
-        {
-          "title": "3 Undervalued Tech Stocks With P E Under 16x - simplywall.st",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRHJTTjNyOG8zcHVRSlZYdmZxYXJtRmppdFhlX3RObXkyY0xzdlNOSzZPbm52Ui1XQkpPNFp6aVNZYlZZZHR4bXc4YVYyTThqYk1tZkhyaWU3MXRyWUFGeGdYWmVwTWctZzN0TS1VNVdxc3I1YnlWUzdFc0tGeXpxc1FKWm9waDhKNEI0MXFBM21RLWV3eVNRQTVaN3d5eFQ2WUNsUUZlMEhkWnlz0gGyAUFVX3lxTE5xMnYyM0FmMWt5Tk5hWHU3RE9GaUVubjdhSUVlV1ZPakc0VXJLaHUwZWFzT0NrUmFJOHFtaGtjS1U3Z3FLUGNyZDVwQ3pfaDVweG5mcEFablRkaXR2RmpnVG5WX19pdlpya2RWdDhfMThwWjM1MTJpWGZPRXNyZTVJM2pCbDNhWnJuZVNZZDRScWxCWDgzRkZTcjRFUlFDMER0aURMVTI0b0k3SlZPS19fTUE?oc=5",
-          "pub": "Wed, 30 Sep 2026 13:37:20 GMT",
-          "source": "simplywall.st"
         }
       ]
     },
     {
       "symbol": "AMD",
-      "price": 602.705,
+      "price": 602.171,
       "prev_close": 607.5700073242188,
       "high_52w": 639.0,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -0.8007319758334592,
-      "drawdown_pct": 5.679968701095455,
+      "day_change_pct": -0.8886230819714606,
+      "drawdown_pct": 5.763536776212825,
       "name": "AMD",
       "news": [
         {
@@ -135,35 +135,35 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "HPE Hikes Networking Segment Guidance, Announces AMD Helios Order - Investor's Business Daily",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUFU4ZWRELVpycTJENm1ZM3pTZU1kQ1Jaa3FQUFZTYnBseXltdjg0QkZMcVN5SzA1Ul94a0N0SkZQSk9HRjVncTZyTnNfQUFRa1dxMVlJa2loMVFZamNKU1BkemQ0MFhQUFRMaXJ5S0NsRmYyNW85TUZ3LVpmX0RLZjRxTmdmeUdjeU1qT3lrUDd4Ui00ZjVjem1OcFNzNnRQ?oc=5",
-          "pub": "Wed, 30 Sep 2026 12:44:00 GMT",
-          "source": "Investor's Business Daily"
-        },
-        {
           "title": "When AMD's CEO and the Chart Say the Same Thing, Pay Attention - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeUt2NS13MGxodmFibC00MFFxOUlZYnl6SU80UE5mV213RUpCYUszVW9fcjFKRkRRTWxnRDJEaWxnSEtRRXJxOW1aZTZaYU14TTVzbTlVTGZtdS00NHRUSVZIbEtSU0NvTEFXMXlvWmUwcWlQbnJCekZYMU5lWTlTZHFrbUprYzZOUWVYWHlGNVBSOTBB?oc=5",
           "pub": "Wed, 30 Sep 2026 13:47:17 GMT",
           "source": "Yahoo Finance"
         },
         {
-          "title": "Advanced Micro Devices vs. SK Hynix: Which Technology Stock Is a Better Buy in 2026? - fool.com",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPV1Z1VVZab2RGN3ZBRkVJRVdQMGRweFhmcC1FZk1sR1RLWkZfRVRDc1hSX1RZNTBOdEdfOXFtZVpzWnpyb01OOFo1MENRZmFzQTJXU3gxTDFZN2h5UTZmM05ROV8tdzNCVUV3TWIyVjJSdUZmd050SVpOSWU0TFhHUFVGUjZBb284WExnYWg1R0JpU2lsVVV4R0M3b0dMV0RoMWFaanF2UVRRZlRIRDRfTi1JUC1yQUhNemdidmpfMkMtMmRtSm83Yks5TVJkYlk?oc=5",
-          "pub": "Tue, 29 Sep 2026 12:00:00 GMT",
-          "source": "fool.com"
+          "title": "Should You Buy AMD Stock as the AI-Agent Chip Race Heats Up? - Currently.com",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9yNDB0SDlTWE5QcFc2SkNPQXhRUTR5Q2xmbk9SdWl2Y3pPTUtaZGg3TWZQa1JNWmdNZXp0MzNoamhCNEpmRjczRDk2dVRXMUZFOVdXSW1lS2h0WkVDcnlVVWg1b0NEbnVOdHQ2cWJSTHhGNTVfU1Q2Q01lWUtYdw?oc=5",
+          "pub": "Wed, 30 Sep 2026 14:14:00 GMT",
+          "source": "Currently.com"
+        },
+        {
+          "title": "Nvidia, AMD Collaborator Teases Breakout To Record High. These Clues Bode Well. - Investor's Business Daily",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONC1Sa0FkQkI2T1UxYkI1a3FCVjMyYnVwbjNYbXBmSzdJa2dpZjNQWWJsN3plY2Z5NF9zVHB0cjhVLUNfVW1lTFpmampOMkxKWDlyZDNFaFFaRDZDVzZTd2Uxb0Q4NWlyYVFxVnhfVWFMVjBNbzE3VDJJMGpjWVJmbkRJNzktNzFHUjFEbS1jNmtsVklYeUFuM29OOF9vSk4yY3MwdDFsYXNndTdkanY5Nkg2dk0tUVZEZ195UWpmU002U183YUlBYkJR?oc=5",
+          "pub": "Wed, 30 Sep 2026 11:31:00 GMT",
+          "source": "Investor's Business Daily"
         }
       ]
     },
     {
       "symbol": "RKLB",
-      "price": 71.473,
+      "price": 71.9,
       "prev_close": 69.69999694824219,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 2.5437634567967167,
-      "drawdown_pct": 52.66688741721855,
+      "day_change_pct": 3.1563890216401242,
+      "drawdown_pct": 52.38410596026489,
       "name": "Rocket Lab",
       "news": [
         {
@@ -173,16 +173,16 @@
           "source": "TipRanks"
         },
         {
-          "title": "Why is Rocket Lab stock rallying today? By Investing.com - Investing.com UK",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUndudFYxMGs5ZzQza0pjeVBra0NFZlphRjI5MUYtb0l1RXpRZ1diTzJmNXN6NldBcEkzay1scWhCMFJXQ0M0ZUpqTGVlMktSTjY2MEs1VUowaVBPQm10TUd6cUVwdTUxQnVfVV8zVktGUk1ma2YyNFVxZjFUS2tDZEdkOFZ2RE5IdG5kNC1pUGNCWFhYRzlTMTJlbHBEVUdp?oc=5",
-          "pub": "Wed, 30 Sep 2026 14:18:00 GMT",
-          "source": "Investing.com UK"
-        },
-        {
           "title": "AST SpaceMobile Jumps 5% on Takeover Speculation; Rocket Lab Rises 5%, SpaceX Treads Water - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQ1U4VkFKUDhHdXRMR19sS284WGhzbUpIUXNNOFp1UFJpeEtMbzR0Y2M3YzVUam0tX05fLUJFWnlWVVN1blRLM0hHRmk5Uml1Rkd2WkRmRnFsQi10WEI0akw4RXk2azRnUzlkSS1uNDVlSnFvWjdjUVZXUGVEaE5yc0lNUUN6VHJFX3RsTzdlYTIxelUtM3gybVJBMTVMQQ?oc=5",
           "pub": "Wed, 30 Sep 2026 14:03:47 GMT",
           "source": "Yahoo Finance"
+        },
+        {
+          "title": "Why is Rocket Lab stock rallying today? By Investing.com - Investing.com UK",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUndudFYxMGs5ZzQza0pjeVBra0NFZlphRjI5MUYtb0l1RXpRZ1diTzJmNXN6NldBcEkzay1scWhCMFJXQ0M0ZUpqTGVlMktSTjY2MEs1VUowaVBPQm10TUd6cUVwdTUxQnVfVV8zVktGUk1ma2YyNFVxZjFUS2tDZEdkOFZ2RE5IdG5kNC1pUGNCWFhYRzlTMTJlbHBEVUdp?oc=5",
+          "pub": "Wed, 30 Sep 2026 14:18:00 GMT",
+          "source": "Investing.com UK"
         },
         {
           "title": "Prediction: Rocket Lab Stock Trades Above $100 Again Before 2029 - Yahoo Finance",
@@ -194,14 +194,14 @@
     },
     {
       "symbol": "IREN",
-      "price": 41.165,
+      "price": 41.295,
       "prev_close": 41.380001068115234,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": -0.51957724157939,
-      "drawdown_pct": 46.44855141255947,
+      "day_change_pct": -0.2054158190458072,
+      "drawdown_pct": 46.27943472808559,
       "name": "IREN",
       "news": [
         {
@@ -299,10 +299,10 @@
           "source": "simplywall.st"
         },
         {
-          "title": "ICQ Stock Price and Chart — HAN:ICQ - TradingView",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE56ekhQOUJycE9UQlF3dFRlaVdfSzZqQ2NtN3Fxb0tLdEhVYm8xV0NXRWJUd2RqMXduTlVVZ1FPX0w3Zl94ZDAtdVB6NEtMWG9uX20xRWhGT1I3bDFQZ2NqZWYyZ0VFa0plOTdFYVcxU3VJbVU?oc=5",
-          "pub": "Tue, 29 Sep 2026 20:19:32 GMT",
-          "source": "TradingView"
+          "title": "PDT Partners takes new public short position in Invisio - marketscreener.com",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTDliTzZScEpLWXVBN2lpdnFZVnFoeVBpUTVmaXUyZDVWUG9fQ0ZLeHVsRVlPNThTRFlhRVV3UC14TzRnTTQzam1SUDYtVEIyUVhaNVZtMTE3U2RWTVZEbHpON1JTN2pkVEltb2pCM0gxcHZHMlU1Q1k4dXB2V1pORlN3bktjcjI4ZWRULWY0MjV3djc5YTdndXlDSGVnSnFJLVExaUdFdUNCTGU0?oc=5",
+          "pub": "Wed, 30 Sep 2026 07:46:16 GMT",
+          "source": "marketscreener.com"
         }
       ]
     },
