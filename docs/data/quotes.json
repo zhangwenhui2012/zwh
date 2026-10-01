@@ -1,24 +1,24 @@
 {
-  "updated_at": "2026-10-01T20:00:43.592243+00:00",
-  "updated_at_display": "2026-10-01 20:00 UTC",
+  "updated_at": "2026-10-01T20:30:34.835278+00:00",
+  "updated_at_display": "2026-10-01 20:30 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 231.03,
+      "price": 230.86,
       "prev_close": 228.3800048828125,
       "high_52w": 236.54,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 1.1603446276075176,
-      "drawdown_pct": 2.329415743637436,
+      "day_change_pct": 1.0859072879256926,
+      "drawdown_pct": 2.401285194893032,
       "name": "NVIDIA",
       "news": [
         {
-          "title": "Nvidia is approaching a breakout level. Plus, what we want to see from Micron - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPc2lpVEVLNWktSkg3alZvRWFYM0lhT3F3WFJqWklma1Q3Sm1CektaRk0yMGlHYTlHQ0dvNVVSQ3RaelNTWFpZVkl6cFBsYVNxUDBxTExOc1NlYlVwSlZvQ3g0NS0wdUFNaUYyNjhGdjkycWNVbkFTZW03TkdlczcyRlpaVW82Z1VxXzRuNHBDNkZHOHlLQ3BTQl9INnhTX19GLWhHR1gtM25MdVg2?oc=5",
-          "pub": "Wed, 30 Sep 2026 15:47:42 GMT",
-          "source": "CNBC"
+          "title": "Nvidia Adds Record $150 Billion to Stock Buyback - WSJ",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQc0FYLWRBSUpvTnE1UVdUekNzQTdsck9qYmhILVI2WGpxaGJaQl9iQjRYZzViSFc5c1FNXzJJaFgxTm9FTXZ2S2kxeEFQcGFqeFY4WkhuVXNoZW0tbUUzMG5KTkc5SWtPVGlHYmgxMHB3d1BGX1RpVFh4QUcyaFhxX1ZJN1hPZ2ktQ0NTVA?oc=5",
+          "pub": "Mon, 28 Sep 2026 15:02:06 GMT",
+          "source": "WSJ"
         },
         {
           "title": "Michael Burry Buys Put Options on Nvidia, Micron, and Palantir as \"The Big Short\" Investor Predicts a 1987-Style Market Crash - The Motley Fool",
@@ -27,16 +27,16 @@
           "source": "The Motley Fool"
         },
         {
-          "title": "Should You Buy Nvidia Stock in October? What Its Decade-Low Valuation Signals - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSC1tYWFkMmc0V2YzWV9PM2NPOF9aVkJ3SE5DX2dtYlFkTnEwSWNSdnNmZVpKS0F4S1BjTUpLa2dEdm9JZ0ZpMlJBc0R1bzFGRmlmTk9fQmhNTm9VTFVBU0ZUMVBGUzAxRm54cVByZlpJRHRvcUdTWmdRQ1gwRXl4d3ZkYl9lNV9jWkFXemVHazJrN241NGpvUTBNVUg?oc=5",
-          "pub": "Thu, 01 Oct 2026 18:50:00 GMT",
-          "source": "Yahoo Finance"
-        },
-        {
           "title": "Nvidia Authorizes a Record $150 Billion in Stock Buybacks. The Real Prize Is Where the Rest of Its Cash Is Going. - The Globe and Mail",
           "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQM1Jmc0lOLXpUX016b25tSC00UjNHOS1Pbjc1ejlXMUlxUG53TFZzWHpLd1ItampENmp1eC1UdDUyc0J1YjBRMC1kVW5TRlNDZUlXeWVid2dvRklsUWh3WWZxZ3E2MGhjM2c1VnlSbFN6RktGSWl4a2l6aXE5REttUUlTd3l6ejBUQ2JyUEtNM2pmbEFraUNlU2ZDYUlIOXoteHlTY29sRk12S3R6MUVSblpmSWtncHBvUlRzckFRZWRlZGx6SDBKajlGSXJmV0xEUHhYTzA3bDNtaXl5S1I2UnpfSHBXWmRqWWZsbnVaYXA1T2JCQkJrV3d3TEc0OWdUY3BkRm5SVEJKbmhlOUN2X0lIQm5SYWp1aHh6UE9kUC0?oc=5",
           "pub": "Thu, 01 Oct 2026 19:37:50 GMT",
           "source": "The Globe and Mail"
+        },
+        {
+          "title": "Nvidia is repurchasing its own shares—what stock buybacks mean for investors - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9VWHNSU21XV3JHRGFKUTJvMUtuNG9rZjQya0ZxSU1KZElKZ0Z4d0I3bUN5RmRnMktzcVQ0VXg1ZlhfSTdrc0FOWGlDVVBFWVl0QjFuajB3ZVNiQ1hkaVdPTjBrNHBmbnBPclNGLTJLQ2ZSV0NJYnfSAXtBVV95cUxQQ0stcGRXVURNUWVEd0RoM0pzR1ViNUpuZGc2d2RiWFJSX2JZczRNZ2tfY2VnRjNJeXhWMG91QjE2TllhbHlwd2o5a2xtV2dXS1R3ZlhCQjU2NFk0eVlKVU5UOS11bkZvZ2MyWWFPenFpUTJ1U0ZEdmVFWms?oc=5",
+          "pub": "Wed, 30 Sep 2026 19:06:18 GMT",
+          "source": "CNBC"
         }
       ]
     },
@@ -93,7 +93,7 @@
         {
           "title": "Broadcom Stock Rises. Anthropic and Broadcom Are Becoming More Intertwined. - Barron's",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONlU3MlRpX21YbFpIcUUwOWxhNHVIUVNHTl9ydGtoZ3JNcDZGbjhESGhSMmlQN1hyNWNpNGdQNWVKWlc5NUZNblNUekZpSjBmZ1VXOXo3TWxmd092LVJVaWgyamxnc2UyVkk4ZnhjcmxJWGhCYzZpcl9KQnJiR1BHUg?oc=5",
-          "pub": "Thu, 01 Oct 2026 14:11:00 GMT",
+          "pub": "Thu, 01 Oct 2026 19:13:00 GMT",
           "source": "Barron's"
         },
         {
@@ -103,16 +103,16 @@
           "source": "TipRanks"
         },
         {
-          "title": "Top Midday Stories: Micron Shares Fall Despite Strong Earnings, Guidance; Broadcom to Lend Anthropic $42 Billion for Infrastructure Spending - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOemFCVVVMbTlzbTRyYUdWeWp4T3BGcUhRUGFGUjk2Nm1jd3BiNHl1TWJ0Qnh0THpsQkRPOGZDS29JM2VtUTFEWjlHdDRBM2NocUg1Z1F4S0ZENzBENFU2Q3V0aUp6UjdWSW1xel9qSmJ5cEZJczExU0lvMUhlb3NQTGo3T3lnRVZrbWFhaFVWdXh2MnNtakw3VlFfY0lVQQ?oc=5",
-          "pub": "Thu, 01 Oct 2026 15:38:23 GMT",
+          "title": "Applied Materials vs. Broadcom: Which Semiconductor Stock Is a Better Buy in 2026? - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNDdYRGk3WmJNNEwxcFkyNXJFbUlOa256bUI5Zkd0MnFaekJyR0VCclZXMEtNM0RlOHJWd3YyVmV0dkRlY0xiYmtnVG9SVFdWbXMwVGxremNYNEFyd04tZk5OWTM3UVFrbUNjQWhnSmJqcUcydzBzVHJsVTVzYnNHTFA3R1FsdDBUN3dzR1RCenJZdGlDM0hCOW5jczNReVZrbUV0SDdpN3lac0Mz?oc=5",
+          "pub": "Thu, 01 Oct 2026 18:29:42 GMT",
           "source": "Yahoo Finance"
         },
         {
-          "title": "Why Broadcom Stock Is Worth USD 650 - Morningstar",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZndGYlItTk9zd193bl9aenNuYnZxY0Q2QnZNdjZHSTlJU1lvVXRTOHhCeC1ydlhqS3FZNGNjNlQ2UFZfeXBRMXl3MVZPMjdweWFuYVBXOWhEZjlmYndzVmVKQ1hFZXc1WEppQVdaRktLLVNJNzlkdi1ZZkk1OTdiejRoNElyQQ?oc=5",
-          "pub": "Tue, 29 Sep 2026 06:01:18 GMT",
-          "source": "Morningstar"
+          "title": "Broadcom vs. Qualcomm: Which Technology Stock Is a Better Buy in 2026? - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQUtGOG5xNjJpLXlvX0xiUmJTQmFEcENrWjQxckdKZkVaTFYtTzNSamdJd2hOem5nV1pCSjctM0tIZDJyTmQ4VkRDVC00MU1CQ3JuRHV0MUd5Z2x1UXVGbTljR1VINEt4SHphRk1vQ1ZyMnU0b1V3YVN3ZGwzNF9WcUJQdzJkUWJYSWtocEpXR2NHQmNZeEdFblhmbEpPZkE3TjdjdFFiQWlib3V4NV9ydThBNDBVX2k4VnVGcw?oc=5",
+          "pub": "Wed, 30 Sep 2026 13:00:00 GMT",
+          "source": "The Motley Fool"
         }
       ]
     },
@@ -185,10 +185,10 @@
           "source": "Barchart.com"
         },
         {
-          "title": "Stocks making the biggest moves premarket: Alphabet, Accenture, Rocket Lab, Micron and more - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPLUtaYkxFY2tmUTBJMVlpeFBla1pUNjF1WlRKWnFtTk9EV1hwTlltMm16ZUh1S3R3cWs3UHljeTdNRWhScFg1OUxRSDA0bno4TFdTN0h1bzVRaUE3NDVOdFFpRmJUM2tsREZwUGhIRURTdndaRkFSWGZEY1FtTE42T2k4Sk9aUW9yQnhFVktJTGRRY3liQmtVMl9pVXI?oc=5",
-          "pub": "Thu, 01 Oct 2026 11:51:58 GMT",
-          "source": "CNBC"
+          "title": "What It Would Take for Rocket Lab Stock to Hit $100? - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbVN5MmFyRWlYbkhIREFhYXJMSjFHaTFtSkRKMDJ0TkZXS2RjbzNIaEZXYmh0YXZHNkZLQ2FXTmZVWFo5eXdhQVBJYTFxY0lDME80ZDJ0elZHdUNDYkJmSEpJd1BUQ3pHdTZRM2VDc0EzdUFJOTlKbWNMTnJPb0haX2FtMG9mYS1TUjBaMUQ1aG1iaUlNNk8yRw?oc=5",
+          "pub": "Thu, 01 Oct 2026 14:45:00 GMT",
+          "source": "The Motley Fool"
         }
       ]
     },
@@ -205,10 +205,16 @@
       "name": "IREN",
       "news": [
         {
-          "title": "IREN Drops 18% in a Week Despite Booming AI Demand as $30B Spending Plan Raises Questions - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdXpyTFVGVXJ3MG1vdjM4cUhqeFdLRlM5dlU3V29MZGRMdmpMQ3M3TUdHdzlxanBkbkY4SGNoVE93ZWZMU1REc0Zuc1puN1BXWnhxVkt1c1BOUzdPbDNDYmhVRFZYOEE0NnN1SDIwNnc4UWNYQ3BNMG9GYURaX3ZFc2VteEJzcTh3VlhZcEZVUy11czZvZGc?oc=5",
-          "pub": "Thu, 01 Oct 2026 17:05:01 GMT",
+          "title": "Cipher Digital Slips 3% Despite 20-year Barber Lake Lease Extension; TeraWulf Retreats 2%, IREN Limited Treads Water - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTHF6MDNUZGlsdkhDVVppaDR5aVFDZURjUklja3RicndzbC1vUzVib1RJRUNoUFd1ZVJHcnBISGlFUm1kSmlFeEJLeFhBNDhYOHFJX29Xamt6MWRIZWVOLUYza2tyNU9QQUtTMVNQR29YY2k1OVI2N3hlMEdObWxKSkNNNUowdWtqTlZka2FnemtKNWJRUzdKak9JTQ?oc=5",
+          "pub": "Wed, 30 Sep 2026 16:17:48 GMT",
           "source": "Yahoo Finance"
+        },
+        {
+          "title": "IREN Drops 18% in a Week Despite Booming AI Demand as $30B Spending Plan Raises Questions - Benzinga",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdURBNXRldDZzb2wxeldDV2N0ZGFNWVZIVERrN0V4Q25VMEROSFBIbjlEazVCNzZyY0l4bFZQaHFnMl9haFAzWGh2R29JMmd3T0l1d3Z5aXctbjAxVDYtdnhsWWtwQXplRTBSb0dES1RWTmZTUXhFUUQxNEVSS3lmY3oxVmtWVFFGeU5MYU4tSFRWQWhlemVxMXlTMVZQLTN6?oc=5",
+          "pub": "Thu, 01 Oct 2026 17:05:01 GMT",
+          "source": "Benzinga"
         },
         {
           "title": "IREN: The Company Is Impressive, The Valuation Is Even More (NASDAQ:IREN) - Seeking Alpha",
@@ -221,12 +227,6 @@
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdy1LSkZBX05jSGt2OFFlRnNVNFotQmxKOUp6SU40LUdVRWdSVFRjVzJTbi1EOElxSVduZHZ0Z0tCcHV6ZnRkemRDZC0yS3g0YzdBN2Q3VWhGZF93MHhLNG9mRkM4VWtMWTZtMGRCdVN3QWNqZnRtWExyRmZKbzg4Q2g0NVZVX1pRSmZ0MHdnQjhSQlRxNFRKcjlkTW1JSnlnY1l5T3BzNGxYek1ZUzI2VzVDTlZ5bFdiUWdFOUZheFU?oc=5",
           "pub": "Mon, 28 Sep 2026 14:28:00 GMT",
           "source": "TradingView"
-        },
-        {
-          "title": "IREN Stock Falls as Analyst Says Hold, Cites a Few ‘Polarizing’ Factors - TipRanks",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdjkzNGtWUTBDbzY0OUlKOTFZZGFaWDJrSndxQmEtX2s1LXkwclBER3ZId0Y3WVNEV2FtelBsak9ZNUpUN1VlOHpvRzljWGVTU19KRy05VVhDZzFkd3YwZHRnVUxwY2xaTF83dldBMlZuMjJnVlYzNWtQelZzTjhCbWljNHZMc3NyU2pDMEpkeWhrM0I5aHA3emFIdGlPQTA?oc=5",
-          "pub": "Mon, 28 Sep 2026 11:41:32 GMT",
-          "source": "TipRanks"
         }
       ]
     },
