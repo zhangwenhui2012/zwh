@@ -1,19 +1,25 @@
 {
-  "updated_at": "2026-10-01T23:30:33.982062+00:00",
-  "updated_at_display": "2026-10-01 23:30 UTC",
+  "updated_at": "2026-10-02T00:00:46.499689+00:00",
+  "updated_at_display": "2026-10-02 00:00 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
       "price": 230.86,
-      "prev_close": 228.3800048828125,
+      "prev_close": 227.2100067138672,
       "high_52w": 236.54,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 1.0859072879256926,
+      "day_change_pct": 1.6064403759863355,
       "drawdown_pct": 2.401285194893032,
       "name": "NVIDIA",
       "news": [
+        {
+          "title": "Is NVIDIA Stock Increasing Your Market Risk? - finance.yahoo.com",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUWQ5RWxwREM0dGd2SmxOWThaV1Z0dGZJLXR2ZHNGdnpWS0RFMDBoeks3aC16cm5MXzBTS1BlQ1pZR3JkdHgteS1HY0pTa2hqT0hERjZqZGVBQnN6aUdNZVNrQVNUcmtGaTdpSlpSamdyRkhIdHpnYS1OVGJha0Q5bmtTb240OE5Ec2laNWx1V3lqLXRkY3ptdF9YYXhjeEs4Z2c?oc=5",
+          "pub": "Thu, 01 Oct 2026 18:05:59 GMT",
+          "source": "finance.yahoo.com"
+        },
         {
           "title": "Nvidia Stock Can Top $400 in 5 Years If One Assumption Holds Up - The Motley Fool",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUURjcUdFdGRyN2xaR2xpTG1LcFZKb1gwR1VCejBaTmdwY0NOaWhib042b29vSkptbDQ0Z1cxVG1hcmF5Q09NUU5YakJTNWpZMzUzaXhadGlhZjF1NXdKTDJkS2tOM21iMjZwWTF2SmtqMGlMenNlMDk1SGp1X1VlM2dNSmUtSWVqa1dTUzM2YlhsSHhMVThzbjFhbmpqVFkxRzFaamR6TWVQZWxH?oc=5",
@@ -21,34 +27,28 @@
           "source": "The Motley Fool"
         },
         {
-          "title": "How Nvidia’s Big Win at Trump’s AI Lunch Will Help the Stock - Barron's",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8xanRkQ3NLYndOMldaRWFGdFdnZDFWNzZpTnZ1RGVGTmg0M05yNXAzRnB5SzdWUjM5bXFxM0MxcVRnMjdOLUg5VUVpUEptdjdrV1BWUEwxWWNwbVRIQzk1ZnJmTHFZdXNyeUs2MUxIbV93Z0thNldYaw?oc=5",
-          "pub": "Wed, 30 Sep 2026 18:18:00 GMT",
-          "source": "Barron's"
+          "title": "You think Nvidia's $235 billion buyback is big? Just wait and see what Micron might do - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY2JhTnFqcnpPcDJNbTZGZmJUOUNSZ3FGNWw2cFpsOFE2UjZQSVA5TzJGald3RjA0SFh2NFQtLUF1dXVmY2JuMVVPdmp4TFkzNy12azEzU2FrSmhMWVpwb09iWklObGZkZEkySmZESkZzRTRhX1kwaUt6OG9tUkVRc0tGRVpnVUNIZ0E2U0g1elVLdTByMGQtZC1UNjlVeUhvQ3FUNXJzWkwzMERJMmJ2NVo1bVFlMUl3dnh3cA?oc=5",
+          "pub": "Thu, 01 Oct 2026 18:23:39 GMT",
+          "source": "CNBC"
         },
         {
-          "title": "Nvidia (NVDA) Stock Gets Fair Value Boost As AI Demand And Analyst Views Shift - Yahoo! Finance Canada",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUlc5NlBsMjlQLVVaSzh1d0JXbmxDTk1LeVNhcVRDNTNZdWlNVjVPVXgySW1TenlOOERUSjZmVzFXN2hHMUJnSzBFVXNpRWRMdXAtZGFfTzVRajF3dzBUQ05zR2tuYjNST1JDcHc3Vk1PTkcyQldlOFhfR0Jpc0swbjdB?oc=5",
-          "pub": "Thu, 01 Oct 2026 22:05:50 GMT",
-          "source": "Yahoo! Finance Canada"
-        },
-        {
-          "title": "Chinese state funds backed purchases of restricted Nvidia AI chips, report says - Yahoo Finance Singapore",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTzBQdXdUWWRIZVBRVk9QelotYzhkaHpEenp5aVpJUUx6ZWp2U2l1cm9fenFUazgxbnl3Sk1YQlpnT1Zva1VSVl9aOXN4ckhJQVpyODVuYU9QRk1PT29RSktqOHpSMHBkdTVGMUJ3X3E4VnF6YnBndkxLVXdNYjlVZXJoWkd2MGlZYkpodUpR?oc=5",
-          "pub": "Thu, 01 Oct 2026 21:59:42 GMT",
-          "source": "Yahoo Finance Singapore"
+          "title": "‘Nvidia to Sell Twice as Many Chips as This Next Year’: But Jensen Huang’s Comments Ignore the Market Share Question - Barchart.com",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNdTZSR014YnpnSlJseWVTbXVEcDAweFdBNGpqUVd4UEx2WmF0TWV0Q0tqV2NVTjRMakRHZjY3TFBjQTYxRkxid2tFTDFVa0E2MXV4aEVOQ3BzUmUwQ1dZMEFJTWw0Q051bERXT3lhMUNBbEJ1R09zVUxsenV2YkVPdkVxMXRuNFVTNnJBeW9CTXlyc1REbk9YRDV4R0ZOSUw3R3NJVE83Sk56R1EzQWFxaTBlUXJqekMtcnRXOHBBSjNWQkFpQjN0MjVkMEtwQlNuVE5JTnRSY19wZXFSTnMzZUlpNlZueTh5eXc1VA?oc=5",
+          "pub": "Thu, 01 Oct 2026 13:30:03 GMT",
+          "source": "Barchart.com"
         }
       ]
     },
     {
       "symbol": "META",
       "price": 725.93,
-      "prev_close": 725.1799926757812,
+      "prev_close": 738.7899780273438,
       "high_52w": 779.8200073242188,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 0.10342360955813334,
+      "day_change_pct": -1.7406811691844353,
       "drawdown_pct": 6.910569980004813,
       "name": "Meta Platforms",
       "news": [
@@ -81,12 +81,12 @@
     {
       "symbol": "AVGO",
       "price": 343.64,
-      "prev_close": 351.19000244140625,
+      "prev_close": 355.1000061035156,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -2.1498341037387396,
+      "day_change_pct": -3.227261590126506,
       "drawdown_pct": 30.577777777777783,
       "name": "Broadcom",
       "news": [
@@ -109,22 +109,22 @@
           "source": "Stocks Down Under"
         },
         {
-          "title": "Top Midday Stories: Micron Shares Fall Despite Strong Earnings, Guidance; Broadcom to Lend Anthropic $42 Billion for Infrastructure Spending - finance.yahoo.com",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOemFCVVVMbTlzbTRyYUdWeWp4T3BGcUhRUGFGUjk2Nm1jd3BiNHl1TWJ0Qnh0THpsQkRPOGZDS29JM2VtUTFEWjlHdDRBM2NocUg1Z1F4S0ZENzBENFU2Q3V0aUp6UjdWSW1xel9qSmJ5cEZJczExU0lvMUhlb3NQTGo3T3lnRVZrbWFhaFVWdXh2MnNtakw3VlFfY0lVQQ?oc=5",
-          "pub": "Thu, 01 Oct 2026 15:38:23 GMT",
-          "source": "finance.yahoo.com"
+          "title": "Broadcom vs. Qualcomm: Which Technology Stock Is a Better Buy in 2026? - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQUtGOG5xNjJpLXlvX0xiUmJTQmFEcENrWjQxckdKZkVaTFYtTzNSamdJd2hOem5nV1pCSjctM0tIZDJyTmQ4VkRDVC00MU1CQ3JuRHV0MUd5Z2x1UXVGbTljR1VINEt4SHphRk1vQ1ZyMnU0b1V3YVN3ZGwzNF9WcUJQdzJkUWJYSWtocEpXR2NHQmNZeEdFblhmbEpPZkE3TjdjdFFiQWlib3V4NV9ydThBNDBVX2k4VnVGcw?oc=5",
+          "pub": "Wed, 30 Sep 2026 13:00:00 GMT",
+          "source": "The Motley Fool"
         }
       ]
     },
     {
       "symbol": "AMD",
       "price": 615.73,
-      "prev_close": 611.760009765625,
+      "prev_close": 607.5700073242188,
       "high_52w": 639.0,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 0.648945692919023,
+      "day_change_pct": 1.3430538995363601,
       "drawdown_pct": 3.641627543035991,
       "name": "AMD",
       "news": [
@@ -157,12 +157,12 @@
     {
       "symbol": "RKLB",
       "price": 70.46,
-      "prev_close": 69.68000030517578,
+      "prev_close": 69.69999694824219,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 1.1194025422044591,
+      "day_change_pct": 1.0903918006225584,
       "drawdown_pct": 53.33774834437086,
       "name": "Rocket Lab",
       "news": [
@@ -173,34 +173,34 @@
           "source": "Barron's"
         },
         {
-          "title": "Citi Just Upgraded Rocket Lab Stock. Here's Why. - Barchart.com",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdUxyUmJpQkpkMnQ4bXRzMGEtdUZITGN1OV9Ja2FXTjhPZmpaa0prLVB1V3ZJbjZ5VHExVzJSZk80dEJ5aEp2azhjazVBTGxSY01mTnNGZHQ5dTEtd29tdmxfbFByU1R0VHdzemF6d2ZqdlBSd3JNUElxNGRwZmtZTFlJMjdtZ2ZqWTFDcWhkS08zRml3?oc=5",
-          "pub": "Thu, 01 Oct 2026 17:36:46 GMT",
-          "source": "Barchart.com"
+          "title": "Intuitive Machines vs. Rocket Lab: Which Space Stock Can Send Your Returns Into Orbit in 2026? - The Globe and Mail",
+          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPeGNabE1xWE1WMjdDYndSYmZGS2RVd21FcDYyN2RBblpldk1ObFZGUmRHNkZkaDZwVUNFd2xFRTE3c3hKLWlwSWRxUEhpbW9FWDRfeF83SHpPY3hZbzI5YTh4bm4xRkhIdUoxRHNyVkpWX3BzSWVWVHZsZlVXNXBiRUVXUnZMSTA2b2V5RWhIQzFiZEVMT0I5Nm5kQ0RJU2IwYldPMGlLTkhSM0ZvVzhndklFNXp2M2hYakg0bnNxUVZVWXo5S0NFT3dHLTFDcXlrZ1JBbUJMNEk5RmszMWJLdGhQcXI2OVJ3U0o5T1E3dkpfYTlUdUJBdlE0UjFIMDQ?oc=5",
+          "pub": "Thu, 01 Oct 2026 23:14:35 GMT",
+          "source": "The Globe and Mail"
         },
         {
-          "title": "Rocket Lab rated Buy at Citi as ‘core holding for space bulls’ (RKLB:NASDAQ) - Seeking Alpha",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZUY2MjNwZTZWMEotU3hMU3ViMWVpWVowak9oWFNhLUM0OG02TWVYVVV1RlFEaE9rM1lxMHUxSHZScEM4QmNHU2cyb1ZNM2pJY1hMNkVIVHpnam1kSldNNDJJUlJXdUxYOTFPNWwtZ0gtT2lfbS1DdWRwYlVDcVBIN2NVZ213VW9SU0RYUFQwZUR1clpfQTI3QUJDa0ZyUlE?oc=5",
-          "pub": "Thu, 01 Oct 2026 12:58:47 GMT",
-          "source": "Seeking Alpha"
+          "title": "Stocks making the biggest moves premarket: Alphabet, Accenture, Rocket Lab, Micron and more - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPLUtaYkxFY2tmUTBJMVlpeFBla1pUNjF1WlRKWnFtTk9EV1hwTlltMm16ZUh1S3R3cWs3UHljeTdNRWhScFg1OUxRSDA0bno4TFdTN0h1bzVRaUE3NDVOdFFpRmJUM2tsREZwUGhIRURTdndaRkFSWGZEY1FtTE42T2k4Sk9aUW9yQnhFVktJTGRRY3liQmtVMl9pVXI?oc=5",
+          "pub": "Thu, 01 Oct 2026 11:51:58 GMT",
+          "source": "CNBC"
         },
         {
-          "title": "Intuitive Machines vs. Rocket Lab: Which Space Stock Can Send Your Returns Into Orbit in 2026? - finance.yahoo.com",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSVFKOWhfY0M3VjVLRFA4dHZldldPSEFCV0VHT3BnX3RnZzZFdFpiYkIzb1h6ZzdoMUJQQkRyTW5qdTQ4bmRkRXNGTmJDR0ZkRVdJeDFsNER4SzNMeXAtQ05wT0puSDV5dkNqb0lvSkFERFRLZE5tQXNEaUxPYzE0Slk1ZGpQaWxOOUJrbWozN3JiNkZrWlpHbTExX2NKZw?oc=5",
-          "pub": "Thu, 01 Oct 2026 23:10:01 GMT",
-          "source": "finance.yahoo.com"
+          "title": "Elon Musk Lowers Starship Expectations, Rocket Lab Surges On Electron Deal - Investor's Business Daily",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdmR4TEo3ck1aSjA1eDZ1eVVWTE1qT0tUX2xHOXgwUXhoLWV5NzFiU0pnUTcxb1dnZmE1T0p5Mk0xbXNSejc0UXJBc2lhM1M2Q29xZlhJUDNjZGItLXl0aHNvMFRCZVdLSDJkdE1kcVhIQ1haU3JMZ2xVNHZqeFMxcGdCS2FDa2I5Q3pGaU5QWmdkSzBOTV9RV0lYY0dNQnN3LXJ4Q3lVWEctd1A0cDhn?oc=5",
+          "pub": "Thu, 01 Oct 2026 20:59:00 GMT",
+          "source": "Investor's Business Daily"
         }
       ]
     },
     {
       "symbol": "IREN",
       "price": 40.65,
-      "prev_close": 40.880001068115234,
+      "prev_close": 41.380001068115234,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": -0.5626249073037022,
+      "day_change_pct": -1.7641398000777908,
       "drawdown_pct": 47.11851366259061,
       "name": "IREN",
       "news": [
