@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-10-02T01:31:08.683926+00:00",
-  "updated_at_display": "2026-10-02 01:31 UTC",
+  "updated_at": "2026-10-02T02:00:42.373527+00:00",
+  "updated_at_display": "2026-10-02 02:00 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
       "price": 230.86,
-      "prev_close": 227.2100067138672,
+      "prev_close": 228.3800048828125,
       "high_52w": 236.54,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 1.6064403759863355,
+      "day_change_pct": 1.0859072879256926,
       "drawdown_pct": 2.401285194893032,
       "name": "NVIDIA",
       "news": [
@@ -28,27 +28,27 @@
         },
         {
           "title": "The Semiconductor ETF's 2026 Return Is About 3 Times Nvidia's - The Globe and Mail",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPdjRsMC14Q0xKbjByV1EyMkdEUVRQeGNjeFU3ZlVkRDVoQzhCOTBqLUw4Y0hvNDdXXzZiMW51SWVrNThfdmN3dnFvVTJXQ0diblBEZ3JYc1hJUGc3QnQ1cENmRFRNeF9pMFdDMVlvQmxyaE1HZ0w4aGhnM3JIWnZmMjlmOE81TlN6THZmb3RuLVQxbGVtV1c3a1h1clFYYmptdXpVQ0pvLS10TDZyR25BQVFXcmdsdUlkOUFuU09DOGUwNkkwc0VZT2x0Qm5CeXBXbmxmV1hEXzJ6VGZmWGVn?oc=5",
-          "pub": "Fri, 02 Oct 2026 00:47:20 GMT",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPSTVDYTdfZ0RyZnREQm1PQkNzd2NPS3ViazFEMXlVTXlmMTdxSUJCalBvTWtWNlE2N2dqWW1KcnUySW1XSnBqWmswUVltSTdNanVkMzI1U29HeUtvSFJ1NXN1bHNDaUZrcmV0VG8wWmZOWkdQNDd3WGNoRmh3ZnhFRko5UjJQakJ3NjZwWW1sZ1Q2NDFFUVhsUWVEeC1OUDc1OW5TNE8xem8yTDBURUFBQnZYVVFVZEw5bE5nRmQtMXZhQ3lNUVo0dWFWZUxTbmw0cjl1T3JvNVVKbzRuVTU3OFl3?oc=5",
+          "pub": "Fri, 02 Oct 2026 00:49:40 GMT",
           "source": "The Globe and Mail"
         },
         {
-          "title": "You think Nvidia's $235 billion buyback is big? Just wait and see what Micron might do - cnbc.com",
+          "title": "You think Nvidia's $235 billion buyback is big? Just wait and see what Micron might do - CNBC",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY2JhTnFqcnpPcDJNbTZGZmJUOUNSZ3FGNWw2cFpsOFE2UjZQSVA5TzJGald3RjA0SFh2NFQtLUF1dXVmY2JuMVVPdmp4TFkzNy12azEzU2FrSmhMWVpwb09iWklObGZkZEkySmZESkZzRTRhX1kwaUt6OG9tUkVRc0tGRVpnVUNIZ0E2U0g1elVLdTByMGQtZC1UNjlVeUhvQ3FUNXJzWkwzMERJMmJ2NVo1bVFlMUl3dnh3cA?oc=5",
           "pub": "Thu, 01 Oct 2026 18:23:39 GMT",
-          "source": "cnbc.com"
+          "source": "CNBC"
         }
       ]
     },
     {
       "symbol": "META",
       "price": 725.93,
-      "prev_close": 738.7899780273438,
+      "prev_close": 725.1799926757812,
       "high_52w": 779.8200073242188,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -1.7406811691844353,
+      "day_change_pct": 0.10342360955813334,
       "drawdown_pct": 6.910569980004813,
       "name": "Meta Platforms",
       "news": [
@@ -81,12 +81,12 @@
     {
       "symbol": "AVGO",
       "price": 343.64,
-      "prev_close": 355.1000061035156,
+      "prev_close": 351.19000244140625,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -3.227261590126506,
+      "day_change_pct": -2.1498341037387396,
       "drawdown_pct": 30.577777777777783,
       "name": "Broadcom",
       "news": [
@@ -119,20 +119,20 @@
     {
       "symbol": "AMD",
       "price": 615.73,
-      "prev_close": 607.5700073242188,
+      "prev_close": 611.760009765625,
       "high_52w": 639.0,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 1.3430538995363601,
+      "day_change_pct": 0.648945692919023,
       "drawdown_pct": 3.641627543035991,
       "name": "AMD",
       "news": [
         {
-          "title": "Why It’s Time to Load Up on AMD Stock - Barchart.com",
+          "title": "Why It’s Time to Load Up on AMD Stock - barchart.com",
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZVRWdjF0OXhMMmEwOG5tbE9uZHloRE40aHpFQ01adms5Z3ZxdGpQeWZHZmFFMXNHdEpwSzRsVWlWR3ZwSzVyMmk2RFN0M2hHXzFudEhyTUxxUS0wR0ZDeXlIb0k4MU9FYU12aUhXU1RjWGZxV2R6Y1RZNjNTejNSSzZWRzZkUEE?oc=5",
           "pub": "Thu, 01 Oct 2026 16:03:47 GMT",
-          "source": "Barchart.com"
+          "source": "barchart.com"
         },
         {
           "title": "History Says AMD Stock's $1 Trillion Milestone Isn't a Ceiling - Yahoo Finance",
@@ -157,12 +157,12 @@
     {
       "symbol": "RKLB",
       "price": 70.46,
-      "prev_close": 69.69999694824219,
+      "prev_close": 69.68000030517578,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 1.0903918006225584,
+      "day_change_pct": 1.1194025422044591,
       "drawdown_pct": 53.33774834437086,
       "name": "Rocket Lab",
       "news": [
@@ -173,34 +173,34 @@
           "source": "Barron's"
         },
         {
-          "title": "Stocks making the biggest moves premarket: Alphabet, Accenture, Rocket Lab, Micron and more - cnbc.com",
+          "title": "Stocks making the biggest moves premarket: Alphabet, Accenture, Rocket Lab, Micron and more - CNBC",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPLUtaYkxFY2tmUTBJMVlpeFBla1pUNjF1WlRKWnFtTk9EV1hwTlltMm16ZUh1S3R3cWs3UHljeTdNRWhScFg1OUxRSDA0bno4TFdTN0h1bzVRaUE3NDVOdFFpRmJUM2tsREZwUGhIRURTdndaRkFSWGZEY1FtTE42T2k4Sk9aUW9yQnhFVktJTGRRY3liQmtVMl9pVXI?oc=5",
           "pub": "Thu, 01 Oct 2026 11:51:58 GMT",
-          "source": "cnbc.com"
+          "source": "CNBC"
         },
         {
-          "title": "Is SpaceX's Starship a Threat to Rocket Lab Stock Now That It Has Reached Orbit? - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTEtTcFdVQXVmbDF6dHBtOVFybWhuM0tZaG4tZzY0V29IcU1EZHVlcDdRaFZBTmtnRW1uWUZ6MWZLdDQ4UVFnSFVGSjV4Y1VPUVFKVm9DSGFKaGxlLUJrNlZXbHA0QWd4ZGI0cTZZT1piZ2VqTWs1V3RrMnJteFBrWXRrZmZTTGYtb3pzNmNHZmJWV056ZHZoZkhIV29POXd1?oc=5",
-          "pub": "Thu, 01 Oct 2026 03:27:00 GMT",
-          "source": "Yahoo Finance"
+          "title": "Elon Musk Lowers Starship Expectations, Rocket Lab Surges On Electron Deal - Investor's Business Daily",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdmR4TEo3ck1aSjA1eDZ1eVVWTE1qT0tUX2xHOXgwUXhoLWV5NzFiU0pnUTcxb1dnZmE1T0p5Mk0xbXNSejc0UXJBc2lhM1M2Q29xZlhJUDNjZGItLXl0aHNvMFRCZVdLSDJkdE1kcVhIQ1haU3JMZ2xVNHZqeFMxcGdCS2FDa2I5Q3pGaU5QWmdkSzBOTV9RV0lYY0dNQnN3LXJ4Q3lVWEctd1A0cDhn?oc=5",
+          "pub": "Thu, 01 Oct 2026 20:59:00 GMT",
+          "source": "Investor's Business Daily"
         },
         {
-          "title": "Citi Just Upgraded Rocket Lab Stock. Here's Why. - Barchart.com",
+          "title": "Citi Just Upgraded Rocket Lab Stock. Here's Why. - barchart.com",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdUxyUmJpQkpkMnQ4bXRzMGEtdUZITGN1OV9Ja2FXTjhPZmpaa0prLVB1V3ZJbjZ5VHExVzJSZk80dEJ5aEp2azhjazVBTGxSY01mTnNGZHQ5dTEtd29tdmxfbFByU1R0VHdzemF6d2ZqdlBSd3JNUElxNGRwZmtZTFlJMjdtZ2ZqWTFDcWhkS08zRml3?oc=5",
           "pub": "Thu, 01 Oct 2026 17:36:46 GMT",
-          "source": "Barchart.com"
+          "source": "barchart.com"
         }
       ]
     },
     {
       "symbol": "IREN",
       "price": 40.65,
-      "prev_close": 41.380001068115234,
+      "prev_close": 40.880001068115234,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": -1.7641398000777908,
+      "day_change_pct": -0.5626249073037022,
       "drawdown_pct": 47.11851366259061,
       "name": "IREN",
       "news": [
@@ -217,10 +217,10 @@
           "source": "Benzinga"
         },
         {
-          "title": "Iren Stock Falls as B. Riley Cuts Its Price Target to $91 — Here’s Why - TipRanks",
+          "title": "Iren Stock Falls as B. Riley Cuts Its Price Target to $91 — Here’s Why - tipranks.com",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObFA4dnVIcEliejlNNUF1T1BVd25wQXpzS21PNUQ1WV9Mbm1rcmFFOFRkVlo1T3VmVHhYREhHTzdXVERXLUxoTnA1UXlQajBFSjJxbEZpRFY0aEhJS1FIbC1pblU0UXBvSlU4YXdkTlFxNlZuYzYtZm5hWHEzT3RMZzJzRjJzM3g2b0UwdjZOR1lUSVU4THFjOEItOA?oc=5",
           "pub": "Tue, 29 Sep 2026 19:11:46 GMT",
-          "source": "TipRanks"
+          "source": "tipranks.com"
         },
         {
           "title": "IREN vs. Riot Platforms: Which Bitcoin-to-AI Stock Looks Stronger Now? - TradingView",
