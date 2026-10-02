@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-10-02T17:30:34.926010+00:00",
-  "updated_at_display": "2026-10-02 17:30 UTC",
+  "updated_at": "2026-10-02T18:00:48.657254+00:00",
+  "updated_at_display": "2026-10-02 18:00 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 234.345,
+      "price": 234.77,
       "prev_close": 230.86000061035156,
       "high_52w": 237.87,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 1.5095726329527577,
-      "drawdown_pct": 1.4819018791777046,
+      "day_change_pct": 1.6936668887252557,
+      "drawdown_pct": 1.303232858283934,
       "name": "NVIDIA",
       "news": [
         {
@@ -27,29 +27,29 @@
           "source": "Barron's"
         },
         {
-          "title": "Jensen Huang’s Fortune Breaks $200 Billion As Nvidia Stock Reaches Record High - Forbes",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQkVJaTNnN3Y1ckE1N0I5ZTlSLVc3VzJnMHJBZ3YtOXpLS0w4SnhSZ1ZMNWZPOHFJbjljdVM0cEpQLWJlaWNNNUViTVdJb1lMc3FmWVZqeEtBV0F1aGNfTko1SkRCNkpBY0lQd3hja1F5dU9ETW9MZUtRRW9EVHNjQk9Oem1DeHlvc2dZYkctNHotWHF0elR3YkgzZEtyNVNWZzJwZElRWl9HVHd0OVA2TVBmYnYwbElQQjRiOUxYNUVieFdiRGxsQQ?oc=5",
-          "pub": "Fri, 02 Oct 2026 16:00:35 GMT",
-          "source": "Forbes"
+          "title": "Nvidia stock hits record high, market cap nears $6 trillion - qz.com",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0xYnVoTk52QXZzVmtVUmNNTVhNVzhlSE1ndjgxU1dOdUhtcGc1bGRfQ1JpSmRWTU5pb3FLdDNtRGlLM0V1TXpPMnpIeG81d2hjM1hqVnNKMlJTR3pmSk1FUURUWDJIalZoWXlMZzVjaFpzMndpdWx3?oc=5",
+          "pub": "Fri, 02 Oct 2026 17:55:01 GMT",
+          "source": "qz.com"
         },
         {
-          "title": "Nvidia just hit a record high. Here’s why the stock still looks cheap to me - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNUR5TERmRzdwODhyRGhNSlk3MzVqTUVKVnFwaHdOSzlSd0VwcWc1bDBYNXJsekU3UHQtbUdxT2pfeDZsME1fd0NEWFdCZnVCOVpyU1N6cGt1cHZQUXdNSDFrSm5vYWtrdEI3djF6NVFVTjU4MVd0OGFuMDJVVWRCdWtKYjY0VjQtNFVGTGh2TXVmdC1mZlcxUHI4Sm8?oc=5",
-          "pub": "Fri, 02 Oct 2026 16:36:07 GMT",
-          "source": "CNBC"
+          "title": "Jensen Huang’s Fortune Breaks $200 Billion As Nvidia Stock Reaches Record High - forbes.com",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQkVJaTNnN3Y1ckE1N0I5ZTlSLVc3VzJnMHJBZ3YtOXpLS0w4SnhSZ1ZMNWZPOHFJbjljdVM0cEpQLWJlaWNNNUViTVdJb1lMc3FmWVZqeEtBV0F1aGNfTko1SkRCNkpBY0lQd3hja1F5dU9ETW9MZUtRRW9EVHNjQk9Oem1DeHlvc2dZYkctNHotWHF0elR3YkgzZEtyNVNWZzJwZElRWl9HVHd0OVA2TVBmYnYwbElQQjRiOUxYNUVieFdiRGxsQQ?oc=5",
+          "pub": "Fri, 02 Oct 2026 16:00:35 GMT",
+          "source": "forbes.com"
         }
       ]
     },
     {
       "symbol": "META",
-      "price": 729.06,
+      "price": 728.535,
       "prev_close": 725.9299926757812,
       "high_52w": 779.8200073242188,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 0.4311720628433431,
-      "drawdown_pct": 6.509195307567273,
+      "day_change_pct": 0.3588510394255305,
+      "drawdown_pct": 6.576518535372289,
       "name": "Meta Platforms",
       "news": [
         {
@@ -80,14 +80,14 @@
     },
     {
       "symbol": "AVGO",
-      "price": 352.35,
+      "price": 353.56,
       "prev_close": 343.6400146484375,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 2.5346248924105397,
-      "drawdown_pct": 28.818181818181817,
+      "day_change_pct": 2.886737553457268,
+      "drawdown_pct": 28.573737373737373,
       "name": "Broadcom",
       "news": [
         {
@@ -97,10 +97,10 @@
           "source": "Barron's"
         },
         {
-          "title": "Prediction: Broadcom Stock Could Be Much Higher by 2027 - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMHhRZjhoSWRsWUN6SUdyTm14dkVVODIwdmhVdTJkcUQtMGF5Mm15UmpobVdiY3M3OEc3dFZpeXZTc2c3R3o5VXdrWXFES3dxNnVHd2xONzR0M1Q3RFFnSVBRREhYdTNnNkV5TXhQVG9LMTg4VUx5S3pUMi1zRjB2RHBBLXR2MHhBM1c1NkxBU1JqM0RaWTJ2MDMyMWpBN2tpbVQw?oc=5",
-          "pub": "Fri, 02 Oct 2026 15:30:09 GMT",
-          "source": "Yahoo Finance"
+          "title": "Is Broadcom a Millionaire-Maker Stock? - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbkJ0cGJkVDBicndpMm42SlZERmtPNk1VXzcycmt1bUNwVUpib1FGN0o2ZDBIbGZycWpOWHdyT1JOMHN1aENyZXB4czZwdlp5N1gxVnZISHI3UEY2NXh5U0ZYdEQ1MGVTUmMtQXUxOU53akJGZmdhYXVGak1JSXhDbGp5N3EyQUk?oc=5",
+          "pub": "Thu, 01 Oct 2026 14:30:00 GMT",
+          "source": "The Motley Fool"
         },
         {
           "title": "Stocks making the biggest moves midday: Tesla, Broadcom, Nike, ON Semiconductor & more - CNBC",
@@ -109,23 +109,23 @@
           "source": "CNBC"
         },
         {
-          "title": "Broadcom, Marvell, and SanDisk Are Quietly Building Toward a Massive Bull Run - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNT3JWcWNkakFmSjR5cklDbmxab2ktNjBJMWtoMHg1blUxTFNNd1p4N3lxVFFEMjJXQWlWRVFVWS0yb0dnblNlYVZlWm9XZW01aTFZWnRtWWxkcW50Tm1wUTlBSUxfbHVXdWY2c1JQZGIyU3FiOUc1SG1WZXYydTd2ZnFiVk4xQlcyRW1pSkRGUWIxNFp6U25TSGhFTElPWGNid0hKWWtKWlBxUQ?oc=5",
-          "pub": "Fri, 02 Oct 2026 16:45:35 GMT",
-          "source": "Yahoo Finance"
+          "title": "Watch Nike Slides on Job Cuts; Broadcom Gathers AI Chip Funding | Stock Movers - Bloomberg.com",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNGR1dmxMNWNsR3NlTGZNemczYWN2YWVRbm1YMm9UVmVrb3RoQjJYYnAycGswRGZ2dFF3Z3hpVUhvdGw4cjVQNktVMXkxQ1dJNW5yRlNUN20wdHlxVzRQT3JDWDl5eWQ4YUppTGVzR0hSSnRXd1lNelpiSnloZ21jV2h6ZXVvZVFUZ3ByUVFvbFAwb01tUEN5NGJsZzV6alZ2NUdEcXZfWU9EYkxuZmc?oc=5",
+          "pub": "Fri, 02 Oct 2026 15:43:05 GMT",
+          "source": "Bloomberg.com"
         }
       ]
     },
     {
       "symbol": "AMD",
-      "price": 629.455,
+      "price": 631.54,
       "prev_close": 615.72998046875,
       "high_52w": 645.46,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 2.2290646820220283,
-      "drawdown_pct": 2.4796269327301452,
+      "day_change_pct": 2.5676871409142574,
+      "drawdown_pct": 2.1566014935085165,
       "name": "AMD",
       "news": [
         {
@@ -141,29 +141,29 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "AMD Climbs 3% as Chip Stocks Extend Their Run; Arm Jumps 8%, NVIDIA Rises 2% - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTFI0T2JmY3NJSUVxRnEyQndVaWQ5MDBIU3IyT2tOd3FDdnF2NWpHQlB1TWhBak1qQk1xN2Rla1FrLXp2TUlhZzJqOUw1eEl2U1U1NlQ2a2I3WWtQUFFqS09HX2lEa3g2UlMwVGp6a0toT2lpZldkU20yTzgyRUNsMXRQaHE3STVrQXdENmQ2SmtvSUE?oc=5",
-          "pub": "Fri, 02 Oct 2026 15:47:31 GMT",
-          "source": "Yahoo Finance"
-        },
-        {
           "title": "Why It’s Time to Load Up on AMD Stock - barchart.com",
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZVRWdjF0OXhMMmEwOG5tbE9uZHloRE40aHpFQ01adms5Z3ZxdGpQeWZHZmFFMXNHdEpwSzRsVWlWR3ZwSzVyMmk2RFN0M2hHXzFudEhyTUxxUS0wR0ZDeXlIb0k4MU9FYU12aUhXU1RjWGZxV2R6Y1RZNjNTejNSSzZWRzZkUEE?oc=5",
           "pub": "Thu, 01 Oct 2026 16:03:47 GMT",
           "source": "barchart.com"
+        },
+        {
+          "title": "Advanced Micro Devices vs. Arm: Which Tech Stock Is a Better Buy in 2026? - fool.com",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSnFRLU1kcDlnU1pENzBEa192aS1fYzd1c3FYUDltNmZaZ2ZIVlNmSHRRYWZ0bmZJeEZwUjNGR3VzRzJoZy1LNVJVYWNjX2F0dTZVMHpGSHY2ZW9pdWZhQTc1SF9lYzBzTXhPOVpWZFdibmxJMktETjN6M05YYi1RenctNElvYllFRXVtMGZSVUxjZGY0bExIVmRMTl9RUE05V0FQUGZTTkZkekdHZWJfZGFYX25vVk5pWTd4NmlHSlg?oc=5",
+          "pub": "Wed, 30 Sep 2026 23:40:00 GMT",
+          "source": "fool.com"
         }
       ]
     },
     {
       "symbol": "RKLB",
-      "price": 73.68,
+      "price": 74.31,
       "prev_close": 70.45999908447266,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 4.569970135348676,
-      "drawdown_pct": 51.20529801324503,
+      "day_change_pct": 5.464094472825185,
+      "drawdown_pct": 50.788079470198674,
       "name": "Rocket Lab",
       "news": [
         {
@@ -194,14 +194,14 @@
     },
     {
       "symbol": "IREN",
-      "price": 41.068,
+      "price": 41.3,
       "prev_close": 40.650001525878906,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": 1.028286490604391,
-      "drawdown_pct": 46.57473847712845,
+      "day_change_pct": 1.599012176438134,
+      "drawdown_pct": 46.272930240221214,
       "name": "IREN",
       "news": [
         {
@@ -211,22 +211,22 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "Why is IREN stock surging today? By Investing.com - Investing.com UK",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOM3hmQnUxcjZhTFpzMURmWGRfQkJNdEpNTGZRbG13X1BUYTgtUm5mRTUzLXZUdktKZU9aS3BoZzRXLU51QkhTcWVuNzNNVmNub3VPLVhwcG43WU1mdDVRMW1KV2JWWkFpR19GQjNFME5CcDBheXJzeWM3REN0NFVCR0Vac2oxcUFNUmpUQ1VpS0NnNmk4eEsw?oc=5",
-          "pub": "Fri, 02 Oct 2026 14:06:00 GMT",
-          "source": "Investing.com UK"
-        },
-        {
-          "title": "IREN Drops 18% in a Week Despite Booming AI Demand as $30B Spending Plan Raises Questions - Benzinga",
+          "title": "IREN Drops 18% in a Week Despite Booming AI Demand as $30B Spending Plan Raises Questions - benzinga.com",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdURBNXRldDZzb2wxeldDV2N0ZGFNWVZIVERrN0V4Q25VMEROSFBIbjlEazVCNzZyY0l4bFZQaHFnMl9haFAzWGh2R29JMmd3T0l1d3Z5aXctbjAxVDYtdnhsWWtwQXplRTBSb0dES1RWTmZTUXhFUUQxNEVSS3lmY3oxVmtWVFFGeU5MYU4tSFRWQWhlemVxMXlTMVZQLTN6?oc=5",
           "pub": "Thu, 01 Oct 2026 17:05:01 GMT",
-          "source": "Benzinga"
+          "source": "benzinga.com"
         },
         {
           "title": "AI Cloud Backlog Sends IREN Stock Surging Higher - TipRanks",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOT3JYTWcyVldvaC1uWVk2ZzY1YmdsLTJ2Vk1KcEQ1MEhIeVJnNkM4NnZzS2dTOC1kTmQxSzQ4X2pIQldrVDJkbDg4VUlKUGtKU09xSXI0ZF9fUmZvb1dhbzBxWXBJM2h6VXFGRFYtRmxoazVTQ1d4d3Nlbms3RTlfemc2MmVma0dpTGgyRnBEdEs?oc=5",
           "pub": "Fri, 02 Oct 2026 14:55:51 GMT",
           "source": "TipRanks"
+        },
+        {
+          "title": "Applied Digital Spikes 7% as Another 75 MW Comes Online at Polaris Forge 1; IREN Advances 6% - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWi1Pem1zdEJWdXh6RUs2R28wRWl1Z2VhQTAtQmFjN2liSlRRY0FDUktKSXR2cWY5TElKYjBXeEY5THhkcE5CTzdabWg3aFlCa0lUTXlPQWhfcG1vZ3JKUTJqSEt6aS1pNHo3ZWxPSlRxOTJnTVJMN3RCUkJYVEdMSmg4aEE0akYxRzhwQVNJbHRacGJtVGVUMlRwSzM?oc=5",
+          "pub": "Fri, 02 Oct 2026 13:40:47 GMT",
+          "source": "Yahoo Finance"
         }
       ]
     },
@@ -255,16 +255,16 @@
           "source": "marketscreener.com"
         },
         {
+          "title": "MilDef Group AB Earnings and Revenue – HAN:8QA - TradingView",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5MWnlVdmhEdHVSbnEwaEk0VC13eGtzUFZFVDN4bURDdmJtd1pKclNNZTV2UFFRRnRhS0dpTVk5UGVpRDNwOXBQeDAwbmRZZGcxNWdiTlE2Vm56QlllekZKaFpiWWNwUXpyRlhDNko3OC0zQQ?oc=5",
+          "pub": "Tue, 29 Sep 2026 20:58:25 GMT",
+          "source": "TradingView"
+        },
+        {
           "title": "Making Battlefield Tech Fuels an 80% Rally for Swedish Stock - Bloomberg.com",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWFZjRE0wOVJoN0E4MHI1dUJOOHZySlIzcHRjbXA2LVlnOW9FbGx4VzktajJlaXJ1S0VhRm8zMUVSWjhVekY5RGxsaWR3WWRQZ2pFdjZOQzF0Ml9yb3FJS3FycTJjZExXMy1VcmpwOVdiQjdvaEhONlh2Y28yNDVKRENpRWVoel9nV1VJU2dYMUlybTZkUFlVZEIya3VETV9sTlJ4dEVPd0t5UDFJMU9Ec0ZvRE0?oc=5",
           "pub": "Fri, 21 Aug 2026 07:00:00 GMT",
           "source": "Bloomberg.com"
-        },
-        {
-          "title": "MilDef Group (OM:MILDEF) Stock Turnaround To Profitability Tests Bullish Narratives After Q2 Earnings - Simply Wall Street",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQWh3OW13WUJIaXlYOW9waGdUS1ZhaXkyV3NpLWx6Z2I1S2tvX001N3RoVE1sbFVyNzZ5aXhuR2d5ZVd0cG45ZEJBRTNPUS1IcTZHUHRaeEFhN01CNnlxdGhQR1ZUUTRqMS1iMGQxd1N2UWI2SGJFREZjNFVkVXBkel82T1l0ek9QSHVXalFoUGhxN2NkYzNoN0NKNGx5ZWM2S0JpdEwwcjEzbXpKeGpveDJUSkxnWnRpREZ1eUowR3FWQmxpMll1SG52UlFPaGxneDhzWnVISWpUZ9IB3wFBVV95cUxPMHloUkVRcUlsVmlMUFlPRUNMYTdGajY1M2ZMZjU2VTBQb3lUUnZFOVY1R0k0T0xsTDhIa2JPT21NX0VrX2tTMGdZS2Y0THJYekNrcDRBLVFra242WFBrYXlZYnVaRXFLXy1PV0VIcUsxeE00VVgwcDlBWHhWQkIyQ3l2OGNKcnA3UkdBU2tMaENGVEY0djVROU9aWXh0a0k1YTlTMGV5cnQwQjZtY3pBTFBvenM4QUgwVlJ6VENfdWhUa0UxU2FUMmhRY3F4dnNTN2ltSmZ5TU1vSnNXaFpF?oc=5",
-          "pub": "Fri, 17 Jul 2026 07:00:00 GMT",
-          "source": "Simply Wall Street"
         }
       ]
     },
