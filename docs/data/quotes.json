@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-10-02T15:30:39.916193+00:00",
-  "updated_at_display": "2026-10-02 15:30 UTC",
+  "updated_at": "2026-10-02T16:00:47.932962+00:00",
+  "updated_at_display": "2026-10-02 16:00 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 234.71,
+      "price": 235.53,
       "prev_close": 230.86000061035156,
       "high_52w": 237.87,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 1.6676771114397262,
-      "drawdown_pct": 1.3284567200571726,
+      "day_change_pct": 2.0228707343419456,
+      "drawdown_pct": 0.9837306091562633,
       "name": "NVIDIA",
       "news": [
         {
@@ -27,29 +27,29 @@
           "source": "Barron's"
         },
         {
-          "title": "Nvidia Stock Climbs After Morgan Stanley Names It a 'Top Semiconductor Pick' - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOd05BNkoxZ1c4V0h5cGpUSWNmNS1jQXJaVjhxYzBTQnVSM2cwYTJPclMyNll6TnFxOHJQVjlOUzgxWlVGcGh3N2tBaU5jNWRCV29WaHBHWDNzWGFOdGFQRGVMT2RDbnRhTkRBT0RGakdVakxRTDRGVHZsWHRwek9teHUzcm8wcVBSellUSEZHYXM0NUhtc1NHRVFDdVI4YzQt?oc=5",
-          "pub": "Fri, 02 Oct 2026 12:55:16 GMT",
-          "source": "Yahoo Finance"
+          "title": "Stock Market Finishes Strong, Yields Off Highs; Micron, Meta, Nvidia, Tesla In Focus: Weekly Review - Investor's Business Daily",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOT19UNWZHMDltSVhsUkVxSGhING9vRzJldUVwMDI3ZWRHc09xLXdOTlJ0clRhRmlXRzJOTWtNQk50cEN6cE4zU3R0emJ0RWstQzRIcXN4SGx6M3I2SVZzcGVmZ1JURVdWa3c2LWRtNC1kY1NtekRoNVdWYjVWTG5PUFNDbGlDU2tvNjFSR05kTmswT3FhcWsySmVmZ3A5VzNtN2c?oc=5",
+          "pub": "Fri, 02 Oct 2026 15:39:00 GMT",
+          "source": "Investor's Business Daily"
         },
         {
-          "title": "Nvidia hits record high as AI optimism, buyback lift shares - Yahoo Finance Singapore",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcjJ1RnFfSVdGbjJXUHFBS2FJVmxDaUNjT0FRQUV6TmkwLVk3dEhnNnlWb3JQTzlXYU1FZ2hiWmV1ZVBNbFh4LVFHM2tXNy1qT1RGRGFXeWQyV3B0ZTY3Z3M1ZU85VmJJUW01Wlh1WVZuUjZWb3kyczExdm5TWXJJQw?oc=5",
-          "pub": "Fri, 02 Oct 2026 14:42:16 GMT",
-          "source": "Yahoo Finance Singapore"
+          "title": "Nvidia Isn’t the Only AI Stock With Massive Upside Potential - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeng1X2p6ZjlvcDJWTTgxVklwc2t4ZmJpRU01eDZpSWlzakZpUnNmdklxWDMyaWVUcGJ1OEdUZl9pTW13NmxjbVhRWWNWVFB2SmtoMzgtY1JMb3R1aGlDN05NYmZGQ3FMeU9sVnZLb0E1bDZGSmpMUEN4TG5hellxRHpsLWhIbF9HUDVRWQ?oc=5",
+          "pub": "Fri, 02 Oct 2026 15:00:16 GMT",
+          "source": "Yahoo Finance"
         }
       ]
     },
     {
       "symbol": "META",
-      "price": 731.07,
+      "price": 729.24,
       "prev_close": 725.9299926757812,
       "high_52w": 779.8200073242188,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 0.7080582667858522,
-      "drawdown_pct": 6.251443521113758,
+      "day_change_pct": 0.45596784230088866,
+      "drawdown_pct": 6.486113058034114,
       "name": "Meta Platforms",
       "news": [
         {
@@ -80,14 +80,14 @@
     },
     {
       "symbol": "AVGO",
-      "price": 352.045,
+      "price": 354.59,
       "prev_close": 343.6400146484375,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 2.445869221650824,
-      "drawdown_pct": 28.879797979797978,
+      "day_change_pct": 3.1864698186458025,
+      "drawdown_pct": 28.365656565656572,
       "name": "Broadcom",
       "news": [
         {
@@ -97,10 +97,10 @@
           "source": "Barron's"
         },
         {
-          "title": "Broadcom: Get Ready For A Breakout (NASDAQ:AVGO) - Seeking Alpha",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jUzdJNzM1S2NXRUNPN25GaG5pNWlGRjh4WlZIbXc5WWh1WHVXNTJfV243NWoyXzR4cXZ2T1JtaWpISzM2Q0dyTjVkOS1RVUtwd2d4cldjS2lJSjA3QmJpdXZTRmVlWVR0SUlONnNxdDNvWU9FVHNmTEgyMTI0QWc?oc=5",
-          "pub": "Thu, 01 Oct 2026 23:29:49 GMT",
-          "source": "Seeking Alpha"
+          "title": "Broadcom vs. SK Hynix: Which Technology Stock Is a Better Buy in 2026? - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQX1U0Vk56aWhZbE1fM3dvbE1NRDNwM1g4RDRfb3Jyekg5LU1ERzZoZ1RWWkNUb3VXQm1OQ1AxbWlIUV85and2RVBYZ1A1R3lrSTJlV2p6bmpUdkQ0cG5RVUNEeWQ3ZFphc3IwZmR6bkRNYzlBdWF5VEFEVTR6M240Tk9TUE1SbDktdnZKV3UyQ1I5WmJSOWIzekRBQWY?oc=5",
+          "pub": "Wed, 30 Sep 2026 14:35:01 GMT",
+          "source": "Yahoo Finance"
         },
         {
           "title": "Broadcom: The Anthropic Panic Looks Overblown - Seeking Alpha",
@@ -109,23 +109,23 @@
           "source": "Seeking Alpha"
         },
         {
-          "title": "Correction: Top Midday Stories: Micron Shares Fall Despite Strong Earnings, Guidance; Broadcom to Lend Anthropic $42 Billion for Infrastructure Spending - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNX2dHYWVwS016Mi1ZX1pwNUR0enRqcU9BZjd1MllNQl9sWUtZX1ZOVFo1ZlNpWnpoU1g5OE5xaEp0Q1ZDbTZSOTlSdnh3QlVTaFV6UmZLUHFydmU4a05CVHBfT043M0tKT2NCa0ZPQndRbXJVNUZZY0ZNbjBld0tUYmFBYUNsS0F3Y2RxeVpUcC1WV21zRWJMVWhMUnpRZnBQU1Bz?oc=5",
-          "pub": "Fri, 02 Oct 2026 12:23:22 GMT",
+          "title": "Broadcom to lend Anthropic up to $42 billion to lease chips, in latest circular investing deal - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNQlJmeEJQTjhxdTVYWnlpcmw5VDFMREN0N19PN3pYY1BkTjMzZnI3cmticEpGWjVDZmo2V3dwNTRTLWxaUHk4V1lsWXBZVGlhcFplM2pMYUNwU0RXR0c1WVFZMTk2TE4xUUFPS0ZzYVJKOS1MTnhDVEFYZ0NGMnc2RlM3cUdMOVU3eG9URVRvOEJ2TEd4QkNkMnd1UHFKZFBldldWcFBoZGY3aVkzZjl2R1p5M3d4YnB4WFJUMDY0cVZqNGR6cDVFQ2RoZzBmeE1rN0hYOTRBSl8xajBiQlpEYUItRnVlVEk?oc=5",
+          "pub": "Thu, 01 Oct 2026 14:37:32 GMT",
           "source": "Yahoo Finance"
         }
       ]
     },
     {
       "symbol": "AMD",
-      "price": 633.57,
+      "price": 634.585,
       "prev_close": 615.72998046875,
       "high_52w": 645.46,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 2.897377112881298,
-      "drawdown_pct": 1.8420971090385132,
+      "day_change_pct": 3.0622220988648094,
+      "drawdown_pct": 1.6848449168035198,
       "name": "AMD",
       "news": [
         {
@@ -156,14 +156,14 @@
     },
     {
       "symbol": "RKLB",
-      "price": 73.79,
+      "price": 74.03,
       "prev_close": 70.45999908447266,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 4.726087083162034,
-      "drawdown_pct": 51.132450331125824,
+      "day_change_pct": 5.0667058783911765,
+      "drawdown_pct": 50.97350993377483,
       "name": "Rocket Lab",
       "news": [
         {
@@ -194,21 +194,21 @@
     },
     {
       "symbol": "IREN",
-      "price": 41.884,
+      "price": 41.87,
       "prev_close": 40.650001525878906,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": 3.035666489054119,
-      "drawdown_pct": 45.51320605766163,
+      "day_change_pct": 3.001226145943455,
+      "drawdown_pct": 45.531418623681894,
       "name": "IREN",
       "news": [
         {
-          "title": "IREN Limited (IREN) Stock Price, News, Quote & History - ca.finance.yahoo.com",
+          "title": "IREN Limited (IREN) Stock Price, News, Quote & History - Yahoo! Finance Canada",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE50WnJ3ZExTUGdRUTFaYXFGcjdxNldRQlJuSkJMbFZZb0ctYTh2SEdVRm0xRjNNRGhGRFBHenFxUXJIWnJuRFhDaTUzX1djVGw2bGc?oc=5",
           "pub": "Wed, 30 Sep 2026 15:19:15 GMT",
-          "source": "ca.finance.yahoo.com"
+          "source": "Yahoo! Finance Canada"
         },
         {
           "title": "Why is IREN stock surging today? - Investing.com",
