@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-10-03T01:30:33.879422+00:00",
-  "updated_at_display": "2026-10-03 01:30 UTC",
+  "updated_at": "2026-10-03T02:00:43.580944+00:00",
+  "updated_at_display": "2026-10-03 02:00 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
       "price": 233.95,
-      "prev_close": 228.3800048828125,
-      "high_52w": 237.87,
+      "prev_close": 230.86000061035156,
+      "high_52w": 237.8800048828125,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 2.438915403318952,
-      "drawdown_pct": 1.6479589691848557,
+      "day_change_pct": 1.338473265823024,
+      "drawdown_pct": 1.652095511242553,
       "name": "NVIDIA",
       "news": [
         {
@@ -21,34 +21,34 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "Nvidia Defies Critics—as Its Stock Falls Just Shy of First Record Since May - Barron's",
+          "title": "Nvidia Defies Critics—as Its Stock Falls Just Shy of First Record Since May - barrons.com",
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObmhMZDU4ZE5HTWxGajFKbHlIRV9fV1YxZlZ1SjYzdkVLdEMzaHUySXVOdXAxMTM4eW9XeGVCWjZqYXhVcjdmcHI4NjkyV2tHSlF5STB4eGtFcUk0UnppZkFOOXdYNEUzVEVnVnBhUzdoQURvOE9kVEpOYXZVR0R6ZEpXd1c5Znc?oc=5",
           "pub": "Fri, 02 Oct 2026 20:10:00 GMT",
-          "source": "Barron's"
-        },
-        {
-          "title": "Cerebras stock hits post-IPO low, tumbling 20% for the week on Nvidia pressure and lockup expiration - cnbc.com",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcGpZNU9hQWZGQVJxWVFoOFRqcDZ1eVh6RkNvUUlGUnMxYjBSY3lPOS1HOHU2cTlRMmQ1RVBieS1FekpCNkdtRkpQbkJOX1MxZnhlUWc3UWh5a0E5UG81LUJsOV9FQld6eDBHYU5HcUVJZ1AxbERSb3EtRGRHREVZZUdUbHl0ZXNscUJKWEJQeXJMLU5Rd3hQbjNOWWRMZWtiN2NUREplNENaZ9IBrwFBVV95cUxQRFFDMzBLbWk0ZjB0SzVPS3VNU3FqTGFMbXB3cU1BRlBnd0lZdnFYNXRBZlZtOF9kSnEzVUFRS2ROZTFmTURVaXZRVWtmUXlUeG0tRTVLdkxISDIyUkZsdXh1VjJYdkRyazI5dzREZFRTSEFJcDZ6RkR6cHdJS2lJLUVJRVJya1F4dGRWT0pYYTZHbkRzTWF2RzRuNkZHVTdicFY0aWl5aG1DajN6c08w?oc=5",
-          "pub": "Fri, 02 Oct 2026 21:45:06 GMT",
-          "source": "cnbc.com"
+          "source": "barrons.com"
         },
         {
           "title": "Nvidia and Micron Can't Make AI Chips Without This Growth Stock. Here's Why It Could Soar. - The Motley Fool",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPazZSOHNzQW9TSkJDNzlOYk5QOTVTbE9LeUd4S3RDb2tNZkQyUXItUklzMmhfckVZc2M3SDB3N1pSMGhXeThSOFdUeTZRNV9DVURmNWhiZjVwaHF3OGMyMWNsNlRMTWQ1a1VEUi1ZSHRIN3JHSlZrTl9fbHd2dVZCT3hJNktKNVVGdXJQSTVvbmYtSzlxYXZn?oc=5",
           "pub": "Fri, 02 Oct 2026 12:00:00 GMT",
           "source": "The Motley Fool"
+        },
+        {
+          "title": "3 AI Chip Stocks To Watch After Nvidia Stock Hit A Fresh All Time High - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSGtKSEV2U3hSYWE5djM3VUZKVEpqYmRZTENGZWtqT3JhMkdHLW5pYk1hY0ZoZlB3WFJGaHU1WFJ2Sm1RNHJCLV94US1JcFlPRzkyN3VPTm9SbFVFT0xQc1E1eDZjZ1hLMnV4VGd2N0xpTEd6TjhoN3h2blpUR1NGMjV1YzRXR3h5cHhxSFRDMA?oc=5",
+          "pub": "Sat, 03 Oct 2026 01:11:00 GMT",
+          "source": "Yahoo Finance"
         }
       ]
     },
     {
       "symbol": "META",
       "price": 728.08,
-      "prev_close": 725.1799926757812,
+      "prev_close": 725.9299926757812,
       "high_52w": 779.8200073242188,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 0.39990172833068593,
+      "day_change_pct": 0.2961728191301002,
       "drawdown_pct": 6.634865332803296,
       "name": "Meta Platforms",
       "news": [
@@ -81,26 +81,26 @@
     {
       "symbol": "AVGO",
       "price": 355.14,
-      "prev_close": 351.19000244140625,
+      "prev_close": 343.6400146484375,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 1.1247465847928766,
+      "day_change_pct": 3.3465210282125026,
       "drawdown_pct": 28.25454545454546,
       "name": "Broadcom",
       "news": [
         {
-          "title": "Broadcom to lend Anthropic up to $42 billion to lease chips, in latest circular investing deal - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNQlJmeEJQTjhxdTVYWnlpcmw5VDFMREN0N19PN3pYY1BkTjMzZnI3cmticEpGWjVDZmo2V3dwNTRTLWxaUHk4V1lsWXBZVGlhcFplM2pMYUNwU0RXR0c1WVFZMTk2TE4xUUFPS0ZzYVJKOS1MTnhDVEFYZ0NGMnc2RlM3cUdMOVU3eG9URVRvOEJ2TEd4QkNkMnd1UHFKZFBldldWcFBoZGY3aVkzZjl2R1p5M3d4YnB4WFJUMDY0cVZqNGR6cDVFQ2RoZzBmeE1rN0hYOTRBSl8xajBiQlpEYUItRnVlVEk?oc=5",
-          "pub": "Thu, 01 Oct 2026 14:37:32 GMT",
-          "source": "Yahoo Finance"
-        },
-        {
-          "title": "Broadcom Stock Rises. Anthropic and Broadcom Are Becoming More Intertwined. - Barron's",
+          "title": "Broadcom Stock Rises. Anthropic and Broadcom Are Becoming More Intertwined. - barrons.com",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONlU3MlRpX21YbFpIcUUwOWxhNHVIUVNHTl9ydGtoZ3JNcDZGbjhESGhSMmlQN1hyNWNpNGdQNWVKWlc5NUZNblNUekZpSjBmZ1VXOXo3TWxmd092LVJVaWgyamxnc2UyVkk4ZnhjcmxJWGhCYzZpcl9KQnJiR1BHUg?oc=5",
           "pub": "Thu, 01 Oct 2026 19:13:00 GMT",
-          "source": "Barron's"
+          "source": "barrons.com"
+        },
+        {
+          "title": "Top Midday Stories: Micron Shares Fall Despite Strong Earnings, Guidance; Broadcom to Lend Anthropic $42 Billion for Infrastructure Spending - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOemFCVVVMbTlzbTRyYUdWeWp4T3BGcUhRUGFGUjk2Nm1jd3BiNHl1TWJ0Qnh0THpsQkRPOGZDS29JM2VtUTFEWjlHdDRBM2NocUg1Z1F4S0ZENzBENFU2Q3V0aUp6UjdWSW1xel9qSmJ5cEZJczExU0lvMUhlb3NQTGo3T3lnRVZrbWFhaFVWdXh2MnNtakw3VlFfY0lVQQ?oc=5",
+          "pub": "Thu, 01 Oct 2026 15:38:23 GMT",
+          "source": "Yahoo Finance"
         },
         {
           "title": "Broadcom: The Anthropic Panic Looks Overblown - Seeking Alpha",
@@ -119,26 +119,26 @@
     {
       "symbol": "AMD",
       "price": 633.91,
-      "prev_close": 611.760009765625,
-      "high_52w": 645.46,
+      "prev_close": 615.72998046875,
+      "high_52w": 645.4600219726562,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 3.620699274354494,
-      "drawdown_pct": 1.7894214978465075,
+      "day_change_pct": 2.952596122964432,
+      "drawdown_pct": 1.7894248411167404,
       "name": "AMD",
       "news": [
         {
-          "title": "Why Did AMD Stock Jump? - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcUctWkdYc09UREVVX09VaU5tTXdJQmtjZ3dFWGJwcnFBeHJjOHlDYldUOWEteWhVY0Z6M0dHX3dGREF6M1BaMm5lMTNRU1JRVFB3NnZHbUhLSllOQXQ0WEwyNDd2cWZNSkw4NVlkQ3k3bUZtVVVSMlBuWVgwdEh4TXVvNjZGWDF6UUQwLUZFVWk?oc=5",
-          "pub": "Thu, 01 Oct 2026 18:13:21 GMT",
-          "source": "Yahoo Finance"
+          "title": "Why Did AMD Stock Jump? - Trefis",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPR3BCSkxUSzBvWE56dDg0RklvT2ZMcHhvMDhwMDZJVUpYeEpaMjlzY3dKTnc5ZDk5ZVVfZ3U5OGMydDliTmlaaS01WEU2QVUxSS1KQS1KNDdxR0dWUnBWRTJOcjVPbGNQaUEwLTNsVW1Ub2JQQ3JWeU5JTjk2RVh3M2doLW9xS2g5TEE?oc=5",
+          "pub": "Thu, 01 Oct 2026 18:12:49 GMT",
+          "source": "Trefis"
         },
         {
-          "title": "Why AMD Stock Jumped 30% in September - The Globe and Mail",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxON0ZnSmJ6QVhsMjhaaXpaSUVxOF9ITWtITEVvcFMzV0NKRHRMWm5Nc0JVUXFlRzA5eFk4ek94Z0NLeWIyN3FlbmpxTENFSXgyT2ZheEQtbUxIMEpMb2tuNzNoY2tFdTZ0VUw5ZFNKZDFDdWZIbEVNM3I5UEsybTlablR0YUtvRTFib2tnU3Z5ZkFJR3pLY2l6MGIxUUFCS3ZOdnZvemFWN1ZsbkR4WWNnWlg5ODRCN0VsTmM3Vw?oc=5",
-          "pub": "Sat, 03 Oct 2026 00:54:12 GMT",
-          "source": "The Globe and Mail"
+          "title": "Why AMD Stock Jumped 30% in September - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORkg3UkVKOVJ3S0ZONDFCNE9XaUk0LTdVOVViYTRBTHhOUU8xbG9RQXBmQXMwZ1JlQ1NnMkJPU19tbzBqVTY1ZWpqcEpkMHoxTkNGeEFJZk1EMmx6aDFIQmN0YzQ4MlRKajk1emxOY1d1M0hPTjRDdmhsSl9IOHVBUVZPWW9FRURMTHZ5Vk52UTlpQQ?oc=5",
+          "pub": "Sat, 03 Oct 2026 00:50:00 GMT",
+          "source": "Yahoo Finance"
         },
         {
           "title": "Why It’s Time to Load Up on AMD Stock - Barchart.com",
@@ -147,35 +147,29 @@
           "source": "Barchart.com"
         },
         {
-          "title": "SA Asks: Does AMD still have upside after its latest rally? (Update) (AMD:NASDAQ) - Seeking Alpha",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYVozbnR2WFd6RS16dDJ1eWxaTllKVU1GajQxRVBxZk1KRnEtZGNiZl9NSjVHTmxlcFhrQWF6enI2ZmhKZlM5N21aTml1WGFWMTZpLS1UZ2JuSVVtaWhMRkxyaXNGTF94bXd2NFYwS3hSU0otX2dTSnhaUHRiREstdXB0NXBtaG1xOUVra0c0aWVDMU5FcElEOWpQNA?oc=5",
-          "pub": "Fri, 02 Oct 2026 20:32:00 GMT",
-          "source": "Seeking Alpha"
+          "title": "AMD Climbs 3% as Chip Stocks Extend Their Run; Arm Jumps 8%, NVIDIA Rises 2% - 24/7 Wall St.",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOUVMNnlzM3F6SjRudU9qR25WZnl1bklOSVozNWJJVVhZSTE4dUZDTDdxc3RyaDd1djVwYmdnV1dyS2hITnJ4REtGMmVJeC0xN1REMXVGOGp5dTU0RHNacERQYW1wMzZ0M0ZzZTNJWmZKeDl5b19PQmNzRjBCSS1wWVkwRFFNOFJJNlFfVUFBYlNJVnd1NndsZG5jcmFHYTJHVVl1QWcyTS1ueVo2bEJCZ1hKd2F2Zw?oc=5",
+          "pub": "Fri, 02 Oct 2026 15:47:00 GMT",
+          "source": "24/7 Wall St."
         }
       ]
     },
     {
       "symbol": "RKLB",
       "price": 73.92,
-      "prev_close": 69.68000030517578,
+      "prev_close": 70.45999908447266,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 6.084959351685416,
+      "day_change_pct": 4.910588930577817,
       "drawdown_pct": 51.04635761589403,
       "name": "Rocket Lab",
       "news": [
         {
-          "title": "Rocket Lab Stock Rises on Record Electron Launch Deal and Citi Buy Rating - Barron's",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQV2YwTU5nUkEwXy1mbXYwRHNpTjVreTdzc3h1UzMyZ19Za1dhaHZIa2s4TEtWTUtJNmJNVWE5V1NnNlRuRUtnOUNDOEd3cG8wZmZRMTRibmFXNElJN0k2RzdGX0tlamFNUWVYWWZBUFNxcklqb1AxcWFWNFBmNHRVU19rbzF5UQ?oc=5",
-          "pub": "Thu, 01 Oct 2026 14:28:04 GMT",
-          "source": "Barron's"
-        },
-        {
-          "title": "EnerSys, FTAI Infrastructure, Rocket Lab, Redwire, and RXO Stocks Trade Up, What You Need To Know - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVEtESmJNcmpneF9MOHMwamZ4WGl3OXpkTlFtZk1BaGotTFV2bkc2WUFwODJubXNBcl9VcTdKaHJYSFU1aTRsaWJfbnVsejNCZ0hCdGduNndoUWlidzV2RkFPekxoVmJTWlNaMjVpN21XX3BnM3Fod2hFU0lrZHFuSTB4dnNoZkFnQ2NIczE2eEpRTkhWUzFsVGdrNTMwWktoYnoxR3FB?oc=5",
-          "pub": "Fri, 02 Oct 2026 22:54:03 GMT",
+          "title": "SpaceX Climbs 6% on Fresh Falcon 9 Rideshare Launch; Rocket Lab Jumps 7%, AST SpaceMobile Ticks Up - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUkpEcEl5Z3pSV1B5a1ZDbVdEWXkyY0pUSDh6aEF5QU5fSmQyS1l3b0dtVEJxc25jOG5hZURieXBnUUJuYlF5am5PYTRYZ29xRGMwMWhETGxPb1c4N0FJRjFjeDhrUGdzbmlmbTdQRTBuenlFQ2NOeFJvdnkyVC1VMlRPQnlfSFQ3emlCTFZacVBKTXVjUzJhUA?oc=5",
+          "pub": "Fri, 02 Oct 2026 14:47:28 GMT",
           "source": "Yahoo Finance"
         },
         {
@@ -183,6 +177,12 @@
           "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQk1rUHdkV2R4OC1DSnFYbzdqVWFRZ1IwMjdaUXVRSWo3ODliTDl1QmFfc2o4Um5rRXhaYWJtN0N1NzliYTdOOWtPN2FSRkt0MjBiZTVMcm55X2FkNlJiZEtkb21ubFFKYVpEQXlpdnlPX09GN1dFZmV3V3VKdkxHMWh1OFIyd2oxdG50clZoUW9udWYwN1pNTUVoTUxha3VacWZNeTlEUkpBYkVheUpZQ0V1d01FcVZWWUxSV1JKT29adktBWTBWVkt2aVo4aTZZckNyb1N4YlZXR0Vz?oc=5",
           "pub": "Thu, 01 Oct 2026 23:50:00 GMT",
           "source": "The Motley Fool"
+        },
+        {
+          "title": "Why Is Rocket Lab Stock Surging on Friday? - Benzinga",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdVlHR3Z4SkVqelJUQWNyTVhHeTZSczdYcTBBYnhHN2VONjhtWUJTTzVaRHdJemFhY080dkV3b1ZIeTFJR3d5RVlkYzZZSjdqeVFIY1JMREhnR2Q4WTl5dHJYVXFZbFUwMlZjSjI3ZDkwcFA0YnAzcHRSV0pJVVgtdjEtS2MyQUxZcFFTcEt1QzdGaEVDV1NWRHRFUjdkQmkyNmNmXw?oc=5",
+          "pub": "Fri, 02 Oct 2026 16:03:04 GMT",
+          "source": "Benzinga"
         },
         {
           "title": "Musk, Huang Forecast AI-Powered GDP Gains; ARK Buys More Rocket Lab - Investor's Business Daily",
@@ -195,20 +195,20 @@
     {
       "symbol": "IREN",
       "price": 41.76,
-      "prev_close": 40.880001068115234,
+      "prev_close": 40.650001525878906,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": 2.1526392096186306,
+      "day_change_pct": 2.7306234500740088,
       "drawdown_pct": 45.67451735669825,
       "name": "IREN",
       "news": [
         {
-          "title": "What's Going On With IREN Stock Friday? - benzinga.com",
+          "title": "What's Going On With IREN Stock Friday? - Benzinga",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWl9VeVRaMS1qOXZvUUZQN2JGYkRocHEydkpidnBpbWdUeUR6b0lEa0Zick9xdUdLRW9pOXVQSTllRXB0VjcwTHN4WG1jaFh2VVpaZkMwNEtOSUpFNi1xaDE1UHJPdVYybUZyODJUWE5adHB2RGJXQUphTE9RU3BnUlZNalBvZmM4LTM2eThOR3FLeXRpY3ZvOFVjekphcGVYYmc?oc=5",
           "pub": "Fri, 02 Oct 2026 16:05:51 GMT",
-          "source": "benzinga.com"
+          "source": "Benzinga"
         },
         {
           "title": "Why is IREN stock surging today? - Investing.com",
@@ -217,10 +217,10 @@
           "source": "Investing.com"
         },
         {
-          "title": "IREN (NASDAQ:IREN) Stock Jumps 2.7% - Still a Buy? - MarketBeat",
+          "title": "IREN (NASDAQ:IREN) Stock Jumps 2.7% - Still a Buy? - marketbeat.com",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTzc3YlFKclFZd3ROdEhWY2RPa2VkTnFkVjRxc0E5b0dIVGxmam9EMDRxdU9ueHZaZ0s0MFByTF9zdjBHcW03b1A0NXlCZ3RnN3dUTV9Sd2V5RmNEWE9lZnBKdHRUb3JkdTlrdnR5NmJtTmNSNVRwaUgyM3FBSnVTR2w2S2YtWDc2UlAwYkstb1I2UHpuUUdEM3JJUWMwSS1GaEtNeU93?oc=5",
           "pub": "Fri, 02 Oct 2026 21:23:17 GMT",
-          "source": "MarketBeat"
+          "source": "marketbeat.com"
         },
         {
           "title": "IREN Stock Slips, But A Top Wall Street Bank Is Bullish With Double-Upgrade And 50% Upside - Stocktwits",
