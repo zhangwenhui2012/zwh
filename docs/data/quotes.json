@@ -1,24 +1,24 @@
 {
-  "updated_at": "2026-10-05T17:30:35.587949+00:00",
-  "updated_at_display": "2026-10-05 17:30 UTC",
+  "updated_at": "2026-10-05T18:00:44.204798+00:00",
+  "updated_at_display": "2026-10-05 18:00 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 237.5,
+      "price": 237.605,
       "prev_close": 233.9499969482422,
-      "high_52w": 237.8800048828125,
+      "high_52w": 237.98,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 1.5174195760058915,
-      "drawdown_pct": 0.15974645830350595,
+      "day_change_pct": 1.5623009615026475,
+      "drawdown_pct": 0.157576266913186,
       "name": "NVIDIA",
       "news": [
         {
-          "title": "The Stock Market Dynamic Has Shifted, Just Look at Intel and Nvidia - Barron's",
+          "title": "The Stock Market Dynamic Has Shifted, Just Look at Intel and Nvidia - barrons.com",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMVluVzVER3NydFdyRGFfYnRZcElBSVhRNGtIdmxFSi1KNDdtTm9adkJnN0RpcXozdFNScERaMTdndzR5VU1aYWdoVlZsYkNoNHAzbWJOUG52dGE5SF9ocFRMZmpJNDE0MEppMHBRZGxqTTNkSWRDOEpWUkUtcE5rdU9pWUhsUkxILVdzcHBlcUN2dw?oc=5",
           "pub": "Mon, 05 Oct 2026 14:04:00 GMT",
-          "source": "Barron's"
+          "source": "barrons.com"
         },
         {
           "title": "Top Three US Stocks to Watch This Week: PepsiCo, Delta Air Lines, Nvidia - Benzinga",
@@ -42,14 +42,14 @@
     },
     {
       "symbol": "META",
-      "price": 743.71,
+      "price": 743.27,
       "prev_close": 728.0800170898438,
       "high_52w": 779.8200073242188,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 2.1467397186135893,
-      "drawdown_pct": 4.630556665008158,
+      "day_change_pct": 2.0863068005726926,
+      "drawdown_pct": 4.6869799416447515,
       "name": "Meta Platforms",
       "news": [
         {
@@ -71,23 +71,23 @@
           "source": "Seeking Alpha"
         },
         {
-          "title": "Meta Platforms, Inc. $META Stock Acquired by Eastern Bank - MarketBeat",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRGtKZTNMVXRDSWpUanphZjNtX1BpVWtVeG50bUpZdVVKZ00xOWQ1RVo3XzhzNnJITkk1dldGZkgwalpuanNWR3c0cThBbjVqV0h2NVpXc2VUQTVIak1Jbks3Q2JEUnlHbkNocmM2RGpSUTd2Nl9nN2w4WGc5cGhKYm01NE5lV1JYSFRzQ1ZBeEc3ZGQxak55ZmJUU3duTmROckxvTmcxNUZ1ZjA4SnFvRHFFLWRVdw?oc=5",
-          "pub": "Mon, 05 Oct 2026 17:15:31 GMT",
-          "source": "MarketBeat"
+          "title": "Better Artificial Intelligence Stock: Alphabet vs. Meta Platforms - fool.com",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSHhqbXhmOGhyVE56QVkxWEQzc1hLZHBLdDJlamprb1VYRThIWm1heHRFdngtNXVGQ191OFhDTHRrdkJSb3Nudlh5Sm1GVlh4Q2RFYTd3amRBTTVPRlptdkZWODU5aFNpaXVBYUluLTBjaE9oaG9lSF9NZThZWS1mMXZPNWpEVWd4VlBoUjlpeEZMeXFmWmhfblg0bmFkSGFaX3NEYW8zSVFWcU8tWDBnSzdzVVgwVDQ?oc=5",
+          "pub": "Sun, 04 Oct 2026 01:46:00 GMT",
+          "source": "fool.com"
         }
       ]
     },
     {
       "symbol": "AVGO",
-      "price": 363.065,
+      "price": 362.95,
       "prev_close": 355.1400146484375,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 2.231510115639222,
-      "drawdown_pct": 26.65353535353535,
+      "day_change_pct": 2.1991285209845475,
+      "drawdown_pct": 26.676767676767675,
       "name": "Broadcom",
       "news": [
         {
@@ -95,6 +95,12 @@
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSVJpeGVzNXV5QndFR2ZNQzZfUVphc1phakNqR3ZyVW95RUFXcUhFQ2xJUUFzZHUtMnB6QjZLZl9UNUpnYjd0R25sdHYtYzNnekxQT2Q1bE9CU1FVd1djSlZ5T1FSX0RNMzZid3kyVVA3NW93X3lqX3pOalZJZU1OSzlhYjk2MkVMcVJlVTFOOVJyMTZzb19ILWM5Yw?oc=5",
           "pub": "Fri, 02 Oct 2026 15:32:06 GMT",
           "source": "TipRanks"
+        },
+        {
+          "title": "Broadcom vs. Micron: Which Semiconductor Stock Is the Better AI Buy over the Next 3 Years? - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbnRZTEJ1MnFKX0xJOEdBc3YyeE9IY01pUHVNMnpnVGdTWElKdTd6bHFMVG14amtrazdIY1VBSFNEaGU2N2NwMDZBNjZucHAtMXVvZ2JtaU14MTVLYTJRdmJBSHF2cXhTZXNNR1h6UkhUMjdFcmFfU09SUnU5aDJ2M1F4Zlh1NklGZk41WEduTF80QkQxRWVORHloLWttaEt0OFdLWA?oc=5",
+          "pub": "Sun, 04 Oct 2026 09:59:00 GMT",
+          "source": "Yahoo Finance"
         },
         {
           "title": "Taiwan Semiconductor Gains 2% to Record as Musk Confirms Early Terafab Talks; Broadcom Rises 2%, Qualcomm Pulls Back - Yahoo Finance",
@@ -107,63 +113,57 @@
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOVIyTDVZakZidkhTQ1NDdWZiWDh0SG9iOTBZTVc4Qm9MRExicHRNanN0M1g1VTRCeEp3RXQ1UF9Od3V1WThkTDZqSGhwNl9xci16NENyTjl4WUtRNHJJVmdrdHFiTnh5LWk3d0k2RkxGdkF1VENfTGNpcDBDNWhqWWd3UV8yYnBRS0dEME1uT2hqQmNuWW9YOENyUnJiUEVLQXhFSFJkYnZlcDFlSndhdTFPMG9aNVpET0JmOHBMcmdpTTFydXc?oc=5",
           "pub": "Mon, 05 Oct 2026 13:47:00 GMT",
           "source": "24/7 Wall St."
-        },
-        {
-          "title": "Broadcom vs. Micron: Which Semiconductor Stock Is the Better AI Buy over the Next 3 Years? - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaElOM2VlVWVoeGt6WjZKNzBTZFJMY0g1bmx1QTNVTFJfR2k3ek1BelJmRU1ZYkhHekk1ZlVyc25SaUphQXI0bG1wWWU1WXJ0STVYWWZBRFRULV9UTnhQUUVVS1FsSjBPbk4xRGRQV3N1WHdRTVUxMzA0V2pkdmhqZFEzdl9ldEozWU9xeElhV2hvNmtkbEJZbQ?oc=5",
-          "pub": "Sun, 04 Oct 2026 10:39:00 GMT",
-          "source": "The Motley Fool"
         }
       ]
     },
     {
       "symbol": "AMD",
-      "price": 630.36,
+      "price": 631.405,
       "prev_close": 633.9099731445312,
       "high_52w": 645.4600219726562,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -0.5600121933594888,
-      "drawdown_pct": 2.339420174545825,
+      "day_change_pct": -0.3951622865476111,
+      "drawdown_pct": 2.1775201397758592,
       "name": "AMD",
       "news": [
         {
-          "title": "3 reasons Nvidia and AMD stocks can't stop climbing - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRzY3MWgyZW42dWxpbmhSQTE3OFJreE54a3cxLUw4QzJ4VWRORWxvT2l3eHhmR0dKRUxuZlRTcGVwa3dmLVBSbkdYVkpWU1RBaGRPejRJNFpCODBHS3E5SThHc29NU2dsMlN5Vl9JN1ZZOXF3UkpDeVppcmlpY29tZkwyODQ3WXlRdjc0OEprOTRSVWxtdXFvMGRLelRKdw?oc=5",
-          "pub": "Mon, 05 Oct 2026 15:00:00 GMT",
+          "title": "Nvidia and AMD just hit record highs, but tech stocks still look cheap - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSWV0dmN1bXZQUjBQblc3UEFoc1BJQU1lNWJCZkwxNTBpeF9WRkZCcXdMZDB4NldmVTd6SmNUMm5URzUtRVNfRkcxQmNQWlJVRDhzZDR5bjhUeTZsZ0ZCdW5KcVlpYlkwLWNYaW9QTlNWcE1WajZhSkQxZXIyelBpeXNqT21YRC0yV0dUVzdKNzhfUEVVNHRGSzJaZXc5S2tjQnptUENSd3Y1NUQwTklOTGhWaHR3b2xuWUFpRkJRME5Xc3ht?oc=5",
+          "pub": "Mon, 05 Oct 2026 13:53:30 GMT",
           "source": "Yahoo Finance"
         },
         {
-          "title": "How OpenFold3 Deployment Will Impact AMD Stock - simplywall.st",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxON1ZQMml1SDBtbjN5QzFNQWxLMXZpc1pZLTFYcEtKWXZzQUVuQjhUVDNzTEFSc0FQSlRMUVFRb0hTVzBtTXBxZ3VYQThPbTlvc0FLaktyWjNVVjlzUkljV2hiZFdqX29wVktDeWJhLVZJXzBWSlRXcjMyRkQ3c25CZnBIeUNhc08tdjg1SHllZzVXand5bVBOanYxdTBiQ0I4R0tCSThfUzVrT2FDZ3NheEw1dUFPZ2NvUmNEc3M4ZTdNcTBNZzRTMElPbVjSAdIBQVVfeXFMT0FkQ0NPQ2ZmZnFlUlFVeDZZVENFSmZTQVhrZ2FTVk81THNkOE1XcDYtWjBRYmhIVGZPU210MURfY1V2c0JkbEQ0akp5SmwwRjRKX2xsU3A3U1U0blJwTHp3WVB5dWp5UWlaRVFMMG5wYV91OWxXLVZOcGh5b1dsOGNyMVdJR0xORXMtMlVDTVR2VkRCS0tpejlkQklQVllXa3lUTDZEb2FINGFNQVU5RGcyeXZCNmtLdkZzeExoM19wY0VZdk1QSGhFWUduNjRMMHFn?oc=5",
-          "pub": "Mon, 05 Oct 2026 13:50:03 GMT",
-          "source": "simplywall.st"
+          "title": "Prediction: This AI Chip Stock Will Be the Biggest Winner of 2027 (Hint: It’s Not Nvidia, AMD, or Broadcom) - fool.com",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOQ1dsUlo3Q2FTM0d3bkJSX0lkSmtqbklsOU9QRVQwM1N2d1VfQzkyN0N0ZUlydDBqMlBnU2RlTkxDOFBvQ0lNWnBoZXBibUFabEEweHRyWmFsbkNyMUJDLVBIcnNnd01nNkFncWR0YzlhQU13TEdCVnRTQXlKNzNRQnZHQ0taWmFJNGs1NVRQLWZiS240eGc4U08tc1d3UlpTQ0dDRm1qNWZ4Mm80bVZGV1VSMUtpS3p6WE1rZmtoYTl1MW1aTTMwQkdIdWVhNmRvQjAwZncyRHFCeU5i?oc=5",
+          "pub": "Sat, 03 Oct 2026 10:20:00 GMT",
+          "source": "fool.com"
         },
         {
-          "title": "Stifel raises AMD stock price target to $700 on server strength - Investing.com UK",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZU53bkFZZXJ1dGNrYWw1T2YxY0RfbWV5QVVfYzc5VjUwU3l0dVcxRmcxNUNnZjliQUc3ME82RS1JX1c2Z201ak9OTzhxNWFzTHhVRWpVYjc4cndycHM5cFBpdVNJRmgxWHMwM3Y4VC1LdGoxc3hLLU5UeEQyVGZwSzROMHA0NnJrZURMWW9HcFhHeHE3NTZMcU93UU5keWstdEtvU3R2WElFcUlDaU8tSEVNSzhKZFlJWXVnU3oxOTQ?oc=5",
-          "pub": "Mon, 05 Oct 2026 12:42:00 GMT",
-          "source": "Investing.com UK"
+          "title": "AMD Stock Could Surge on ‘Beat-and-Raise’ Q3 Earnings, Analyst Says - Advanced Micro Devices (NASDAQ:AMD) - Benzinga",
+          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQWVE3N0duQ2pLemhWeFhjT2ZkajZtRldUQV9DdzBsVkdtRFdaTjZ0WW9BSVFhZE44Z0pBVzNJNmI5TjJoRmt2ZGhEcWtpT2QwWXdFQ25JdkNPc3o1djE2WldxNlozYm5CZHBPOGVUakZVeVFMWkJWM193UmpyVkJYcUNFZndPZ0lGVjhNRWgzQUlQb2FZelZHZzA1NG0zbWFUUEY4NTVkZlV2Ym8wakxKaFlXMElKNnJEa0FpQU1mWDBERlFfMmYwN0R4bkVTZzA1c3Z2azVRcW52emRqYTdpa0hhMHVVVGZ6WmZTQ2VkdXotUG0yMTFJUU5MTXoteXNi?oc=5",
+          "pub": "Mon, 05 Oct 2026 15:37:38 GMT",
+          "source": "Benzinga"
         },
         {
-          "title": "AMD Has Promised OpenAI and Meta Up to 320 Million Shares for a Penny Each. Here's What That Does to the Share Count. - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOMVRMc29HYlFIZS1WQjRvNndubWw3NmFiRG95c3cySmwweFlEZmhvUlFsVEU0LVBhSW5pX3NmN0tmVjg2WFVvbGJyZHhOM0tFbjcxSi15R0haY2hhYVZrLWktVjZhSG5zTDR1aUtIMEhXZ3Y1cEJhZ1p4WUloMEV1NDZ0RWhQa2xwSTZWT3dDbXdxS1Ezdmp6MlVZSFp3aGxXT1F0RUpqb3g5RFN3dzNtTEl0OWNoa0RGbExmZ0V6QW9mbUNuM1NUdXl2dzU4azR2X0QyVVZfaURqbl9vdGEwTjhiMElLSURRSWpHdDQyMA?oc=5",
-          "pub": "Mon, 05 Oct 2026 11:21:00 GMT",
-          "source": "The Motley Fool"
+          "title": "Micron vs. AMD? We asked ChatGPT which stock is a better buy for Q4 2026 - Finbold",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOLTlheC1SeE90cjRxbThoODdVQ21yNlVLbDRteDZ2bnpGRmVhWGZZeVp3Zzg2Y25Ec28wMWNaMkIyRjFRTS1xemdxZUxmeTIzRVdfYlZ2NkJCM1B0Z29RenZscjZZRlMxZk5wRnY5XzRaczFMX0x1eUxfanZuNjd6b0dtWS0yc2gyaXlHZ1JpTmVxRHJVNkE?oc=5",
+          "pub": "Sun, 04 Oct 2026 14:45:27 GMT",
+          "source": "Finbold"
         }
       ]
     },
     {
       "symbol": "RKLB",
-      "price": 71.9,
+      "price": 72.55,
       "prev_close": 73.91999816894531,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -2.732681573298432,
-      "drawdown_pct": 52.38410596026489,
+      "day_change_pct": -1.8533525471877896,
+      "drawdown_pct": 51.95364238410596,
       "name": "Rocket Lab",
       "news": [
         {
@@ -173,10 +173,10 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "If I Could Only Buy 1 Space Stock for the Next Decade, It Wouldn't Be SpaceX or Rocket Lab - The Motley Fool",
+          "title": "If I Could Only Buy 1 Space Stock for the Next Decade, It Wouldn't Be SpaceX or Rocket Lab - fool.com",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVHg2X3FCUkRVMzNTMUE0eFBXcmNCRXpDNjNMSTNscnZpbENwcHVnX0pMWDQ3UGJEUm9JQTJVemRqaVpCd3BLQjRsSnpKLTVMQmdvVEFON0NNTkZUWUdodkJkVnJUX1hwU1ZmVXhxUWM2NVc4OXhjRUp4TEJrVERiUmlqN2J6X0VIZXZDd1dZQWlVbnJVRWIxaA?oc=5",
           "pub": "Sat, 03 Oct 2026 07:05:00 GMT",
-          "source": "The Motley Fool"
+          "source": "fool.com"
         },
         {
           "title": "Why Is Rocket Lab Stock Surging on Friday? - Benzinga",
@@ -194,14 +194,14 @@
     },
     {
       "symbol": "IREN",
-      "price": 40.245,
+      "price": 40.34,
       "prev_close": 41.7599983215332,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": -3.627869689716939,
-      "drawdown_pct": 47.64537717960539,
+      "day_change_pct": -3.4003792591174244,
+      "drawdown_pct": 47.521791910182166,
       "name": "IREN",
       "news": [
         {
@@ -212,8 +212,8 @@
         },
         {
           "title": "What Caused the Surge in Iren's AI Neocloud Stock in September? - The Globe and Mail",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTDVMV2Z6VzQ3MzVsN3Q1MVdPMHA4eVNXMFZ3ejhKTFV6N3kyTU9vS2UxMTE2a3JvOTZjc3Zka2E1Z1RBYlVzcW9IcFZwcktMWXJaQkRrUHgzLW1zcXVZaEZ2QlJQcDZ4SHRXYUNoMkFIYnBjOE14emdIWUc5OHZLeGdEbm95R285bUhnUEVIQ2JleGVfdjVHNHhzb0gtT21SLVRzdk9GRy11NUVzcjQ1d0hOUFp5RTZUTUlJd2FvN2xGLW5OczVpLS01MmRFSVlYNFVEX1dtczk?oc=5",
-          "pub": "Mon, 05 Oct 2026 17:19:30 GMT",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNaUFBSzlpakpMWVMxV3ZFRlh1OHNDRFI5a2ZfQUk0X2FPX256a282VDkwaXc5c1kwSmtQdnR4dTR5YVU4aVpMOEZBZF9HNGRuOEd2QnpsdmNNMnVrR3pQZ0JjZk9XYld1YklHeTFxY0hVblJzWF9BMVRMZWlrMUdGZVJGaC1PanJLc25jMWpNZXpZWXZxbDlZV0J2dDVaaWhlemNEWFJoWk90cmFndUdJWjlEZFNKcjZ1enVwM1laM0lOWDFFQTFkTlNUOEJlRXRsS0RVR3ZQckR6ZTREMW5NN2E5VQ?oc=5",
+          "pub": "Mon, 05 Oct 2026 17:13:41 GMT",
           "source": "The Globe and Mail"
         },
         {
@@ -261,10 +261,10 @@
           "source": "Bloomberg.com"
         },
         {
-          "title": "MilDef Group (OM:MILDEF) Stock Turnaround To Profitability Tests Bullish Narratives After Q2 Earnings - simplywall.st",
+          "title": "MilDef Group (OM:MILDEF) Stock Turnaround To Profitability Tests Bullish Narratives After Q2 Earnings - Simply Wall Street",
           "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQWh3OW13WUJIaXlYOW9waGdUS1ZhaXkyV3NpLWx6Z2I1S2tvX001N3RoVE1sbFVyNzZ5aXhuR2d5ZVd0cG45ZEJBRTNPUS1IcTZHUHRaeEFhN01CNnlxdGhQR1ZUUTRqMS1iMGQxd1N2UWI2SGJFREZjNFVkVXBkel82T1l0ek9QSHVXalFoUGhxN2NkYzNoN0NKNGx5ZWM2S0JpdEwwcjEzbXpKeGpveDJUSkxnWnRpREZ1eUowR3FWQmxpMll1SG52UlFPaGxneDhzWnVISWpUZ9IB3wFBVV95cUxPMHloUkVRcUlsVmlMUFlPRUNMYTdGajY1M2ZMZjU2VTBQb3lUUnZFOVY1R0k0T0xsTDhIa2JPT21NX0VrX2tTMGdZS2Y0THJYekNrcDRBLVFra242WFBrYXlZYnVaRXFLXy1PV0VIcUsxeE00VVgwcDlBWHhWQkIyQ3l2OGNKcnA3UkdBU2tMaENGVEY0djVROU9aWXh0a0k1YTlTMGV5cnQwQjZtY3pBTFBvenM4QUgwVlJ6VENfdWhUa0UxU2FUMmhRY3F4dnNTN2ltSmZ5TU1vSnNXaFpF?oc=5",
           "pub": "Fri, 17 Jul 2026 07:00:00 GMT",
-          "source": "simplywall.st"
+          "source": "Simply Wall Street"
         }
       ]
     },
@@ -293,10 +293,10 @@
           "source": "TradingView"
         },
         {
-          "title": "Invisio (OM:IVSO) Could Be 26% Undervalued Following Defence Tech Tailwinds - simplywall.st",
+          "title": "Invisio (OM:IVSO) Could Be 26% Undervalued Following Defence Tech Tailwinds - Simply Wall Street",
           "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVm9YOG93aThIb01PdmYzcUhYMkg3aWdBa3N1NVdvSFhRMkc0cGN5Qnk5OXJJWGdaWFdDM0xoSDcyYVJHejI1TlFsZmpJaEFFZFNta0JhVXVyRno5QUJXS1RkekRCdnMwUnpyRE5EcDJOV2t0YV9Wd3YwU3JYUkk2anVHYWhJNWtFMlhhcDIzWldOY21lbTF5YUhfN2lTbGxLd2Z1MU9QR19iRERCVjJCR1RPUjdhYXpkNjNqZHZ1Zl9NNXZBblM3Z0hwdUtsaTV20gHWAUFVX3lxTFBMcE1MYWpYQUhOTXFxek9ISFRrMHI1UTcwbUF6bUdXWHVZWHkxSGloTVdqVWJSTkRpdVFVVlRWMko0Q2R0UHpTajFpMUpzX0pxekR2bTdUU1J1aXRBUXpFMGcwV1lZM3lRRDR5OGljejBSNkJzRlZCVFlQODljeWJFbF9YWkZkeVJuVnFleW0wVkswZGFPakRtdjFQZkNkMjJOYURLUjF0QW9tY2FLa05VNnBXbS1ZQjdELVB2UkgwWkFLYmV2d2xMVFltZmdreDgxSExnU0E?oc=5",
           "pub": "Thu, 24 Sep 2026 06:50:44 GMT",
-          "source": "simplywall.st"
+          "source": "Simply Wall Street"
         },
         {
           "title": "SB1 Markets reiterates buy rating on Invisio, cuts target price to SEK 295 - marketscreener.com",
@@ -325,12 +325,6 @@
           "source": "TradingView"
         },
         {
-          "title": "Norbit ASA (NBITF) Options Chain - Yahoo! Finance Canada",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5FWE1YYkhqSHpMTEVqUUN4LVpFc1k1SENIdlZ2cnV6ZTlRYTA0SE1TMVd3UU9menc3MDd3ZTl6SFRrLTUxVWRXbkpEc2ZYT1ZZaWttMTJ3OFlvcjFwaXc?oc=5",
-          "pub": "Thu, 01 Oct 2026 21:00:47 GMT",
-          "source": "Yahoo! Finance Canada"
-        },
-        {
           "title": "Earnings call transcript: Norbit posts record Q2 2026 results as shares slip - Investing.com",
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWHEtbDhsdG8wNFpzR2c3M2owbGJUMG83S3pydVBzMklzS1VNQVVKS3ZSN2FpeHRhTmstQ1R0ZVlSOElqd3BnQ1RvWUNyVzQwOXdKNkNBc2dZWG1PYTZlQUtaS28zRXJFQ0N2UmEyeV9FcmN0cTQ0VXVmWVhndEoxSldfMERMdzNnUDltam9IbFhucjBhZFk5d3FCamp2bURVMk8tUGdUNG4tN24xSVpTTkFvbzJNeE11NnJpeW9ISTZ4TDJxS2g4ZFJaSQ?oc=5",
           "pub": "Thu, 13 Aug 2026 07:00:00 GMT",
@@ -341,6 +335,12 @@
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVmhVNWliQ29rWXR4N1BrNFhXZFc2TkFnT3hNcG50Ym5qWG9RYUxnVnloSXRBU3FoSkdGUzFJWmM3dXQ4MzBXQlpENjBhMWxVZ0dmZ2xlcXNHNlhtb2J0c3FjOF8yVExiWmRpT1VJLWZraVdQMWw4UzlsT2J4MG1ldFY2dFRkSkNDQXNYZUpoQVBPSENpYldFNlE3OWtZWFVuWk5NTE5fTQ?oc=5",
           "pub": "Fri, 11 Sep 2026 07:00:00 GMT",
           "source": "Yahoo Finance"
+        },
+        {
+          "title": "Why Norbit (OB:NORBT) Is Down 6.2% After Raising 2026 Revenue And Margin Guidance And What's Next - Simply Wall Street",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQXRyakN4eGxwckVQOWN3YkZFYVFPUFl4R1Foc2xvZUpja1JQU3FmLWZMYXd2Uy1oMGFnT183VFZPRnkyUnFOcjZ2RlloMmpzVVoxX21PUEJ1UVRBR1J2aGdhOGd3N2VHN2tJbU9hcExla2JRbDJIdHZVOVU5a1hFZ0lheDJud0FsYTFOUEZqZVJvQU5JeG5lMzBHMEQxcGRqQzNScEVPMTFFTkRjZjIzYTJNblRpUVZRX1hLUnVZcll6UlnSAcgBQVVfeXFMUEdVdk1JOGpUa1pmZ2RpR2UwbUIzbWZXM21pR3BfdUdqRHM5aVFhLUYxLUtya1Bhd2lHT3pBY25JN2FIZzE2UnZyaDE1YlN6VUZkNkhrRlFTVVhvSFpiRzNiS0pXOWlmd0hyYXRwTEc0MTVySE5Ta2pkY1BtcFN0RVFxNVB4cl9JUm9veUZfSmdFZmZLeVdCZ0Z0YlNxTUU4OUFrdndKbGhXWE42c0R1RU1sZmhUNDVDbjVTalFEQ3Nzem9OSkU3elQ?oc=5",
+          "pub": "Sun, 23 Aug 2026 07:00:00 GMT",
+          "source": "Simply Wall Street"
         }
       ]
     }
