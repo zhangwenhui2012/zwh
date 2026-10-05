@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-05T12:00:46.741653+00:00",
-  "updated_at_display": "2026-10-05 12:00 UTC",
+  "updated_at": "2026-10-05T12:30:36.077402+00:00",
+  "updated_at_display": "2026-10-05 12:30 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
@@ -232,14 +232,14 @@
     },
     {
       "symbol": "MILDEF.ST",
-      "price": 232.3,
+      "price": 233.0,
       "prev_close": 238.39999389648438,
       "high_52w": 251.9,
       "currency": "SEK",
       "yahoo_name": "Mildef Group AB",
       "exchange": "Stockholm",
-      "day_change_pct": -2.55872233752365,
-      "drawdown_pct": 7.7808654227868175,
+      "day_change_pct": -2.2650981689324645,
+      "drawdown_pct": 7.5029773719730075,
       "name": "MilDef Group",
       "news": [
         {
@@ -249,10 +249,10 @@
           "source": "TradingView"
         },
         {
-          "title": "Making Battlefield Tech Fuels an 80% Rally for Swedish Stock - Bloomberg.com",
+          "title": "Making Battlefield Tech Fuels an 80% Rally for Swedish Stock - bloomberg.com",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWFZjRE0wOVJoN0E4MHI1dUJOOHZySlIzcHRjbXA2LVlnOW9FbGx4VzktajJlaXJ1S0VhRm8zMUVSWjhVekY5RGxsaWR3WWRQZ2pFdjZOQzF0Ml9yb3FJS3FycTJjZExXMy1VcmpwOVdiQjdvaEhONlh2Y28yNDVKRENpRWVoel9nV1VJU2dYMUlybTZkUFlVZEIya3VETV9sTlJ4dEVPd0t5UDFJMU9Ec0ZvRE0?oc=5",
           "pub": "Fri, 21 Aug 2026 07:00:00 GMT",
-          "source": "Bloomberg.com"
+          "source": "bloomberg.com"
         },
         {
           "title": "MilDef Group (OM:MILDEF) Stock Turnaround To Profitability Tests Bullish Narratives After Q2 Earnings - Simply Wall Street",
@@ -270,14 +270,14 @@
     },
     {
       "symbol": "IVSO.ST",
-      "price": 249.8,
+      "price": 249.0,
       "prev_close": 248.1999969482422,
       "high_52w": 336.0,
       "currency": "SEK",
       "yahoo_name": "INVISIO AB",
       "exchange": "Stockholm",
-      "day_change_pct": 0.6446426556932944,
-      "drawdown_pct": 25.6547619047619,
+      "day_change_pct": 0.3223219426246163,
+      "drawdown_pct": 25.892857142857146,
       "name": "Invisio",
       "news": [
         {
