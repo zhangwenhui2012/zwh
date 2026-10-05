@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-10-05T18:30:35.428085+00:00",
-  "updated_at_display": "2026-10-05 18:30 UTC",
+  "updated_at": "2026-10-05T19:00:50.373335+00:00",
+  "updated_at_display": "2026-10-05 19:00 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 238.535,
+      "price": 239.385,
       "prev_close": 233.9499969482422,
-      "high_52w": 238.69500732421875,
+      "high_52w": 239.6300048828125,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 1.9598218044739577,
-      "drawdown_pct": 0.06703421492239924,
+      "day_change_pct": 2.3231473061143975,
+      "drawdown_pct": 0.10224299036855802,
       "name": "NVIDIA",
       "news": [
         {
@@ -42,14 +42,14 @@
     },
     {
       "symbol": "META",
-      "price": 743.0,
+      "price": 742.93,
       "prev_close": 728.0800170898438,
       "high_52w": 779.8200073242188,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 2.049222964502149,
-      "drawdown_pct": 4.721603315944474,
+      "day_change_pct": 2.0396086366320008,
+      "drawdown_pct": 4.730579746318483,
       "name": "Meta Platforms",
       "news": [
         {
@@ -59,16 +59,16 @@
           "source": "finance.yahoo.com"
         },
         {
-          "title": "Meta Platforms: The AI Spending Looks Crazy; The Economics Don't (NASDAQ:META) - Seeking Alpha",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPc0NySDZ2ckxsNy1yYXBnMGNLa1lWM0tSM21vUWNNYmlQUElIaGhyRTlYMkhnRmpGQzdTOTB4YmJZZkpOZlRJcXhDRU94ZmFLRi1Ld2NaQlppNkxrR053SWNxNEt6RlF6WGRhV0o5bkxRZFdYek5iUnBxc28teGVoWDIxb0QwYXNCR09xODZtM0s2VExJbUlyUFd1OEc0Tkd5eTJObg?oc=5",
-          "pub": "Mon, 05 Oct 2026 15:51:06 GMT",
-          "source": "Seeking Alpha"
-        },
-        {
           "title": "Better Artificial Intelligence Stock: Alphabet vs. Meta Platforms - The Motley Fool",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSHhqbXhmOGhyVE56QVkxWEQzc1hLZHBLdDJlamprb1VYRThIWm1heHRFdngtNXVGQ191OFhDTHRrdkJSb3Nudlh5Sm1GVlh4Q2RFYTd3amRBTTVPRlptdkZWODU5aFNpaXVBYUluLTBjaE9oaG9lSF9NZThZWS1mMXZPNWpEVWd4VlBoUjlpeEZMeXFmWmhfblg0bmFkSGFaX3NEYW8zSVFWcU8tWDBnSzdzVVgwVDQ?oc=5",
           "pub": "Sun, 04 Oct 2026 01:46:00 GMT",
           "source": "The Motley Fool"
+        },
+        {
+          "title": "Meta Platforms: The AI Spending Looks Crazy; The Economics Don't (NASDAQ:META) - Seeking Alpha",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPc0NySDZ2ckxsNy1yYXBnMGNLa1lWM0tSM21vUWNNYmlQUElIaGhyRTlYMkhnRmpGQzdTOTB4YmJZZkpOZlRJcXhDRU94ZmFLRi1Ld2NaQlppNkxrR053SWNxNEt6RlF6WGRhV0o5bkxRZFdYek5iUnBxc28teGVoWDIxb0QwYXNCR09xODZtM0s2VExJbUlyUFd1OEc0Tkd5eTJObg?oc=5",
+          "pub": "Mon, 05 Oct 2026 15:51:06 GMT",
+          "source": "Seeking Alpha"
         },
         {
           "title": "Meta Platforms, Inc. $META Stock Position Trimmed by General Partner Inc. - MarketBeat",
@@ -80,14 +80,14 @@
     },
     {
       "symbol": "AVGO",
-      "price": 362.54,
+      "price": 363.13,
       "prev_close": 355.1400146484375,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 2.0836810965635517,
-      "drawdown_pct": 26.759595959595956,
+      "day_change_pct": 2.24981275609621,
+      "drawdown_pct": 26.640404040404043,
       "name": "Broadcom",
       "news": [
         {
@@ -97,35 +97,35 @@
           "source": "TipRanks"
         },
         {
-          "title": "Broadcom vs. Micron: Which Semiconductor Stock Is the Better AI Buy over the Next 3 Years? - finance.yahoo.com",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbnRZTEJ1MnFKX0xJOEdBc3YyeE9IY01pUHVNMnpnVGdTWElKdTd6bHFMVG14amtrazdIY1VBSFNEaGU2N2NwMDZBNjZucHAtMXVvZ2JtaU14MTVLYTJRdmJBSHF2cXhTZXNNR1h6UkhUMjdFcmFfU09SUnU5aDJ2M1F4Zlh1NklGZk41WEduTF80QkQxRWVORHloLWttaEt0OFdLWA?oc=5",
-          "pub": "Sun, 04 Oct 2026 09:59:00 GMT",
+          "title": "Broadcom's 2028 Projection Makes the Stock a Screaming Buy - finance.yahoo.com",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaVFEaXBLYkx1R0l4Zk1wWW80OGd2cjJDeU5jeUluR3d2WGRvVk1hRVA3aTJqUlRmeGhFNzNhb1lMcFVadDZRS3FzSkVVTnVKNy1mZzNpNE42bFUzajhQZUwwWVh3bXc1V3Jsc1Yzek94NTJCQ2tYOUxkWDNMOUlXSFFQX1JJLWsyQ0hwTFQxeVFTWV85S0ZIdE1nT180OXBzalJUdQ?oc=5",
+          "pub": "Sun, 04 Oct 2026 13:04:00 GMT",
           "source": "finance.yahoo.com"
         },
         {
-          "title": "Taiwan Semiconductor Gains 2% to Record as Musk Confirms Early Terafab Talks; Broadcom Rises 2%, Qualcomm Pulls Back - finance.yahoo.com",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZFZ6eGs1TWh6OWtZSWF1ck9tbFlublFDdXpqNzJxdENkUVQzZGRYSFhqS3pzZll3M2Q5ZWhaVXJlaHZfUU4zY0tqVnBlSF9xXzFnRGdpT3lvYWtMZ2hRVEtzb1M0eVRydG1WdTBQVlZ0RUdHT1ljSkFrcWJEOElzclNsdUdWNkpPMXE4YjhQUkcxbk1RMEdqeU9aa2JrUFRybXc?oc=5",
-          "pub": "Mon, 05 Oct 2026 17:02:39 GMT",
-          "source": "finance.yahoo.com"
+          "title": "Broadcom vs. Micron: Which Semiconductor Stock Is the Better AI Buy over the Next 3 Years? - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaElOM2VlVWVoeGt6WjZKNzBTZFJMY0g1bmx1QTNVTFJfR2k3ek1BelJmRU1ZYkhHekk1ZlVyc25SaUphQXI0bG1wWWU1WXJ0STVYWWZBRFRULV9UTnhQUUVVS1FsSjBPbk4xRGRQV3N1WHdRTVUxMzA0V2pkdmhqZFEzdl9ldEozWU9xeElhV2hvNmtkbEJZbQ?oc=5",
+          "pub": "Sun, 04 Oct 2026 10:39:00 GMT",
+          "source": "The Motley Fool"
         },
         {
-          "title": "Why October 15 Is the Most Important Day for NVIDIA and Broadcom Through Thanksgiving - 24/7 Wall St.",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOVIyTDVZakZidkhTQ1NDdWZiWDh0SG9iOTBZTVc4Qm9MRExicHRNanN0M1g1VTRCeEp3RXQ1UF9Od3V1WThkTDZqSGhwNl9xci16NENyTjl4WUtRNHJJVmdrdHFiTnh5LWk3d0k2RkxGdkF1VENfTGNpcDBDNWhqWWd3UV8yYnBRS0dEME1uT2hqQmNuWW9YOENyUnJiUEVLQXhFSFJkYnZlcDFlSndhdTFPMG9aNVpET0JmOHBMcmdpTTFydXc?oc=5",
-          "pub": "Mon, 05 Oct 2026 13:47:00 GMT",
+          "title": "Prediction: The AI Spending Boom Could Be Just Getting Started for This Company - 24/7 Wall St.",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcHRUaE1aWVRKUW1SSjNoRXd5aFQwQ0FiRDU0WmFmalRYUWxzWWEtajNVeTN5RDd0ZG1TMmVzaUtPTDhnTzhJTFJuM0hGNXZKY0RwVlpraW5Ha0tfaDRheUpZY0t1TjhsTFFyR2pKZS1qRDdMcWROdnZ1WEl1TFdOaTYwV3dPVGx6cVJwSEpsMEo0U3lTN3NRSHNHeUZadW13ZUZ3S1FqUlhkcENfTHp6X21uMkZMOWV2Zi1HaGFmYw?oc=5",
+          "pub": "Mon, 05 Oct 2026 14:30:00 GMT",
           "source": "24/7 Wall St."
         }
       ]
     },
     {
       "symbol": "AMD",
-      "price": 631.24,
+      "price": 630.16,
       "prev_close": 633.9099731445312,
       "high_52w": 645.4600219726562,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -0.42119121920211344,
-      "drawdown_pct": 2.2030833031605863,
+      "day_change_pct": -0.5915624147588997,
+      "drawdown_pct": 2.3704058271333865,
       "name": "AMD",
       "news": [
         {
@@ -147,7 +147,7 @@
           "source": "The Motley Fool"
         },
         {
-          "title": "AMD Stock Could Surge on ‘Beat-and-Raise’ Q3 Earnings, Analyst Says - Advanced Micro Devices (NASDAQ:AMD) - Benzinga",
+          "title": "Advanced Micro Devices Q3 Preview: AMD Stock Could Surge on ‘Beat-and-Raise’ Earnings, Analyst Says - Benzinga",
           "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQWVE3N0duQ2pLemhWeFhjT2ZkajZtRldUQV9DdzBsVkdtRFdaTjZ0WW9BSVFhZE44Z0pBVzNJNmI5TjJoRmt2ZGhEcWtpT2QwWXdFQ25JdkNPc3o1djE2WldxNlozYm5CZHBPOGVUakZVeVFMWkJWM193UmpyVkJYcUNFZndPZ0lGVjhNRWgzQUlQb2FZelZHZzA1NG0zbWFUUEY4NTVkZlV2Ym8wakxKaFlXMElKNnJEa0FpQU1mWDBERlFfMmYwN0R4bkVTZzA1c3Z2azVRcW52emRqYTdpa0hhMHVVVGZ6WmZTQ2VkdXotUG0yMTFJUU5MTXoteXNi?oc=5",
           "pub": "Mon, 05 Oct 2026 15:37:38 GMT",
           "source": "Benzinga"
@@ -156,14 +156,14 @@
     },
     {
       "symbol": "RKLB",
-      "price": 72.549,
+      "price": 72.649,
       "prev_close": 73.91999816894531,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -1.8547053610741007,
-      "drawdown_pct": 51.95430463576158,
+      "day_change_pct": -1.7194239724417002,
+      "drawdown_pct": 51.888079470198676,
       "name": "Rocket Lab",
       "news": [
         {
@@ -194,27 +194,21 @@
     },
     {
       "symbol": "IREN",
-      "price": 40.36,
+      "price": 40.39,
       "prev_close": 41.7599983215332,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": -3.3524865368859604,
-      "drawdown_pct": 47.495773958724655,
+      "day_change_pct": -3.280647453538747,
+      "drawdown_pct": 47.45674703153837,
       "name": "IREN",
       "news": [
         {
-          "title": "IREN Limited (IREN) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE50WnJ3ZExTUGdRUTFaYXFGcjdxNldRQlJuSkJMbFZZb0ctYTh2SEdVRm0xRjNNRGhGRFBHenFxUXJIWnJuRFhDaTUzX1djVGw2bGc?oc=5",
-          "pub": "Mon, 05 Oct 2026 13:34:43 GMT",
-          "source": "Yahoo! Finance Canada"
-        },
-        {
-          "title": "What Caused the Surge in Iren's AI Neocloud Stock in September? - theglobeandmail.com",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQRmFpRk1SRFNZV2E5NEJDUjJZOVZ1SmpHOTNhN2ZRQmpLRHNNNzRqMkRSdU1rX2dtVWVXb3Q3bmNIMDQ4dE1tLTJnZGdHTmpVMnFBOUtoNUJtUEhSWUlHam5zaEgxbE1XYlBkRnhPSEVHb1lUaEtrWDlVbW04ZmVyY2RlQXdYd0RyeUZyWG9odXU3V2RyUTVrVV9KSkpGWHZTNFptSDNJV0cwLVowbjFmUWN6dGswTzNSbFhKbjBGRnZOMk1vemkxRUZjTy1POTFqUWRHczk2QTV5NkhsN2pVdENB?oc=5",
-          "pub": "Mon, 05 Oct 2026 17:32:12 GMT",
-          "source": "theglobeandmail.com"
+          "title": "What Caused the Surge in Iren's AI Neocloud Stock in September? - finance.yahoo.com",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPV3BOc0NqZTNHd3pRWHduLURpME8xcUU5TE4wb3I2VVpTdEVXbmdHNkFTVkl3Mm5CNkJWVklQZlJOOUlPdU9ZNlFQajREcjJNaEhMVnRDcEF3UHFGX2w3eWlmQkVWT0NxNVlEcDB4djFXSjBkTGxhNVFJN09jS3p5NkZHTnBFTFlHQzREVG1qdWFwVzRXWExGTmFDaw?oc=5",
+          "pub": "Mon, 05 Oct 2026 17:13:27 GMT",
+          "source": "finance.yahoo.com"
         },
         {
           "title": "IREN Stock Dilution: AI Growth & Value - Northwise",
@@ -227,6 +221,12 @@
           "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQX1F6dWNfeGRldnpkSGk4ZGdvNmplZFU4c3pLRUtzekFELUZ6c3M2SWxEMkVLSE0zYnZDandVbWlyWTU1azhNWGxHX0JUSXN2NmNqd25BOTRGNGtxNm9tbk8tWERjZnVZYVVhY29YdGVnazNCZ0hieVhLeHNWRGo5OFVMOUhiSG5Ea3Y0RmpDUmpsNHJRTnZEM3QzNWp3YVVjN1RuM2pDcjFiT3BJUFUwb2pIUHRlT3RiQmtXVUdpWGozbG9uQldFN3FfT3EwZkVTeXk4T1d3M1ZSNVpSa1hzV19uUjRuWHJY?oc=5",
           "pub": "Mon, 05 Oct 2026 16:08:00 GMT",
           "source": "24/7 Wall St."
+        },
+        {
+          "title": "What's Going On With IREN Stock Friday? - Benzinga",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWl9VeVRaMS1qOXZvUUZQN2JGYkRocHEydkpidnBpbWdUeUR6b0lEa0Zick9xdUdLRW9pOXVQSTllRXB0VjcwTHN4WG1jaFh2VVpaZkMwNEtOSUpFNi1xaDE1UHJPdVYybUZyODJUWE5adHB2RGJXQUphTE9RU3BnUlZNalBvZmM4LTM2eThOR3FLeXRpY3ZvOFVjekphcGVYYmc?oc=5",
+          "pub": "Fri, 02 Oct 2026 16:05:51 GMT",
+          "source": "Benzinga"
         }
       ]
     },
@@ -299,10 +299,10 @@
           "source": "Simply Wall Street"
         },
         {
-          "title": "SB1 Markets reiterates buy rating on Invisio, cuts target price to SEK 295 - marketscreener.com",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUS1fOFJlMEx1Z3l1MldPaTkwSndYcFVuWmFBb1VVMm1ubGZGdnB0UWhRdm0xTkJveGt4LWNWcDFDQS1vcVZQMFJmMVhaNjZNREthbVJRcUZSQ19QSEFSUWxpUXZuZ0ozOHR1UmpzVFJ1VE85NDNRNlVrcnk1TlNIdVhjeUpOUzNaOF9CbGgtOUw1LWxiNG9qczZ0VVJuckhxa052RUtRUVdVamRYbHJDd296Z1dGdm43b0hKRF9oRzlIRlA5?oc=5",
-          "pub": "Fri, 02 Oct 2026 06:50:40 GMT",
-          "source": "marketscreener.com"
+          "title": "ICQ Stock Price and Chart — HAN:ICQ - TradingView",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE56ekhQOUJycE9UQlF3dFRlaVdfSzZqQ2NtN3Fxb0tLdEhVYm8xV0NXRWJUd2RqMXduTlVVZ1FPX0w3Zl94ZDAtdVB6NEtMWG9uX20xRWhGT1I3bDFQZ2NqZWYyZ0VFa0plOTdFYVcxU3VJbVU?oc=5",
+          "pub": "Tue, 29 Sep 2026 20:19:32 GMT",
+          "source": "TradingView"
         }
       ]
     },
