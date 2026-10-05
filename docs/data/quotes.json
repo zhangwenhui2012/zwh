@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-05T23:00:43.097030+00:00",
-  "updated_at_display": "2026-10-05 23:00 UTC",
+  "updated_at": "2026-10-05T23:30:34.321132+00:00",
+  "updated_at_display": "2026-10-05 23:30 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
@@ -21,16 +21,16 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "Top Three US Stocks to Watch This Week: PepsiCo, Delta Air Lines, Nvidia - Benzinga",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWVJiSEpHeFM0TkF1R3NOcXNIdGR4aXJDU1FIWmtFT2J1WmhhRFVkZmhlWndleVFpYVVuWUQwa21BUm1Qbm80NHRkdzdFV2tZM0Nva0thWWJSUmdkUXlwMkh2Z253cFU1cHF5VDhRTERvWlp2ZF96c1Y5NkRnTnU3WllzMF84TEN5SFRqd2RnYWJOdVdSd19KNllaNHJwRUo5R3ZPMVZULWV2NUNQY3I3dFJfbnBlUVhjS3ZtcXUtNA?oc=5",
-          "pub": "Sun, 04 Oct 2026 20:53:40 GMT",
-          "source": "Benzinga"
-        },
-        {
           "title": "Stock Market Today: Dow Gains, Nasdaq Hits New High; Shopify, Brazil Plays Offer Entries - Investor's Business Daily",
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbnNpd1VBY1dMQTc0LXQ2Mml4V01OSlVJT3Zld1JEZ00wdlB4N190S2xJWlFPMmpOdms3UUp4LWVkUGYydFg1LWM5UzhwU1dXWWlxbzJCbFR6dW5aT1ZvcWpPTGtUX2FuM1h4MmtKekkyblRhck9hc2JVd0V6bS1DTllsWG5PTk81dFdfcHV6YlBUanotdmdLLUlaQXlhLUdRS01iZC1ITkZGdjRYVUhHczlqbnl5U0RHV1ltYlpYaTlXSk8zX3VyTTZzcw?oc=5",
           "pub": "Mon, 05 Oct 2026 20:48:00 GMT",
           "source": "Investor's Business Daily"
+        },
+        {
+          "title": "Nvidia (NVDA), Tesla (TSLA) and Apple (APPL) are going onchain. Here’s how OKX and ICE’s new market will work - coindesk.com",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUVpzLVYtOWdGa2JyOHd5WWVLaGRfcHcxSzgxLWgxb2RBWS1FR3d2QTRka1JobkJVbXVxemhvOHk2bmZxSWdEZWZxcVpKSm1vQnZ5czJzYUtLUVE2OW5VVmFMREUtdm5DLVBYYzdLYzhScEpDYWdyZTZ2a1hlREM3ZVVHNFVrUlBfcmYzOEdZRzVLdHc2bzV3MjhrWXM2UWduUTFLYkF3S2dGd2dCaUNzYVQzeXNJRDdFazU5SFhJOTFPMkxwcEVIZVR3Ymo0dw?oc=5",
+          "pub": "Mon, 05 Oct 2026 17:49:18 GMT",
+          "source": "coindesk.com"
         },
         {
           "title": "Why Amazon Wants to Offload its Nvidia Chips – And Why It Could Be Good News for AMZN Stock - Barchart.com",
@@ -205,10 +205,16 @@
       "name": "IREN",
       "news": [
         {
-          "title": "IREN Limited (IREN) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE50WnJ3ZExTUGdRUTFaYXFGcjdxNldRQlJuSkJMbFZZb0ctYTh2SEdVRm0xRjNNRGhGRFBHenFxUXJIWnJuRFhDaTUzX1djVGw2bGc?oc=5",
-          "pub": "Mon, 05 Oct 2026 13:58:39 GMT",
-          "source": "Yahoo! Finance Canada"
+          "title": "What Caused the Surge in Iren's AI Neocloud Stock in September? - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPV3BOc0NqZTNHd3pRWHduLURpME8xcUU5TE4wb3I2VVpTdEVXbmdHNkFTVkl3Mm5CNkJWVklQZlJOOUlPdU9ZNlFQajREcjJNaEhMVnRDcEF3UHFGX2w3eWlmQkVWT0NxNVlEcDB4djFXSjBkTGxhNVFJN09jS3p5NkZHTnBFTFlHQzREVG1qdWFwVzRXWExGTmFDaw?oc=5",
+          "pub": "Mon, 05 Oct 2026 17:13:27 GMT",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "What Caused the Surge in Iren's AI Neocloud Stock in September? - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUVdMaFEyNmxhNzlhaEdMbkhSZ19BX0pfMEpIbGxVVlZielF4Z2I1UTAzdE9FLUU2SXNpUDkxZ1YzZGUwNmtsNE9MWFBfSUJLdnRDV0RFWHRoeDNGUHA2S0t0M0Z5eWZUOTFvNkNJb1pTOEVEMk5uX3NjaUsyMFdiRGFDRmZoZFZiTzhTWEtPaFlaaUQ3WDBUZFRvMmlKa2VpeC1wVlRHS2w?oc=5",
+          "pub": "Mon, 05 Oct 2026 17:34:58 GMT",
+          "source": "The Motley Fool"
         },
         {
           "title": "IREN (NASDAQ:IREN) Stock Falls 3.1% - Here's What Happened - MarketBeat",
@@ -221,12 +227,6 @@
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdUs1ZFp2d3BzSi1TUDdSUm9wME9PV0dzWmJXT2lUazBpUmdWanlCcm5weUphVlhKcjdER3hfR0RoLTdYNGo1ZTJHR1dHRVlON1A0X1dTcW12cmFKMzVQak1kWHQxWlBwZ1UzU1dHbzNFOFJ1SVVDOXRQUWRWaG9CZ1JEWnQ1bmhBWjdaYlA3UWZ3N1hrTEVUbmF0Vko5cjhsbnFzZ2x3?oc=5",
           "pub": "Mon, 05 Oct 2026 22:35:20 GMT",
           "source": "GuruFocus"
-        },
-        {
-          "title": "IREN Stock Dilution: AI Growth & Value - Northwise",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9aeEl2VURoV0JoUy1HUTFEVXlCVzJ0RW9meVhwR2kzdWJEejhTOEk1Y0xVUWI0a2xRbURsLUk3TWF2TmhSN3BuSWgzVUVJcG9pMG5TdWN2LU11dlJHQWl6cVlFLXByV1U1Mzg5dWNJUnhYY1RIRDVmSA?oc=5",
-          "pub": "Fri, 02 Oct 2026 13:16:15 GMT",
-          "source": "Northwise"
         }
       ]
     },
@@ -249,12 +249,6 @@
           "source": "TradingView"
         },
         {
-          "title": "WorldQuant no longer a public short seller in Mildef Group - marketscreener.com",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNb1JTQkpCd0Zhc28zMjdVR2ljZkVpSVZkeDROTW5NcFRNdVpQQjlSaEpVYTdqd0phajRTTGxsc1FjNVJTOHZqc2p4azBXd1JndnNiX3FOeFNyaFN2NG5WNjU0TEtlX2lJbHdrak9vVDFHMUZEdmRScmN1LUNDY01kbFZ0bUpGdjZUSlBxeWgybXVYSVZtN3JEQkxzTGpJdU9FNmlIZDQ4OXdzSzczWGI0cA?oc=5",
-          "pub": "Wed, 30 Sep 2026 11:54:23 GMT",
-          "source": "marketscreener.com"
-        },
-        {
           "title": "Making Battlefield Tech Fuels an 80% Rally for Swedish Stock - Bloomberg.com",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWFZjRE0wOVJoN0E4MHI1dUJOOHZySlIzcHRjbXA2LVlnOW9FbGx4VzktajJlaXJ1S0VhRm8zMUVSWjhVekY5RGxsaWR3WWRQZ2pFdjZOQzF0Ml9yb3FJS3FycTJjZExXMy1VcmpwOVdiQjdvaEhONlh2Y28yNDVKRENpRWVoel9nV1VJU2dYMUlybTZkUFlVZEIya3VETV9sTlJ4dEVPd0t5UDFJMU9Ec0ZvRE0?oc=5",
           "pub": "Fri, 21 Aug 2026 07:00:00 GMT",
@@ -265,6 +259,12 @@
           "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQWh3OW13WUJIaXlYOW9waGdUS1ZhaXkyV3NpLWx6Z2I1S2tvX001N3RoVE1sbFVyNzZ5aXhuR2d5ZVd0cG45ZEJBRTNPUS1IcTZHUHRaeEFhN01CNnlxdGhQR1ZUUTRqMS1iMGQxd1N2UWI2SGJFREZjNFVkVXBkel82T1l0ek9QSHVXalFoUGhxN2NkYzNoN0NKNGx5ZWM2S0JpdEwwcjEzbXpKeGpveDJUSkxnWnRpREZ1eUowR3FWQmxpMll1SG52UlFPaGxneDhzWnVISWpUZ9IB3wFBVV95cUxPMHloUkVRcUlsVmlMUFlPRUNMYTdGajY1M2ZMZjU2VTBQb3lUUnZFOVY1R0k0T0xsTDhIa2JPT21NX0VrX2tTMGdZS2Y0THJYekNrcDRBLVFra242WFBrYXlZYnVaRXFLXy1PV0VIcUsxeE00VVgwcDlBWHhWQkIyQ3l2OGNKcnA3UkdBU2tMaENGVEY0djVROU9aWXh0a0k1YTlTMGV5cnQwQjZtY3pBTFBvenM4QUgwVlJ6VENfdWhUa0UxU2FUMmhRY3F4dnNTN2ltSmZ5TU1vSnNXaFpF?oc=5",
           "pub": "Fri, 17 Jul 2026 07:00:00 GMT",
           "source": "Simply Wall Street"
+        },
+        {
+          "title": "Earnings call transcript: Mildef posts strong Q2 2026 growth, shares slip - Investing.com",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNGFTODUwbXhPdy1abF9UdjM5d2h2blUxMzJXeWwxdWhuSkZ1eDBaUnF4MVk2cWlxQjJpU0s4eGN2UnMtMWNBZjV5T19HeVd3c2ZlZGUzX2kyZ2dWRjF1NGFvQ0trYVJFSVNyMlg0YUhEcnc3Sk9LSk0zd3ZhMFJ0M3drZkdGT1BIall4ZzRVTlVjLU1VVjRXWXZkSzBGTEVoZ2luLTNwZWJCR2FuUmZuXzB6TDR4VTd4SmYtRWdiNFVtdDVrc3c?oc=5",
+          "pub": "Thu, 16 Jul 2026 07:00:00 GMT",
+          "source": "Investing.com"
         }
       ]
     },
@@ -319,16 +319,16 @@
       "name": "Norbit ASA",
       "news": [
         {
-          "title": "Operating cash flow per share of Norbit ASA – HAN:4NK - TradingView",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObW9VQWFvZVV0RmdIUVozSUNrZk5iOEFaeXlMR1VSVTgtR3Zab21UdkpRUUlBTDFiczViVDB0STZOZVo5UUl3RTZ3VnZIU0p3ak03NXJucTdKaDNmWXNJSUppenY1ZG5XZ1RQYjR0bzVMVnpHRlpDQ21tUGpCd1JORkNyMVFpRzRIb1QxUkJhQnJacExWaGpuUnVNc1d2V1RQREg5N2J4ZUhhRzA?oc=5",
-          "pub": "Tue, 29 Sep 2026 22:22:34 GMT",
+          "title": "Asset turnover of Norbit ASA – HAN:4NK - TradingView",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNT05rU1gwUWJFcHA3TDJzSC1Mb0tVbzJCc0ZmQmtUU1ZHY0lSN1lhMnFjRHNtSXN6bnVqY29jZGhoTklkVnNLM0hWZGsweDJaYnhiTHRVemwtYWRRMjFnMnZrWHVkVWJYcnkxUjFFdDZ5akd5ZEdQMHlNV01TWkhWaGtBRzFkS3J6WGJCSUxmYWYtajhwRkVN?oc=5",
+          "pub": "Wed, 30 Sep 2026 12:40:56 GMT",
           "source": "TradingView"
         },
         {
-          "title": "Norbit ASA (NBITF) Options Chain - Yahoo! Finance Canada",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5FWE1YYkhqSHpMTEVqUUN4LVpFc1k1SENIdlZ2cnV6ZTlRYTA0SE1TMVd3UU9menc3MDd3ZTl6SFRrLTUxVWRXbkpEc2ZYT1ZZaWttMTJ3OFlvcjFwaXc?oc=5",
-          "pub": "Thu, 01 Oct 2026 21:00:47 GMT",
-          "source": "Yahoo! Finance Canada"
+          "title": "NORBIT ASA – Mandatory notification of trade by primary insider - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVmhVNWliQ29rWXR4N1BrNFhXZFc2TkFnT3hNcG50Ym5qWG9RYUxnVnloSXRBU3FoSkdGUzFJWmM3dXQ4MzBXQlpENjBhMWxVZ0dmZ2xlcXNHNlhtb2J0c3FjOF8yVExiWmRpT1VJLWZraVdQMWw4UzlsT2J4MG1ldFY2dFRkSkNDQXNYZUpoQVBPSENpYldFNlE3OWtZWFVuWk5NTE5fTQ?oc=5",
+          "pub": "Fri, 11 Sep 2026 07:00:00 GMT",
+          "source": "Yahoo Finance"
         },
         {
           "title": "Earnings call transcript: Norbit posts record Q2 2026 results as shares slip - Investing.com",
@@ -337,10 +337,10 @@
           "source": "Investing.com"
         },
         {
-          "title": "NORBIT ASA – Mandatory notification of trade by primary insider - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVmhVNWliQ29rWXR4N1BrNFhXZFc2TkFnT3hNcG50Ym5qWG9RYUxnVnloSXRBU3FoSkdGUzFJWmM3dXQ4MzBXQlpENjBhMWxVZ0dmZ2xlcXNHNlhtb2J0c3FjOF8yVExiWmRpT1VJLWZraVdQMWw4UzlsT2J4MG1ldFY2dFRkSkNDQXNYZUpoQVBPSENpYldFNlE3OWtZWFVuWk5NTE5fTQ?oc=5",
-          "pub": "Fri, 11 Sep 2026 07:00:00 GMT",
-          "source": "Yahoo Finance"
+          "title": "Why Norbit (OB:NORBT) Is Down 6.2% After Raising 2026 Revenue And Margin Guidance And What's Next - Simply Wall Street",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQXRyakN4eGxwckVQOWN3YkZFYVFPUFl4R1Foc2xvZUpja1JQU3FmLWZMYXd2Uy1oMGFnT183VFZPRnkyUnFOcjZ2RlloMmpzVVoxX21PUEJ1UVRBR1J2aGdhOGd3N2VHN2tJbU9hcExla2JRbDJIdHZVOVU5a1hFZ0lheDJud0FsYTFOUEZqZVJvQU5JeG5lMzBHMEQxcGRqQzNScEVPMTFFTkRjZjIzYTJNblRpUVZRX1hLUnVZcll6UlnSAcgBQVVfeXFMUEdVdk1JOGpUa1pmZ2RpR2UwbUIzbWZXM21pR3BfdUdqRHM5aVFhLUYxLUtya1Bhd2lHT3pBY25JN2FIZzE2UnZyaDE1YlN6VUZkNkhrRlFTVVhvSFpiRzNiS0pXOWlmd0hyYXRwTEc0MTVySE5Ta2pkY1BtcFN0RVFxNVB4cl9JUm9veUZfSmdFZmZLeVdCZ0Z0YlNxTUU4OUFrdndKbGhXWE42c0R1RU1sZmhUNDVDbjVTalFEQ3Nzem9OSkU3elQ?oc=5",
+          "pub": "Sun, 23 Aug 2026 07:00:00 GMT",
+          "source": "Simply Wall Street"
         }
       ]
     }
