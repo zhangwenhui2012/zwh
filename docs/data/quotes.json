@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-10-06T16:30:35.621202+00:00",
-  "updated_at_display": "2026-10-06 16:30 UTC",
+  "updated_at": "2026-10-06T17:01:22.657216+00:00",
+  "updated_at_display": "2026-10-06 17:01 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 240.751,
+      "price": 240.625,
       "prev_close": 238.89999389648438,
       "high_52w": 243.37,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 0.7748037466747164,
-      "drawdown_pct": 1.0761392118995765,
+      "day_change_pct": 0.7220620123845931,
+      "drawdown_pct": 1.1279122324033382,
       "name": "NVIDIA",
       "news": [
         {
@@ -27,9 +27,9 @@
           "source": "TIKR.com"
         },
         {
-          "title": "Not Nvidia. Not Micron. If I Could Buy and Hold Only 1 Artificial Intelligence (AI) Chip Stock Through 2030, It Would be This One. - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNHkzQk8wX3dkc1ItZ1VvTGNzRndHSVhUVV9aVXI3bFktNHhHOWRLd2I1elg3am55M3cwV2NrTUhwOHgyeGpxdFBPVUs1ZUlyNC1CT0g4QjVsYjRIYVhaLWtEVWJwMFc5YWNFeV9NR3VUUHR0eVUzWjlieTZVMnAxNmowcjZPeml5bUwzaG9qTjZ0Vk9UN3V2OQ?oc=5",
-          "pub": "Tue, 06 Oct 2026 15:22:44 GMT",
+          "title": "3 Overlooked Growth Stocks Powering Every AI Chip Nvidia and AMD Build - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPajJiQ2pmWERxa3paTkl3d25SZVpUV0hDSGtudWU5RFBncy1mUW9yS0pGSHJUSjVFalpFLWd5OTJ3Wmp6OTZ4ZndSQjFHZzJjUGhhV1ZJUGdRX3hxZVdPVnB5QVlSLVM0TWpiZlV6VWlQRmF6dVRtQndDOUJ1YmNQaVpFTEZnVnpOSHp2NmpPc3I?oc=5",
+          "pub": "Tue, 06 Oct 2026 13:48:00 GMT",
           "source": "The Motley Fool"
         },
         {
@@ -42,14 +42,14 @@
     },
     {
       "symbol": "META",
-      "price": 741.26,
+      "price": 741.67,
       "prev_close": 741.9000244140625,
       "high_52w": 779.8200073242188,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -0.08626828319192836,
-      "drawdown_pct": 4.944731728098252,
+      "day_change_pct": -0.031004772407739103,
+      "drawdown_pct": 4.892155493050527,
       "name": "Meta Platforms",
       "news": [
         {
@@ -80,16 +80,22 @@
     },
     {
       "symbol": "AVGO",
-      "price": 378.23,
+      "price": 377.72,
       "prev_close": 362.510009765625,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 4.336429287714986,
-      "drawdown_pct": 23.589898989898987,
+      "day_change_pct": 4.195743517319371,
+      "drawdown_pct": 23.69292929292929,
       "name": "Broadcom",
       "news": [
+        {
+          "title": "What Will Decide Broadcom Stock Performance Over The Next Six Months? - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbUo4QXFfRENwb1lFWHRMTmhSMHFfMUpINzZGem9hNlpWMHNZdi11OHd0RVFReDRpSE8zUkVqcTRTUm5iWkJjUHhkRlYzQUdid1NVSmZwM0ZwdU9VTXdFdk9mTUdRR0tMdmNhR1R0aUMxUDRFcm5aVk4yaXgyT3VFSTR2NjZXQ1k0S1BERW53WFFib2psNi1zRjBqNURhTUc2Ymg2Mm9B?oc=5",
+          "pub": "Tue, 06 Oct 2026 13:35:41 GMT",
+          "source": "Yahoo Finance"
+        },
         {
           "title": "Prediction: $5,000 Invested in Broadcom Could Be Worth This Much in 2028 - The Motley Fool",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeFBxRk4ySFRXZXplT2xvS1VEWnFaekMwMVpRZ09IMnl4U0RUSnE3NkpoTXNsanBQazJhRDlGeXJXNVV3eGp3LUV4Ni1FQm1wd2Z0bm5lcm16UUF2bmlXQnRPcEdEQWd6eHczR1lKLUJudGhiVk1DRDhvaU02RWc3OWM5MFhjdDduY3dVU1VjWnJ4d0hYems5QkhHS0M2dkFOUkFPaDkwbF9XT0dFWC1YejByWWU5S2c?oc=5",
@@ -97,35 +103,29 @@
           "source": "The Motley Fool"
         },
         {
-          "title": "Marvell Rallies 6% as Investor Day Presses the Custom AI Silicon Case; Broadcom Advances 4% - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWGZQOHVGeWV3aXQ4TS05MTQ0YUJlN1FEeGlDYl92SjlNMkFTUEJWVExsczBNU0pIRUhRV2ZOdEFfbzZiNFhsT203bk1jTFNsWHJGUlh1WUZockxWbm1yS2l2MURabTZQMjUxcGV5UTF6WEhGN29BdHRCRnFUbnZCckJ0Y1F6VEJpYlAwNk5DenlIdUJaWHo3MHpB?oc=5",
-          "pub": "Tue, 06 Oct 2026 14:48:56 GMT",
-          "source": "Yahoo Finance"
+          "title": "Broadcom: When The Story And The Stock Disagree (NASDAQ:AVGO) - Seeking Alpha",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZkZXTk5Rd1pPbUJIQzFmQkRxVlBFXzNkeFhVQVB2VURqdkl3WHY0UEdNajZrNmZKMU83OGpxRXczeUZrTVVVN1ZUcHhTUzRkcXU2SnFiLUdsSDlySndlbE45ZTdOd2Y4THc4NEFkMUo5T1pvNGZ0M1NLTjFEcnZ5dlNQci1JZTk3ZVFPaUlERDE?oc=5",
+          "pub": "Tue, 06 Oct 2026 15:56:31 GMT",
+          "source": "Seeking Alpha"
         },
         {
-          "title": "What Will Decide Broadcom Stock Performance Over The Next Six Months? - Trefis",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeHpvM1lRQ3BxT0VYN2FLNWNRSENMM2VUZ3lsc0Q5ZjJqdVp1NXludHktSWhtRjczekRZSkYyUkNfSWZ2SnI0NFMtS0tFWU94TzhHSC1XZGpISkt0YXEwUVhKMVhDQVFzZTQ5ZDlMY1RHVnkyZGxpUmZyWE1BeDNZRHg2dlVxSHpaNkRiZnJnRTZQbGpWMTVST1czR2VRRVk5SDUyenlqYUZpUmJxTUZyUzM3MGpSU2dyMEtyLWF4MDNjZ0hFWEZEVQ?oc=5",
-          "pub": "Tue, 06 Oct 2026 13:35:14 GMT",
-          "source": "Trefis"
-        },
-        {
-          "title": "Prediction: This Company Could Be One of AI’s Biggest Winners by 2028 - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWFFTR1diaEhVaDg4aXZDTVVJS1ZPLVBPaWpFdS16elRPNDBQSElQZXMzclUxXzBFUVVhMUh3UUxOVjhwbEZMUWZQeExSNWtHNE9kbFdOUHd3S290MEtXT2VCc3dBcjlXeUFPRW52ZmlEYVg2S2hpbGNtcXFUSnBJZlEwVTFZMERlVkFvcFNrczdfek1VRFVIOEhMOA?oc=5",
-          "pub": "Tue, 06 Oct 2026 14:00:59 GMT",
+          "title": "Here’s Why I’m Buying Broadcom Even As Concerns About Circular Financing With Anthropic Mount - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQejBTa1lJR0RNWUhsaGtGeEw4aTN3Z1V4ZVRPR25rN0RfTUd4N2RZdUUzRlNUa0VVRV9Gd3l3NGNHMkY3UGZMazdEWXcyYW51cHZvQ0pYeEt4S3FULUJMT1czQXdRUHMwdW1kZEszVnNQX1F1N19vbXh5ZWdsTGNzT1pWNEtlVlcybFF5TzJ1RmFHM0pKU0E?oc=5",
+          "pub": "Tue, 06 Oct 2026 16:45:04 GMT",
           "source": "Yahoo Finance"
         }
       ]
     },
     {
       "symbol": "AMD",
-      "price": 655.51,
+      "price": 655.999,
       "prev_close": 631.75,
       "high_52w": 658.52001953125,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 3.760981400870596,
-      "drawdown_pct": 0.45708853823344836,
+      "day_change_pct": 3.8383854372774078,
+      "drawdown_pct": 0.38283111469329323,
       "name": "AMD",
       "news": [
         {
@@ -141,9 +141,9 @@
           "source": "CNBC"
         },
         {
-          "title": "3 Overlooked Growth Stocks Powering Every AI Chip Nvidia and AMD Build - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPajJiQ2pmWERxa3paTkl3d25SZVpUV0hDSGtudWU5RFBncy1mUW9yS0pGSHJUSjVFalpFLWd5OTJ3Wmp6OTZ4ZndSQjFHZzJjUGhhV1ZJUGdRX3hxZVdPVnB5QVlSLVM0TWpiZlV6VWlQRmF6dVRtQndDOUJ1YmNQaVpFTEZnVnpOSHp2NmpPc3I?oc=5",
-          "pub": "Tue, 06 Oct 2026 13:48:00 GMT",
+          "title": "Advanced Micro Devices vs. Intel: Which Semiconductor Stock Is a Better Buy in 2026? - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOeGQ3dUc4cEFtNVIxeDV6WVkwUG9TNlBMOGUyUjJPSmktMXdPLXlqZXVfWWNRSGRjWXVHM0hRb0ZZYzlzUXFyZmhEUEFRZ05GcjVhSnVablIxMlM5WEVkeHpWeWw1bWtmb1JtX1V2Z3RERTZKTHRCbHNOc3JvdzRWMTJTNzNGLUZwUF84ZFJwLXEzYndhR0VmN3hacnp5QUhWdmp0b0M4UjZ6N1ZLV2x2ZUxyUDdsNVR3QzdrdGhwZnZoOHNBc1h1WmR4V25CbkE?oc=5",
+          "pub": "Mon, 05 Oct 2026 21:19:00 GMT",
           "source": "The Motley Fool"
         },
         {
@@ -156,14 +156,14 @@
     },
     {
       "symbol": "RKLB",
-      "price": 73.975,
+      "price": 74.125,
       "prev_close": 73.0199966430664,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 1.307865517444214,
-      "drawdown_pct": 51.00993377483444,
+      "day_change_pct": 1.5132886986218712,
+      "drawdown_pct": 50.91059602649006,
       "name": "Rocket Lab",
       "news": [
         {
@@ -173,35 +173,35 @@
           "source": "Benzinga"
         },
         {
-          "title": "SpaceX Gains 2% as Morgan Stanley Sees a Closing Window; AST SpaceMobile Surges 8%, Rocket Lab Rises 5% - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQek5jYnV4aFpyTVpmeEhPYk50X3QxTGh5TzE2OGJQYTNZcDVTdmppeUZkNUpjSG5xZWxFX3pKSUg1bHhnY18tX1dwTmJUSmlYUnY5c2pYc2ZaaS1OM19OSlhleWdfdG9pTmVJRlBrS2IzZERvOFh0bHQzaEdRbTN1RHo4bGVqTXdicjBXNjB4Y1ZRMjB6OHNXaXV3?oc=5",
-          "pub": "Tue, 06 Oct 2026 14:53:41 GMT",
-          "source": "Yahoo Finance"
-        },
-        {
-          "title": "Rocket Lab Gains 13.6% in a Month: Should Investors Buy the Stock Now? - The Globe and Mail",
-          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPa0R6bXZiZGswSTdhckF2Q3p0VUtxMWoteFJtSlJzdXhLaGd6eFZneGRXYUc0UmJhbWlnVWgzWDBrcGVyNzVJZFdMSUhkTFFuTml5VnJPLURubU1UWTc2UkFvTWQ5OGJBYWxkUXRKMmg4Y2dLanVVOVFFSXFnVjE5alg0X09uUHJvbnptX21OU3IxSkVoMUQ4cE9Xd3BUTGNCQ211bHBRZDNGbFFwY2RmczBNamRBdWZmck9nUVlQUlAwQlVfbW8teFFOZy1kcE1fT1JKa0JFSG9OS1JoZHI5bmpIVU93UQ?oc=5",
-          "pub": "Tue, 06 Oct 2026 15:52:55 GMT",
+          "title": "Rocket Lab, MYR Group, Ameresco, Comfort Systems, and Powell Shares Skyrocket, What You Need To Know - The Globe and Mail",
+          "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNU2lRdlFMNkp1SUJaZG1BWFpUQ3RuVTZCU2wxc1U2RVd2eUJOOUtvVm52MjIwM3NCSlFDTm8zMzVSWTczMFhGQVdnaDVSb0NJbmhLMFJOV2EybVBzZElEbjVKWGZuZ0J6YnpDVG5CeFByTk15WGFxc09IenZ5bFlmM1BGdmRzRVh2Y2dCQUFIRnp4aXgwSnlxcVNDUW5XZ09mWlhTa0kzellHU1ZHaGlCeXBBOGswZ2xCTXFEd0phN3RsZDF2TVFNdU81YndGcXY2ZkVxYXBCVHR2MVBPRXcxZGh1ajE4Q2pRQVZzUzE4ZDA1ZU9FdC1WWjRpV3dyRzdXX1hzQjlQbWRUc2Fw?oc=5",
+          "pub": "Tue, 06 Oct 2026 16:16:07 GMT",
           "source": "The Globe and Mail"
         },
         {
-          "title": "Rocket Lab Stock Pops Tuesday: What's Going On? - Yahoo Finance UK",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQY0dZbTQ3T0daZnNqdDRWNVFkQlA1UmdjUGNhTkJ6dEhTcVozX2pveVcxQUdWdW1sY3d0WkVMVDgxYWwyaWpPTWNUdmVOaFNRdk1XWG95dFY4amVQci1RT2xRRjRKclRkNkZyMlJremlsT2p1TVdxdEZmb1RNeXdGcHp0aWw?oc=5",
-          "pub": "Tue, 06 Oct 2026 14:57:52 GMT",
-          "source": "Yahoo Finance UK"
+          "title": "Can Rocket Lab Capitalize on Falcon 9’s Exit Before Neutron Slips Again - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOTExQ0dSQW1lWU9jTEtRWDUzTmZ6WVpNNnVmOHU4aWZ0SWZBWTZnSVNRdUtVV0lJTVB3dXFmMXNvNUxFLWxWT0FmTnMwVHFuYWExbVZocU1UbFE5SEhPcXg2aEZZR216OWVsU0lkSWZ4eWtSTy10dVJDaWFqNzVBbFlmOFF6RDhqZUZuR2N3TC1IQ1NKb25SbnI0MA?oc=5",
+          "pub": "Tue, 06 Oct 2026 11:41:41 GMT",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Down More Than 50% From Its High, Is Rocket Lab Stock a Good Buy Right Now? - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRjd6NGJYSGVYNkF5aXVxajlXdWFHcTVDSEcwQW5pOXhtdTk5RURSLXllSGgxUTJ3NlAzZXlwQ09kdTNoREc1eEY5aUF3WFk5QUFtZ3puQUM2cHk3ZmU3ZC15YllINGdBWDgzVGRpSzFRcXF1S2RpckhRRWM5eEpxU3pXZi1aR2xlQmtvanUwSzdaLVdwWkNCZ252QlROcXpYS3d5OHhJX0MwV01nSUZ4WXV0bkROQQ?oc=5",
+          "pub": "Mon, 05 Oct 2026 14:20:00 GMT",
+          "source": "The Motley Fool"
         }
       ]
     },
     {
       "symbol": "IREN",
-      "price": 41.45,
+      "price": 41.4,
       "prev_close": 40.47999954223633,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": 2.3962462172253445,
-      "drawdown_pct": 46.077795604289804,
+      "day_change_pct": 2.2727284292672816,
+      "drawdown_pct": 46.142840482933615,
       "name": "IREN",
       "news": [
         {
