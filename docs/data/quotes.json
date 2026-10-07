@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-10-07T19:57:56.063295+00:00",
-  "updated_at_display": "2026-10-07 19:57 UTC",
+  "updated_at": "2026-10-07T20:00:42.808904+00:00",
+  "updated_at_display": "2026-10-07 20:00 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 237.525,
+      "price": 237.47,
       "prev_close": 239.24000549316406,
       "high_52w": 243.37,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -0.7168556486314998,
-      "drawdown_pct": 2.401692895591075,
+      "day_change_pct": -0.7398451147480177,
+      "drawdown_pct": 2.424292229937957,
       "name": "NVIDIA",
       "news": [
         {
@@ -42,14 +42,14 @@
     },
     {
       "symbol": "META",
-      "price": 720.96,
+      "price": 721.31,
       "prev_close": 738.8800048828125,
       "high_52w": 779.8200073242188,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -2.4252929791562847,
-      "drawdown_pct": 7.547896536558983,
+      "day_change_pct": -2.3779239885641763,
+      "drawdown_pct": 7.503014384688981,
       "name": "Meta Platforms",
       "news": [
         {
@@ -80,14 +80,14 @@
     },
     {
       "symbol": "AVGO",
-      "price": 376.645,
+      "price": 376.51,
       "prev_close": 375.80999755859375,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 0.22218739438299376,
-      "drawdown_pct": 23.910101010101016,
+      "day_change_pct": 0.18626498655004547,
+      "drawdown_pct": 23.93737373737374,
       "name": "Broadcom",
       "news": [
         {
@@ -118,14 +118,14 @@
     },
     {
       "symbol": "AMD",
-      "price": 646.4,
+      "price": 645.86,
       "prev_close": 649.4199829101562,
       "high_52w": 658.52001953125,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -0.4650277154428233,
-      "drawdown_pct": 1.840493708889418,
+      "day_change_pct": -0.5481788370914267,
+      "drawdown_pct": 1.9224957716944862,
       "name": "AMD",
       "news": [
         {
@@ -135,10 +135,10 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "Citi now thinks AMD stock could rip another 25% because of Meta Muse - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPalRicUZHUzZhUUF6Vl9xR1ZOblQ1ellGNW5PLXBrcTc5dW1TXzg4VEFEalJXNTNkczJmV2ozcS1kYVE0SEtjZzZyRFVjZWYyZG9FVkIyZEpuWk9zZzZvLUlwR01aX2JvUGtNVnBmS2NqSkFTTkFkR0I4MGMzSVdMLWYwY09NOHRncFlnNThkOGNsanE4cFo0N0p5eFYtWjFSR0xmUWh2c1owSHg3RWdWdFd5bnduQkVzZUx4S0s1cG40QWZXT1k2THAwOA?oc=5",
-          "pub": "Tue, 06 Oct 2026 11:54:54 GMT",
-          "source": "Yahoo Finance"
+          "title": "Meta Muse popularity lifts AMD stock to fresh highs as AI agents juice CPU sales - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZ3VMeWo4NUtvcHd0NU92ME10aTdvaDU5YTB3ZHVHTkNBMkJYUDREWUk0ZWhhYnZfZXpYdVhzSnFPZUZRa09yM1I3Rk9vNnoyYW5FU3dhb3VSaDNYMHRRZEtRZUU5Z3NCS1NvcG56YVE5TFBCSXJYblM0S1RwM3lUQVhNdzAtN2NZb2V2ajNldklrVVo4RGtNR0pieW9hdFduak9fckdRSHpnZ9IBrwFBVV95cUxNWUpNX1d2MXNZb0Z4cGR6WjZHZHBXbW5PdHNCNUU1VFNTZ2dTSERqa2tScmVHUnFCVzRoSllQT2s0a3BwcktYSFFVd0tLUC0xWWJMVmlRR3psb00zd3drTjVhd1RfT3ZVeGdxNlU1ZC0xa2IyX1RwOWNEMXh2blFQcDNRR015YW4zZUpJc0VJSlFrcGxkQjFrWW9VRmoyUXFQaWh6MTM1SEpFZXRtNVlN?oc=5",
+          "pub": "Tue, 06 Oct 2026 11:00:01 GMT",
+          "source": "CNBC"
         },
         {
           "title": "Why Cathie Wood Is Taking Profits on AMD Stock - Barchart.com",
@@ -156,14 +156,14 @@
     },
     {
       "symbol": "RKLB",
-      "price": 71.96,
+      "price": 71.92,
       "prev_close": 75.05999755859375,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -4.130026191612675,
-      "drawdown_pct": 52.34437086092716,
+      "day_change_pct": -4.183316894118716,
+      "drawdown_pct": 52.37086092715232,
       "name": "Rocket Lab",
       "news": [
         {
@@ -194,14 +194,14 @@
     },
     {
       "symbol": "IREN",
-      "price": 38.685,
+      "price": 38.69,
       "prev_close": 41.279998779296875,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": -6.286334438067717,
-      "drawdown_pct": 49.67477739329195,
+      "day_change_pct": -6.274222034608773,
+      "drawdown_pct": 49.66827290542757,
       "name": "IREN",
       "news": [
         {
@@ -281,12 +281,6 @@
       "name": "Invisio",
       "news": [
         {
-          "title": "NXLKF (Invisio AB) Shiller PE Ratio : (As of Oct. 07, 2026) - GuruFocus",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1EM1FFaHM3ckdScGNiTmJYS1BQUkI1RnI4RXdPZUxSS3kzVl9UaDFEM05DbWNJT3IzbldOX3hsRFZKLTdoWjJUeWk2Y1NENlJzSjRfNGdSalRWcnFVT3VYNVJvMA?oc=5",
-          "pub": "Tue, 06 Oct 2026 10:34:21 GMT",
-          "source": "GuruFocus"
-        },
-        {
           "title": "PDT Partners takes new public short position in Invisio - www.marketscreener.com",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQ1FBM0xuY0phZkc5djAxNFZDNFc5cVRNdUJ2XzFDUjBLdVpMeU5ld2JGTk1FN3ZSVHpIclBaelhFbEllVUNjMktLWjhyRFhNM0FIcE1CQkRZYUxoSlRYd3RZbEt5ZW42Q1gybFdDX3NqMUR5dFB6a0xCTzY2MjlYTlQzcFdBaWRiT0JoT3RVSzlmdGJ4dFRsbWl4a25WQ3ZhUjN5eGpNM2ItZzhy?oc=5",
           "pub": "Mon, 05 Oct 2026 06:01:37 GMT",
@@ -303,6 +297,12 @@
           "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVm9YOG93aThIb01PdmYzcUhYMkg3aWdBa3N1NVdvSFhRMkc0cGN5Qnk5OXJJWGdaWFdDM0xoSDcyYVJHejI1TlFsZmpJaEFFZFNta0JhVXVyRno5QUJXS1RkekRCdnMwUnpyRE5EcDJOV2t0YV9Wd3YwU3JYUkk2anVHYWhJNWtFMlhhcDIzWldOY21lbTF5YUhfN2lTbGxLd2Z1MU9QR19iRERCVjJCR1RPUjdhYXpkNjNqZHZ1Zl9NNXZBblM3Z0hwdUtsaTV20gHWAUFVX3lxTFBMcE1MYWpYQUhOTXFxek9ISFRrMHI1UTcwbUF6bUdXWHVZWHkxSGloTVdqVWJSTkRpdVFVVlRWMko0Q2R0UHpTajFpMUpzX0pxekR2bTdUU1J1aXRBUXpFMGcwV1lZM3lRRDR5OGljejBSNkJzRlZCVFlQODljeWJFbF9YWkZkeVJuVnFleW0wVkswZGFPakRtdjFQZkNkMjJOYURLUjF0QW9tY2FLa05VNnBXbS1ZQjdELVB2UkgwWkFLYmV2d2xMVFltZmdreDgxSExnU0E?oc=5",
           "pub": "Thu, 24 Sep 2026 06:50:44 GMT",
           "source": "Simply Wall Street"
+        },
+        {
+          "title": "Earnings call transcript: INVISIO posts strong Q2 2026 growth as U.S. delays linger - Investing.com",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOc1V0M2pBMUVxTkN0TnV4NGUwUFNpV181cVpQR1ZkY3ZFb0lhQm1vcU91TVZwcTM5THB2RGFuVUJSMG5FMWU5VmswdDR6cXhabHBaaGN3SXNINEdDVVpjN0lTSlBnRDY5Sy1rbkhfVXlNdVNYRy05NE5UMTJLaWtPZ0lnSWpwalBTaUM4dENrdkNHRWRFVDdoWkFLVDJ1cjFSMmtXazU4NEdlT3cxTkY4MkhDckdSckhabU1IQUt6a0R4dDQ3Zkh0U0xIc3lTM1RsVlE?oc=5",
+          "pub": "Fri, 17 Jul 2026 07:00:00 GMT",
+          "source": "Investing.com"
         }
       ]
     },
