@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-10-07T14:03:25.664154+00:00",
-  "updated_at_display": "2026-10-07 14:03 UTC",
+  "updated_at": "2026-10-07T14:30:34.513782+00:00",
+  "updated_at_display": "2026-10-07 14:30 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 238.65,
+      "price": 237.82,
       "prev_close": 239.24000549316406,
       "high_52w": 243.37,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -0.2466165689755075,
-      "drawdown_pct": 1.939433783950363,
+      "day_change_pct": -0.5935485121883781,
+      "drawdown_pct": 2.2804782840941824,
       "name": "NVIDIA",
       "news": [
         {
@@ -21,10 +21,10 @@
           "source": "The Motley Fool"
         },
         {
-          "title": "Nvidia Stock Hits Record as Key Supplier’s Revenue Booms on AI Demand - Barron's",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZ2JWNUhNcmRiRHFxQzdEUWlMVDI1d3VvYzFRTnFqT0V3RTdiRVhWUzU5NzhjNFhQdGVZYUdwSkhkWlpuT2RyLVhsYlljekxPeW0ycndId1Q0SThPWlpSMV9VNnV5QUstWkNDR1J4SF9Hc2Y5Rlh5eE93WnNoVk4xLQ?oc=5",
-          "pub": "Mon, 05 Oct 2026 20:21:00 GMT",
-          "source": "Barron's"
+          "title": "Nvidia stock is closing in on a $6 trillion market cap - Quartz",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9uQUVYX2hlTkRtSGtpVVBhRkppcklFTHZFb1RKdk5MOUhVWnhrWWtRUmYxVl9oQ2NrWGxUTzVwVFJlVVNyMEZBVDFHUFpLQUZPTkRlRVJSZ29yakYxcnI1NmNJTG80MW1WN3c?oc=5",
+          "pub": "Tue, 06 Oct 2026 13:57:12 GMT",
+          "source": "Quartz"
         },
         {
           "title": "Q3 2026 insider stock sales: Nvidia's Mark Stevens tops AI sellers - Quartz",
@@ -42,14 +42,14 @@
     },
     {
       "symbol": "META",
-      "price": 722.91,
+      "price": 720.83,
       "prev_close": 738.8800048828125,
       "high_52w": 779.8200073242188,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -2.1613800315716216,
-      "drawdown_pct": 7.297838833283207,
+      "day_change_pct": -2.4428871756619284,
+      "drawdown_pct": 7.564567050110702,
       "name": "Meta Platforms",
       "news": [
         {
@@ -71,23 +71,23 @@
           "source": "MarketWatch"
         },
         {
-          "title": "Meta Platforms: The AI Spending Looks Crazy; The Economics Don't (NASDAQ:META) - Seeking Alpha",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPc0NySDZ2ckxsNy1yYXBnMGNLa1lWM0tSM21vUWNNYmlQUElIaGhyRTlYMkhnRmpGQzdTOTB4YmJZZkpOZlRJcXhDRU94ZmFLRi1Ld2NaQlppNkxrR053SWNxNEt6RlF6WGRhV0o5bkxRZFdYek5iUnBxc28teGVoWDIxb0QwYXNCR09xODZtM0s2VExJbUlyUFd1OEc0Tkd5eTJObg?oc=5",
-          "pub": "Mon, 05 Oct 2026 15:51:06 GMT",
-          "source": "Seeking Alpha"
+          "title": "XLK Does Not Own Alphabet, Amazon, Meta, Netflix or Tesla. Three Stocks Are 35.87% of It - 24/7 Wall St.",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWWQ0TDB6c1NKVUg4NWdvRXJCVjRMT3VxU2RCS0pPUFR2U2puaDZwei1JTGloRmFFZnM4ZkpQaTJrOEhHLUJrbkdQa2JBbDdlYzdFVmN4dHVrU3B4bUtqNXdwUUlLLWJabHJ2UnRWM2doUnZtdEpmcHR6aGprNHRoeUZHdXhDYVRtT19FSW5vU0hJSUtkOGZ3RDlvODZqVV9fS2hlMExOaGJxbGxBQTFFc3kyYk1Sd0hra3hNWU11YXNUSGp4ajZUZEJwOA?oc=5",
+          "pub": "Tue, 06 Oct 2026 22:33:00 GMT",
+          "source": "24/7 Wall St."
         }
       ]
     },
     {
       "symbol": "AVGO",
-      "price": 370.22,
+      "price": 371.78,
       "prev_close": 375.80999755859375,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -1.4874531265555724,
-      "drawdown_pct": 25.2080808080808,
+      "day_change_pct": -1.0723497471526013,
+      "drawdown_pct": 24.892929292929296,
       "name": "Broadcom",
       "news": [
         {
@@ -118,14 +118,14 @@
     },
     {
       "symbol": "AMD",
-      "price": 637.55,
+      "price": 640.415,
       "prev_close": 649.4199829101562,
       "high_52w": 658.52001953125,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -1.8277822091283635,
-      "drawdown_pct": 3.184416404861465,
+      "day_change_pct": -1.3866193137149088,
+      "drawdown_pct": 2.7493499049789882,
       "name": "AMD",
       "news": [
         {
@@ -156,14 +156,14 @@
     },
     {
       "symbol": "RKLB",
-      "price": 71.44,
+      "price": 71.765,
       "prev_close": 75.05999755859375,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -4.822805324191344,
-      "drawdown_pct": 52.688741721854306,
+      "day_change_pct": -4.389818366329669,
+      "drawdown_pct": 52.47350993377483,
       "name": "Rocket Lab",
       "news": [
         {
@@ -187,27 +187,27 @@
         {
           "title": "SpaceX Comfortably Wins on Scale. Here’s How Rocket Lab Still Competes. - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOVVUMmYzN2g3RE9hb2poTHE5QUdmclpvMkpiakR4eWYtU0dlN2c3NF9MZnJIUTN6OTZjSEJIdkZ2NHY5WVVhZkVvM1FuVG5pVUZzc0pSVnN2VFZ5ODlVVktkbmxRYUI5M3lYLWJ2MkFpT18xd05pWEM3d1NwWWdHRXQ3X0UyMFNDVWZMY1l3dU1OdEczUzZnaml6NmMtVU41a3NZ?oc=5",
-          "pub": "Wed, 07 Oct 2026 05:36:00 GMT",
+          "pub": "Wed, 07 Oct 2026 05:36:23 GMT",
           "source": "Yahoo Finance"
         }
       ]
     },
     {
       "symbol": "IREN",
-      "price": 39.965,
+      "price": 39.9,
       "prev_close": 41.279998779296875,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": -3.1855591525753195,
-      "drawdown_pct": 48.00962850001066,
+      "day_change_pct": -3.3430203975417414,
+      "drawdown_pct": 48.09418684224761,
       "name": "IREN",
       "news": [
         {
-          "title": "What Caused the Surge in Iren's AI Neocloud Stock in September? - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPV3BOc0NqZTNHd3pRWHduLURpME8xcUU5TE4wb3I2VVpTdEVXbmdHNkFTVkl3Mm5CNkJWVklQZlJOOUlPdU9ZNlFQajREcjJNaEhMVnRDcEF3UHFGX2w3eWlmQkVWT0NxNVlEcDB4djFXSjBkTGxhNVFJN09jS3p5NkZHTnBFTFlHQzREVG1qdWFwVzRXWExGTmFDaw?oc=5",
-          "pub": "Mon, 05 Oct 2026 17:13:27 GMT",
+          "title": "Applied Digital Falls 4% Ahead of Earnings Despite Its First International Data Center Deal; IREN and Core Scientific Also Drop 4% - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRDNmaGZ4VG1qQnhoYUxRaDcxOWEydDBhQTc2cEloNHpuanU4WndxMnJkZkNKbHBqMkg2Q3hwTHE5THR4czdZOVM5NDZBc3lLN05oSWVWN01Xd2VBWmVwRFNjV3BlRkZMSExIa0VJNVJhdTNIQXBwbmExWng1Qi1IOXllOG1qUjlQNXRpaEZ6MjZzQzY1bnhwLS1R?oc=5",
+          "pub": "Wed, 07 Oct 2026 14:12:39 GMT",
           "source": "Yahoo Finance"
         },
         {
@@ -232,14 +232,14 @@
     },
     {
       "symbol": "MILDEF.ST",
-      "price": 218.5,
+      "price": 217.8,
       "prev_close": 221.5,
       "high_52w": 251.9,
       "currency": "SEK",
       "yahoo_name": "Mildef Group AB",
       "exchange": "Stockholm",
-      "day_change_pct": -1.3544018058690745,
-      "drawdown_pct": 13.259229853116317,
+      "day_change_pct": -1.6704288939051868,
+      "drawdown_pct": 13.53711790393013,
       "name": "MilDef Group",
       "news": [
         {
@@ -270,14 +270,14 @@
     },
     {
       "symbol": "IVSO.ST",
-      "price": 239.6,
+      "price": 238.6,
       "prev_close": 248.60000610351562,
       "high_52w": 336.0,
       "currency": "SEK",
       "yahoo_name": "INVISIO AB",
       "exchange": "Stockholm",
-      "day_change_pct": -3.6202758980496887,
-      "drawdown_pct": 28.690476190476193,
+      "day_change_pct": -4.022528502815758,
+      "drawdown_pct": 28.98809523809524,
       "name": "Invisio",
       "news": [
         {
