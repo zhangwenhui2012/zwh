@@ -1,30 +1,30 @@
 {
-  "updated_at": "2026-10-07T14:00:44.797654+00:00",
-  "updated_at_display": "2026-10-07 14:00 UTC",
+  "updated_at": "2026-10-07T14:03:25.664154+00:00",
+  "updated_at_display": "2026-10-07 14:03 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 238.545,
+      "price": 238.65,
       "prev_close": 239.24000549316406,
       "high_52w": 243.37,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -0.2905055497434077,
-      "drawdown_pct": 1.9825779677035038,
+      "day_change_pct": -0.2466165689755075,
+      "drawdown_pct": 1.939433783950363,
       "name": "NVIDIA",
       "news": [
-        {
-          "title": "Nvidia stock is closing in on a $6 trillion market cap - Quartz",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9uQUVYX2hlTkRtSGtpVVBhRkppcklFTHZFb1RKdk5MOUhVWnhrWWtRUmYxVl9oQ2NrWGxUTzVwVFJlVVNyMEZBVDFHUFpLQUZPTkRlRVJSZ29yakYxcnI1NmNJTG80MW1WN3c?oc=5",
-          "pub": "Tue, 06 Oct 2026 13:57:12 GMT",
-          "source": "Quartz"
-        },
         {
           "title": "Not Nvidia. Not Micron. If I Could Buy and Hold Only 1 Artificial Intelligence (AI) Chip Stock Through 2030, It Would be This One. - The Motley Fool",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNHkzQk8wX3dkc1ItZ1VvTGNzRndHSVhUVV9aVXI3bFktNHhHOWRLd2I1elg3am55M3cwV2NrTUhwOHgyeGpxdFBPVUs1ZUlyNC1CT0g4QjVsYjRIYVhaLWtEVWJwMFc5YWNFeV9NR3VUUHR0eVUzWjlieTZVMnAxNmowcjZPeml5bUwzaG9qTjZ0Vk9UN3V2OQ?oc=5",
           "pub": "Tue, 06 Oct 2026 16:15:00 GMT",
           "source": "The Motley Fool"
+        },
+        {
+          "title": "Nvidia Stock Hits Record as Key Supplier’s Revenue Booms on AI Demand - Barron's",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZ2JWNUhNcmRiRHFxQzdEUWlMVDI1d3VvYzFRTnFqT0V3RTdiRVhWUzU5NzhjNFhQdGVZYUdwSkhkWlpuT2RyLVhsYlljekxPeW0ycndId1Q0SThPWlpSMV9VNnV5QUstWkNDR1J4SF9Hc2Y5Rlh5eE93WnNoVk4xLQ?oc=5",
+          "pub": "Mon, 05 Oct 2026 20:21:00 GMT",
+          "source": "Barron's"
         },
         {
           "title": "Q3 2026 insider stock sales: Nvidia's Mark Stevens tops AI sellers - Quartz",
@@ -42,14 +42,14 @@
     },
     {
       "symbol": "META",
-      "price": 723.1,
+      "price": 722.91,
       "prev_close": 738.8800048828125,
       "high_52w": 779.8200073242188,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -2.1356654366787486,
-      "drawdown_pct": 7.273474236553764,
+      "day_change_pct": -2.1613800315716216,
+      "drawdown_pct": 7.297838833283207,
       "name": "Meta Platforms",
       "news": [
         {
@@ -65,29 +65,29 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "Meta stock scores a rare ‘golden cross’ buy signal as investors swarm to its top-charting AI agent - MarketWatch",
+          "title": "Meta’s stock scores a rare ‘golden cross’ buy signal as investors swarm to its chart-topping AI agent Muse - MarketWatch",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdHpKVlV2WUZuY09leGUzd3lEeTVnZDVrQWp4ZlYtSWw5R0ktWUp4UllKZUY0TGkzc2ZqcWFFMjVfV0JyQzM5SGNYcnVpT3g3QWR2cFlOdkZSRU5NU1Q1TjNMU01rS3h1a2JobjNGa2hOT0dsejd6WGdtWlpfeWdoc0dLemNPb3B4aGdpVFV4Nm1ncGU0MXRaMThQd1FfR05CQ2pvVHJpYndtSkdvMjdyRG5UeXN2Z0EtdHc?oc=5",
           "pub": "Wed, 07 Oct 2026 11:18:00 GMT",
           "source": "MarketWatch"
         },
         {
-          "title": "XLK Does Not Own Alphabet, Amazon, Meta, Netflix or Tesla. Three Stocks Are 35.87% of It - 24/7 Wall St.",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWWQ0TDB6c1NKVUg4NWdvRXJCVjRMT3VxU2RCS0pPUFR2U2puaDZwei1JTGloRmFFZnM4ZkpQaTJrOEhHLUJrbkdQa2JBbDdlYzdFVmN4dHVrU3B4bUtqNXdwUUlLLWJabHJ2UnRWM2doUnZtdEpmcHR6aGprNHRoeUZHdXhDYVRtT19FSW5vU0hJSUtkOGZ3RDlvODZqVV9fS2hlMExOaGJxbGxBQTFFc3kyYk1Sd0hra3hNWU11YXNUSGp4ajZUZEJwOA?oc=5",
-          "pub": "Tue, 06 Oct 2026 22:33:00 GMT",
-          "source": "24/7 Wall St."
+          "title": "Meta Platforms: The AI Spending Looks Crazy; The Economics Don't (NASDAQ:META) - Seeking Alpha",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPc0NySDZ2ckxsNy1yYXBnMGNLa1lWM0tSM21vUWNNYmlQUElIaGhyRTlYMkhnRmpGQzdTOTB4YmJZZkpOZlRJcXhDRU94ZmFLRi1Ld2NaQlppNkxrR053SWNxNEt6RlF6WGRhV0o5bkxRZFdYek5iUnBxc28teGVoWDIxb0QwYXNCR09xODZtM0s2VExJbUlyUFd1OEc0Tkd5eTJObg?oc=5",
+          "pub": "Mon, 05 Oct 2026 15:51:06 GMT",
+          "source": "Seeking Alpha"
         }
       ]
     },
     {
       "symbol": "AVGO",
-      "price": 371.39,
+      "price": 370.22,
       "prev_close": 375.80999755859375,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -1.176125592003344,
-      "drawdown_pct": 24.971717171717174,
+      "day_change_pct": -1.4874531265555724,
+      "drawdown_pct": 25.2080808080808,
       "name": "Broadcom",
       "news": [
         {
@@ -118,14 +118,14 @@
     },
     {
       "symbol": "AMD",
-      "price": 640.065,
+      "price": 637.55,
       "prev_close": 649.4199829101562,
       "high_52w": 658.52001953125,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -1.4405135592278822,
-      "drawdown_pct": 2.802499390130411,
+      "day_change_pct": -1.8277822091283635,
+      "drawdown_pct": 3.184416404861465,
       "name": "AMD",
       "news": [
         {
@@ -156,14 +156,14 @@
     },
     {
       "symbol": "RKLB",
-      "price": 71.5,
+      "price": 71.44,
       "prev_close": 75.05999755859375,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -4.742869270432263,
-      "drawdown_pct": 52.64900662251656,
+      "day_change_pct": -4.822805324191344,
+      "drawdown_pct": 52.688741721854306,
       "name": "Rocket Lab",
       "news": [
         {
@@ -194,14 +194,14 @@
     },
     {
       "symbol": "IREN",
-      "price": 40.05,
+      "price": 39.965,
       "prev_close": 41.279998779296875,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": -2.979648293773105,
-      "drawdown_pct": 47.89905220631621,
+      "day_change_pct": -3.1855591525753195,
+      "drawdown_pct": 48.00962850001066,
       "name": "IREN",
       "news": [
         {
@@ -232,14 +232,14 @@
     },
     {
       "symbol": "MILDEF.ST",
-      "price": 218.6,
+      "price": 218.5,
       "prev_close": 221.5,
       "high_52w": 251.9,
       "currency": "SEK",
       "yahoo_name": "Mildef Group AB",
       "exchange": "Stockholm",
-      "day_change_pct": -1.3092550790067745,
-      "drawdown_pct": 13.219531560142919,
+      "day_change_pct": -1.3544018058690745,
+      "drawdown_pct": 13.259229853116317,
       "name": "MilDef Group",
       "news": [
         {
@@ -270,14 +270,14 @@
     },
     {
       "symbol": "IVSO.ST",
-      "price": 240.0,
+      "price": 239.6,
       "prev_close": 248.60000610351562,
       "high_52w": 336.0,
       "currency": "SEK",
       "yahoo_name": "INVISIO AB",
       "exchange": "Stockholm",
-      "day_change_pct": -3.459374856143258,
-      "drawdown_pct": 28.57142857142857,
+      "day_change_pct": -3.6202758980496887,
+      "drawdown_pct": 28.690476190476193,
       "name": "Invisio",
       "news": [
         {
