@@ -1,24 +1,24 @@
 {
-  "updated_at": "2026-10-07T19:00:44.173522+00:00",
-  "updated_at_display": "2026-10-07 19:00 UTC",
+  "updated_at": "2026-10-07T19:30:38.051335+00:00",
+  "updated_at_display": "2026-10-07 19:30 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 236.81,
+      "price": 237.0,
       "prev_close": 239.24000549316406,
       "high_52w": 243.37,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -1.0157187081461985,
-      "drawdown_pct": 2.6954842421005063,
+      "day_change_pct": -0.9363005524709651,
+      "drawdown_pct": 2.6174138143567425,
       "name": "NVIDIA",
       "news": [
         {
-          "title": "Nvidia stock rises to new highs as market cap closes in on $6 trillion - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaVlRRDdLeUlIWFF1RTBmNXljZ0pENE5md1RsRU5Uam8tOHJSRFM4Ykh4YkNKbW5pRzU2azBhTWdrS1JqZUVhLVNfMkprUjAxYWM0d3hOYmd3MmpFd3FKYjRta09JR3dmek9RNmZfZ29sNlBFMEZGblFKall3OVJwMFQtMnpzS1JYWlROQURUYzFhSk9WcC1jN2l2bGJPZjBCUU5DQkFpaVhsX3M0UjlyOGdJd3ZjUHlYVEs0T2dJQTlYZFUzWVlVSw?oc=5",
-          "pub": "Tue, 06 Oct 2026 15:22:31 GMT",
-          "source": "Yahoo Finance"
+          "title": "Nvidia Soars Near $6 Trillion Market Cap With Stock Back at High - Bloomberg.com",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaC1sSmpWVUxkVXZSLXM3dWU5azIzMFRlZjRMMllaNGVMZGp2MmhxMDVWOVlNdS1JaE5OSU4tUTZGV2hRVG1VQ00yVmJLRHRFTE9JRHRRRkxnR3Z0eXh5SWMzMjc0TGM0MlJKZ3Q0Qm5tQ2JRcG5UTG1HVEdHY256dkRFX3Ywc1JObE00empFNjRIM19seXlSSWRyYmlkSkg3VUdpVU9fb25jUjJGaWJGR3BzaVE?oc=5",
+          "pub": "Tue, 06 Oct 2026 13:38:18 GMT",
+          "source": "Bloomberg.com"
         },
         {
           "title": "Nvidia Stock Hits Record as Key Supplier’s Revenue Booms on AI Demand - Barron's",
@@ -33,23 +33,23 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "Nvidia Director Tops AI Billionaires on Insider Stock Sales - Bloomberg.com",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUlJ4cTVnRFEydXJ4SjN4NWhEZWlTSko5SUlqMl9jVDgzWl9ua05kQkw3UGxFMlBmc1NLcGw1MWpnSmIxZFB2WVdUTVRTTjdqSWJhQkctc1VhMDdaaTBMMWJYdC14NGtfWndSVTNkdjFvdlU3elVoVkJkMlJISlNIRi15dW5aX2h2TmZKdUtsNlNvZDNMdm14cjNlTFBsaVRranZPVEROX1Nld3dmdVk5TWhncw?oc=5",
-          "pub": "Wed, 07 Oct 2026 09:00:17 GMT",
-          "source": "Bloomberg.com"
+          "title": "SpaceX Wants $40 Billion for Nvidia Chips. Here’s Where the 145% Long Term Upside Sits. - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMTFOdnRzNERXaGR6d25CMVp1MkkyeExtUzFDTTBWS01INUdweF9oNHEwbDZ5ZDR2ZjMtU0FHdi1XVXZFUVVnZ0w2eGdyamNRdXBNZFBtRUNTdC1hZzVPT1BzS0ZyR0FzZ3ZkN0NyZGgwOGw0eVZGbmd2SkVuVENrM3l1WDBMVElIYjZIaVhtVXpSVkFLOFFqcm9tcw?oc=5",
+          "pub": "Wed, 07 Oct 2026 17:08:00 GMT",
+          "source": "Yahoo Finance"
         }
       ]
     },
     {
       "symbol": "META",
-      "price": 725.85,
+      "price": 722.305,
       "prev_close": 738.8800048828125,
       "high_52w": 779.8200073242188,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -1.7634805105978009,
-      "drawdown_pct": 6.920828757575093,
+      "day_change_pct": -2.2432607153094324,
+      "drawdown_pct": 7.375420838658517,
       "name": "Meta Platforms",
       "news": [
         {
@@ -80,14 +80,14 @@
     },
     {
       "symbol": "AVGO",
-      "price": 373.84,
+      "price": 373.91,
       "prev_close": 375.80999755859375,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -0.5242004128127609,
-      "drawdown_pct": 24.476767676767683,
+      "day_change_pct": -0.505573979121588,
+      "drawdown_pct": 24.46262626262626,
       "name": "Broadcom",
       "news": [
         {
@@ -118,14 +118,14 @@
     },
     {
       "symbol": "AMD",
-      "price": 643.415,
+      "price": 643.9,
       "prev_close": 649.4199829101562,
       "high_52w": 658.52001953125,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -0.924668637889303,
-      "drawdown_pct": 2.2937828893952448,
+      "day_change_pct": -0.8499866119641613,
+      "drawdown_pct": 2.2201328885425373,
       "name": "AMD",
       "news": [
         {
@@ -156,14 +156,14 @@
     },
     {
       "symbol": "RKLB",
-      "price": 71.79,
+      "price": 72.0,
       "prev_close": 75.05999755859375,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -4.356511677263379,
-      "drawdown_pct": 52.45695364238409,
+      "day_change_pct": -4.076735489106615,
+      "drawdown_pct": 52.317880794701985,
       "name": "Rocket Lab",
       "news": [
         {
@@ -173,10 +173,10 @@
           "source": "Benzinga"
         },
         {
-          "title": "Intuitive Machines Falls 7% Despite Scaling Up Satellite Manufacturing; Rocket Lab and Redwire Drop 5% - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQ1JBbVc0Wm5mbFgzSDF5RndMVVN4elpGaUlyVG8xdkFqMktWeWdlYVpyN2d2SkhBYTNmWkFuNHFoMXpEWlppWEU3dzF0SkdOR0FaNHZwZUQyeEU1Mm1vVHdTNDFBR2ZFOTRrazgwMHVfR1NJbTlVZDBfMC1VemF2RGV6NGhISWFNcVRXb000d3dTelp2VDZlVjZacEMtc21v?oc=5",
-          "pub": "Wed, 07 Oct 2026 17:54:14 GMT",
-          "source": "Yahoo Finance"
+          "title": "Redwire Falls 5% as Space Stocks Sell Off Together; Rocket Lab Drops 4%, Intuitive Machines Slides 6% - 24/7 Wall St.",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNaUJERmdTeFE1V2J2cHJWWFpnREI3TFVIa21GRmhWN1U1ajdXOHphUEtwdG9YSTdOZTZhMjVxNUs0SzNvYzJHVWVZM3BKLXNDaGJrN3R6V2RNa1hmeWstZFJ6VEw3SURaSVM2VDRsMEJLSWtYMFJzTklkN211eGs5bFA1eWIyT2lSa0YwTDZPMFlVQ05XajRqVnBsb0dKLWpzLXd2WU9laVRIUVNGdWhlMDY3ZV9pbGtZdEpjUUc2UzByQ0ZFR0lNVmhyVDRBNzVHb2k3ZjYwcw?oc=5",
+          "pub": "Wed, 07 Oct 2026 14:46:00 GMT",
+          "source": "24/7 Wall St."
         },
         {
           "title": "Rocket Lab Corporation (RKLB) Stock Falls Amid Market Uptick: What Investors Need to Know - Yahoo Finance",
@@ -194,27 +194,21 @@
     },
     {
       "symbol": "IREN",
-      "price": 38.725,
+      "price": 38.805,
       "prev_close": 41.279998779296875,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": -6.1894352103960815,
-      "drawdown_pct": 49.62274149037691,
+      "day_change_pct": -5.995636755052812,
+      "drawdown_pct": 49.51866968454683,
       "name": "IREN",
       "news": [
         {
-          "title": "Applied Digital Falls 4% Ahead of Earnings Despite Its First International Data Center Deal; IREN and Core Scientific Also Drop 4% - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRDNmaGZ4VG1qQnhoYUxRaDcxOWEydDBhQTc2cEloNHpuanU4WndxMnJkZkNKbHBqMkg2Q3hwTHE5THR4czdZOVM5NDZBc3lLN05oSWVWN01Xd2VBWmVwRFNjV3BlRkZMSExIa0VJNVJhdTNIQXBwbmExWng1Qi1IOXllOG1qUjlQNXRpaEZ6MjZzQzY1bnhwLS1R?oc=5",
-          "pub": "Wed, 07 Oct 2026 14:12:39 GMT",
+          "title": "IREN Falls 7% as Financing-Heavy Data Center Names Sell Off Apart From Their Sector Fund; TeraWulf and Core Scientific Drop 5% - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPX09Zem83YmZLVEh2WkZJSnlBYjBDVGRIM2R0NHRjVXhzdW9WdHlDQURPT3FZR1hLcW9IYXFmWnpYQVkyY1BicFo4dlJQNC14UWJlNlI1SVI3TVZaNjJ2NUNHRlBBWkQxU015dEZEcFNmbmF0MDhkVWFWYjBpbWdmN1lQVTI3MGJkRDBBM3NDblRIUE5vaGhDLQ?oc=5",
+          "pub": "Wed, 07 Oct 2026 16:56:15 GMT",
           "source": "Yahoo Finance"
-        },
-        {
-          "title": "Why Is IREN Stock Falling Wednesday? - Benzinga",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcWkxVkdKUWtRXzRkOWplZzRtMk4tQVZ6NjZvSWNvWXFSUHBUWlFSVEhWWDhWUGhJOWplMDJPMmlzWjNXLUV2Wk5IUjA3dGZXbEExOEF1MnJzQ2xwY25pOENFMkZtTlI2bUJneUtfa0lwRDdlbFgwbWM2aXAwRzhaN2JoZzJDX0FRMTk2WG53Y1MtY0JqcnJ6d1NHVEE?oc=5",
-          "pub": "Wed, 07 Oct 2026 13:44:13 GMT",
-          "source": "Benzinga"
         },
         {
           "title": "The Only 2 Artificial Intelligence (AI) Stocks I'd Buy With $1,000 Today and Never Sell - The Motley Fool",
@@ -223,10 +217,16 @@
           "source": "The Motley Fool"
         },
         {
-          "title": "IREN Doubles Down on Pricing: Can Revenue Per MW Keep Rising? - TradingView",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZTRlbjR3ZUNiYmJRVXJSY1UtckdZMnpsN0ktU0hsLTBHMVBYcUYxcnhMd2NZRDNWc3VzSWwtSDRWRFZySWVUbldRTHJoUUJqN2FrRDI1OGxmZEVvNllZQ3V4MUJaajJGX3BzMU95M3BPZHNubDJIYW9fVUtaVF80WG1DYWpyRDF6d2p4cnhEcHhDSXZnYWtMVU1HSFd4b2RZSUVyUjdGMkdaWVNkVXA2ZFFUaFM1QQ?oc=5",
-          "pub": "Mon, 05 Oct 2026 13:28:00 GMT",
-          "source": "TradingView"
+          "title": "Why Is IREN Stock Falling Wednesday? - Benzinga",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcWkxVkdKUWtRXzRkOWplZzRtMk4tQVZ6NjZvSWNvWXFSUHBUWlFSVEhWWDhWUGhJOWplMDJPMmlzWjNXLUV2Wk5IUjA3dGZXbEExOEF1MnJzQ2xwY25pOENFMkZtTlI2bUJneUtfa0lwRDdlbFgwbWM2aXAwRzhaN2JoZzJDX0FRMTk2WG53Y1MtY0JqcnJ6d1NHVEE?oc=5",
+          "pub": "Wed, 07 Oct 2026 13:44:13 GMT",
+          "source": "Benzinga"
+        },
+        {
+          "title": "Applied Digital Falls 4% Ahead of Earnings Despite Its First International Data Center Deal; IREN and Core Scientific Also Drop 4% - 24/7 Wall St.",
+          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOTzRRUzlNQzVlcWt3VDJIRHpNSWlXdldBa1RmQWVpaXhuVElicVoyYlVOZzh4WHZHLThHRHF6TGhRX2RfM1pWNm5RMmNLNlVRYUFxd1RMRF9VbG9tUWR6LVJqQnJjc1JWcEhNakZGaUMwRU84RU54bE9RaEFWVkdDaDh4WURzY09Wckg3VnZZVzc2dXZIVXJ3NFhYbE5YOURJdFV3SGZuNjllSGxlTXVXTnRlSlFpMjJQV2lFZUFpbW5kUHNJeF9MRTR4Z1RXczhuTk9KQlJsNmdvS0hMNmZGT1p0MnhqN1hXZVFWUld5Zm92SGJyRFBlWTdFdjBRTW91?oc=5",
+          "pub": "Wed, 07 Oct 2026 14:12:00 GMT",
+          "source": "24/7 Wall St."
         }
       ]
     },
@@ -281,12 +281,6 @@
       "name": "Invisio",
       "news": [
         {
-          "title": "NXLKF (Invisio AB) Shiller PE Ratio : (As of Oct. 07, 2026) - GuruFocus",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1EM1FFaHM3ckdScGNiTmJYS1BQUkI1RnI4RXdPZUxSS3kzVl9UaDFEM05DbWNJT3IzbldOX3hsRFZKLTdoWjJUeWk2Y1NENlJzSjRfNGdSalRWcnFVT3VYNVJvMA?oc=5",
-          "pub": "Tue, 06 Oct 2026 10:34:21 GMT",
-          "source": "GuruFocus"
-        },
-        {
           "title": "PDT Partners takes new public short position in Invisio - www.marketscreener.com",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQ1FBM0xuY0phZkc5djAxNFZDNFc5cVRNdUJ2XzFDUjBLdVpMeU5ld2JGTk1FN3ZSVHpIclBaelhFbEllVUNjMktLWjhyRFhNM0FIcE1CQkRZYUxoSlRYd3RZbEt5ZW42Q1gybFdDX3NqMUR5dFB6a0xCTzY2MjlYTlQzcFdBaWRiT0JoT3RVSzlmdGJ4dFRsbWl4a25WQ3ZhUjN5eGpNM2ItZzhy?oc=5",
           "pub": "Mon, 05 Oct 2026 06:01:37 GMT",
@@ -303,6 +297,12 @@
           "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVm9YOG93aThIb01PdmYzcUhYMkg3aWdBa3N1NVdvSFhRMkc0cGN5Qnk5OXJJWGdaWFdDM0xoSDcyYVJHejI1TlFsZmpJaEFFZFNta0JhVXVyRno5QUJXS1RkekRCdnMwUnpyRE5EcDJOV2t0YV9Wd3YwU3JYUkk2anVHYWhJNWtFMlhhcDIzWldOY21lbTF5YUhfN2lTbGxLd2Z1MU9QR19iRERCVjJCR1RPUjdhYXpkNjNqZHZ1Zl9NNXZBblM3Z0hwdUtsaTV20gHWAUFVX3lxTFBMcE1MYWpYQUhOTXFxek9ISFRrMHI1UTcwbUF6bUdXWHVZWHkxSGloTVdqVWJSTkRpdVFVVlRWMko0Q2R0UHpTajFpMUpzX0pxekR2bTdUU1J1aXRBUXpFMGcwV1lZM3lRRDR5OGljejBSNkJzRlZCVFlQODljeWJFbF9YWkZkeVJuVnFleW0wVkswZGFPakRtdjFQZkNkMjJOYURLUjF0QW9tY2FLa05VNnBXbS1ZQjdELVB2UkgwWkFLYmV2d2xMVFltZmdreDgxSExnU0E?oc=5",
           "pub": "Thu, 24 Sep 2026 06:50:44 GMT",
           "source": "Simply Wall Street"
+        },
+        {
+          "title": "Earnings call transcript: INVISIO posts strong Q2 2026 growth as U.S. delays linger - Investing.com",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOc1V0M2pBMUVxTkN0TnV4NGUwUFNpV181cVpQR1ZkY3ZFb0lhQm1vcU91TVZwcTM5THB2RGFuVUJSMG5FMWU5VmswdDR6cXhabHBaaGN3SXNINEdDVVpjN0lTSlBnRDY5Sy1rbkhfVXlNdVNYRy05NE5UMTJLaWtPZ0lnSWpwalBTaUM4dENrdkNHRWRFVDdoWkFLVDJ1cjFSMmtXazU4NEdlT3cxTkY4MkhDckdSckhabU1IQUt6a0R4dDQ3Zkh0U0xIc3lTM1RsVlE?oc=5",
+          "pub": "Fri, 17 Jul 2026 07:00:00 GMT",
+          "source": "Investing.com"
         }
       ]
     },
@@ -319,6 +319,12 @@
       "name": "Norbit ASA",
       "news": [
         {
+          "title": "Cash per share of Norbit ASA – HAN:4NK - TradingView",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMkplaGltbDJKaDNQVjN1OTFQOGR5REdPTFJQY01nT1RkMDk1ekRkZXNXM3I0ZHJYekpzdVAyVzIzUkhtbWxYRlg5dldGLVZNWTBOMGdXYnIwQmRwOVhmcDh5S1hGNVowX2tUdWxVeVRKcnJtUkU3QW4zRmNZTEN1ZzNseC12VjFxTFEwc2M3aTlrSWJZbHdV?oc=5",
+          "pub": "Wed, 30 Sep 2026 01:32:46 GMT",
+          "source": "TradingView"
+        },
+        {
           "title": "NORBIT - Shares of NORBIT ASA trading ex-dividend of NOK 5.00 today - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPR1kwRWtEbUplNkg3VWl5VmUtazlTZFpsb1U3MzdnLWpNNEVoUDY4b0tzOE9aUnpiTFZremRyMjJYVUc2YWVOVjdrRHdjS0x6SVBQYzE5dXZFOVBlTFJOeF9NTk1MQm9kRW1IZF8wR0tDLWs1NENKNzR2SGczR181S2NnYlY4a3lyb3RJUkt0a21MN2JCMy00M2VqV0JQdw?oc=5",
           "pub": "Wed, 20 May 2026 07:00:00 GMT",
@@ -329,12 +335,6 @@
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWHEtbDhsdG8wNFpzR2c3M2owbGJUMG83S3pydVBzMklzS1VNQVVKS3ZSN2FpeHRhTmstQ1R0ZVlSOElqd3BnQ1RvWUNyVzQwOXdKNkNBc2dZWG1PYTZlQUtaS28zRXJFQ0N2UmEyeV9FcmN0cTQ0VXVmWVhndEoxSldfMERMdzNnUDltam9IbFhucjBhZFk5d3FCamp2bURVMk8tUGdUNG4tN24xSVpTTkFvbzJNeE11NnJpeW9ISTZ4TDJxS2g4ZFJaSQ?oc=5",
           "pub": "Thu, 13 Aug 2026 07:00:00 GMT",
           "source": "Investing.com"
-        },
-        {
-          "title": "Diluted net income available to common stockholders of Norbit ASA – HAN:4NK - TradingView",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOUItSEg0R21vQ2lCcFhkbVB3Zi1STnBaMEpVNDZYNE5EWUdWYm90MllMYlpxelI0dW54WVFrY0k3a1YwSm9xZTlKc1MwTEFKZGJ4Mjh6THpNb09fcjJkRmlyVHBkS3YzNDZVR19hN0RUMW83MWNBQzM1TFRtdmJId2hLOXBLWUhwVUhvM2s3aGxTeWMyaWc?oc=5",
-          "pub": "Tue, 29 Sep 2026 19:25:22 GMT",
-          "source": "TradingView"
         },
         {
           "title": "Why Norbit (OB:NORBT) Is Down 6.2% After Raising 2026 Revenue And Margin Guidance And What's Next - Simply Wall Street",
