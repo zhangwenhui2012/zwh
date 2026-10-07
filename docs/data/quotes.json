@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-07T22:00:43.325536+00:00",
-  "updated_at_display": "2026-10-07 22:00 UTC",
+  "updated_at": "2026-10-07T22:30:33.322138+00:00",
+  "updated_at_display": "2026-10-07 22:30 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
@@ -15,18 +15,6 @@
       "name": "NVIDIA",
       "news": [
         {
-          "title": "Nvidia Stock Hits Record as Key Supplier’s Revenue Booms on AI Demand - Barron's",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZ2JWNUhNcmRiRHFxQzdEUWlMVDI1d3VvYzFRTnFqT0V3RTdiRVhWUzU5NzhjNFhQdGVZYUdwSkhkWlpuT2RyLVhsYlljekxPeW0ycndId1Q0SThPWlpSMV9VNnV5QUstWkNDR1J4SF9Hc2Y5Rlh5eE93WnNoVk4xLQ?oc=5",
-          "pub": "Mon, 05 Oct 2026 20:21:00 GMT",
-          "source": "Barron's"
-        },
-        {
-          "title": "Nvidia stock is closing in on a $6 trillion market cap - Quartz",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9uQUVYX2hlTkRtSGtpVVBhRkppcklFTHZFb1RKdk5MOUhVWnhrWWtRUmYxVl9oQ2NrWGxUTzVwVFJlVVNyMEZBVDFHUFpLQUZPTkRlRVJSZ29yakYxcnI1NmNJTG80MW1WN3c?oc=5",
-          "pub": "Tue, 06 Oct 2026 13:57:12 GMT",
-          "source": "Quartz"
-        },
-        {
           "title": "SpaceX stock slips on report of its $40 billion in new debt for Nvidia chips - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUmpyUVZ1UWIzcy1TeXItY2FQMU1CMk1uUW1YcVBfdGdxUkdwX0JJTjE3c3FFYXh5dkVrZHhYUEljS0ZqLTg5cTJ3WnA2LWFvMFJSWHpFckNYUkw3SF9odVFFUWktMUtQSDV4QzJrRnhqOV8zLVNJa1Z3NHlXUTB5d2FEUlRBVnUxUGlZT3hMbmtPT1BQaGJGUEdwZVFfa0pCME5kWHFqVUNaYUlWSE5Zc2tWNkJVM2VYa3pYSmY1eXdEeVBCcHBaNk91ZmxhZ2l5NUxYOTVB?oc=5",
           "pub": "Wed, 07 Oct 2026 14:02:23 GMT",
@@ -37,6 +25,18 @@
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWmJxblp1S2xfUTZDWlluRzU4T1FOY2RxRTNneVdiUTU5TW8xZk5VRlA2d2dTcEJrZkI1WmZ3MWxZOWNrUzRzbUFEWHdJQWFKUVMwS3lVUzlqaTU3NFZCSXJUUWVHZXdPZ0hOLVJ1ZlJOa3c0WGNJUi05RGdzaHkwcVo5VGVfUUJ3RFR4dWZad19mS0xweWt1QUVR?oc=5",
           "pub": "Wed, 07 Oct 2026 01:49:00 GMT",
           "source": "Yahoo Finance"
+        },
+        {
+          "title": "SpaceX’s plans to buy more Nvidia GPUs is keeping Jim Cramer bullish on the chip stock - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNd3VHQTk5eWd5YVdZbTh3MFg2UXFScU1YU0Q3WHBPeVVCMmlKYVNnSV9jcWdtSVIzWjVGLWVUdE91Z044c0ZoTi1GYk1TYmI2Skk1Wk0yMl9UNkxlSUluSnUyUnpHbEFvNVVEbHJqSGZGekVIOVlLMFVMY0VnOHh4M0F3WW5oQktXVno5bTlieVFZZzBrdnpGaVlXaVJSeU5veFEtMldfSDRxdW1Ta2N5ZlhleUVCUFQzTzQ0M0VDbkRlZ0RBNk1GSFFWdG5SXzZJZEtZ?oc=5",
+          "pub": "Wed, 07 Oct 2026 20:24:48 GMT",
+          "source": "CNBC"
+        },
+        {
+          "title": "Nvidia Stock Hits Record as Key Supplier’s Revenue Booms on AI Demand - Barron's",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZ2JWNUhNcmRiRHFxQzdEUWlMVDI1d3VvYzFRTnFqT0V3RTdiRVhWUzU5NzhjNFhQdGVZYUdwSkhkWlpuT2RyLVhsYlljekxPeW0ycndId1Q0SThPWlpSMV9VNnV5QUstWkNDR1J4SF9Hc2Y5Rlh5eE93WnNoVk4xLQ?oc=5",
+          "pub": "Mon, 05 Oct 2026 20:21:00 GMT",
+          "source": "Barron's"
         }
       ]
     },
@@ -91,10 +91,10 @@
       "name": "Broadcom",
       "news": [
         {
-          "title": "Why It’s Time to Load Up on Broadcom Stock Before It Touches $523 - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcHBoYWJ0MEZCM281OFVkNHBac0lFdmlXUHhqT2VYZDJpNXpDU2VoYm5Mclh1VVFmS3NSa1VPMUtWdzk2OEloX09qVzlSbUdmOERtSzgweUhqR0daM0gxWG9nNGpySThTc0FuUXJkVVFBWUExV0h3cld2VFF3czlfYk93TFp1TlZXaXJxOVBIUnMzZ0k0dzBZdQ?oc=5",
+          "title": "Why It’s Time to Load Up on Broadcom Stock Before It Touches $523 - Barchart.com",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNTRTRnd5bzhEVXo1cTE2cGQtZzNvRTh5NlAwUXFoSFlNdE1KbU02TUhUN2hBaUgyOHQyQll0dVZTQ2xRS1lNZXE0QnhoUjg5aVlKcElsS1JXcUpKb3M0UU5OUWdzSkZKRWVmNllsSGVNNy1WZ196Y2hITnpZaS1lRlFRVHNJcE1CMTNhSlpsaG5oanduSTZDaGFyWXNNLVlfbmFLcGVsN2ZUZHM?oc=5",
           "pub": "Mon, 05 Oct 2026 17:36:28 GMT",
-          "source": "Yahoo Finance"
+          "source": "Barchart.com"
         },
         {
           "title": "Warren Buffett's $863 Million \"Secret\" Portfolio Dumped Alphabet and Broadcom, but Has Over 17% of Invested Assets in This Proven Moneymaking Strategy - The Motley Fool",
@@ -109,10 +109,10 @@
           "source": "Seeking Alpha"
         },
         {
-          "title": "Warren Buffett Sells Alphabet and Broadcom Stocks, Warns Investors Not to Act Like ‘Cinderella at the Ball’ - TipRanks",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNaDJOMFY5WEpwbUItUG16Z19KdHY4NXgzMjdQTXgyQzh6TDd6WjhqTTlOZ0VhY21UT3JuaVRZYlFaVmw3UWQzQVNpbi14RVRxWk9xMDlJMFNlTGJJLUR0V2RJc3dWeWJCYmswMk0tbmNFYmlsN2J3THV6aVE3UkdBSVR4TkV3Z3FhWlI5Y21mcHY2OTVNOUJnLXl4NXd1ckVHcXlyWTBPNElpUVhJdmQ0LW9PTFVLZFdGQWFXUUJpZlFweEUycllsODNVTWxPVVE?oc=5",
-          "pub": "Wed, 07 Oct 2026 11:57:36 GMT",
-          "source": "TipRanks"
+          "title": "Broadcom (NASDAQ:AVGO) Stock Jumps 4% as Marvell’s Huge AI Forecast Fuels Custom Chip Rally - Stocks Down Under",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9qZnNxQ1EyNDczcVp2bm5YT3dvUEYzbllOODlDcm9FM0ZwZWhpNGdPbkZTWWd4Z0kwOXh2TDFCWGtaYk1pN0hwTEZkMFZXTGdGZWtmTnV6d2E1Z0Rrdm80bVh2MkNyS2VIZ2FoMUN5Sjc5SU9oRWx5Q3ZQNzI?oc=5",
+          "pub": "Tue, 06 Oct 2026 21:12:53 GMT",
+          "source": "Stocks Down Under"
         }
       ]
     },
@@ -167,10 +167,10 @@
       "name": "Rocket Lab",
       "news": [
         {
-          "title": "Rocket Lab Stock Pulls Back: What's Happening? - Benzinga",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNM0hIMXAyZE9hMm9wdXBZb1Y1cTR2NW5sMGZUb2hnd0hzUkxtd1gzVlN6bU1LbXRjX3U2bDBjcTQ5RVRVanI5b0hCX1FQcHNnUVJoSDlRVkY1dWt1S2h2bHpZVHZuZ2NjNWs1OUQ4dF8xUWU4OHdzUFdfcWNUdTBMellIQkdSWDRDTnVwX2pIS2NHOFd0eG5MVURiMjh0SzZ5S1dSRWlFcw?oc=5",
-          "pub": "Wed, 07 Oct 2026 14:47:37 GMT",
-          "source": "Benzinga"
+          "title": "Should You Sell Your RKLB Stock Now, Before Neutron Flies? - Trefis",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNR1FldkxiNWw1M01vM1YtVm01N2xrN2JvRnJpMnR3R0FCQThfZS1kN0xUS3JPUlk1YThKQlZ3Sl94SXI2Vkw3WHlTdl9vLXo1QzFZN1ZrUXk2ZEE1NTlhNGN4NjlvZE1WaEFCQ0REYWdBb1Q3eTltdm9HZTNEX0g1eHRFMWtHWWZvMnhEVU1KS0RQZnJaeHhmUFQwY1B3MjNqNGMxU3lzQlB2WGwwZDZPdm54VHA5RVJD?oc=5",
+          "pub": "Wed, 07 Oct 2026 15:48:56 GMT",
+          "source": "Trefis"
         },
         {
           "title": "Can Rocket Lab Capitalize on Falcon 9’s Exit Before Neutron Slips Again - Yahoo Finance",
@@ -281,12 +281,6 @@
       "name": "Invisio",
       "news": [
         {
-          "title": "NXLKF (Invisio AB) Shiller PE Ratio : (As of Oct. 07, 2026) - GuruFocus",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1EM1FFaHM3ckdScGNiTmJYS1BQUkI1RnI4RXdPZUxSS3kzVl9UaDFEM05DbWNJT3IzbldOX3hsRFZKLTdoWjJUeWk2Y1NENlJzSjRfNGdSalRWcnFVT3VYNVJvMA?oc=5",
-          "pub": "Tue, 06 Oct 2026 10:34:21 GMT",
-          "source": "GuruFocus"
-        },
-        {
           "title": "PDT Partners takes new public short position in Invisio - www.marketscreener.com",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQ1FBM0xuY0phZkc5djAxNFZDNFc5cVRNdUJ2XzFDUjBLdVpMeU5ld2JGTk1FN3ZSVHpIclBaelhFbEllVUNjMktLWjhyRFhNM0FIcE1CQkRZYUxoSlRYd3RZbEt5ZW42Q1gybFdDX3NqMUR5dFB6a0xCTzY2MjlYTlQzcFdBaWRiT0JoT3RVSzlmdGJ4dFRsbWl4a25WQ3ZhUjN5eGpNM2ItZzhy?oc=5",
           "pub": "Mon, 05 Oct 2026 06:01:37 GMT",
@@ -303,6 +297,12 @@
           "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVm9YOG93aThIb01PdmYzcUhYMkg3aWdBa3N1NVdvSFhRMkc0cGN5Qnk5OXJJWGdaWFdDM0xoSDcyYVJHejI1TlFsZmpJaEFFZFNta0JhVXVyRno5QUJXS1RkekRCdnMwUnpyRE5EcDJOV2t0YV9Wd3YwU3JYUkk2anVHYWhJNWtFMlhhcDIzWldOY21lbTF5YUhfN2lTbGxLd2Z1MU9QR19iRERCVjJCR1RPUjdhYXpkNjNqZHZ1Zl9NNXZBblM3Z0hwdUtsaTV20gHWAUFVX3lxTFBMcE1MYWpYQUhOTXFxek9ISFRrMHI1UTcwbUF6bUdXWHVZWHkxSGloTVdqVWJSTkRpdVFVVlRWMko0Q2R0UHpTajFpMUpzX0pxekR2bTdUU1J1aXRBUXpFMGcwV1lZM3lRRDR5OGljejBSNkJzRlZCVFlQODljeWJFbF9YWkZkeVJuVnFleW0wVkswZGFPakRtdjFQZkNkMjJOYURLUjF0QW9tY2FLa05VNnBXbS1ZQjdELVB2UkgwWkFLYmV2d2xMVFltZmdreDgxSExnU0E?oc=5",
           "pub": "Thu, 24 Sep 2026 06:50:44 GMT",
           "source": "Simply Wall Street"
+        },
+        {
+          "title": "Earnings call transcript: INVISIO posts strong Q2 2026 growth as U.S. delays linger - Investing.com",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOc1V0M2pBMUVxTkN0TnV4NGUwUFNpV181cVpQR1ZkY3ZFb0lhQm1vcU91TVZwcTM5THB2RGFuVUJSMG5FMWU5VmswdDR6cXhabHBaaGN3SXNINEdDVVpjN0lTSlBnRDY5Sy1rbkhfVXlNdVNYRy05NE5UMTJLaWtPZ0lnSWpwalBTaUM4dENrdkNHRWRFVDdoWkFLVDJ1cjFSMmtXazU4NEdlT3cxTkY4MkhDckdSckhabU1IQUt6a0R4dDQ3Zkh0U0xIc3lTM1RsVlE?oc=5",
+          "pub": "Fri, 17 Jul 2026 07:00:00 GMT",
+          "source": "Investing.com"
         }
       ]
     },
@@ -319,9 +319,9 @@
       "name": "Norbit ASA",
       "news": [
         {
-          "title": "Diluted net income available to common stockholders of Norbit ASA – HAN:4NK - TradingView",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOUItSEg0R21vQ2lCcFhkbVB3Zi1STnBaMEpVNDZYNE5EWUdWYm90MllMYlpxelI0dW54WVFrY0k3a1YwSm9xZTlKc1MwTEFKZGJ4Mjh6THpNb09fcjJkRmlyVHBkS3YzNDZVR19hN0RUMW83MWNBQzM1TFRtdmJId2hLOXBLWUhwVUhvM2s3aGxTeWMyaWc?oc=5",
-          "pub": "Tue, 29 Sep 2026 19:25:22 GMT",
+          "title": "Cash per share of Norbit ASA – HAN:4NK - TradingView",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMkplaGltbDJKaDNQVjN1OTFQOGR5REdPTFJQY01nT1RkMDk1ekRkZXNXM3I0ZHJYekpzdVAyVzIzUkhtbWxYRlg5dldGLVZNWTBOMGdXYnIwQmRwOVhmcDh5S1hGNVowX2tUdWxVeVRKcnJtUkU3QW4zRmNZTEN1ZzNseC12VjFxTFEwc2M3aTlrSWJZbHdV?oc=5",
+          "pub": "Wed, 30 Sep 2026 01:32:46 GMT",
           "source": "TradingView"
         },
         {
