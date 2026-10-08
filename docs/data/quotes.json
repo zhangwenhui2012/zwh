@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-10-08T19:30:35.662908+00:00",
-  "updated_at_display": "2026-10-08 19:30 UTC",
+  "updated_at": "2026-10-08T19:56:22.380708+00:00",
+  "updated_at_display": "2026-10-08 19:56 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 230.52,
+      "price": 230.32,
       "prev_close": 237.47000122070312,
       "high_52w": 243.37,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -2.9266859750608365,
-      "drawdown_pct": 5.280026297407238,
+      "day_change_pct": -3.0109071394066174,
+      "drawdown_pct": 5.36220569503226,
       "name": "NVIDIA",
       "news": [
         {
@@ -21,37 +21,43 @@
           "source": "CNBC"
         },
         {
-          "title": "Trump discloses Nvidia stock trades as he prepares to honor CEO Huang - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVEZQNW40RlJZMzdldzRvNF9sMEZqOG82MDJfdUxjaFlUQ0ttcV81aFNTUDQtUVNDclR2NUZSMXRYVG5PR1RqWGFNc3RjcWNOZVZ2RnJpdm95WlBpVVVRYjRGamNwSUd5dzhQU0VOcDVyZlozczlCVVVfMUJlQkZEUTk5UGc1ODl6Rm1FNmY0RlFwNXJxWlNPeTEtak5udU5BQmc?oc=5",
-          "pub": "Thu, 08 Oct 2026 15:18:00 GMT",
+          "title": "Trump discloses Nvidia stock trades as he prepares to honor CEO Huang - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPc0R0am1rbndOQjhQUzhJdTNHcXpnb3lDWFVteEs0SzJiVzc5cFNhMkNJZ2F5dzhjSTFlbFE1ZDRHNVE0MTNJM1phbUU1MVZXX0VkdmZoRUJDaU5OX3pPZ3V2bUZIaTMxZ0std2V2eVFyVUlaZGFXNjhCYTNtV1AxbnVsSlJnVXlWTW9JWWhiYTJaczdTR1JBcDNFaFg0YWRmZjRhZVR6c3dvd3pv?oc=5",
+          "pub": "Thu, 08 Oct 2026 15:18:12 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Nvidia Stock Drops, but a Big Options Trade Bet Suggests It Could Go Higher - Barron's",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1OR2d5TV9DVTYyTUREaERXMDdRV3BqMFptZUZVREFCZGFaRXhyeDUxdWdhLWpoeE5OcnV6ejQwMFl0ZDljNnR1ZWlnZmJybjJWTTI2eGZsY3ZFOEMtSURPMFhINXJSR2tvcW5aeDY0QWo5RkFkdzRDRlhyZFRzQ3M?oc=5",
+          "pub": "Thu, 08 Oct 2026 18:08:00 GMT",
+          "source": "Barron's"
+        },
+        {
+          "title": "Microsoft debuts Nvidia-powered Surface Laptop Ultra as it aims for AI market - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSGR6M2gxc2tYM1YxN1M3WnpZdmt3OEN4SFVJbHlOMFN4WW44MlJzLTRCMklUNWVTNUtHUE1yd3ZnLUZjaGNGVUpGVDQ5MnU5ZzBiRDdXam9tcGsxR2wzYzFPdFk2aVc5X3lVUVVZanZ6MFdGOGhYWTlLN09ZMEFuYTY4UU81ZU91UThWZnZBbGx0cmxxemRVMjhiOFlIUkI0RElPbVlrMTE2RmNpV2dqS18tS19VbWpxTHVhUlRFS0Y4RGY2c1NLczBibDF0SWVRWk04?oc=5",
+          "pub": "Thu, 08 Oct 2026 09:46:26 GMT",
           "source": "Yahoo Finance"
-        },
-        {
-          "title": "Nvidia Soars Near $6 Trillion Market Cap With Stock Back at High - Bloomberg.com",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaC1sSmpWVUxkVXZSLXM3dWU5azIzMFRlZjRMMllaNGVMZGp2MmhxMDVWOVlNdS1JaE5OSU4tUTZGV2hRVG1VQ00yVmJLRHRFTE9JRHRRRkxnR3Z0eXh5SWMzMjc0TGM0MlJKZ3Q0Qm5tQ2JRcG5UTG1HVEdHY256dkRFX3Ywc1JObE00empFNjRIM19seXlSSWRyYmlkSkg3VUdpVU9fb25jUjJGaWJGR3BzaVE?oc=5",
-          "pub": "Tue, 06 Oct 2026 13:38:18 GMT",
-          "source": "Bloomberg.com"
-        },
-        {
-          "title": "Why Nvidia Stock Is Worth Buying Before It Touches $327 - Barchart.com",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZWVmUmFIOVpJdjcxQTNyeWZ6ZW14c0JiSGl2YWtVYmVyODY3RTNvdEdBS1pLRVlPbzUtUkFleTlDYldhTS1Ia1FSWXNTQU9OQ2tIVl9yODYxWkc3N25lN09GVmcwSUlnUzAxUHpOUndDb0VVUlQ4SEFRb3h3REVZakZqYmtaVzhOcFF0NzhoY1BpalY0YWtQM0dTUTNYYjg?oc=5",
-          "pub": "Thu, 08 Oct 2026 11:47:37 GMT",
-          "source": "Barchart.com"
         }
       ]
     },
     {
       "symbol": "META",
-      "price": 719.5,
+      "price": 720.562,
       "prev_close": 721.3099975585938,
       "high_52w": 779.8200073242188,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -0.2509319938334446,
-      "drawdown_pct": 7.735119227216755,
+      "day_change_pct": -0.1036998739966829,
+      "drawdown_pct": 7.598933954971172,
       "name": "Meta Platforms",
       "news": [
+        {
+          "title": "Trump Made His Biggest August Buy a Tech Giant That Jumped Over 30% in Seven Weeks - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMldEVUFHZWttRW9CLWhIclI3dldyNEgtdU94RGs5bzdXVXVUcjVxMnlXdDk1LUM4UW84RnpXMGlkVW9wajFwdm5kd0FUTWlBTDZrMU1EYVdicTNRVzVOQmhkMUppY2tDSVV3N01taVFaaWY4RWNFbjl3ZkpDcVBwRENMS25tTmZoZDZBUHZqdjMtM0xDMmdUcXh3?oc=5",
+          "pub": "Thu, 08 Oct 2026 19:00:47 GMT",
+          "source": "Yahoo Finance"
+        },
         {
           "title": "Meta may ditch the idea of a cloud business for Muse. We think that’s a good trade - CNBC",
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObEk0Ym9xSnJsZDVBNVNSREFMQjByZHlDUlJjaUJfek90RFp2dGt4MXBGYzVHTFd5eDVxMHY3dE5XNUVPb3BzM2poeVdsbUZwRkZuWUMyaGp1aFlkMXVqUV9ZUzVVWnFnQWJabDROaVR1VWZBZkJSQm5Ec01WcGZNMmU4R3ladDYzbDFiVHc3dkNLWjlVX0FYSFpDaFl6Wjlwd0N1Q0VQbng0VXFZU25Dam44dmNlT18zLVAzZWZxakJyVDlWMmVfOVJ0SQ?oc=5",
@@ -65,29 +71,23 @@
           "source": "Bloomberg.com"
         },
         {
-          "title": "Jim Cramer picks Meta and Microsoft as top AI stocks - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNG1PcV9FbDE3ZGZFZVpva1BfYi11N2JleDlPbFNkbEF6bXp3c2JEeTJubk9CUkJmLTNQaDgtUlQ3UDJXd21NQzdMMTRMYUxiUXNUYUdLTlRES2N1M240ajR6QWs3Q3lmQmZ2amkwWGpydk9vSF9pQXFRWnI4Q00tZnFzT1dDbFVha1ZENGwzV29WZS1BNEJ4NXY0Zw?oc=5",
-          "pub": "Wed, 07 Oct 2026 11:20:25 GMT",
-          "source": "Yahoo Finance"
-        },
-        {
-          "title": "Meta Platforms, Inc. $META Stock Acquired by Everhart Financial Group Inc. - MarketBeat",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQR0hzRHNFUzdXTlh3MHlhaklkQ2Y0ZVMzSjZOS3RmV1pvTlpOTExfZUlSOEh0QlJZZ1hGSklhbWowc29mOXNyZ0c2X2lTb1psY2d3dVg5ZE1Oc1NpWG01SDVDcjZDOVFka0NkSHl5NWhvR0VvVThJSzJiX0d2b3U5TDRJcTdHazZnV3FVN3laM1doOFZDeTlWcXNwenE2NE5jTVdrX3JrSjliMVZiYkpYaFVST2M4S1hReTZ2R2RQYzNFempDUUJUX2M3VQ?oc=5",
-          "pub": "Thu, 08 Oct 2026 17:47:09 GMT",
-          "source": "MarketBeat"
+          "title": "Jim Cramer is backing Meta and Microsoft as top AI plays - Quartz",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBaZWRvSzZoVjdnbkNWNGxzQkpMME9IWmJ4YmxjU20tWjBzRTMyai13aTVzUWhpcG1qT3ROd2poYlVPR1hJZmZqdjc5VFZsbVFQZ3ctWEdYcFdLMUw2NTYtcFY4VEJGRmMy?oc=5",
+          "pub": "Wed, 07 Oct 2026 11:21:28 GMT",
+          "source": "Quartz"
         }
       ]
     },
     {
       "symbol": "AVGO",
-      "price": 358.285,
+      "price": 359.7,
       "prev_close": 376.510009765625,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -4.840511352399349,
-      "drawdown_pct": 27.619191919191916,
+      "day_change_pct": -4.464691330806618,
+      "drawdown_pct": 27.333333333333336,
       "name": "Broadcom",
       "news": [
         {
@@ -103,29 +103,29 @@
           "source": "TipRanks"
         },
         {
-          "title": "Why Broadcom (AVGO) Stock Is Down Today - Quiver Quantitative",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNLVFXeGJQX0hIVnRKWGI5OHZBa1lhWUN2eG84STZJdFBKenE2aHpuQmNHQ1F3V0g2OWxtN0FFYzJHT0N5VzlBdmdzbFhiNi00QVJ1WmlLampuSVZiM1lNc3A1SC12bFNqdENZNjB1ZnR4ZUNRLWljMnludnZwYmp6cURB?oc=5",
-          "pub": "Thu, 08 Oct 2026 18:33:00 GMT",
-          "source": "Quiver Quantitative"
-        },
-        {
           "title": "Stocks making the biggest moves premarket: Haemonetics, Broadcom, Lululemon, Palantir, Wolfspeed & more - CNBC",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbTRzRjJ1TVZsblR4YXpPVXAwaHpFT041SWZ4TnZZRllwSDBJYWs2LUJWS2ZnaFdUZ28xSEdkTnR5aEhHQkVFREZldkV5ZnVkRWFlVmwycTV0b2xHbTZQNDVoZEtTX1RxTkFpMGNLcnRqSmNITDZtVTBCZFBac0RWYkd2d2dFWEJ3aEdJblpOUlVlTUNaQzBoaFJGMm1OZw?oc=5",
           "pub": "Thu, 08 Oct 2026 11:42:14 GMT",
           "source": "CNBC"
+        },
+        {
+          "title": "Broadcom Is Financing Its AI Moat (NASDAQ:AVGO) - Seeking Alpha",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAzNHZndUxUVTg3d29yQVdVYTFkaGtYOVlwSmZWQ3otTFFZY0xPN1FpT1AtdS03TnhOd21kUGlOREY3SGF4MEhvdGozbzJ4U1ZYTFFMb3VON3g0V2w4OTM3R3MzVlZCcFJxcWNBQjA0Q29aZTA1bEhKeUhiSWEtT2c?oc=5",
+          "pub": "Thu, 08 Oct 2026 13:45:00 GMT",
+          "source": "Seeking Alpha"
         }
       ]
     },
     {
       "symbol": "AMD",
-      "price": 616.838,
+      "price": 619.525,
       "prev_close": 645.8599853515625,
       "high_52w": 658.52001953125,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -4.493541326262058,
-      "drawdown_pct": 6.329651080451628,
+      "day_change_pct": -4.077506882118969,
+      "drawdown_pct": 5.921614890160453,
       "name": "AMD",
       "news": [
         {
@@ -156,14 +156,14 @@
     },
     {
       "symbol": "RKLB",
-      "price": 68.665,
+      "price": 68.557,
       "prev_close": 71.91999816894531,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -4.525859638231745,
-      "drawdown_pct": 54.526490066225165,
+      "day_change_pct": -4.676026494112782,
+      "drawdown_pct": 54.59801324503311,
       "name": "Rocket Lab",
       "news": [
         {
@@ -194,14 +194,14 @@
     },
     {
       "symbol": "IREN",
-      "price": 35.86,
+      "price": 35.715,
       "prev_close": 38.689998626708984,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": -7.314548273866682,
-      "drawdown_pct": 53.349813036666646,
+      "day_change_pct": -7.689322130539547,
+      "drawdown_pct": 53.538443184733666,
       "name": "IREN",
       "news": [
         {
@@ -217,16 +217,16 @@
           "source": "Zacks Investment Research"
         },
         {
-          "title": "Applied Digital Falls 4% Ahead of Earnings Despite Its First International Data Center Deal; IREN and Core Scientific Also Drop 4% - 24/7 Wall St.",
-          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOTzRRUzlNQzVlcWt3VDJIRHpNSWlXdldBa1RmQWVpaXhuVElicVoyYlVOZzh4WHZHLThHRHF6TGhRX2RfM1pWNm5RMmNLNlVRYUFxd1RMRF9VbG9tUWR6LVJqQnJjc1JWcEhNakZGaUMwRU84RU54bE9RaEFWVkdDaDh4WURzY09Wckg3VnZZVzc2dXZIVXJ3NFhYbE5YOURJdFV3SGZuNjllSGxlTXVXTnRlSlFpMjJQV2lFZUFpbW5kUHNJeF9MRTR4Z1RXczhuTk9KQlJsNmdvS0hMNmZGT1p0MnhqN1hXZVFWUld5Zm92SGJyRFBlWTdFdjBRTW91?oc=5",
-          "pub": "Wed, 07 Oct 2026 14:12:00 GMT",
-          "source": "24/7 Wall St."
-        },
-        {
           "title": "The Only 2 Artificial Intelligence (AI) Stocks I'd Buy With $1,000 Today and Never Sell - The Motley Fool",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMTBRWnMwTnNNa0RGVWxoeGNjWXZCWTc0V1AweEd1YTBZZHZpanRwbmdiamdYLWtGQzd3a0lxdVd6Y3ZmVjAxYXk3OWJmWVMzMHV4Wjh5eFpTemN0LVlrdjFLcU1jMjlPTVV4alBxREFYR3NhTWNuVFEzTG93VG5kdmU0OElLLUJTWmlCdTJUWkR0eFhqTFk5Yg?oc=5",
           "pub": "Tue, 06 Oct 2026 13:33:00 GMT",
           "source": "The Motley Fool"
+        },
+        {
+          "title": "Applied Digital Falls 4% Ahead of Earnings Despite Its First International Data Center Deal; IREN and Core Scientific Also Drop 4% - 24/7 Wall St.",
+          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOTzRRUzlNQzVlcWt3VDJIRHpNSWlXdldBa1RmQWVpaXhuVElicVoyYlVOZzh4WHZHLThHRHF6TGhRX2RfM1pWNm5RMmNLNlVRYUFxd1RMRF9VbG9tUWR6LVJqQnJjc1JWcEhNakZGaUMwRU84RU54bE9RaEFWVkdDaDh4WURzY09Wckg3VnZZVzc2dXZIVXJ3NFhYbE5YOURJdFV3SGZuNjllSGxlTXVXTnRlSlFpMjJQV2lFZUFpbW5kUHNJeF9MRTR4Z1RXczhuTk9KQlJsNmdvS0hMNmZGT1p0MnhqN1hXZVFWUld5Zm92SGJyRFBlWTdFdjBRTW91?oc=5",
+          "pub": "Wed, 07 Oct 2026 14:12:00 GMT",
+          "source": "24/7 Wall St."
         }
       ]
     },
