@@ -1,19 +1,25 @@
 {
-  "updated_at": "2026-10-08T19:00:47.123934+00:00",
-  "updated_at_display": "2026-10-08 19:00 UTC",
+  "updated_at": "2026-10-08T19:30:35.662908+00:00",
+  "updated_at_display": "2026-10-08 19:30 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 230.055,
+      "price": 230.52,
       "prev_close": 237.47000122070312,
       "high_52w": 243.37,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -3.1225001821647624,
-      "drawdown_pct": 5.4710933968854,
+      "day_change_pct": -2.9266859750608365,
+      "drawdown_pct": 5.280026297407238,
       "name": "NVIDIA",
       "news": [
+        {
+          "title": "Nvidia, Oracle, CoreWeave and other AI stocks sink on OpenAI revenue report - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPOG8tazVEa2hVcWdlYU1pZk53QzNMLU1lVWk4c2U0NFRvMk5IMnJYMWdTZERsSHhkYWo1dkRlczFWcGdwRHJfbFJzQ09kUEo1elE4YVRQZWp0Z3lVbU1MUjJIVV9lbFFHbUxPUlJhUER6NzgwdjVFTHM4UVhGZ3pNd3pR0gGHAUFVX3lxTE9nLWxxNlZwaWJicm9JSVBTT3lHeElLRDJ2QklRT2FkelA0eXZSNDlyRWh6dWlhNFloNzZfOUtid3dmcEJsTGNNcTE5VnhEbURXWWo0UGktcmhXNV8tS1lHYndTellPVm00RmFpeFVLTnBqNENtUUtBdHV2NVdPU0Jnb1A1NnpzSQ?oc=5",
+          "pub": "Thu, 08 Oct 2026 18:14:54 GMT",
+          "source": "CNBC"
+        },
         {
           "title": "Trump discloses Nvidia stock trades as he prepares to honor CEO Huang - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVEZQNW40RlJZMzdldzRvNF9sMEZqOG82MDJfdUxjaFlUQ0ttcV81aFNTUDQtUVNDclR2NUZSMXRYVG5PR1RqWGFNc3RjcWNOZVZ2RnJpdm95WlBpVVVRYjRGamNwSUd5dzhQU0VOcDVyZlozczlCVVVfMUJlQkZEUTk5UGc1ODl6Rm1FNmY0RlFwNXJxWlNPeTEtak5udU5BQmc?oc=5",
@@ -27,29 +33,23 @@
           "source": "Bloomberg.com"
         },
         {
-          "title": "Nvidia, Oracle, CoreWeave and other AI stocks sink on OpenAI revenue report - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPOG8tazVEa2hVcWdlYU1pZk53QzNMLU1lVWk4c2U0NFRvMk5IMnJYMWdTZERsSHhkYWo1dkRlczFWcGdwRHJfbFJzQ09kUEo1elE4YVRQZWp0Z3lVbU1MUjJIVV9lbFFHbUxPUlJhUER6NzgwdjVFTHM4UVhGZ3pNd3pR0gGHAUFVX3lxTE9nLWxxNlZwaWJicm9JSVBTT3lHeElLRDJ2QklRT2FkelA0eXZSNDlyRWh6dWlhNFloNzZfOUtid3dmcEJsTGNNcTE5VnhEbURXWWo0UGktcmhXNV8tS1lHYndTellPVm00RmFpeFVLTnBqNENtUUtBdHV2NVdPU0Jnb1A1NnpzSQ?oc=5",
-          "pub": "Thu, 08 Oct 2026 18:14:54 GMT",
-          "source": "CNBC"
-        },
-        {
-          "title": "1 Unstoppable Artificial Intelligence (AI) Stock to Buy Before It Joins Nvidia in the $5 Trillion Club - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPY2xTdkx6THZlYm1JZmJhQUxJVHA3QlJ5Q2JnN25tMzRLZ2hKRElwSzRUcE83Vm9WSTZ5UWNLNkVJZU9abFRlbVdray1MWWc2UXBMQWFObm1ZNVdFOVhvMlpOTXZUeHVQUXhZcHl4S0hkVzAxQXNzZy1qdkZ0ZUhwaFdBRzgzNHZWRmRUVVZEMXpaMDhlMjl5Wg?oc=5",
-          "pub": "Thu, 08 Oct 2026 15:30:00 GMT",
-          "source": "The Motley Fool"
+          "title": "Why Nvidia Stock Is Worth Buying Before It Touches $327 - Barchart.com",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZWVmUmFIOVpJdjcxQTNyeWZ6ZW14c0JiSGl2YWtVYmVyODY3RTNvdEdBS1pLRVlPbzUtUkFleTlDYldhTS1Ia1FSWXNTQU9OQ2tIVl9yODYxWkc3N25lN09GVmcwSUlnUzAxUHpOUndDb0VVUlQ4SEFRb3h3REVZakZqYmtaVzhOcFF0NzhoY1BpalY0YWtQM0dTUTNYYjg?oc=5",
+          "pub": "Thu, 08 Oct 2026 11:47:37 GMT",
+          "source": "Barchart.com"
         }
       ]
     },
     {
       "symbol": "META",
-      "price": 718.945,
+      "price": 719.5,
       "prev_close": 721.3099975585938,
       "high_52w": 779.8200073242188,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -0.3278753332961513,
-      "drawdown_pct": 7.806289496610626,
+      "day_change_pct": -0.2509319938334446,
+      "drawdown_pct": 7.735119227216755,
       "name": "Meta Platforms",
       "news": [
         {
@@ -80,14 +80,14 @@
     },
     {
       "symbol": "AVGO",
-      "price": 358.62,
+      "price": 358.285,
       "prev_close": 376.510009765625,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -4.751536294283758,
-      "drawdown_pct": 27.551515151515147,
+      "day_change_pct": -4.840511352399349,
+      "drawdown_pct": 27.619191919191916,
       "name": "Broadcom",
       "news": [
         {
@@ -103,29 +103,29 @@
           "source": "TipRanks"
         },
         {
+          "title": "Why Broadcom (AVGO) Stock Is Down Today - Quiver Quantitative",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNLVFXeGJQX0hIVnRKWGI5OHZBa1lhWUN2eG84STZJdFBKenE2aHpuQmNHQ1F3V0g2OWxtN0FFYzJHT0N5VzlBdmdzbFhiNi00QVJ1WmlLampuSVZiM1lNc3A1SC12bFNqdENZNjB1ZnR4ZUNRLWljMnludnZwYmp6cURB?oc=5",
+          "pub": "Thu, 08 Oct 2026 18:33:00 GMT",
+          "source": "Quiver Quantitative"
+        },
+        {
           "title": "Stocks making the biggest moves premarket: Haemonetics, Broadcom, Lululemon, Palantir, Wolfspeed & more - CNBC",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbTRzRjJ1TVZsblR4YXpPVXAwaHpFT041SWZ4TnZZRllwSDBJYWs2LUJWS2ZnaFdUZ28xSEdkTnR5aEhHQkVFREZldkV5ZnVkRWFlVmwycTV0b2xHbTZQNDVoZEtTX1RxTkFpMGNLcnRqSmNITDZtVTBCZFBac0RWYkd2d2dFWEJ3aEdJblpOUlVlTUNaQzBoaFJGMm1OZw?oc=5",
           "pub": "Thu, 08 Oct 2026 11:42:14 GMT",
           "source": "CNBC"
-        },
-        {
-          "title": "Warren Buffett's $863 Million \"Secret\" Portfolio Dumped Alphabet and Broadcom, but Has Over 17% of Invested Assets in This Proven Moneymaking Strategy - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPeXBUcW51Ykw1bzJ4YU1YUTMyLXNMOVl1dzhrZVlWcF94bFBRMHh4MGJwVVFPR2hSZm1qLVhUeERodkFwWVZKZEJKNEZGazNOOUpNUFROYXJDd1lCM3Zqc19xMDZGYjhsUDdoZDVNdzl0dlU5QUh4ajlQcFlicjlmeF9XWGNCRUtZQ3p4YTdoRlRuZTBlS2tyVlRQRm8zUTBtVmpBSWgwVkpDX0pFWC1aNVBCTkUtN3k3d21GUlh2Z0p4OVpyeEpubnhPNkh3RWpuTG9qU2o0MWx5Tnh1UUE3dDF1MmR1UE83VTVmWDh2VEw4bWM?oc=5",
-          "pub": "Wed, 07 Oct 2026 10:06:00 GMT",
-          "source": "The Motley Fool"
         }
       ]
     },
     {
       "symbol": "AMD",
-      "price": 616.0,
+      "price": 616.838,
       "prev_close": 645.8599853515625,
       "high_52w": 658.52001953125,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -4.623290810516576,
-      "drawdown_pct": 6.456906133471348,
+      "day_change_pct": -4.493541326262058,
+      "drawdown_pct": 6.329651080451628,
       "name": "AMD",
       "news": [
         {
@@ -135,15 +135,9 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "AMD vs. Intel: Which Chip Stock Has More Upside From Here? - The Globe and Mail",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNdUxYRmV0RThvYkE2SkROLVdKXzFTXzRhdlNweW05elBJanZ1MDNWNEhMNjB4aEFMdlZEM1lZdE50T2d2OGl2d3FDZElOaWVOWXd0bkNPSk9GTEZzeDVkX3dsMjE4TzgyWEQ1Vzk1LTBuTVU1N2M2MmRqVUZmM2lQZENPQWxIb3dZeVNkVkV4UTVrazg0bTJucEhGa2dDaEhqUWwtOThtaV9xdkdudU1aTmtGRjZiYUg5UWhsY0Fld2ZCRXhIWTFBOFZmOGNNWl9pcWZ5V0NB?oc=5",
-          "pub": "Thu, 08 Oct 2026 16:50:28 GMT",
-          "source": "The Globe and Mail"
-        },
-        {
-          "title": "AMD CEO Lisa Su just struck another bullish note with the stock on fire - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaE9mZjA3U0lzZDl1Z0xaOTEzRWtxaFpnalNLNTNGZ0VCRXB1bzdJblVublFlMEVQV0Z2bVdlaWppR205dXc1dTdkbUI3SXpOR1BYZU5BajEtZ09NT2RaV2xOeXJPNWxBSS1uSkppM1prR214cFVnQ00xZ1JiamtOekVhYzRIWXp3MW9aUzNncGw2cHdJWEozQmo1TlRsSmY4UlNuT1dld0o2UWFDTnhHWEs0MjZ1akZNendpbmE3SlBhanN1OTRncWkwenp6NjFa?oc=5",
-          "pub": "Wed, 07 Oct 2026 10:13:18 GMT",
+          "title": "Advanced Micro Devices (AMD) Stock Sees Modest Fair Value Lift As AI Analysts Rework Targets - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZ1RHb3hXUFA5ODJ4RHp4aVl2YlZVdTZ6RkFPQVVXd3prUEYxNmN0TWtoVHhBMVYxb2JhY1RZZTJkV3hVLWt1MjNvYkNVVkVPanRqQzNZUnBIWDdhVmlqenhtaHlNSm1ZSU1CMjhOa1RUZXZwMFBWY1kwZzZYTUpMQnFPcFI2NHRrMXY3Z0t6bHhOQndNbFdTSlNFYnE?oc=5",
+          "pub": "Wed, 07 Oct 2026 15:12:20 GMT",
           "source": "Yahoo Finance"
         },
         {
@@ -151,19 +145,25 @@
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTTAzRjR3eWVzTWplNHpfdkNLVEFPSXBSVzdTak9GbWYwdGJ6bFp4OWVXSks0eUUyRk1ic0RwcEItTC0xbzRlTWE2WFVBMHhra3B5S0VKanFKOXE0UExCMzg0bWZQbVdoZUZNdHNtNFJ6UnFwV3RjMTczX19FZEdCUnZQZDNSbndET1h6N1ZLUjNpaEc2aHV4MUVLYVAtNm9jaFVSUUk0b1FhOG52Q2lvRGdhYks?oc=5",
           "pub": "Tue, 06 Oct 2026 20:00:00 GMT",
           "source": "The Motley Fool"
+        },
+        {
+          "title": "Advanced Micro Devices, Inc. $AMD Stock Position Lifted by Cooper Financial Group - MarketBeat",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQVRaa1lHWmp3aHJmMnNHMUlWME10YnYtd3BBS1ZBRjkzbW5DM3FQbWgyYThfY3BsSUMwVDBWVjNDYWloNTNZX2xuLTgwUW1neGVzWGZoblRESm5VNjU4d1h6TlR3S1ZUMDdmLWQwa0dDbUtkT2FsR2M3UWhEUmFfZDlraXFTYkMyMDc3eG9nc0x3YzJJNEJvU3NXX3EzTmR0UUxNbldDTEV4b0FwcEhDcWtGLXR6VXNqS0JSaWIyb2I1bHFVNjNtV3BZQmd1ZHcxc3FLa2xB?oc=5",
+          "pub": "Wed, 07 Oct 2026 23:44:33 GMT",
+          "source": "MarketBeat"
         }
       ]
     },
     {
       "symbol": "RKLB",
-      "price": 68.029,
+      "price": 68.665,
       "prev_close": 71.91999816894531,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -5.41017556730894,
-      "drawdown_pct": 54.9476821192053,
+      "day_change_pct": -4.525859638231745,
+      "drawdown_pct": 54.526490066225165,
       "name": "Rocket Lab",
       "news": [
         {
@@ -194,14 +194,14 @@
     },
     {
       "symbol": "IREN",
-      "price": 35.747,
+      "price": 35.86,
       "prev_close": 38.689998626708984,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": -7.606613417342784,
-      "drawdown_pct": 53.49681446240163,
+      "day_change_pct": -7.314548273866682,
+      "drawdown_pct": 53.349813036666646,
       "name": "IREN",
       "news": [
         {
@@ -243,12 +243,6 @@
       "name": "MilDef Group",
       "news": [
         {
-          "title": "MilDef Group AB (publ) (8QA.F) stock price, news, quote and history - Yahoo Finance UK",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAtcXhJd0g3Z21uTHZVZFpKZkFHejZSWFVfNlQyVkJMcV9NRVdQbjlGNVBqcjIxeTE0aW81dUNnTHRGOFVxNW5UUmtQNzhKYnFiTDdXaU1MYi1mX1Y0N1R3bGNR?oc=5",
-          "pub": "Thu, 08 Oct 2026 02:48:44 GMT",
-          "source": "Yahoo Finance UK"
-        },
-        {
           "title": "MILDEF Forecast — Price Target — Prediction for 2027 - TradingView",
           "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9hWW9rMkp5VFlIZmlhT1RWd3k5bVQyVTVlLXktUHJfNm43Qld6bURaV0wwTDN1ZmJwZ0c2c2FPNV8wRVYyaVRRNndDaUZOeHdPQTkwS1doZUdWQ180N051Ym91OXZxYW9YRklxUFRIcVFJOFJxbXFVSEl2dWg?oc=5",
           "pub": "Thu, 25 Jun 2026 11:58:03 GMT",
@@ -265,6 +259,12 @@
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNb1JTQkpCd0Zhc28zMjdVR2ljZkVpSVZkeDROTW5NcFRNdVpQQjlSaEpVYTdqd0phajRTTGxsc1FjNVJTOHZqc2p4azBXd1JndnNiX3FOeFNyaFN2NG5WNjU0TEtlX2lJbHdrak9vVDFHMUZEdmRScmN1LUNDY01kbFZ0bUpGdjZUSlBxeWgybXVYSVZtN3JEQkxzTGpJdU9FNmlIZDQ4OXdzSzczWGI0cA?oc=5",
           "pub": "Wed, 30 Sep 2026 11:54:23 GMT",
           "source": "marketscreener.com"
+        },
+        {
+          "title": "MilDef Group (OM:MILDEF) Stock Turnaround To Profitability Tests Bullish Narratives After Q2 Earnings - Simply Wall Street",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQWh3OW13WUJIaXlYOW9waGdUS1ZhaXkyV3NpLWx6Z2I1S2tvX001N3RoVE1sbFVyNzZ5aXhuR2d5ZVd0cG45ZEJBRTNPUS1IcTZHUHRaeEFhN01CNnlxdGhQR1ZUUTRqMS1iMGQxd1N2UWI2SGJFREZjNFVkVXBkel82T1l0ek9QSHVXalFoUGhxN2NkYzNoN0NKNGx5ZWM2S0JpdEwwcjEzbXpKeGpveDJUSkxnWnRpREZ1eUowR3FWQmxpMll1SG52UlFPaGxneDhzWnVISWpUZ9IB3wFBVV95cUxPMHloUkVRcUlsVmlMUFlPRUNMYTdGajY1M2ZMZjU2VTBQb3lUUnZFOVY1R0k0T0xsTDhIa2JPT21NX0VrX2tTMGdZS2Y0THJYekNrcDRBLVFra242WFBrYXlZYnVaRXFLXy1PV0VIcUsxeE00VVgwcDlBWHhWQkIyQ3l2OGNKcnA3UkdBU2tMaENGVEY0djVROU9aWXh0a0k1YTlTMGV5cnQwQjZtY3pBTFBvenM4QUgwVlJ6VENfdWhUa0UxU2FUMmhRY3F4dnNTN2ltSmZ5TU1vSnNXaFpF?oc=5",
+          "pub": "Fri, 17 Jul 2026 07:00:00 GMT",
+          "source": "Simply Wall Street"
         }
       ]
     },
@@ -281,7 +281,7 @@
       "name": "Invisio",
       "news": [
         {
-          "title": "NXLKF (Invisio AB) Shiller PE Ratio : (As of Oct. 07, 2026) - GuruFocus",
+          "title": "NXLKF (Invisio AB) Shiller PE Ratio (CAPE Ratio or Cyclically Adjusted Price-to-Earnings Ratio) : (As of Oct. 08, 2026) - GuruFocus",
           "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1EM1FFaHM3ckdScGNiTmJYS1BQUkI1RnI4RXdPZUxSS3kzVl9UaDFEM05DbWNJT3IzbldOX3hsRFZKLTdoWjJUeWk2Y1NENlJzSjRfNGdSalRWcnFVT3VYNVJvMA?oc=5",
           "pub": "Tue, 06 Oct 2026 10:34:21 GMT",
           "source": "GuruFocus"
