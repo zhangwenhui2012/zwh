@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-10-08T14:00:47.183195+00:00",
-  "updated_at_display": "2026-10-08 14:00 UTC",
+  "updated_at": "2026-10-08T14:12:43.750474+00:00",
+  "updated_at_display": "2026-10-08 14:12 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 234.2,
+      "price": 235.714,
       "prev_close": 237.47000122070312,
       "high_52w": 243.37,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -1.3770165510986028,
-      "drawdown_pct": 3.7679253811069633,
+      "day_change_pct": -0.7394623370010892,
+      "drawdown_pct": 3.145827341085592,
       "name": "NVIDIA",
       "news": [
         {
@@ -42,14 +42,14 @@
     },
     {
       "symbol": "META",
-      "price": 719.66,
+      "price": 721.23,
       "prev_close": 721.3099975585938,
       "high_52w": 779.8200073242188,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -0.22875013020455864,
-      "drawdown_pct": 7.714601672076182,
+      "day_change_pct": -0.011090593346064555,
+      "drawdown_pct": 7.513273162259261,
       "name": "Meta Platforms",
       "news": [
         {
@@ -80,14 +80,14 @@
     },
     {
       "symbol": "AVGO",
-      "price": 367.55,
+      "price": 367.855,
       "prev_close": 376.510009765625,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -2.37975340182922,
-      "drawdown_pct": 25.747474747474747,
+      "day_change_pct": -2.2987462593657653,
+      "drawdown_pct": 25.685858585858583,
       "name": "Broadcom",
       "news": [
         {
@@ -118,14 +118,14 @@
     },
     {
       "symbol": "AMD",
-      "price": 634.38,
+      "price": 639.395,
       "prev_close": 645.8599853515625,
       "high_52w": 658.52001953125,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -1.777472766843355,
-      "drawdown_pct": 3.665798884661614,
+      "day_change_pct": -1.0009886814776763,
+      "drawdown_pct": 2.904242690277458,
       "name": "AMD",
       "news": [
         {
@@ -156,14 +156,14 @@
     },
     {
       "symbol": "RKLB",
-      "price": 69.831,
+      "price": 70.11,
       "prev_close": 71.91999816894531,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -2.904613768256919,
-      "drawdown_pct": 53.754304635761585,
+      "day_change_pct": -2.5166827238975946,
+      "drawdown_pct": 53.56953642384106,
       "name": "Rocket Lab",
       "news": [
         {
@@ -194,14 +194,14 @@
     },
     {
       "symbol": "IREN",
-      "price": 36.64,
+      "price": 36.645,
       "prev_close": 38.689998626708984,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": -5.2985233896953465,
-      "drawdown_pct": 52.33511292982337,
+      "day_change_pct": -5.285600153258344,
+      "drawdown_pct": 52.32860844195898,
       "name": "IREN",
       "news": [
         {
@@ -232,22 +232,16 @@
     },
     {
       "symbol": "MILDEF.ST",
-      "price": 219.5,
+      "price": 219.8,
       "prev_close": 217.89999389648438,
       "high_52w": 251.9,
       "currency": "SEK",
       "yahoo_name": "Mildef Group AB",
       "exchange": "Stockholm",
-      "day_change_pct": 0.7342846022637909,
-      "drawdown_pct": 12.862246923382298,
+      "day_change_pct": 0.8719624399889858,
+      "drawdown_pct": 12.743152044462086,
       "name": "MilDef Group",
       "news": [
-        {
-          "title": "MilDef Group AB (publ) (8QA.F) stock price, news, quote and history - Yahoo Finance UK",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAtcXhJd0g3Z21uTHZVZFpKZkFHejZSWFVfNlQyVkJMcV9NRVdQbjlGNVBqcjIxeTE0aW81dUNnTHRGOFVxNW5UUmtQNzhKYnFiTDdXaU1MYi1mX1Y0N1R3bGNR?oc=5",
-          "pub": "Thu, 08 Oct 2026 02:48:44 GMT",
-          "source": "Yahoo Finance UK"
-        },
         {
           "title": "MILDEF Forecast — Price Target — Prediction for 2027 - TradingView",
           "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9hWW9rMkp5VFlIZmlhT1RWd3k5bVQyVTVlLXktUHJfNm43Qld6bURaV0wwTDN1ZmJwZ0c2c2FPNV8wRVYyaVRRNndDaUZOeHdPQTkwS1doZUdWQ180N051Ym91OXZxYW9YRklxUFRIcVFJOFJxbXFVSEl2dWg?oc=5",
@@ -265,19 +259,25 @@
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNb1JTQkpCd0Zhc28zMjdVR2ljZkVpSVZkeDROTW5NcFRNdVpQQjlSaEpVYTdqd0phajRTTGxsc1FjNVJTOHZqc2p4azBXd1JndnNiX3FOeFNyaFN2NG5WNjU0TEtlX2lJbHdrak9vVDFHMUZEdmRScmN1LUNDY01kbFZ0bUpGdjZUSlBxeWgybXVYSVZtN3JEQkxzTGpJdU9FNmlIZDQ4OXdzSzczWGI0cA?oc=5",
           "pub": "Wed, 30 Sep 2026 11:54:23 GMT",
           "source": "marketscreener.com"
+        },
+        {
+          "title": "MilDef Group (OM:MILDEF) Stock Turnaround To Profitability Tests Bullish Narratives After Q2 Earnings - Simply Wall Street",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQWh3OW13WUJIaXlYOW9waGdUS1ZhaXkyV3NpLWx6Z2I1S2tvX001N3RoVE1sbFVyNzZ5aXhuR2d5ZVd0cG45ZEJBRTNPUS1IcTZHUHRaeEFhN01CNnlxdGhQR1ZUUTRqMS1iMGQxd1N2UWI2SGJFREZjNFVkVXBkel82T1l0ek9QSHVXalFoUGhxN2NkYzNoN0NKNGx5ZWM2S0JpdEwwcjEzbXpKeGpveDJUSkxnWnRpREZ1eUowR3FWQmxpMll1SG52UlFPaGxneDhzWnVISWpUZ9IB3wFBVV95cUxPMHloUkVRcUlsVmlMUFlPRUNMYTdGajY1M2ZMZjU2VTBQb3lUUnZFOVY1R0k0T0xsTDhIa2JPT21NX0VrX2tTMGdZS2Y0THJYekNrcDRBLVFra242WFBrYXlZYnVaRXFLXy1PV0VIcUsxeE00VVgwcDlBWHhWQkIyQ3l2OGNKcnA3UkdBU2tMaENGVEY0djVROU9aWXh0a0k1YTlTMGV5cnQwQjZtY3pBTFBvenM4QUgwVlJ6VENfdWhUa0UxU2FUMmhRY3F4dnNTN2ltSmZ5TU1vSnNXaFpF?oc=5",
+          "pub": "Fri, 17 Jul 2026 07:00:00 GMT",
+          "source": "Simply Wall Street"
         }
       ]
     },
     {
       "symbol": "IVSO.ST",
-      "price": 239.6,
+      "price": 240.0,
       "prev_close": 238.0,
       "high_52w": 336.0,
       "currency": "SEK",
       "yahoo_name": "INVISIO AB",
       "exchange": "Stockholm",
-      "day_change_pct": 0.6722689075630228,
-      "drawdown_pct": 28.690476190476193,
+      "day_change_pct": 0.8403361344537815,
+      "drawdown_pct": 28.57142857142857,
       "name": "Invisio",
       "news": [
         {
@@ -308,27 +308,27 @@
     },
     {
       "symbol": "NORBT.OL",
-      "price": 156.3,
+      "price": 156.6,
       "prev_close": 156.8000030517578,
       "high_52w": 244.8000030517578,
       "currency": "NOK",
       "yahoo_name": "NORBIT",
       "exchange": "Oslo",
-      "day_change_pct": -0.31887949108824704,
-      "drawdown_pct": 36.1519615802645,
+      "day_change_pct": -0.12755296419975168,
+      "drawdown_pct": 36.0294125621844,
       "name": "Norbit ASA",
       "news": [
+        {
+          "title": "Asset turnover of Norbit ASA – HAN:4NK - TradingView",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNT05rU1gwUWJFcHA3TDJzSC1Mb0tVbzJCc0ZmQmtUU1ZHY0lSN1lhMnFjRHNtSXN6bnVqY29jZGhoTklkVnNLM0hWZGsweDJaYnhiTHRVemwtYWRRMjFnMnZrWHVkVWJYcnkxUjFFdDZ5akd5ZEdQMHlNV01TWkhWaGtBRzFkS3J6WGJCSUxmYWYtajhwRkVN?oc=5",
+          "pub": "Wed, 30 Sep 2026 12:40:56 GMT",
+          "source": "TradingView"
+        },
         {
           "title": "NORBIT - Shares of NORBIT ASA trading ex-dividend of NOK 5.00 today - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPR1kwRWtEbUplNkg3VWl5VmUtazlTZFpsb1U3MzdnLWpNNEVoUDY4b0tzOE9aUnpiTFZremRyMjJYVUc2YWVOVjdrRHdjS0x6SVBQYzE5dXZFOVBlTFJOeF9NTk1MQm9kRW1IZF8wR0tDLWs1NENKNzR2SGczR181S2NnYlY4a3lyb3RJUkt0a21MN2JCMy00M2VqV0JQdw?oc=5",
           "pub": "Wed, 20 May 2026 07:00:00 GMT",
           "source": "Yahoo Finance"
-        },
-        {
-          "title": "Enterprise value to EBITDA forward of Norbit ASA – HAN:4NK - TradingView",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdzF5T01NSlZIdTh5MjBneXI1OVFheTF2N2lETnZqbkFyZUhhVTk0YW5IMXlpVHlzWFV5SjJlRWlWNVZ6alRZcm5pdFFlbEFXOTlYSlQ5VlozWHI4bmRFd3lyYzlqN3V6VHJUaThOUVFXZF9KbllfU2hCclpya3hRSC04blUzTnh3VnY0NXdrWXNEcmszWnFYMk82dGoxUkR5Y3VKMHR5MEo?oc=5",
-          "pub": "Wed, 30 Sep 2026 02:24:36 GMT",
-          "source": "TradingView"
         },
         {
           "title": "Earnings call transcript: Norbit posts record Q2 2026 results as shares slip - Investing.com",
