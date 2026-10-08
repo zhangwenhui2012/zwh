@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-10-08T18:30:36.350420+00:00",
-  "updated_at_display": "2026-10-08 18:30 UTC",
+  "updated_at": "2026-10-08T19:00:47.123934+00:00",
+  "updated_at_display": "2026-10-08 19:00 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 231.27,
+      "price": 230.055,
       "prev_close": 237.47000122070312,
       "high_52w": 243.37,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -2.6108566087641836,
-      "drawdown_pct": 4.971853556313429,
+      "day_change_pct": -3.1225001821647624,
+      "drawdown_pct": 5.4710933968854,
       "name": "NVIDIA",
       "news": [
         {
@@ -42,27 +42,27 @@
     },
     {
       "symbol": "META",
-      "price": 719.08,
+      "price": 718.945,
       "prev_close": 721.3099975585938,
       "high_52w": 779.8200073242188,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -0.30915938585927627,
-      "drawdown_pct": 7.788977809460765,
+      "day_change_pct": -0.3278753332961513,
+      "drawdown_pct": 7.806289496610626,
       "name": "Meta Platforms",
       "news": [
-        {
-          "title": "AI Hot Potato Is Meta’s For Now, But Chip Stocks Are the Winners - Bloomberg.com",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQUNVN3hyXzRaRGUya21EYWZHaFNLUGd2SVh1LWFmS09oTTB1dW92V0dpamtJbmtyM3lZMnBvZVhNcEExWUNwQWwzangxaGRGS1pkSHVGNHdzdzJON1JsZjgxQ0xNZ01jUjdBR2pTSnpKdXFwOTQtemthRVNyTjZzTkJ1TkJkc3hMZWFqZmt1SXRRRVhINEVTdTNEYTRtZnFINTBHSENvdTNkczluRzZ0bmhPMXM?oc=5",
-          "pub": "Thu, 08 Oct 2026 11:35:01 GMT",
-          "source": "Bloomberg.com"
-        },
         {
           "title": "Meta may ditch the idea of a cloud business for Muse. We think that’s a good trade - CNBC",
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObEk0Ym9xSnJsZDVBNVNSREFMQjByZHlDUlJjaUJfek90RFp2dGt4MXBGYzVHTFd5eDVxMHY3dE5XNUVPb3BzM2poeVdsbUZwRkZuWUMyaGp1aFlkMXVqUV9ZUzVVWnFnQWJabDROaVR1VWZBZkJSQm5Ec01WcGZNMmU4R3ladDYzbDFiVHc3dkNLWjlVX0FYSFpDaFl6Wjlwd0N1Q0VQbng0VXFZU25Dam44dmNlT18zLVAzZWZxakJyVDlWMmVfOVJ0SQ?oc=5",
           "pub": "Tue, 06 Oct 2026 17:19:42 GMT",
           "source": "CNBC"
+        },
+        {
+          "title": "AI Hot Potato Is Meta’s For Now, But Chip Stocks Are the Winners - Bloomberg.com",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQUNVN3hyXzRaRGUya21EYWZHaFNLUGd2SVh1LWFmS09oTTB1dW92V0dpamtJbmtyM3lZMnBvZVhNcEExWUNwQWwzangxaGRGS1pkSHVGNHdzdzJON1JsZjgxQ0xNZ01jUjdBR2pTSnpKdXFwOTQtemthRVNyTjZzTkJ1TkJkc3hMZWFqZmt1SXRRRVhINEVTdTNEYTRtZnFINTBHSENvdTNkczluRzZ0bmhPMXM?oc=5",
+          "pub": "Thu, 08 Oct 2026 11:35:01 GMT",
+          "source": "Bloomberg.com"
         },
         {
           "title": "Jim Cramer picks Meta and Microsoft as top AI stocks - Yahoo Finance",
@@ -71,23 +71,23 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "Meta Platforms, Inc. $META Stock Sold by Burr Financial Services LLC - MarketBeat",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSlVVbUpULUlPVFgyRFpZbVZWZGltMFoyV1Z6d1Y1SmllZ29wb00tUVgwempqQjNWZm9jTk5Kd2phLW42UFpVSHVjZ0dSODVTcFdBM3Fta2daVnZPN1o0UE5oYy10aTYxYnhNemNyNlhhOERRcEZwc1NlWEc2ZmhSS3JyOGpCRjdKd0pMQVNLNnNrbjUwMVFKbGJyc1g2OE80Vm8tbDhtLVR1WTd1cTJqR3BwWjhtSUx1Y0RPd3ZuSFBQX2pO?oc=5",
-          "pub": "Thu, 08 Oct 2026 17:15:56 GMT",
+          "title": "Meta Platforms, Inc. $META Stock Acquired by Everhart Financial Group Inc. - MarketBeat",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQR0hzRHNFUzdXTlh3MHlhaklkQ2Y0ZVMzSjZOS3RmV1pvTlpOTExfZUlSOEh0QlJZZ1hGSklhbWowc29mOXNyZ0c2X2lTb1psY2d3dVg5ZE1Oc1NpWG01SDVDcjZDOVFka0NkSHl5NWhvR0VvVThJSzJiX0d2b3U5TDRJcTdHazZnV3FVN3laM1doOFZDeTlWcXNwenE2NE5jTVdrX3JrSjliMVZiYkpYaFVST2M4S1hReTZ2R2RQYzNFempDUUJUX2M3VQ?oc=5",
+          "pub": "Thu, 08 Oct 2026 17:47:09 GMT",
           "source": "MarketBeat"
         }
       ]
     },
     {
       "symbol": "AVGO",
-      "price": 361.805,
+      "price": 358.62,
       "prev_close": 376.510009765625,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -3.905609249214587,
-      "drawdown_pct": 26.908080808080808,
+      "day_change_pct": -4.751536294283758,
+      "drawdown_pct": 27.551515151515147,
       "name": "Broadcom",
       "news": [
         {
@@ -103,29 +103,29 @@
           "source": "TipRanks"
         },
         {
-          "title": "Why Broadcom Stock Is Falling Today - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZ0NlSTJ5NjU2aTJQYS1jM3JSYXlzUlBSV0I0TTRVV0N0RTU1M2V3SWdQd1JzaWpCV3hJWDhhcjJQMzY4dVdSOXZfYkk5MHJvdFJhbmlsMWpYc205OE9GbmpuTUZIdjRZRGFRM3QzLXMxcTFpRFMyQXRicGE1VEJQR2t4cmlEbGJrYTdkUGNwRjVYTXlkQ0s4Ykl2dTY?oc=5",
-          "pub": "Thu, 08 Oct 2026 17:28:24 GMT",
-          "source": "Yahoo Finance"
-        },
-        {
           "title": "Stocks making the biggest moves premarket: Haemonetics, Broadcom, Lululemon, Palantir, Wolfspeed & more - CNBC",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbTRzRjJ1TVZsblR4YXpPVXAwaHpFT041SWZ4TnZZRllwSDBJYWs2LUJWS2ZnaFdUZ28xSEdkTnR5aEhHQkVFREZldkV5ZnVkRWFlVmwycTV0b2xHbTZQNDVoZEtTX1RxTkFpMGNLcnRqSmNITDZtVTBCZFBac0RWYkd2d2dFWEJ3aEdJblpOUlVlTUNaQzBoaFJGMm1OZw?oc=5",
           "pub": "Thu, 08 Oct 2026 11:42:14 GMT",
           "source": "CNBC"
+        },
+        {
+          "title": "Warren Buffett's $863 Million \"Secret\" Portfolio Dumped Alphabet and Broadcom, but Has Over 17% of Invested Assets in This Proven Moneymaking Strategy - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPeXBUcW51Ykw1bzJ4YU1YUTMyLXNMOVl1dzhrZVlWcF94bFBRMHh4MGJwVVFPR2hSZm1qLVhUeERodkFwWVZKZEJKNEZGazNOOUpNUFROYXJDd1lCM3Zqc19xMDZGYjhsUDdoZDVNdzl0dlU5QUh4ajlQcFlicjlmeF9XWGNCRUtZQ3p4YTdoRlRuZTBlS2tyVlRQRm8zUTBtVmpBSWgwVkpDX0pFWC1aNVBCTkUtN3k3d21GUlh2Z0p4OVpyeEpubnhPNkh3RWpuTG9qU2o0MWx5Tnh1UUE3dDF1MmR1UE83VTVmWDh2VEw4bWM?oc=5",
+          "pub": "Wed, 07 Oct 2026 10:06:00 GMT",
+          "source": "The Motley Fool"
         }
       ]
     },
     {
       "symbol": "AMD",
-      "price": 620.475,
+      "price": 616.0,
       "prev_close": 645.8599853515625,
       "high_52w": 658.52001953125,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -3.9304161780118037,
-      "drawdown_pct": 5.777352001892261,
+      "day_change_pct": -4.623290810516576,
+      "drawdown_pct": 6.456906133471348,
       "name": "AMD",
       "news": [
         {
@@ -156,14 +156,14 @@
     },
     {
       "symbol": "RKLB",
-      "price": 68.69,
+      "price": 68.029,
       "prev_close": 71.91999816894531,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -4.491098791963,
-      "drawdown_pct": 54.50993377483444,
+      "day_change_pct": -5.41017556730894,
+      "drawdown_pct": 54.9476821192053,
       "name": "Rocket Lab",
       "news": [
         {
@@ -194,14 +194,14 @@
     },
     {
       "symbol": "IREN",
-      "price": 35.721,
+      "price": 35.747,
       "prev_close": 38.689998626708984,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": -7.673814246815171,
-      "drawdown_pct": 53.53063779929642,
+      "day_change_pct": -7.606613417342784,
+      "drawdown_pct": 53.49681446240163,
       "name": "IREN",
       "news": [
         {
@@ -325,9 +325,9 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "NORBT Forecast — Price Target — Prediction for 2027 - TradingView",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1GWDVHdEMzX0ZmeXk5cEpuZ3F4WFNMZm5jMzhFOEsxc0Q5TnV5YUdWcWh0VXd1c29jdGl5R0hneDJTaXBwclB1V2E4Q2ZzWWpEYkZ5UDFPRTZGZjVxOXlNcUhJQ2V1ZTliemxPRnJZYzVsR3hKV3Rr?oc=5",
-          "pub": "Fri, 26 Jun 2026 13:15:32 GMT",
+          "title": "Enterprise value to EBITDA forward of Norbit ASA – HAN:4NK - TradingView",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdzF5T01NSlZIdTh5MjBneXI1OVFheTF2N2lETnZqbkFyZUhhVTk0YW5IMXlpVHlzWFV5SjJlRWlWNVZ6alRZcm5pdFFlbEFXOTlYSlQ5VlozWHI4bmRFd3lyYzlqN3V6VHJUaThOUVFXZF9KbllfU2hCclpya3hRSC04blUzTnh3VnY0NXdrWXNEcmszWnFYMk82dGoxUkR5Y3VKMHR5MEo?oc=5",
+          "pub": "Wed, 30 Sep 2026 02:24:36 GMT",
           "source": "TradingView"
         },
         {
@@ -337,10 +337,10 @@
           "source": "Investing.com"
         },
         {
-          "title": "DNB Asset Management Trims Stake in Norbit ASA to 4.97% - TipRanks",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWmJBUGRvX0hsS2MzUGxUM09EUUxXUEY2MWVWTjVFdXBvdm5peUdieU5wbk5yT3gwSVhSeEVmTkd6MHlYcXRTVzNCZ1doMGl4UWhiRV9nOHdOeU9UejJGVlJxRjVyci16Y3dVYzd3a0E2NEd5dHVDYklpdC1VYTB4UnFRc0N1RUNYU3Zma2dJbnFGZGk2bUNEd3ZXR2NRbUQ3aVB1MUxIa05uUQ?oc=5",
-          "pub": "Fri, 02 Oct 2026 08:13:47 GMT",
-          "source": "TipRanks"
+          "title": "Why Norbit (OB:NORBT) Is Down 6.2% After Raising 2026 Revenue And Margin Guidance And What's Next - Simply Wall Street",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQXRyakN4eGxwckVQOWN3YkZFYVFPUFl4R1Foc2xvZUpja1JQU3FmLWZMYXd2Uy1oMGFnT183VFZPRnkyUnFOcjZ2RlloMmpzVVoxX21PUEJ1UVRBR1J2aGdhOGd3N2VHN2tJbU9hcExla2JRbDJIdHZVOVU5a1hFZ0lheDJud0FsYTFOUEZqZVJvQU5JeG5lMzBHMEQxcGRqQzNScEVPMTFFTkRjZjIzYTJNblRpUVZRX1hLUnVZcll6UlnSAcgBQVVfeXFMUEdVdk1JOGpUa1pmZ2RpR2UwbUIzbWZXM21pR3BfdUdqRHM5aVFhLUYxLUtya1Bhd2lHT3pBY25JN2FIZzE2UnZyaDE1YlN6VUZkNkhrRlFTVVhvSFpiRzNiS0pXOWlmd0hyYXRwTEc0MTVySE5Ta2pkY1BtcFN0RVFxNVB4cl9JUm9veUZfSmdFZmZLeVdCZ0Z0YlNxTUU4OUFrdndKbGhXWE42c0R1RU1sZmhUNDVDbjVTalFEQ3Nzem9OSkU3elQ?oc=5",
+          "pub": "Sun, 23 Aug 2026 07:00:00 GMT",
+          "source": "Simply Wall Street"
         }
       ]
     }
