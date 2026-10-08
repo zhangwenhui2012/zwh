@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-08T11:00:46.204113+00:00",
-  "updated_at_display": "2026-10-08 11:00 UTC",
+  "updated_at": "2026-10-08T11:30:37.079507+00:00",
+  "updated_at_display": "2026-10-08 11:30 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
@@ -15,15 +15,9 @@
       "name": "NVIDIA",
       "news": [
         {
-          "title": "Nvidia stock rises to new highs as market cap closes in on $6 trillion - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaVlRRDdLeUlIWFF1RTBmNXljZ0pENE5md1RsRU5Uam8tOHJSRFM4Ykh4YkNKbW5pRzU2azBhTWdrS1JqZUVhLVNfMkprUjAxYWM0d3hOYmd3MmpFd3FKYjRta09JR3dmek9RNmZfZ29sNlBFMEZGblFKall3OVJwMFQtMnpzS1JYWlROQURUYzFhSk9WcC1jN2l2bGJPZjBCUU5DQkFpaVhsX3M0UjlyOGdJd3ZjUHlYVEs0T2dJQTlYZFUzWVlVSw?oc=5",
-          "pub": "Tue, 06 Oct 2026 20:21:44 GMT",
-          "source": "Yahoo Finance"
-        },
-        {
-          "title": "Is Nvidia, at Bargain Levels Right Now, a Buy? Here Are the Bull and Bear Cases. - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOa2w2ZFpJZVRieFBZYW5EaDFRZ0kxUExyQ0lvdGpiVWlGNHpZNzRLY21EdlVYWkxTcGU0OEhsOU82bVNtSHhwZ2pQeFFhR0ZVZDVtVVp1Ul92azR6YVYyQjVBWE1wczhvZGdQajdUb0ZJNW9uNnNTeTVUOHBRczA4LWFZdlhxTVRBbXJTRzNTaXN2b2UycFR0M0VR?oc=5",
-          "pub": "Thu, 08 Oct 2026 09:30:02 GMT",
+          "title": "Nvidia stock hits all-time high, as market cap closes in on $6 trillion - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTldBSkJ1SENoUndPbURLOEtwMlF6ZjNsWEV2QnBwaGVHQ3YzVVZQSjl4ak85MkxYRWg0VmtWWVpiNUJOdml0UW9kVHE3bFUxVUpzWldKZmRQS2U3b2JvVFJMRWdzUXprX3NreEN5WU9obGJoNXhKVE9QN1dnaUxYblMzT2xwMXhuQnZtZklkZzBiZmNfQUlLRkYwNV9jUXRvcExqaVlYdUdVVk8zTENITl9QTFhxR1dpMzdPYU8tb2ZHaEt6Rl9FQw?oc=5",
+          "pub": "Mon, 05 Oct 2026 19:22:24 GMT",
           "source": "Yahoo Finance"
         },
         {
@@ -37,6 +31,12 @@
           "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNd3VHQTk5eWd5YVdZbTh3MFg2UXFScU1YU0Q3WHBPeVVCMmlKYVNnSV9jcWdtSVIzWjVGLWVUdE91Z044c0ZoTi1GYk1TYmI2Skk1Wk0yMl9UNkxlSUluSnUyUnpHbEFvNVVEbHJqSGZGekVIOVlLMFVMY0VnOHh4M0F3WW5oQktXVno5bTlieVFZZzBrdnpGaVlXaVJSeU5veFEtMldfSDRxdW1Ta2N5ZlhleUVCUFQzTzQ0M0VDbkRlZ0RBNk1GSFFWdG5SXzZJZEtZ?oc=5",
           "pub": "Wed, 07 Oct 2026 20:24:48 GMT",
           "source": "CNBC"
+        },
+        {
+          "title": "Elon Musk Loses $21 Billion On Wednesday Morning As SpaceX Shares Dip - Forbes",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZ2pQUlk4Wk9wVzZYWjNIbDYwNWxqU0xGMjJEamRpOVpUWTZVSS10SVBzMWJSMGpGSEJDQllRNkdSeGtFMV9GMjAyTE1ZLXdvVEtSMHMwUHdLV3U3VlFaWEJvX2c0Sjd2NGdxREZVTDRQM1ItMi1oWWY3RGZtYkc2dndWZ2ZPUWlBUUl3S3NaWG9YSzFkczZkc2JjeGcweHhhTTJoX2xIbEpzYVMyQVNWbmVkdw?oc=5",
+          "pub": "Wed, 07 Oct 2026 15:44:59 GMT",
+          "source": "Forbes"
         }
       ]
     },
@@ -232,22 +232,16 @@
     },
     {
       "symbol": "MILDEF.ST",
-      "price": 218.8,
+      "price": 220.7,
       "prev_close": 217.89999389648438,
       "high_52w": 251.9,
       "currency": "SEK",
       "yahoo_name": "Mildef Group AB",
       "exchange": "Stockholm",
-      "day_change_pct": 0.4130363142383535,
-      "drawdown_pct": 13.140134974196108,
+      "day_change_pct": 1.2849959531645445,
+      "drawdown_pct": 12.385867407701475,
       "name": "MilDef Group",
       "news": [
-        {
-          "title": "MilDef Group AB (publ) (8QA.F) stock price, news, quote and history - Yahoo Finance UK",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAtcXhJd0g3Z21uTHZVZFpKZkFHejZSWFVfNlQyVkJMcV9NRVdQbjlGNVBqcjIxeTE0aW81dUNnTHRGOFVxNW5UUmtQNzhKYnFiTDdXaU1MYi1mX1Y0N1R3bGNR?oc=5",
-          "pub": "Thu, 08 Oct 2026 02:48:44 GMT",
-          "source": "Yahoo Finance UK"
-        },
         {
           "title": "MILDEF Forecast — Price Target — Prediction for 2027 - TradingView",
           "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9hWW9rMkp5VFlIZmlhT1RWd3k5bVQyVTVlLXktUHJfNm43Qld6bURaV0wwTDN1ZmJwZ0c2c2FPNV8wRVYyaVRRNndDaUZOeHdPQTkwS1doZUdWQ180N051Ym91OXZxYW9YRklxUFRIcVFJOFJxbXFVSEl2dWg?oc=5",
@@ -265,19 +259,25 @@
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNb1JTQkpCd0Zhc28zMjdVR2ljZkVpSVZkeDROTW5NcFRNdVpQQjlSaEpVYTdqd0phajRTTGxsc1FjNVJTOHZqc2p4azBXd1JndnNiX3FOeFNyaFN2NG5WNjU0TEtlX2lJbHdrak9vVDFHMUZEdmRScmN1LUNDY01kbFZ0bUpGdjZUSlBxeWgybXVYSVZtN3JEQkxzTGpJdU9FNmlIZDQ4OXdzSzczWGI0cA?oc=5",
           "pub": "Wed, 30 Sep 2026 11:54:23 GMT",
           "source": "marketscreener.com"
+        },
+        {
+          "title": "MilDef Group (OM:MILDEF) Stock Turnaround To Profitability Tests Bullish Narratives After Q2 Earnings - Simply Wall Street",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQWh3OW13WUJIaXlYOW9waGdUS1ZhaXkyV3NpLWx6Z2I1S2tvX001N3RoVE1sbFVyNzZ5aXhuR2d5ZVd0cG45ZEJBRTNPUS1IcTZHUHRaeEFhN01CNnlxdGhQR1ZUUTRqMS1iMGQxd1N2UWI2SGJFREZjNFVkVXBkel82T1l0ek9QSHVXalFoUGhxN2NkYzNoN0NKNGx5ZWM2S0JpdEwwcjEzbXpKeGpveDJUSkxnWnRpREZ1eUowR3FWQmxpMll1SG52UlFPaGxneDhzWnVISWpUZ9IB3wFBVV95cUxPMHloUkVRcUlsVmlMUFlPRUNMYTdGajY1M2ZMZjU2VTBQb3lUUnZFOVY1R0k0T0xsTDhIa2JPT21NX0VrX2tTMGdZS2Y0THJYekNrcDRBLVFra242WFBrYXlZYnVaRXFLXy1PV0VIcUsxeE00VVgwcDlBWHhWQkIyQ3l2OGNKcnA3UkdBU2tMaENGVEY0djVROU9aWXh0a0k1YTlTMGV5cnQwQjZtY3pBTFBvenM4QUgwVlJ6VENfdWhUa0UxU2FUMmhRY3F4dnNTN2ltSmZ5TU1vSnNXaFpF?oc=5",
+          "pub": "Fri, 17 Jul 2026 07:00:00 GMT",
+          "source": "Simply Wall Street"
         }
       ]
     },
     {
       "symbol": "IVSO.ST",
-      "price": 239.0,
+      "price": 239.2,
       "prev_close": 238.0,
       "high_52w": 336.0,
       "currency": "SEK",
       "yahoo_name": "INVISIO AB",
       "exchange": "Stockholm",
-      "day_change_pct": 0.42016806722689076,
-      "drawdown_pct": 28.869047619047617,
+      "day_change_pct": 0.5042016806722641,
+      "drawdown_pct": 28.809523809523814,
       "name": "Invisio",
       "news": [
         {
@@ -293,16 +293,16 @@
           "source": "www.marketscreener.com"
         },
         {
-          "title": "Operating cash flow per share of INVISIO AB – HAN:ICQ - TradingView",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVkFnTnBtUUNQbEZKNnFPNHpCbXUxRHIzU3B2b2ktWG1BaXd4S1ZBM3ZnT25YSDNwRVRoR0h6RE1NS1ZidHZXYmk3eVMzYnhQeExSaks4X1M0ejJiY0h3QTc5Z25MOGdkTWg5WXdBV3ZMX1ZYbGpWNTNJQnBHaGN3Yi12S2pCU2dEZXBucE9zNXBZTGtsaDlpQnAxeHJ5UFEtYm1DT2tyaEc1cU0?oc=5",
-          "pub": "Tue, 29 Sep 2026 19:10:06 GMT",
-          "source": "TradingView"
-        },
-        {
           "title": "Invisio (OM:IVSO) Could Be 26% Undervalued Following Defence Tech Tailwinds - Simply Wall Street",
           "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVm9YOG93aThIb01PdmYzcUhYMkg3aWdBa3N1NVdvSFhRMkc0cGN5Qnk5OXJJWGdaWFdDM0xoSDcyYVJHejI1TlFsZmpJaEFFZFNta0JhVXVyRno5QUJXS1RkekRCdnMwUnpyRE5EcDJOV2t0YV9Wd3YwU3JYUkk2anVHYWhJNWtFMlhhcDIzWldOY21lbTF5YUhfN2lTbGxLd2Z1MU9QR19iRERCVjJCR1RPUjdhYXpkNjNqZHZ1Zl9NNXZBblM3Z0hwdUtsaTV20gHWAUFVX3lxTFBMcE1MYWpYQUhOTXFxek9ISFRrMHI1UTcwbUF6bUdXWHVZWHkxSGloTVdqVWJSTkRpdVFVVlRWMko0Q2R0UHpTajFpMUpzX0pxekR2bTdUU1J1aXRBUXpFMGcwV1lZM3lRRDR5OGljejBSNkJzRlZCVFlQODljeWJFbF9YWkZkeVJuVnFleW0wVkswZGFPakRtdjFQZkNkMjJOYURLUjF0QW9tY2FLa05VNnBXbS1ZQjdELVB2UkgwWkFLYmV2d2xMVFltZmdreDgxSExnU0E?oc=5",
           "pub": "Thu, 24 Sep 2026 06:50:44 GMT",
           "source": "Simply Wall Street"
+        },
+        {
+          "title": "Earnings call transcript: INVISIO posts strong Q2 2026 growth as U.S. delays linger - Investing.com",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOc1V0M2pBMUVxTkN0TnV4NGUwUFNpV181cVpQR1ZkY3ZFb0lhQm1vcU91TVZwcTM5THB2RGFuVUJSMG5FMWU5VmswdDR6cXhabHBaaGN3SXNINEdDVVpjN0lTSlBnRDY5Sy1rbkhfVXlNdVNYRy05NE5UMTJLaWtPZ0lnSWpwalBTaUM4dENrdkNHRWRFVDdoWkFLVDJ1cjFSMmtXazU4NEdlT3cxTkY4MkhDckdSckhabU1IQUt6a0R4dDQ3Zkh0U0xIc3lTM1RsVlE?oc=5",
+          "pub": "Fri, 17 Jul 2026 07:00:00 GMT",
+          "source": "Investing.com"
         }
       ]
     },
