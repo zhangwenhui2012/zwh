@@ -1,55 +1,55 @@
 {
-  "updated_at": "2026-10-08T17:00:51.314955+00:00",
-  "updated_at_display": "2026-10-08 17:00 UTC",
+  "updated_at": "2026-10-08T17:31:15.264525+00:00",
+  "updated_at_display": "2026-10-08 17:31 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 232.23,
+      "price": 230.34,
       "prev_close": 237.47000122070312,
       "high_52w": 243.37,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -2.206595019904477,
-      "drawdown_pct": 4.577392447713365,
+      "day_change_pct": -3.0024850229720355,
+      "drawdown_pct": 5.353987755269754,
       "name": "NVIDIA",
       "news": [
         {
-          "title": "Dow Jones AI Giant Nvidia Stock Hits New High And Fresh Buy Point - Investor's Business Daily",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdTdRZkVWRnNnYWNvMng5MXozYkFVRGVISmV5SXZ2anlBejg4RFdtZjFTX2k4ZE5IX1RzRzdFLTB5anBNSmRyTGZMRE9yeExHMDU0Y1BGeHRsU29OMWFWX3ZESkc4eUlVUjZiUGp4aFBJWjBTQXhXVm1LdnlRaDBWOW9oMHpZVm9yQ1ZQa3B6VEp0aVlSSU9yNkpKYkc2QjZB?oc=5",
-          "pub": "Wed, 07 Oct 2026 15:19:00 GMT",
-          "source": "Investor's Business Daily"
-        },
-        {
-          "title": "Trump discloses Nvidia stock trades as he prepares to honor CEO Huang - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPc0R0am1rbndOQjhQUzhJdTNHcXpnb3lDWFVteEs0SzJiVzc5cFNhMkNJZ2F5dzhjSTFlbFE1ZDRHNVE0MTNJM1phbUU1MVZXX0VkdmZoRUJDaU5OX3pPZ3V2bUZIaTMxZ0std2V2eVFyVUlaZGFXNjhCYTNtV1AxbnVsSlJnVXlWTW9JWWhiYTJaczdTR1JBcDNFaFg0YWRmZjRhZVR6c3dvd3pv?oc=5",
-          "pub": "Thu, 08 Oct 2026 15:18:12 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "SpaceX stock slips on report of its $40 billion in new debt for Nvidia chips - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUmpyUVZ1UWIzcy1TeXItY2FQMU1CMk1uUW1YcVBfdGdxUkdwX0JJTjE3c3FFYXh5dkVrZHhYUEljS0ZqLTg5cTJ3WnA2LWFvMFJSWHpFckNYUkw3SF9odVFFUWktMUtQSDV4QzJrRnhqOV8zLVNJa1Z3NHlXUTB5d2FEUlRBVnUxUGlZT3hMbmtPT1BQaGJGUEdwZVFfa0pCME5kWHFqVUNaYUlWSE5Zc2tWNkJVM2VYa3pYSmY1eXdEeVBCcHBaNk91ZmxhZ2l5NUxYOTVB?oc=5",
-          "pub": "Wed, 07 Oct 2026 20:33:05 GMT",
+          "title": "Trump discloses Nvidia stock trades as he prepares to honor CEO Huang - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVEZQNW40RlJZMzdldzRvNF9sMEZqOG82MDJfdUxjaFlUQ0ttcV81aFNTUDQtUVNDclR2NUZSMXRYVG5PR1RqWGFNc3RjcWNOZVZ2RnJpdm95WlBpVVVRYjRGamNwSUd5dzhQU0VOcDVyZlozczlCVVVfMUJlQkZEUTk5UGc1ODl6Rm1FNmY0RlFwNXJxWlNPeTEtak5udU5BQmc?oc=5",
+          "pub": "Thu, 08 Oct 2026 15:18:00 GMT",
           "source": "Yahoo Finance"
+        },
+        {
+          "title": "Nvidia Soars Near $6 Trillion Market Cap With Stock Back at High - Bloomberg.com",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaC1sSmpWVUxkVXZSLXM3dWU5azIzMFRlZjRMMllaNGVMZGp2MmhxMDVWOVlNdS1JaE5OSU4tUTZGV2hRVG1VQ00yVmJLRHRFTE9JRHRRRkxnR3Z0eXh5SWMzMjc0TGM0MlJKZ3Q0Qm5tQ2JRcG5UTG1HVEdHY256dkRFX3Ywc1JObE00empFNjRIM19seXlSSWRyYmlkSkg3VUdpVU9fb25jUjJGaWJGR3BzaVE?oc=5",
+          "pub": "Tue, 06 Oct 2026 13:38:18 GMT",
+          "source": "Bloomberg.com"
         },
         {
           "title": "SpaceX’s plans to buy more Nvidia GPUs is keeping Jim Cramer bullish on the chip stock - CNBC",
           "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNd3VHQTk5eWd5YVdZbTh3MFg2UXFScU1YU0Q3WHBPeVVCMmlKYVNnSV9jcWdtSVIzWjVGLWVUdE91Z044c0ZoTi1GYk1TYmI2Skk1Wk0yMl9UNkxlSUluSnUyUnpHbEFvNVVEbHJqSGZGekVIOVlLMFVMY0VnOHh4M0F3WW5oQktXVno5bTlieVFZZzBrdnpGaVlXaVJSeU5veFEtMldfSDRxdW1Ta2N5ZlhleUVCUFQzTzQ0M0VDbkRlZ0RBNk1GSFFWdG5SXzZJZEtZ?oc=5",
           "pub": "Wed, 07 Oct 2026 20:24:48 GMT",
           "source": "CNBC"
+        },
+        {
+          "title": "Nvidia Director Tops AI Billionaires on Insider Stock Sales - Bloomberg.com",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUlJ4cTVnRFEydXJ4SjN4NWhEZWlTSko5SUlqMl9jVDgzWl9ua05kQkw3UGxFMlBmc1NLcGw1MWpnSmIxZFB2WVdUTVRTTjdqSWJhQkctc1VhMDdaaTBMMWJYdC14NGtfWndSVTNkdjFvdlU3elVoVkJkMlJISlNIRi15dW5aX2h2TmZKdUtsNlNvZDNMdm14cjNlTFBsaVRranZPVEROX1Nld3dmdVk5TWhncw?oc=5",
+          "pub": "Wed, 07 Oct 2026 09:00:17 GMT",
+          "source": "Bloomberg.com"
         }
       ]
     },
     {
       "symbol": "META",
-      "price": 715.895,
+      "price": 713.32,
       "prev_close": 721.3099975585938,
       "high_52w": 779.8200073242188,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -0.7507171087218841,
-      "drawdown_pct": 8.197405391477888,
+      "day_change_pct": -1.1077064764993296,
+      "drawdown_pct": 8.527609794521544,
       "name": "Meta Platforms",
       "news": [
         {
@@ -80,14 +80,14 @@
     },
     {
       "symbol": "AVGO",
-      "price": 363.81,
+      "price": 362.09,
       "prev_close": 376.510009765625,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -3.373086886463037,
-      "drawdown_pct": 26.5030303030303,
+      "day_change_pct": -3.8299140505192377,
+      "drawdown_pct": 26.850505050505056,
       "name": "Broadcom",
       "news": [
         {
@@ -109,23 +109,23 @@
           "source": "CNBC"
         },
         {
-          "title": "Warren Buffett's $863 Million \"Secret\" Portfolio Dumped Alphabet and Broadcom, but Has Over 17% of Invested Assets in This Proven Moneymaking Strategy - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPeXBUcW51Ykw1bzJ4YU1YUTMyLXNMOVl1dzhrZVlWcF94bFBRMHh4MGJwVVFPR2hSZm1qLVhUeERodkFwWVZKZEJKNEZGazNOOUpNUFROYXJDd1lCM3Zqc19xMDZGYjhsUDdoZDVNdzl0dlU5QUh4ajlQcFlicjlmeF9XWGNCRUtZQ3p4YTdoRlRuZTBlS2tyVlRQRm8zUTBtVmpBSWgwVkpDX0pFWC1aNVBCTkUtN3k3d21GUlh2Z0p4OVpyeEpubnhPNkh3RWpuTG9qU2o0MWx5Tnh1UUE3dDF1MmR1UE83VTVmWDh2VEw4bWM?oc=5",
-          "pub": "Wed, 07 Oct 2026 10:06:00 GMT",
-          "source": "The Motley Fool"
+          "title": "Can Investors Trust Broadcom’s Bullish 2028 Guidance? - Morningstar",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOOWZxU3hPMHBRbzZEaDFRY0NZd3Fqclg5YXNQOU03YXJFdm42UVJjZ2R2UnZhSUFYRDIxMEt4djdPM0x6Uzd0TG9PNGZLV2FrMVB1aDJWaUZjNHBQRVpRWDhTUC1mYV95bVBFblFidVRTbTNCUGFFejhFNU9GMWhGbWRuYVpSWkdKRmhKNUJVUQ?oc=5",
+          "pub": "Wed, 23 Sep 2026 07:00:00 GMT",
+          "source": "Morningstar"
         }
       ]
     },
     {
       "symbol": "AMD",
-      "price": 621.09,
+      "price": 615.18,
       "prev_close": 645.8599853515625,
       "high_52w": 658.52001953125,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -3.8351943011424314,
-      "drawdown_pct": 5.683960763697591,
+      "day_change_pct": -4.750253313009079,
+      "drawdown_pct": 6.581427784397579,
       "name": "AMD",
       "news": [
         {
@@ -135,16 +135,16 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "AMD vs. Intel: Which Chip Stock Has More Upside From Here? - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcC00RF8ycnJGSXBYZzdhZ2RWNmhtTEhVNkJtU2VyOTQ0SUw5UDVheTU2RkVGQ0FxQk1NQnhpaEpLOEZlbWVmdU1FQmZKSXdGelhiRGRiT2NDYVFWLUJiYlh0TTM1SGU5MGRGSjRfdFFJWW1NdjdCYjJxWUhBdjRPVEJkMk90MXdkTFZPYQ?oc=5",
-          "pub": "Thu, 08 Oct 2026 16:50:00 GMT",
+          "title": "Is AMD Stock Paying You Enough For The Swings? - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQkZCX1NUNEd4RUdINVBWR3ZFR0hocnBfNXRZd0NJUTNzd2lsZnFVaXNtcF9HRE16aWJ5bHdiQUhzMkxfVG1nLVdSOFRiUTI2V0ZqdnVtay1LVEtuTXZiWHhwMFMtbU9lNzdyREt1WFp2WGZXOHFINGlybGR4YXNsRUR6cGJ1ek1TaVpnbnhSX3ZBN0tVOFlSTU5maw?oc=5",
+          "pub": "Thu, 08 Oct 2026 14:32:49 GMT",
           "source": "Yahoo Finance"
         },
         {
-          "title": "Is AMD Stock Paying You Enough For The Swings? - Trefis",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVVhlZ29GeGdaY0R1dzRJVEpRWG0td1k0UUMxOV9xTkp2M1FfcHhNTnlHVzlHSFI4VWFBazhOQmRFVU5SNEZOaDM2Z3kyVlVaODBZNDdHZ2lrLVZ2VGh1bFJnS1RObUpucVlYX2ROR2lGbk04bnpSbk9oQWV0aDkzRExGN0JjQVA3cWQ0QXZZbHBhUUI0WGdYbFVJQ0RWLXc0TUJZRVpPSzg?oc=5",
-          "pub": "Thu, 08 Oct 2026 14:32:22 GMT",
-          "source": "Trefis"
+          "title": "AMD vs. Intel: Which Chip Stock Has More Upside From Here? - The Globe and Mail",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPS0RZRUhadDVpeW9qa0hiU2xmRGN0R3dLMWZOMHUzM2hGTjBYWjZQWUxnWmszT25kUjIzODladXp6NE93OFFGNUJyalZoeWhXY2tpM2hKQms3REJncktaQnhMbmdzd21jQ1RfOFlwNnpfV05iaFczckxId0dTaHo3WlN5REJkVkQtcUFDSnJ5U05HN3JjUVBRanhlZXZKcC1YX1BjOXJJTFJIVVNiY294U0xrQUNUZDE3Sk5vMml1Ykh4ZERGTlFRNXp1R0YyelBZOU9jV19PaHQ?oc=5",
+          "pub": "Thu, 08 Oct 2026 16:54:00 GMT",
+          "source": "The Globe and Mail"
         },
         {
           "title": "AMD vs. Marvell Technology: Which AI Chip Stock Is a Better Buy in 2026? - The Motley Fool",
@@ -156,14 +156,14 @@
     },
     {
       "symbol": "RKLB",
-      "price": 68.38,
+      "price": 67.925,
       "prev_close": 71.91999816894531,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -4.922133285695591,
-      "drawdown_pct": 54.71523178807948,
+      "day_change_pct": -5.554780687786969,
+      "drawdown_pct": 55.01655629139073,
       "name": "Rocket Lab",
       "news": [
         {
@@ -179,29 +179,29 @@
           "source": "Yahoo Finance"
         },
         {
+          "title": "Terex, ESAB, Allison Transmission, Rocket Lab, and Bloom Energy Stocks Trade Down, What You Need To Know - The Globe and Mail",
+          "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQWWdiMGNzZ2M3ZmhGUGdLYjFzbzhTLXo1MWpRWHZQb21KTHFZQ1VNcHF2Q2QydzBCS3djcWlBc1RHYzFyeXlxZDMyODlZbC1hUjhQR0JBZGtBbE1EUWpVNEJqc0FtSTVKaTdXSU1MSFRNUE01UjhRaXdvemxTTmdBYThvVnBkZktqemdsWk1LbWE0SlVGUV9iSjVmSldOMWE0UllsazdFNTNRWmNlcGlGTDh1VUk5eVAwOVQ1ZmlDdnlJT3JFZXV5VVZKclFqQUJ4SmZ2RDlCODRQU0NYNjU2eXNyd3ZNdVBudERacXVJQ2EzV3JIZUpCSHRZaGI1T0J0T2d5YzNGQ2ZrLTdmd09j?oc=5",
+          "pub": "Thu, 08 Oct 2026 16:36:20 GMT",
+          "source": "The Globe and Mail"
+        },
+        {
           "title": "AST SpaceMobile Sinks 7% as Satellite Rival Clears Regulatory Hurdle; Rocket Lab Drops 4%, Planet Labs Falls 5% - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWkdXUHJWYVpFSUVrMXhyQ2RTWk01UDYzc3lEZmNCMmk1LUVxOXdkdjlWZXNOZ0d3Y2RSNF91eWZoLUc4eGZEUmlsN2ZDZDBBRk5qaTJITkdHdTZzYUtvdU53cThWWmJKcEoyMVkzUGZXQTNoUkNHeDVmcEhjZFlpWmFiQ2xEV2ZNR1JuQUtublJZN0U4TDlrYW1ZOHlzOFU?oc=5",
           "pub": "Thu, 08 Oct 2026 16:43:31 GMT",
           "source": "Yahoo Finance"
-        },
-        {
-          "title": "Rocket Lab: Iridium Could Explode EBITDA, But A Wildcard Decides If It's Worth It (NASDAQ:RKLB) - Seeking Alpha",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQR25CV3A1RmE5VDZETG5oSWwxOXdiLWFMSlkwNW5LbjhBSEpETTl5a00ySTJrYmJtcTFpTGtIZzRBWFFoeERTNEJiVWRHUEY3ODkwX3ZOTF9mVE05SFVsUmdSN2ZYWTVuZ2t3QzJyWmQybWFZaGZVRlpBTHVsLXNmaXhpTzVTVHpnNkhqRzhVTDliaHBSSGJUM19NWjBsQzhkOWJaYjJqYXM3X29IZElDeTZNcU9UQzFwMU5n?oc=5",
-          "pub": "Wed, 07 Oct 2026 17:37:13 GMT",
-          "source": "Seeking Alpha"
         }
       ]
     },
     {
       "symbol": "IREN",
-      "price": 35.365,
+      "price": 35.49,
       "prev_close": 38.689998626708984,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": -8.593948681129252,
-      "drawdown_pct": 53.99375733524027,
+      "day_change_pct": -8.270867770204358,
+      "drawdown_pct": 53.83114513863077,
       "name": "IREN",
       "news": [
         {
@@ -281,7 +281,7 @@
       "name": "Invisio",
       "news": [
         {
-          "title": "NXLKF (Invisio AB) Shiller PE Ratio : (As of Oct. 07, 2026) - GuruFocus",
+          "title": "NXLKF (Invisio AB) Shiller PE Ratio (CAPE Ratio or Cyclically Adjusted Price-to-Earnings Ratio) : (As of Oct. 08, 2026) - GuruFocus",
           "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1EM1FFaHM3ckdScGNiTmJYS1BQUkI1RnI4RXdPZUxSS3kzVl9UaDFEM05DbWNJT3IzbldOX3hsRFZKLTdoWjJUeWk2Y1NENlJzSjRfNGdSalRWcnFVT3VYNVJvMA?oc=5",
           "pub": "Tue, 06 Oct 2026 10:34:21 GMT",
           "source": "GuruFocus"
