@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-10-08T23:30:33.582289+00:00",
-  "updated_at_display": "2026-10-08 23:30 UTC",
+  "updated_at": "2026-10-09T00:00:43.623614+00:00",
+  "updated_at_display": "2026-10-09 00:00 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
       "price": 230.48,
-      "prev_close": 237.47000122070312,
+      "prev_close": 239.24000549316406,
       "high_52w": 243.37,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -2.94353020793,
+      "day_change_pct": -3.6615972630105866,
       "drawdown_pct": 5.296462176932249,
       "name": "NVIDIA",
       "news": [
@@ -21,16 +21,16 @@
           "source": "CNBC"
         },
         {
+          "title": "Micron, Nvidia and AI chip stocks fall as report on OpenAI’s revenue causes ‘undue concern’ - MarketWatch",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOFhHOU9ES2xuX2Q1dWdTYVRjS0lGQUI4ekV5T1hzMGhzNF9mVldoSkVPTmE0QjdPakdnZ1BVeXU0bjZkSWhQMEVYNDFaSWstZUFNS2tzeUxUdFhmVWloVTFTNWJLejNKbEZOWjVCS3d5Y24tR0tFRXd5TlZGN0F2b1ZQN0NoUnE3UVhqaGhqZkNNRVRGMzZrNktSTDI3UDN5WENtdVByempvU0R6blZ3TlZIcmwwU05fcERjblBSeUNkVWk2VUd0bzNn?oc=5",
+          "pub": "Thu, 08 Oct 2026 22:08:00 GMT",
+          "source": "MarketWatch"
+        },
+        {
           "title": "Micron, Nvidia and AI Chip Stocks Fall as Report on OpenAI's Revenue Causes 'Undue Concern' - Moomoo",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMzBQR0N6SlloRFYwSXVrdjRuV29CS29qZmZ1ZGp2cE9BeHB5Qm4ySVZ4QWJtNGs5UG1tMGlxTVZ0M2p0anh5T2g2MTBWTXlkQkIzYWlucWZ3TzJWcGRPY3BwMmRqbVZEQU9HcDV6Wm4zbm9KNElkUzgySkMtX0RWeEpYZ0NFM08wcGZMTm51bnZoQ0dOMVM4cVh3?oc=5",
           "pub": "Thu, 08 Oct 2026 22:12:49 GMT",
           "source": "Moomoo"
-        },
-        {
-          "title": "Prediction: Micron Will Have a Larger Market Cap Than Nvidia by 2030 - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRWQwdjZHdEhtd3RjRWpCV3V1WndWcVNUM05KMHBNN29POG5SUUNzc0RJaWhRcXhzaHdzUGpNakJJRVd6alNTMFVPd2NBT2Zhd1NDWnM3dEJOWHdzXzRtQ2Q1MFpHamIwaUw5U3pZb1I4clBWMndTQVhzZWVqdWM0Z21La0JxZGNwNXRlNk5sVQ?oc=5",
-          "pub": "Wed, 07 Oct 2026 19:51:00 GMT",
-          "source": "The Motley Fool"
         },
         {
           "title": "Trump discloses Nvidia stock trades as he prepares to honor CEO Huang - Reuters",
@@ -43,12 +43,12 @@
     {
       "symbol": "META",
       "price": 720.89,
-      "prev_close": 721.3099975585938,
+      "prev_close": 738.8800048828125,
       "high_52w": 779.8200073242188,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -0.05822705355746109,
+      "day_change_pct": -2.4347667772747155,
       "drawdown_pct": 7.556872966932991,
       "name": "Meta Platforms",
       "news": [
@@ -65,28 +65,28 @@
           "source": "Investor's Business Daily"
         },
         {
-          "title": "How much META stock does Facebook Founder & CEO Mark Zuckerberg own? - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMFhEVVViRkRGVFZTQl9nd0dMX085ZU45ZjdNT1JWeUliUWg2MUJxdzNPYTJTV0hPWkgyMjRQZjQ5RG95dTlEOFBsbWNFbkJDRWlXV191STkyUzNvWG91NWxkdmhkZE1YNUF2aWNLNVdScnlVc1VVUVhaYUJDWlluWFR5bjkxaVVuSG1YNVZKRkZQYW5zM0I2MkF3?oc=5",
-          "pub": "Thu, 08 Oct 2026 16:13:00 GMT",
-          "source": "Yahoo Finance"
-        },
-        {
           "title": "AI Hot Potato Is Meta’s For Now, But Chip Stocks Are the Winners - Bloomberg.com",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQUNVN3hyXzRaRGUya21EYWZHaFNLUGd2SVh1LWFmS09oTTB1dW92V0dpamtJbmtyM3lZMnBvZVhNcEExWUNwQWwzangxaGRGS1pkSHVGNHdzdzJON1JsZjgxQ0xNZ01jUjdBR2pTSnpKdXFwOTQtemthRVNyTjZzTkJ1TkJkc3hMZWFqZmt1SXRRRVhINEVTdTNEYTRtZnFINTBHSENvdTNkczluRzZ0bmhPMXM?oc=5",
           "pub": "Thu, 08 Oct 2026 11:35:01 GMT",
           "source": "Bloomberg.com"
+        },
+        {
+          "title": "Jim Cramer picks Meta and Microsoft as top AI stocks - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNG1PcV9FbDE3ZGZFZVpva1BfYi11N2JleDlPbFNkbEF6bXp3c2JEeTJubk9CUkJmLTNQaDgtUlQ3UDJXd21NQzdMMTRMYUxiUXNUYUdLTlRES2N1M240ajR6QWs3Q3lmQmZ2amkwWGpydk9vSF9pQXFRWnI4Q00tZnFzT1dDbFVha1ZENGwzV29WZS1BNEJ4NXY0Zw?oc=5",
+          "pub": "Wed, 07 Oct 2026 11:20:25 GMT",
+          "source": "Yahoo Finance"
         }
       ]
     },
     {
       "symbol": "AVGO",
       "price": 360.14,
-      "prev_close": 376.510009765625,
+      "prev_close": 375.80999755859375,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -4.347828567908523,
+      "day_change_pct": -4.169659578082566,
       "drawdown_pct": 27.244444444444447,
       "name": "Broadcom",
       "news": [
@@ -119,12 +119,12 @@
     {
       "symbol": "AMD",
       "price": 620.68,
-      "prev_close": 645.8599853515625,
+      "prev_close": 649.4199829101562,
       "high_52w": 658.52001953125,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -3.898675552388691,
+      "day_change_pct": -4.425484842854354,
       "drawdown_pct": 5.746221589160716,
       "name": "AMD",
       "news": [
@@ -147,22 +147,22 @@
           "source": "The Motley Fool"
         },
         {
-          "title": "AMD Stock Slips Nearly 2% Despite Setting a Date for Q3 Earnings - TipRanks",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNclNCbXdZek5vb0RMQkplNmZzejlROTlEa1FScGVEXzhrb2UxWFJwWFF3YlhtY29TV3B3MS0yTjYtRDdwUDVyUkZveXAzU0doWFYzc05kZFoyV1dCeXM5TGRQdUtwV1M5WjRFRHB1c3pseWJ5V0N4dmtyUmZvdmNHT2JXOFNEN3JuaWtZMkFGeGhud19RZWFXeA?oc=5",
-          "pub": "Thu, 08 Oct 2026 13:32:55 GMT",
-          "source": "TipRanks"
+          "title": "AMD CEO delivers stark warning on chip market’s future - TheStreet",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUFpOZmdvU29LcWxrYzZxZExhNmNabXU4RUUyS3JfbmxtSDRlc2dGQUlUakswN0pOLTVhNVZBSWtWNmw5cWlJZWYxTUVwOXBJMVM1aWhaamg3Zm9jcUxVcnVfY0ZodXdqOWo1QTVhMkVnczdaWHR5WGlsdU1WdnNOZ0hGNkRTbkE?oc=5",
+          "pub": "Thu, 08 Oct 2026 22:03:00 GMT",
+          "source": "TheStreet"
         }
       ]
     },
     {
       "symbol": "RKLB",
       "price": 68.4,
-      "prev_close": 71.91999816894531,
+      "prev_close": 75.05999755859375,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -4.894324608680571,
+      "day_change_pct": -8.872898714651276,
       "drawdown_pct": 54.70198675496688,
       "name": "Rocket Lab",
       "news": [
@@ -195,12 +195,12 @@
     {
       "symbol": "IREN",
       "price": 35.71,
-      "prev_close": 38.689998626708984,
+      "prev_close": 41.279998779296875,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": -7.70224536697655,
+      "day_change_pct": -13.49321449614575,
       "drawdown_pct": 53.54494767259804,
       "name": "IREN",
       "news": [
@@ -319,12 +319,6 @@
       "name": "Norbit ASA",
       "news": [
         {
-          "title": "NBITF (Norbit ASA) Shiller PE Ratio (CAPE Ratio or Cyclically Adjusted Price-to-Earnings Ratio) : (As of Oct. 08, 2026) - GuruFocus",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9YZHdGcjdLeWJoTUplN3ZtNjNDOVQyVnJKNk1JNDhueWdacDl0NTlIRW4yLTBMZ0ZZYTRyT09JQm9ZejJjZktuUHdBZXBRdUxiZkVwNzktNUYyRUdwZFZhR0VyOA?oc=5",
-          "pub": "Thu, 08 Oct 2026 18:47:27 GMT",
-          "source": "GuruFocus"
-        },
-        {
           "title": "NORBIT - Shares of NORBIT ASA trading ex-dividend of NOK 5.00 today - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPR1kwRWtEbUplNkg3VWl5VmUtazlTZFpsb1U3MzdnLWpNNEVoUDY4b0tzOE9aUnpiTFZremRyMjJYVUc2YWVOVjdrRHdjS0x6SVBQYzE5dXZFOVBlTFJOeF9NTk1MQm9kRW1IZF8wR0tDLWs1NENKNzR2SGczR181S2NnYlY4a3lyb3RJUkt0a21MN2JCMy00M2VqV0JQdw?oc=5",
           "pub": "Wed, 20 May 2026 07:00:00 GMT",
@@ -341,6 +335,12 @@
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWHEtbDhsdG8wNFpzR2c3M2owbGJUMG83S3pydVBzMklzS1VNQVVKS3ZSN2FpeHRhTmstQ1R0ZVlSOElqd3BnQ1RvWUNyVzQwOXdKNkNBc2dZWG1PYTZlQUtaS28zRXJFQ0N2UmEyeV9FcmN0cTQ0VXVmWVhndEoxSldfMERMdzNnUDltam9IbFhucjBhZFk5d3FCamp2bURVMk8tUGdUNG4tN24xSVpTTkFvbzJNeE11NnJpeW9ISTZ4TDJxS2g4ZFJaSQ?oc=5",
           "pub": "Thu, 13 Aug 2026 07:00:00 GMT",
           "source": "Investing.com"
+        },
+        {
+          "title": "Why Norbit (OB:NORBT) Is Down 6.2% After Raising 2026 Revenue And Margin Guidance And What's Next - Simply Wall Street",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQXRyakN4eGxwckVQOWN3YkZFYVFPUFl4R1Foc2xvZUpja1JQU3FmLWZMYXd2Uy1oMGFnT183VFZPRnkyUnFOcjZ2RlloMmpzVVoxX21PUEJ1UVRBR1J2aGdhOGd3N2VHN2tJbU9hcExla2JRbDJIdHZVOVU5a1hFZ0lheDJud0FsYTFOUEZqZVJvQU5JeG5lMzBHMEQxcGRqQzNScEVPMTFFTkRjZjIzYTJNblRpUVZRX1hLUnVZcll6UlnSAcgBQVVfeXFMUEdVdk1JOGpUa1pmZ2RpR2UwbUIzbWZXM21pR3BfdUdqRHM5aVFhLUYxLUtya1Bhd2lHT3pBY25JN2FIZzE2UnZyaDE1YlN6VUZkNkhrRlFTVVhvSFpiRzNiS0pXOWlmd0hyYXRwTEc0MTVySE5Ta2pkY1BtcFN0RVFxNVB4cl9JUm9veUZfSmdFZmZLeVdCZ0Z0YlNxTUU4OUFrdndKbGhXWE42c0R1RU1sZmhUNDVDbjVTalFEQ3Nzem9OSkU3elQ?oc=5",
+          "pub": "Sun, 23 Aug 2026 07:00:00 GMT",
+          "source": "Simply Wall Street"
         }
       ]
     }
