@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-09T09:00:43.403304+00:00",
-  "updated_at_display": "2026-10-09 09:00 UTC",
+  "updated_at": "2026-10-09T09:30:33.191584+00:00",
+  "updated_at_display": "2026-10-09 09:30 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
@@ -21,22 +21,22 @@
           "source": "CNBC"
         },
         {
-          "title": "Micron, Nvidia and AI chip stocks fall as report on OpenAI’s revenue causes ‘undue concern’ - MarketWatch",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOFhHOU9ES2xuX2Q1dWdTYVRjS0lGQUI4ekV5T1hzMGhzNF9mVldoSkVPTmE0QjdPakdnZ1BVeXU0bjZkSWhQMEVYNDFaSWstZUFNS2tzeUxUdFhmVWloVTFTNWJLejNKbEZOWjVCS3d5Y24tR0tFRXd5TlZGN0F2b1ZQN0NoUnE3UVhqaGhqZkNNRVRGMzZrNktSTDI3UDN5WENtdVByempvU0R6blZ3TlZIcmwwU05fcERjblBSeUNkVWk2VUd0bzNn?oc=5",
-          "pub": "Thu, 08 Oct 2026 22:08:00 GMT",
-          "source": "MarketWatch"
-        },
-        {
-          "title": "Zacks.com featured highlights Micron, NVIDIA and Par Pacific Holdings - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPN1VVTEVqS0NDTFlXVmVBaXpvOFBCbFcwUDFTN2ljVS1Zb3NKZmxtM2xmM3phMTdxbmQ5ZHFxX1lGdmlKVG5XYV9BSGxrTUJYdDFyQkVoUXI3TEh5Rm1VUlVURXI4R0JiZEhxWFNTaEQ5ZmFOQmxJTEVCc010cGc0LWZFNW90WHhYTFBpQUE2OVBkNk4tYWFSXzBjMm5nNjkxbTZB?oc=5",
-          "pub": "Fri, 09 Oct 2026 05:28:00 GMT",
-          "source": "Yahoo Finance"
-        },
-        {
           "title": "Trump discloses Nvidia stock trades as he prepares to honor CEO Huang - Reuters",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPc0R0am1rbndOQjhQUzhJdTNHcXpnb3lDWFVteEs0SzJiVzc5cFNhMkNJZ2F5dzhjSTFlbFE1ZDRHNVE0MTNJM1phbUU1MVZXX0VkdmZoRUJDaU5OX3pPZ3V2bUZIaTMxZ0std2V2eVFyVUlaZGFXNjhCYTNtV1AxbnVsSlJnVXlWTW9JWWhiYTJaczdTR1JBcDNFaFg0YWRmZjRhZVR6c3dvd3pv?oc=5",
           "pub": "Thu, 08 Oct 2026 15:18:12 GMT",
           "source": "Reuters"
+        },
+        {
+          "title": "Jensen Huang, Larry Ellison Lose Combined $15 Billion In A Day - Forbes",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTjZ4Mnl4M0VQSEdRTmlVVkctdGRqU3pfZ1g2TGh6TVM2dmx3aXpDNWh3MkNScnZENjI5R2djVENVb0V1U0VjVEV5dUVtYmNYSEc3LWhVOWdXVWJ1djVuSnVHUUdSOGJWVGM3SURtcWM0ajR3eTFUU0x5eWVCMXlWSm9nQXVzMVZqWjVoOVlES0I3bVZlU003TmdudVR2Rnpvak9YWDVfS2I0MzQxVFhJbl9aRUMzSGh5MUFXUF82anB6dFNVWXd4RTNkRjBkS2JZUVpr?oc=5",
+          "pub": "Thu, 08 Oct 2026 20:10:13 GMT",
+          "source": "Forbes"
+        },
+        {
+          "title": "Nvidia Director Tops AI Billionaires on Insider Stock Sales - Bloomberg.com",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUlJ4cTVnRFEydXJ4SjN4NWhEZWlTSko5SUlqMl9jVDgzWl9ua05kQkw3UGxFMlBmc1NLcGw1MWpnSmIxZFB2WVdUTVRTTjdqSWJhQkctc1VhMDdaaTBMMWJYdC14NGtfWndSVTNkdjFvdlU3elVoVkJkMlJISlNIRi15dW5aX2h2TmZKdUtsNlNvZDNMdm14cjNlTFBsaVRranZPVEROX1Nld3dmdVk5TWhncw?oc=5",
+          "pub": "Wed, 07 Oct 2026 09:00:17 GMT",
+          "source": "Bloomberg.com"
         }
       ]
     },
@@ -129,16 +129,10 @@
       "name": "AMD",
       "news": [
         {
-          "title": "Meta Muse popularity lifts AMD stock to fresh highs as AI agents juice CPU sales - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZ3VMeWo4NUtvcHd0NU92ME10aTdvaDU5YTB3ZHVHTkNBMkJYUDREWUk0ZWhhYnZfZXpYdVhzSnFPZUZRa09yM1I3Rk9vNnoyYW5FU3dhb3VSaDNYMHRRZEtRZUU5Z3NCS1NvcG56YVE5TFBCSXJYblM0S1RwM3lUQVhNdzAtN2NZb2V2ajNldklrVVo4RGtNR0pieW9hdFduak9fckdRSHpnZ9IBrwFBVV95cUxNWUpNX1d2MXNZb0Z4cGR6WjZHZHBXbW5PdHNCNUU1VFNTZ2dTSERqa2tScmVHUnFCVzRoSllQT2s0a3BwcktYSFFVd0tLUC0xWWJMVmlRR3psb00zd3drTjVhd1RfT3ZVeGdxNlU1ZC0xa2IyX1RwOWNEMXh2blFQcDNRR015YW4zZUpJc0VJSlFrcGxkQjFrWW9VRmoyUXFQaWh6MTM1SEpFZXRtNVlN?oc=5",
-          "pub": "Tue, 06 Oct 2026 11:00:01 GMT",
-          "source": "CNBC"
-        },
-        {
-          "title": "Does AMD Stock’s Run Make Any Sense Now? - Trefis",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRldlLTZWNnFaVXlaUUt2VkJVUGpZVXJ5T3B3WHRVMVFzRW5JUVFwaWZnWjQ2R0RNb3VOQ3BMR1BvaUQyN1g0QzJTa1FRVjdidzF5dmFWLWJRbWpucVJKcC1vUVdMME5HRGJKSkJVRlZFeWJiT25mYXcyZmJlTkxaUmpSSk15UG8yajFOelliUzFjaXFxd1Fpa0VBbVpYWnc?oc=5",
-          "pub": "Tue, 06 Oct 2026 15:02:24 GMT",
-          "source": "Trefis"
+          "title": "AMD (AMD) Stock May Be Fully Valued On Citi's $800 Target - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQm04RlRUZEs3WTlXRFJ5ZGp5czBkd2ktN3E2VV9EanRuQW1uV3ZQa01CbnV4blFOMkZzcml2Z3djQ1NwVXNLb2hTYXFVUlJkS0x5SFdxWE1WWEJtTDExVHdyWnFzVU9Ram1yUjh3THpkUm84UFdEUnQ5bDdXcmU4X2QwbGZCdnV4aU1jclNUQkhZUQ?oc=5",
+          "pub": "Thu, 08 Oct 2026 03:17:00 GMT",
+          "source": "Yahoo Finance"
         },
         {
           "title": "How to Play AMD Stock as It Continues to Explore a Foundry Partnership With a Korean Tech Giant - Barchart.com",
@@ -147,10 +141,16 @@
           "source": "Barchart.com"
         },
         {
-          "title": "Advanced Micro Devices vs. ASML: Which Semiconductor Stock Is a Better Buy in 2026? - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSzRNajc5dmZETUdUQ0doZUtlRjVFVUhPQ0YzcEppNzRHM3JEdll6eC1iN2xYbklqMzdTb05vV3VoanhJY01TWWdFMVNIc0xaZEdzVlN6dUp4azVrd3c4Yk1KQjg4MFFITTZ4VV84SFZ6Qko0LU8tazIzUlBDbjc3N2lrOFhoMXdjMHk4NzNmZldmbG5wQ3VETllYOA?oc=5",
-          "pub": "Thu, 08 Oct 2026 23:42:51 GMT",
-          "source": "Yahoo Finance"
+          "title": "AMD vs. Intel: Which Chip Stock Has More Upside From Here? - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTW90STZZbFdiQlVsRkJCN0hCNXJTMEl0UHd6QlJMNWotcy10MDJkUWlUYWZtWE9JZ3l1R1dzMm0tOE9fSFRLYkU0VFlFeFF3WS1DamlLWkVVZWlJbVphOTQxVFVUb3lqc3k1UUo0cjM2Mks3dTFoVmM2bTBLSWtaTnFoaUVCa0wwTnpIbjRHbDhZclZDcWFnMw?oc=5",
+          "pub": "Thu, 08 Oct 2026 17:30:00 GMT",
+          "source": "The Motley Fool"
+        },
+        {
+          "title": "Intel Slides 3% as Chip Stocks Sell Off With Yields and Oil Higher; NVIDIA and AMD Slip - 24/7 Wall St.",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQa1F0bkdGb3FCUTFZaHhBemZJYUw2MnA2UFZHNTdBYnphcXhHREk3Zk9qZ2cwM2tSVVU4dWx5dWswdThJRER4TFJXX3ZIZ3RCYS1BZC00ekFHcEtUb09nUFktbmFhUDlwMDJNaF9DNHdIazRBT0U5S2dhZGthM2lWYXN5NVpVZkcxNW43cTRPUEx5RUt5OFA4V3Nqa0UwMkxVMW1nMTlELWl6eVNaeUR6cFpLQnhFaEl4aG5NR1FlX25qVDhuSWd2OQ?oc=5",
+          "pub": "Thu, 08 Oct 2026 14:05:00 GMT",
+          "source": "24/7 Wall St."
         }
       ]
     },
@@ -232,14 +232,14 @@
     },
     {
       "symbol": "MILDEF.ST",
-      "price": 221.8,
+      "price": 222.8,
       "prev_close": 217.0,
       "high_52w": 251.9,
       "currency": "SEK",
       "yahoo_name": "Mildef Group AB",
       "exchange": "Stockholm",
-      "day_change_pct": 2.2119815668202816,
-      "drawdown_pct": 11.949186184994042,
+      "day_change_pct": 2.6728110599078394,
+      "drawdown_pct": 11.552203255260022,
       "name": "MilDef Group",
       "news": [
         {
@@ -247,6 +247,12 @@
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAtcXhJd0g3Z21uTHZVZFpKZkFHejZSWFVfNlQyVkJMcV9NRVdQbjlGNVBqcjIxeTE0aW81dUNnTHRGOFVxNW5UUmtQNzhKYnFiTDdXaU1MYi1mX1Y0N1R3bGNR?oc=5",
           "pub": "Thu, 08 Oct 2026 02:48:44 GMT",
           "source": "Yahoo Finance UK"
+        },
+        {
+          "title": "MilDef Group (OM:MILDEF) Stock Forecast & Analyst Predictions - Simply Wall Street",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQV9TTFBVOUxkRUxRRFd6bWdhWEs4QThCZE9mVnJzMUZFY09QaWJqM0pjUHBjTkFCRTV5NWtlbDFoSl9CY2l1VUNfbkRvcm1pdmhRVjdCTXZBbzBPX2ZNbmRqNkhEQVRwMW92b1VmRnZicEM3MjdyWTZHd3pjQm5LSFZYbWpuSjZINDk4?oc=5",
+          "pub": "Mon, 28 Sep 2026 07:00:00 GMT",
+          "source": "Simply Wall Street"
         },
         {
           "title": "MILDEF Forecast — Price Target — Prediction for 2027 - TradingView",
@@ -259,25 +265,19 @@
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWFZjRE0wOVJoN0E4MHI1dUJOOHZySlIzcHRjbXA2LVlnOW9FbGx4VzktajJlaXJ1S0VhRm8zMUVSWjhVekY5RGxsaWR3WWRQZ2pFdjZOQzF0Ml9yb3FJS3FycTJjZExXMy1VcmpwOVdiQjdvaEhONlh2Y28yNDVKRENpRWVoel9nV1VJU2dYMUlybTZkUFlVZEIya3VETV9sTlJ4dEVPd0t5UDFJMU9Ec0ZvRE0?oc=5",
           "pub": "Fri, 21 Aug 2026 07:00:00 GMT",
           "source": "Bloomberg.com"
-        },
-        {
-          "title": "WorldQuant no longer a public short seller in Mildef Group - marketscreener.com",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNb1JTQkpCd0Zhc28zMjdVR2ljZkVpSVZkeDROTW5NcFRNdVpQQjlSaEpVYTdqd0phajRTTGxsc1FjNVJTOHZqc2p4azBXd1JndnNiX3FOeFNyaFN2NG5WNjU0TEtlX2lJbHdrak9vVDFHMUZEdmRScmN1LUNDY01kbFZ0bUpGdjZUSlBxeWgybXVYSVZtN3JEQkxzTGpJdU9FNmlIZDQ4OXdzSzczWGI0cA?oc=5",
-          "pub": "Wed, 30 Sep 2026 11:54:23 GMT",
-          "source": "marketscreener.com"
         }
       ]
     },
     {
       "symbol": "IVSO.ST",
-      "price": 239.6,
+      "price": 239.0,
       "prev_close": 236.1999969482422,
       "high_52w": 336.0,
       "currency": "SEK",
       "yahoo_name": "INVISIO AB",
       "exchange": "Stockholm",
-      "day_change_pct": 1.4394593969884086,
-      "drawdown_pct": 28.690476190476193,
+      "day_change_pct": 1.185437378465068,
+      "drawdown_pct": 28.869047619047617,
       "name": "Invisio",
       "news": [
         {
@@ -308,22 +308,16 @@
     },
     {
       "symbol": "NORBT.OL",
-      "price": 159.4,
+      "price": 159.9,
       "prev_close": 156.60000610351562,
       "high_52w": 244.8000030517578,
       "currency": "NOK",
       "yahoo_name": "NORBIT",
       "exchange": "Oslo",
-      "day_change_pct": 1.7879909242363188,
-      "drawdown_pct": 34.88562172677007,
+      "day_change_pct": 2.1072757138355542,
+      "drawdown_pct": 34.68137336330322,
       "name": "Norbit ASA",
       "news": [
-        {
-          "title": "NBITF (Norbit ASA) Cyclically Adjusted PS Ratio : (As of Oct. 08, 2026) - GuruFocus",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE91RU5sV25XM2NFNTRQRk5qRjFlNVRZSVJsX2tKSTJ5MVVTU2xiTFZIRXhKMXZqWWFJVTRib3l4LThBMEFrVl85SjBzUEE2ajJpQmFZVFVsRmlwMG1jYnE1dzFQeFFzQVEzc2dDaTh0LUNIdTA?oc=5",
-          "pub": "Thu, 08 Oct 2026 15:01:10 GMT",
-          "source": "GuruFocus"
-        },
         {
           "title": "NORBIT - Shares of NORBIT ASA trading ex-dividend of NOK 5.00 today - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPR1kwRWtEbUplNkg3VWl5VmUtazlTZFpsb1U3MzdnLWpNNEVoUDY4b0tzOE9aUnpiTFZremRyMjJYVUc2YWVOVjdrRHdjS0x6SVBQYzE5dXZFOVBlTFJOeF9NTk1MQm9kRW1IZF8wR0tDLWs1NENKNzR2SGczR181S2NnYlY4a3lyb3RJUkt0a21MN2JCMy00M2VqV0JQdw?oc=5",
@@ -341,6 +335,12 @@
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWHEtbDhsdG8wNFpzR2c3M2owbGJUMG83S3pydVBzMklzS1VNQVVKS3ZSN2FpeHRhTmstQ1R0ZVlSOElqd3BnQ1RvWUNyVzQwOXdKNkNBc2dZWG1PYTZlQUtaS28zRXJFQ0N2UmEyeV9FcmN0cTQ0VXVmWVhndEoxSldfMERMdzNnUDltam9IbFhucjBhZFk5d3FCamp2bURVMk8tUGdUNG4tN24xSVpTTkFvbzJNeE11NnJpeW9ISTZ4TDJxS2g4ZFJaSQ?oc=5",
           "pub": "Thu, 13 Aug 2026 07:00:00 GMT",
           "source": "Investing.com"
+        },
+        {
+          "title": "Why Norbit (OB:NORBT) Is Down 6.2% After Raising 2026 Revenue And Margin Guidance And What's Next - Simply Wall Street",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQXRyakN4eGxwckVQOWN3YkZFYVFPUFl4R1Foc2xvZUpja1JQU3FmLWZMYXd2Uy1oMGFnT183VFZPRnkyUnFOcjZ2RlloMmpzVVoxX21PUEJ1UVRBR1J2aGdhOGd3N2VHN2tJbU9hcExla2JRbDJIdHZVOVU5a1hFZ0lheDJud0FsYTFOUEZqZVJvQU5JeG5lMzBHMEQxcGRqQzNScEVPMTFFTkRjZjIzYTJNblRpUVZRX1hLUnVZcll6UlnSAcgBQVVfeXFMUEdVdk1JOGpUa1pmZ2RpR2UwbUIzbWZXM21pR3BfdUdqRHM5aVFhLUYxLUtya1Bhd2lHT3pBY25JN2FIZzE2UnZyaDE1YlN6VUZkNkhrRlFTVVhvSFpiRzNiS0pXOWlmd0hyYXRwTEc0MTVySE5Ta2pkY1BtcFN0RVFxNVB4cl9JUm9veUZfSmdFZmZLeVdCZ0Z0YlNxTUU4OUFrdndKbGhXWE42c0R1RU1sZmhUNDVDbjVTalFEQ3Nzem9OSkU3elQ?oc=5",
+          "pub": "Sun, 23 Aug 2026 07:00:00 GMT",
+          "source": "Simply Wall Street"
         }
       ]
     }
