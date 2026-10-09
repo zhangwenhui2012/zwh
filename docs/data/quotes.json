@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-09T10:00:40.743448+00:00",
-  "updated_at_display": "2026-10-09 10:00 UTC",
+  "updated_at": "2026-10-09T10:30:34.811749+00:00",
+  "updated_at_display": "2026-10-09 10:30 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
@@ -21,16 +21,16 @@
           "source": "CNBC"
         },
         {
+          "title": "Nvidia Stock Gains but IPO Worries Are Rocking the AI Market - Barron's",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQakpOR1BJXzh6WGROMTRsVkRsS1ZZODZjMjZxVnNXVVNRV3dfQ1pCcFlBcXZIOGhUZ3pOblprNEVrMzl0OVBLWUtHRm5NS2tmaFpBLUxRdFI1OG1RdlZLRmw5ZFZObzljenRIUnV6a2FCMHBwRHJKQl95T0ZiYjZKVHFTT0hfakdI?oc=5",
+          "pub": "Fri, 09 Oct 2026 10:06:00 GMT",
+          "source": "Barron's"
+        },
+        {
           "title": "Micron, Nvidia and AI chip stocks fall as report on OpenAI’s revenue causes ‘undue concern’ - MarketWatch",
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOFhHOU9ES2xuX2Q1dWdTYVRjS0lGQUI4ekV5T1hzMGhzNF9mVldoSkVPTmE0QjdPakdnZ1BVeXU0bjZkSWhQMEVYNDFaSWstZUFNS2tzeUxUdFhmVWloVTFTNWJLejNKbEZOWjVCS3d5Y24tR0tFRXd5TlZGN0F2b1ZQN0NoUnE3UVhqaGhqZkNNRVRGMzZrNktSTDI3UDN5WENtdVByempvU0R6blZ3TlZIcmwwU05fcERjblBSeUNkVWk2VUd0bzNn?oc=5",
           "pub": "Thu, 08 Oct 2026 22:08:00 GMT",
           "source": "MarketWatch"
-        },
-        {
-          "title": "Why Are Nvidia, Broadcom and AI Stocks Falling Today? OpenAI’s US$20 Billion Revenue Gap Sparks Selloff - Stocks Down Under",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE83Y3ppdWZCWGlpZzdTaFdEM3U4MnJjWGZvbzY3UG9xaHY0bm9RMFZEQmtpcWE5aDQtWnZ3TXlkMXFRU0dETFRQVlpQY0txVG1xYnA1ekU5cWRuTXgwRTVrN2RfYm5JWC1hUEdzRlAzb29jbWJCVU1ZMHRJZTA?oc=5",
-          "pub": "Thu, 08 Oct 2026 20:35:23 GMT",
-          "source": "Stocks Down Under"
         },
         {
           "title": "Trump discloses Nvidia stock trades as he prepares to honor CEO Huang - Reuters",
@@ -211,10 +211,10 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "IREN Limited: The Story Is Getting Better, But It Is Still Not Worth It - Seeking Alpha",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeWsya19lWEw3WXZMbnBqNlMyaS1qN2FLeTctNlFNTFp4bkVsN243Mk5SY1R3QmtLZ19xeHZRaUV5OGI2MFB3Zml2dDl3V3o2TW5PYmxkQjJIa2NoamdLZV9zOGllWGxfZEc4dGJvYmZUTjEzLTF3S2ZacWlwZjNZeFBJNWthMHRyUDJYUElEV0VSM2RJcWtRdm16Z25yYmtmbGdUTg?oc=5",
-          "pub": "Thu, 08 Oct 2026 12:48:55 GMT",
-          "source": "Seeking Alpha"
+          "title": "Is IREN (NasdaqGS:IREN) Overvalued After Its AI Expansion Questions? - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSmIyOC1FWVFXSHY5cnl1VFVaR19HanRWaUpjV3hBT2VvajlMdlRwbTFOSXB3TGJ6c3dtZWdSRnVSb1FuMC1yYUR5Ym1Oc2xnckdJTlotREZ0VzdSYmNFdi1GQmxzSWFDbnhoT2ZaUF8zOC1lSW9FU1JPZHNIb3NKdUpFcENFOG5GM2xJZHVDdGJ3bmZjQ1Y0eTNNRjZFQQ?oc=5",
+          "pub": "Thu, 08 Oct 2026 21:11:59 GMT",
+          "source": "Yahoo Finance"
         },
         {
           "title": "IREN Stock Tumbles on OpenAI Revenue Report - Benzinga",
@@ -232,14 +232,14 @@
     },
     {
       "symbol": "MILDEF.ST",
-      "price": 223.0,
+      "price": 222.5,
       "prev_close": 217.0,
       "high_52w": 251.9,
       "currency": "SEK",
       "yahoo_name": "Mildef Group AB",
       "exchange": "Stockholm",
-      "day_change_pct": 2.7649769585253456,
-      "drawdown_pct": 11.472806669313222,
+      "day_change_pct": 2.5345622119815667,
+      "drawdown_pct": 11.671298134180232,
       "name": "MilDef Group",
       "news": [
         {
@@ -270,14 +270,14 @@
     },
     {
       "symbol": "IVSO.ST",
-      "price": 239.2,
+      "price": 238.8,
       "prev_close": 236.1999969482422,
       "high_52w": 336.0,
       "currency": "SEK",
       "yahoo_name": "INVISIO AB",
       "exchange": "Stockholm",
-      "day_change_pct": 1.270111384639511,
-      "drawdown_pct": 28.809523809523814,
+      "day_change_pct": 1.100763372290625,
+      "drawdown_pct": 28.928571428571427,
       "name": "Invisio",
       "news": [
         {
@@ -308,14 +308,14 @@
     },
     {
       "symbol": "NORBT.OL",
-      "price": 159.3,
+      "price": 158.8,
       "prev_close": 156.60000610351562,
       "high_52w": 244.8000030517578,
       "currency": "NOK",
       "yahoo_name": "NORBIT",
       "exchange": "Oslo",
-      "day_change_pct": 1.7241339663164754,
-      "drawdown_pct": 34.92647139946343,
+      "day_change_pct": 1.4048491767172397,
+      "drawdown_pct": 35.130719762930276,
       "name": "Norbit ASA",
       "news": [
         {
