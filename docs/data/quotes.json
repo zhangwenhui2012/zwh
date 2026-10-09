@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-10-09T16:30:39.106892+00:00",
-  "updated_at_display": "2026-10-09 16:30 UTC",
+  "updated_at": "2026-10-09T17:00:46.317478+00:00",
+  "updated_at_display": "2026-10-09 17:00 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 229.57,
+      "price": 229.34,
       "prev_close": 230.47999572753906,
       "high_52w": 243.37,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -0.39482633825402225,
-      "drawdown_pct": 5.670378436126067,
+      "day_change_pct": -0.4946180790834013,
+      "drawdown_pct": 5.764884743394831,
       "name": "NVIDIA",
       "news": [
         {
@@ -42,14 +42,14 @@
     },
     {
       "symbol": "META",
-      "price": 724.245,
+      "price": 727.32,
       "prev_close": 720.8900146484375,
       "high_52w": 779.8200073242188,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 0.4653948984435106,
-      "drawdown_pct": 7.126645482579011,
+      "day_change_pct": 0.8919509524207121,
+      "drawdown_pct": 6.732323719721037,
       "name": "Meta Platforms",
       "news": [
         {
@@ -71,37 +71,25 @@
           "source": "Investor's Business Daily"
         },
         {
-          "title": "Meta Stock Falls as Florida Asks a Court to Switch Off Infinite Scroll for Teens - 24/7 Wall St.",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSkNBOUdJTVAyRjJDMjdKTTRGZFR4cTc4WTVrS3JUX3cxS0pUbUdicmxMOS1seWd1WkxkcUtKVUZyVGtWcGtlckY1cGZ3eVdmZ1dqUlo4S1hNTVFxLTJpdmRlZTZSejIxcndaUl9xSmRDekNteExVZmJJaXBXZXpiMWt1RktDOURIYzZ2aF9mbDZ0azRhM1BkQUltSS02ajBTRlJxaXRGQjhKVnBrcXk4YjRscEZBSFc1ek5TWjlNdEQyQQ?oc=5",
-          "pub": "Thu, 08 Oct 2026 11:25:00 GMT",
-          "source": "24/7 Wall St."
+          "title": "AI Hot Potato Is Meta’s For Now, But Chip Stocks Are the Winners - Bloomberg.com",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQUNVN3hyXzRaRGUya21EYWZHaFNLUGd2SVh1LWFmS09oTTB1dW92V0dpamtJbmtyM3lZMnBvZVhNcEExWUNwQWwzangxaGRGS1pkSHVGNHdzdzJON1JsZjgxQ0xNZ01jUjdBR2pTSnpKdXFwOTQtemthRVNyTjZzTkJ1TkJkc3hMZWFqZmt1SXRRRVhINEVTdTNEYTRtZnFINTBHSENvdTNkczluRzZ0bmhPMXM?oc=5",
+          "pub": "Thu, 08 Oct 2026 13:34:09 GMT",
+          "source": "Bloomberg.com"
         }
       ]
     },
     {
       "symbol": "AVGO",
-      "price": 363.0,
+      "price": 362.785,
       "prev_close": 360.1400146484375,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 0.7941315141985453,
-      "drawdown_pct": 26.666666666666668,
+      "day_change_pct": 0.7344325106846331,
+      "drawdown_pct": 26.710101010101006,
       "name": "Broadcom",
       "news": [
-        {
-          "title": "Nvidia vs. Broadcom: Which AI Chip Stock Is the Better Buy for the Next 5 Years? - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQ1dmNWJGZE5wejI3U2RWZldFRzNCMDZLZDJFVjB3bW0xeTZJc3N4dHpfUUYyaVk2eGZIVTFWNVBDeU0wclR2MHNuWXREWndFSDlWQmtyR3ZwSzFvQkpyVlVPcGdNTFZnUDFFWVBkbV9YUmwwai1XNkl1b2luTy00NWR6dk5RRmhtT3FzZ1o1VEo0cTl0dy1SSA?oc=5",
-          "pub": "Thu, 08 Oct 2026 22:29:00 GMT",
-          "source": "The Motley Fool"
-        },
-        {
-          "title": "Warren Buffett Sells Alphabet and Broadcom Stocks, Warns Investors Not to Act Like ‘Cinderella at the Ball’ - TipRanks",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNaDJOMFY5WEpwbUItUG16Z19KdHY4NXgzMjdQTXgyQzh6TDd6WjhqTTlOZ0VhY21UT3JuaVRZYlFaVmw3UWQzQVNpbi14RVRxWk9xMDlJMFNlTGJJLUR0V2RJc3dWeWJCYmswMk0tbmNFYmlsN2J3THV6aVE3UkdBSVR4TkV3Z3FhWlI5Y21mcHY2OTVNOUJnLXl4NXd1ckVHcXlyWTBPNElpUVhJdmQ0LW9PTFVLZFdGQWFXUUJpZlFweEUycllsODNVTWxPVVE?oc=5",
-          "pub": "Wed, 07 Oct 2026 11:57:36 GMT",
-          "source": "TipRanks"
-        },
         {
           "title": "Prediction: A $5,000 Investment Split Between Nvidia and Broadcom Will Triple by 2028 - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdldCRExRSDZNTG02Nk1UMnBEalFyOUdrNVpScGRKaU1Zd1g1dTZrWUlKNXdYUFFSOHZ6QjZNTUpycEtBaUZNdnpDTXE4MFhNcC1nX1JkRFhacTZNY0paMkVVSzlaV0VuNVhzME1Qakp4VklMd2FXTTdQdTZlYTBBRWc4SVgyc3pwVEhkQVZaUklnbjV6NVdRLWpFcjROYjA?oc=5",
@@ -109,23 +97,35 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "AMD vs. Broadcom: How Much Faster Must AMD’s Cash Flow Grow to Earn Its Premium? - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVTlibkxwOHJvMG9IZEtxR0NsV3dZVU8zR3pTeUNXVFZ6b3BRbDdSMEUxY3FLVnFQXzhMTWpGX3BuVWw0M0FkdlotcVhHZ1NTNnFWT09saDdTZmIxM09sc1lLZWtybVNRWDdCT1RBeWY4OWFtN08xQnViT1EtOG51bWhNZkVTLUt2NmkyRm5renlodFp3ekFr?oc=5",
-          "pub": "Fri, 09 Oct 2026 16:05:21 GMT",
-          "source": "Yahoo Finance"
+          "title": "Why Are Nvidia, Broadcom and AI Stocks Falling Today? OpenAI’s US$20 Billion Revenue Gap Sparks Selloff - Stocks Down Under",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE83Y3ppdWZCWGlpZzdTaFdEM3U4MnJjWGZvbzY3UG9xaHY0bm9RMFZEQmtpcWE5aDQtWnZ3TXlkMXFRU0dETFRQVlpQY0txVG1xYnA1ekU5cWRuTXgwRTVrN2RfYm5JWC1hUEdzRlAzb29jbWJCVU1ZMHRJZTA?oc=5",
+          "pub": "Thu, 08 Oct 2026 20:38:55 GMT",
+          "source": "Stocks Down Under"
+        },
+        {
+          "title": "Apple Stock (AAPL) Drops While Nvidia, AMD, and Broadcom Gain Premarket: What’s Moving Markets Today, Oct. 9 - TipRanks",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPOXZkNktxQzJDaDZ1QmJWWkltWWFvOWtuY1lqQUdzVk55NGlQSlF3eTkyck44OWNCQmpWRlV5TWdIWHRzR2NmaGVxSTJ6c2pUcUJjU3BZcldQX0FJNWNYRjFNLTZmTjYtSlltbW13aGhqVVg0SnNwamd3V0ZPd2JzUmhxY09TMzhTRTNiNm0xQ0p6RlQ2aDJBcGZ2YU5iNTl1VjE4NWlOeUUzeU9mU1UwbDhTMEF1QnJoQ2lGd3JUT0ZVejV6OEN2eWpGYmtKb2s0QVE?oc=5",
+          "pub": "Fri, 09 Oct 2026 12:09:07 GMT",
+          "source": "TipRanks"
+        },
+        {
+          "title": "Warren Buffett Sells Alphabet and Broadcom Stocks, Warns Investors Not to Act Like ‘Cinderella at the Ball’ - TipRanks",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNaDJOMFY5WEpwbUItUG16Z19KdHY4NXgzMjdQTXgyQzh6TDd6WjhqTTlOZ0VhY21UT3JuaVRZYlFaVmw3UWQzQVNpbi14RVRxWk9xMDlJMFNlTGJJLUR0V2RJc3dWeWJCYmswMk0tbmNFYmlsN2J3THV6aVE3UkdBSVR4TkV3Z3FhWlI5Y21mcHY2OTVNOUJnLXl4NXd1ckVHcXlyWTBPNElpUVhJdmQ0LW9PTFVLZFdGQWFXUUJpZlFweEUycllsODNVTWxPVVE?oc=5",
+          "pub": "Wed, 07 Oct 2026 11:57:36 GMT",
+          "source": "TipRanks"
         }
       ]
     },
     {
       "symbol": "AMD",
-      "price": 610.468,
+      "price": 610.135,
       "prev_close": 620.6799926757812,
       "high_52w": 658.52001953125,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -1.6452910994854044,
-      "drawdown_pct": 7.296971710207776,
+      "day_change_pct": -1.698941934687034,
+      "drawdown_pct": 7.347539648937568,
       "name": "AMD",
       "news": [
         {
@@ -141,29 +141,29 @@
           "source": "Trefis"
         },
         {
-          "title": "Nvidia and AMD Lead the AI Market. 1 Chip Stock Has Far Greater Upside. - The Globe and Mail",
-          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNNVBEQjlLYnd5YWFZNmRuOXpyVngwdVJTYmpkRzgxMTZpbmN5aTdSWDB0NnR0c0pCV19HSmRHbUpnTXZVYktIV0JIS2pBUXFudndpaGI3eUdudEdDUUNwNHZBZUotbFdLSUUzdDRqOTdpV1lWc1JOUFFlVndTTXB5c3gxU1NwNDNlYW9oRnVuSWdNcjNLNUt2cjI1TEN3Y0NzUnRJRkx2dG4yVFc5bVhacmdocHJfM2Q4S3loWGtyeG5Ia041aWJSb2lWWmhCeV9halFjaWQzenlzdWd2clhxcDFfWDMwYXdB?oc=5",
-          "pub": "Fri, 09 Oct 2026 15:38:20 GMT",
-          "source": "The Globe and Mail"
+          "title": "Nvidia and AMD Lead the AI Market. 1 Chip Stock Has Far Greater Upside. - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdXdhamota1R2aFM2amlnakFkN0h1TERQa3puNERMaS1ONFlFRW9jTlAzZEZWRHE0SThmMDRWM2hTUUl3dVQ5RVNCUXJvU1d2WXRndUdveFI0VUU1U3ZwUlhrNzE0ZU9XTnk5a3QzYm1vcmNsNWJ2NzgwbEstVUNyNXByR010bzdmNkF4Mw?oc=5",
+          "pub": "Fri, 09 Oct 2026 15:54:55 GMT",
+          "source": "The Motley Fool"
         },
         {
-          "title": "NVIDIA or AMD: If I Could Only Own 1 for the Next Decade, This Is It - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVE9CN1FiYkhHYnVFbXgtTUp5OVJhY0NLLXhsbnNTSGUwdDZKdlFkOFBqSDNGeDNGXzZUR0RFUGpRWmdLNmsyNmtDcGtHZERralRqSnJNVDNYOE0yTHZoMXJYN21iMllZb1dzSXZDdnBfaTA5TEsxSHJSNmJ3aXFrZ2NtX0p6QVpnRmZTcHNRQmg4SUFN?oc=5",
-          "pub": "Wed, 07 Oct 2026 12:45:36 GMT",
+          "title": "AMD vs. Broadcom: How Much Faster Must AMD’s Cash Flow Grow to Earn Its Premium? - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVTlibkxwOHJvMG9IZEtxR0NsV3dZVU8zR3pTeUNXVFZ6b3BRbDdSMEUxY3FLVnFQXzhMTWpGX3BuVWw0M0FkdlotcVhHZ1NTNnFWT09saDdTZmIxM09sc1lLZWtybVNRWDdCT1RBeWY4OWFtN08xQnViT1EtOG51bWhNZkVTLUt2NmkyRm5renlodFp3ekFr?oc=5",
+          "pub": "Fri, 09 Oct 2026 16:05:21 GMT",
           "source": "Yahoo Finance"
         }
       ]
     },
     {
       "symbol": "RKLB",
-      "price": 67.59,
+      "price": 67.505,
       "prev_close": 68.4000015258789,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -1.1842127307152788,
-      "drawdown_pct": 55.23841059602649,
+      "day_change_pct": -1.3084817337910293,
+      "drawdown_pct": 55.294701986754966,
       "name": "Rocket Lab",
       "news": [
         {
@@ -173,35 +173,35 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "AST SpaceMobile Falls 6% as SpaceX Spectrum Deal Closes Off Low-Band Option; Rocket Lab and Planet Labs Slip - 24/7 Wall St.",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZDlrOEhlNWE0YXl4ZVk1dXBMVWllU0pTMFZLQVRXbHVZcnN3MldwWEZ1ckFGN1lmb3lWNV90cmlmNzlibDRvV1E0bS1WY3VVa3lqcEhudXRYOTNRODExRHltYTdWdnVGUF8wSG04ajlXN2U1U2VNOGxhMzVrQnV1dDVGdWVWVlo2WGh0OXBSNVE0Ylk1T091aG9VWGpZVXhJZEdqOVRKY2V6NW1EMlV4N0dWWVUzbTlhVGhyMGZhTV80bGdGNjhCVng4aG0yOGc4Y21sMng2QkVDQzJwOV8zZjRDblA?oc=5",
-          "pub": "Fri, 09 Oct 2026 13:45:00 GMT",
-          "source": "24/7 Wall St."
+          "title": "AST SpaceMobile Falls 6% as SpaceX Spectrum Deal Closes Off Low-Band Option; Rocket Lab and Planet Labs Slip - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSTBJSTdWMEQwWEdGZWtERWFqdWl1LXJ6cXFkdUdUenNfMndjRzRRMFF2MG9Gdm5rQUNYVXZ5OG9sWG1JMS1fcmg4VEMwNzFabXpCdGJQdndacURycl8tWFA5R0lFT19pUmR1UUFabFlXSzlldkVDbnVqUzN6VExraFZpWlNBN0l6ck8wTFJyV0xZdDI0cE5rbkliNA?oc=5",
+          "pub": "Fri, 09 Oct 2026 13:45:09 GMT",
+          "source": "Yahoo Finance"
         },
         {
-          "title": "Sanmina, Rocket Lab, Kratos, Advanced Energy, and AECOM Stocks Trade Down, What You Need To Know - TradingView",
-          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOdjhBZ19QZGpyazFXWWZRckNkeDNYbnNLbHhMeF9vMm81eVNDODVxUVB5VUJNVzV4NXJaMlVaa3d5WWxfa0dIRTJJSnctVVhKdmFGOE1kOU1zVldYbHVzcmM4R0xYWFNQOXRWLTM1UG5iSm5kWUtHWjY0bk5YcEtmMVZyOGxBemVfUmZwT3dpN0QwTk5yQWVqdlBLZTQ1ZFZLX09CcnhBWGk3VVZkV1hieFN1Y3lwNk5tSk9hMkJDa2dRUUlROHlFUWI1SWI0Nk45cG0yNnF6WGg3SGJNZlpYY3dZdEVNUnc?oc=5",
-          "pub": "Wed, 07 Oct 2026 16:55:44 GMT",
+          "title": "Terex, ESAB, Allison Transmission, Rocket Lab, and Bloom Energy Stocks Trade Down, What You Need To Know - TradingView",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNWWdKbnFCY3RsNWh6c0pqeWRlbW5wTldlUGxoZEhrOGhaT25vN1dITlNFMzktNS1mcElwV2hFY2F3V2lmelRXRWNNMzdITXctRlJQTGZSOFpKZlUxUWlSeUxuZE95X2FBM0Y0RVc1X2ZCVXR0QlBWMkhDY2FnNjFKeGJyTms4aW5ma2ptMkIxUUhMR0lQaXZQUUp6bzRJV0dyWmVnSF9PUnRYOEpSRGItWTFBQmxHanZZalJDZ09oUHhUclBHMV84NGJpWjY1Nk1vcGw1M2ItMmNkYXVvNkNqNDNPbWZ4YnJoOGt3UlJrUk5NUQ?oc=5",
+          "pub": "Thu, 08 Oct 2026 16:35:41 GMT",
           "source": "TradingView"
         },
         {
-          "title": "Jim Cramer Draws a Line Between Rocket Lab (RKLB) and SpaceX (SPCX) - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdGVwdjZBYXlHZmhPdWlZVjdXa3hpRXh6LUwzeWxCbjlYNE1DYzhTSTVkOEJQOEUxX1d1YXFxZi1Jb3NYWDBncFF3Qi1lUGRzeWRqQVBzNUJpWkpzOXUxSHZpcEYzblladW44cUdLWmNrbUpFRUJBRWFBNExnOFI5cjBONkFRMEdWOUFoc0lqTUxrWTZxNGlpaC1n?oc=5",
-          "pub": "Thu, 08 Oct 2026 03:45:00 GMT",
-          "source": "Yahoo Finance"
+          "title": "Redwire Falls 5% as Space Stocks Sell Off Together; Rocket Lab Drops 4%, Intuitive Machines Slides 6% - 24/7 Wall St.",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNaUJERmdTeFE1V2J2cHJWWFpnREI3TFVIa21GRmhWN1U1ajdXOHphUEtwdG9YSTdOZTZhMjVxNUs0SzNvYzJHVWVZM3BKLXNDaGJrN3R6V2RNa1hmeWstZFJ6VEw3SURaSVM2VDRsMEJLSWtYMFJzTklkN211eGs5bFA1eWIyT2lSa0YwTDZPMFlVQ05XajRqVnBsb0dKLWpzLXd2WU9laVRIUVNGdWhlMDY3ZV9pbGtZdEpjUUc2UzByQ0ZFR0lNVmhyVDRBNzVHb2k3ZjYwcw?oc=5",
+          "pub": "Wed, 07 Oct 2026 14:46:00 GMT",
+          "source": "24/7 Wall St."
         }
       ]
     },
     {
       "symbol": "IREN",
-      "price": 35.035,
+      "price": 34.985,
       "prev_close": 35.709999084472656,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": -1.8902243118963318,
-      "drawdown_pct": 54.42305353428936,
+      "day_change_pct": -2.0302411175022947,
+      "drawdown_pct": 54.48809841293315,
       "name": "IREN",
       "news": [
         {
@@ -211,10 +211,10 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "IREN Limited: The Story Is Getting Better, But It Is Still Not Worth It - Seeking Alpha",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeWsya19lWEw3WXZMbnBqNlMyaS1qN2FLeTctNlFNTFp4bkVsN243Mk5SY1R3QmtLZ19xeHZRaUV5OGI2MFB3Zml2dDl3V3o2TW5PYmxkQjJIa2NoamdLZV9zOGllWGxfZEc4dGJvYmZUTjEzLTF3S2ZacWlwZjNZeFBJNWthMHRyUDJYUElEV0VSM2RJcWtRdm16Z25yYmtmbGdUTg?oc=5",
-          "pub": "Thu, 08 Oct 2026 12:48:55 GMT",
-          "source": "Seeking Alpha"
+          "title": "Is IREN (NasdaqGS:IREN) Overvalued After Its AI Expansion Questions? - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSmIyOC1FWVFXSHY5cnl1VFVaR19HanRWaUpjV3hBT2VvajlMdlRwbTFOSXB3TGJ6c3dtZWdSRnVSb1FuMC1yYUR5Ym1Oc2xnckdJTlotREZ0VzdSYmNFdi1GQmxzSWFDbnhoT2ZaUF8zOC1lSW9FU1JPZHNIb3NKdUpFcENFOG5GM2xJZHVDdGJ3bmZjQ1Y0eTNNRjZFQQ?oc=5",
+          "pub": "Thu, 08 Oct 2026 21:11:59 GMT",
+          "source": "Yahoo Finance"
         },
         {
           "title": "Here's Why I Sold Cipher Digital and Bought More Iren - The Motley Fool",
