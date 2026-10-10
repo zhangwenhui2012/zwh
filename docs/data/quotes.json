@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-10-10T01:30:33.118431+00:00",
-  "updated_at_display": "2026-10-10 01:30 UTC",
+  "updated_at": "2026-10-10T02:00:41.492877+00:00",
+  "updated_at_display": "2026-10-10 02:00 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
       "price": 229.28,
-      "prev_close": 237.47000122070312,
+      "prev_close": 230.47999572753906,
       "high_52w": 243.37,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -3.448857194004639,
+      "day_change_pct": -0.5206507071258502,
       "drawdown_pct": 5.7895385626823375,
       "name": "NVIDIA",
       "news": [
@@ -43,12 +43,12 @@
     {
       "symbol": "META",
       "price": 718.67,
-      "prev_close": 721.3099975585938,
+      "prev_close": 720.8900146484375,
       "high_52w": 779.8200073242188,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -0.3660004114083193,
+      "day_change_pct": -0.30795469535254894,
       "drawdown_pct": 7.841554044508505,
       "name": "Meta Platforms",
       "news": [
@@ -81,12 +81,12 @@
     {
       "symbol": "AVGO",
       "price": 361.54,
-      "prev_close": 376.510009765625,
+      "prev_close": 360.1400146484375,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -3.9759925041418454,
+      "day_change_pct": 0.3887336298714716,
       "drawdown_pct": 26.96161616161616,
       "name": "Broadcom",
       "news": [
@@ -119,12 +119,12 @@
     {
       "symbol": "AMD",
       "price": 608.1,
-      "prev_close": 645.8599853515625,
+      "prev_close": 620.6799926757812,
       "high_52w": 658.52001953125,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -5.846466139407676,
+      "day_change_pct": -2.026808149808128,
       "drawdown_pct": 7.656565941175201,
       "name": "AMD",
       "news": [
@@ -157,12 +157,12 @@
     {
       "symbol": "RKLB",
       "price": 68.21,
-      "prev_close": 71.91999816894531,
+      "prev_close": 68.4000015258789,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -5.1585070403231414,
+      "day_change_pct": -0.2777800023981375,
       "drawdown_pct": 54.82781456953643,
       "name": "Rocket Lab",
       "news": [
@@ -179,28 +179,28 @@
           "source": "Seeking Alpha"
         },
         {
-          "title": "Terex, ESAB, Allison Transmission, Rocket Lab, and Bloom Energy Stocks Trade Down, What You Need To Know - TradingView",
-          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNWWdKbnFCY3RsNWh6c0pqeWRlbW5wTldlUGxoZEhrOGhaT25vN1dITlNFMzktNS1mcElwV2hFY2F3V2lmelRXRWNNMzdITXctRlJQTGZSOFpKZlUxUWlSeUxuZE95X2FBM0Y0RVc1X2ZCVXR0QlBWMkhDY2FnNjFKeGJyTms4aW5ma2ptMkIxUUhMR0lQaXZQUUp6bzRJV0dyWmVnSF9PUnRYOEpSRGItWTFBQmxHanZZalJDZ09oUHhUclBHMV84NGJpWjY1Nk1vcGw1M2ItMmNkYXVvNkNqNDNPbWZ4YnJoOGt3UlJrUk5NUQ?oc=5",
-          "pub": "Thu, 08 Oct 2026 16:35:41 GMT",
-          "source": "TradingView"
-        },
-        {
           "title": "Redwire Falls 5% as Space Stocks Sell Off Together; Rocket Lab Drops 4%, Intuitive Machines Slides 6% - 24/7 Wall St.",
           "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNaUJERmdTeFE1V2J2cHJWWFpnREI3TFVIa21GRmhWN1U1ajdXOHphUEtwdG9YSTdOZTZhMjVxNUs0SzNvYzJHVWVZM3BKLXNDaGJrN3R6V2RNa1hmeWstZFJ6VEw3SURaSVM2VDRsMEJLSWtYMFJzTklkN211eGs5bFA1eWIyT2lSa0YwTDZPMFlVQ05XajRqVnBsb0dKLWpzLXd2WU9laVRIUVNGdWhlMDY3ZV9pbGtZdEpjUUc2UzByQ0ZFR0lNVmhyVDRBNzVHb2k3ZjYwcw?oc=5",
           "pub": "Wed, 07 Oct 2026 14:46:00 GMT",
           "source": "24/7 Wall St."
+        },
+        {
+          "title": "Down More Than 50%, Is Rocket Lab Stock Now a Coiled Spring? Top Investor Lays Out the Catalyst - TipRanks",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTlFaNmtfWUJTenpZS1NTckp6Z0lEdFJvNzU1YWdScDFoSFpyd0k1NGNVVVg5SkI2amFYMWg3UU1OX184YnRMekRzYVV1ZXlKOVRxZUVKSzlESXJjb2x1cGZkZWFTS0pjQm1uT0lEM21RN1hJOHNyTGlHMW43T1liRkgwT3lEU0VxVWVrYXRXVXduN3BmcW5SMGpEN0Q3VXdwRWNyWTkxMlBBQ0FMR19xVU1mcVNsUTZYUTk4NkhDVjBSMmcxSjZzUktn?oc=5",
+          "pub": "Wed, 07 Oct 2026 16:30:14 GMT",
+          "source": "TipRanks"
         }
       ]
     },
     {
       "symbol": "IREN",
       "price": 35.19,
-      "prev_close": 38.689998626708984,
+      "prev_close": 35.709999084472656,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": -9.046261956424113,
+      "day_change_pct": -1.4561722145178195,
       "drawdown_pct": 54.22141441049357,
       "name": "IREN",
       "news": [
