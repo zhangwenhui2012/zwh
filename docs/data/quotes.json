@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-12T08:30:38.977878+00:00",
-  "updated_at_display": "2026-10-12 08:30 UTC",
+  "updated_at": "2026-10-12T09:00:47.542240+00:00",
+  "updated_at_display": "2026-10-12 09:00 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
@@ -65,15 +65,15 @@
           "source": "MarketBeat"
         },
         {
-          "title": "Meta Stock Warning? Zuckerberg Sells $21 Million as Insiders Exit - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOS1qNXFNMTZ5Qm1CVFJmOWF5X1Q5YUxBazUwcVRSQ3RIRUxQOXJmM282TXg3RF9WMjRhYk1TTlAzNTZONXliRDFRZ19XdFF3bmRhZnBsd0JkZUw5Y29wU21nX2JvMS1iVklpOUI1Njc5Z0FucVloV0c1SFpudkxmQkNXYmcyOE14VURhR21aWDRHUlRqcFFfeXJzUHlqTEhRbFE?oc=5",
-          "pub": "Sun, 11 Oct 2026 14:13:51 GMT",
-          "source": "Yahoo Finance"
-        },
-        {
           "title": "1 Reason the Meta Muse AI Agent Has the Upper Hand - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNODRxOHVuaTFZbW1pTHQzT0U0a2NlMkJVRERtYlZnRzE3NmhZVHE0QmptTXA5LXN2alRRX1h3NGhYLUJXMmRzX0dkb2tYRmpYanpoWnJ5RURPR3pSaU5icE9qTm5BYXNJRk83S3F1TzFnSkR0aGxqZG5sbnVmTm9pd29zSTVad0l5RmVzVVZR?oc=5",
           "pub": "Sat, 10 Oct 2026 17:50:00 GMT",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Meta Stock Warning? Zuckerberg Sells $21 Million as Insiders Exit - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOS1qNXFNMTZ5Qm1CVFJmOWF5X1Q5YUxBazUwcVRSQ3RIRUxQOXJmM282TXg3RF9WMjRhYk1TTlAzNTZONXliRDFRZ19XdFF3bmRhZnBsd0JkZUw5Y29wU21nX2JvMS1iVklpOUI1Njc5Z0FucVloV0c1SFpudkxmQkNXYmcyOE14VURhR21aWDRHUlRqcFFfeXJzUHlqTEhRbFE?oc=5",
+          "pub": "Sun, 11 Oct 2026 14:13:51 GMT",
           "source": "Yahoo Finance"
         }
       ]
@@ -232,14 +232,14 @@
     },
     {
       "symbol": "MILDEF.ST",
-      "price": 225.1,
+      "price": 223.7,
       "prev_close": 220.89999389648438,
       "high_52w": 251.9,
       "currency": "SEK",
       "yahoo_name": "Mildef Group AB",
       "exchange": "Stockholm",
-      "day_change_pct": 1.9013156267825786,
-      "drawdown_pct": 10.639142516871779,
+      "day_change_pct": 1.267544672195745,
+      "drawdown_pct": 11.194918618499411,
       "name": "MilDef Group",
       "news": [
         {
@@ -270,14 +270,14 @@
     },
     {
       "symbol": "IVSO.ST",
-      "price": 242.6,
+      "price": 242.8,
       "prev_close": 237.39999389648438,
       "high_52w": 336.0,
       "currency": "SEK",
       "yahoo_name": "INVISIO AB",
       "exchange": "Stockholm",
-      "day_change_pct": 2.190398583490707,
-      "drawdown_pct": 27.797619047619047,
+      "day_change_pct": 2.2746445839717455,
+      "drawdown_pct": 27.738095238095234,
       "name": "Invisio",
       "news": [
         {
@@ -308,14 +308,14 @@
     },
     {
       "symbol": "NORBT.OL",
-      "price": 161.0,
+      "price": 160.3,
       "prev_close": 158.39999389648438,
       "high_52w": 244.8000030517578,
       "currency": "NOK",
       "yahoo_name": "NORBIT",
       "exchange": "Oslo",
-      "day_change_pct": 1.6414180578913085,
-      "drawdown_pct": 34.23202696367616,
+      "day_change_pct": 1.199498848943962,
+      "drawdown_pct": 34.517974672529746,
       "name": "Norbit ASA",
       "news": [
         {
