@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-10-12T13:30:38.296957+00:00",
-  "updated_at_display": "2026-10-12 13:30 UTC",
+  "updated_at": "2026-10-12T14:00:45.381209+00:00",
+  "updated_at_display": "2026-10-12 14:00 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 228.34,
+      "price": 227.1,
       "prev_close": 229.27999877929688,
       "high_52w": 243.37,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -0.4099785346744122,
-      "drawdown_pct": 6.175781731519908,
+      "day_change_pct": -0.9508019848671276,
+      "drawdown_pct": 6.685293996795008,
       "name": "NVIDIA",
       "news": [
         {
@@ -42,14 +42,14 @@
     },
     {
       "symbol": "META",
-      "price": 728.765,
+      "price": 739.987,
       "prev_close": 718.6699829101562,
       "high_52w": 779.8200073242188,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 1.404680497293812,
-      "drawdown_pct": 6.547024549857706,
+      "day_change_pct": 2.9661760747990833,
+      "drawdown_pct": 5.1079745261854725,
       "name": "Meta Platforms",
       "news": [
         {
@@ -59,35 +59,35 @@
           "source": "The Motley Fool"
         },
         {
-          "title": "Meta Stock Pops as Muse AI Threatens ChatGPT's Grip on Users - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNR1pjNDV3SFVYYlhOcl90LUpQSVhhR0xiZVpfUm1hT01FWnB1VmZydlRWdHlNZ0dRdURUQ2l5SXhtam1xY1pzVm9ldFB0Z0ItT3ZuckI2eVBBY0QxVGJVa2RCZklzRkREaUN4UUs1eW94dERkaUFObHQ4TnFrYXFYb042MlRHWTU0NGFGa3NHU2c?oc=5",
-          "pub": "Mon, 12 Oct 2026 12:42:31 GMT",
+          "title": "Zacks Investment Ideas feature highlights: Fastly, Alphabet and Meta Platforms - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQWs5WUhockd3MmhhZGpjYmczdnNqX0RUd1N1eFRNQVVZVFdHU0JfLUVQcVVuVGRVYUtYdE02TkJ6alBVQmhjYkJCM2NvNDZJQkNxOXVQWFBlOUREdUl2RVd3UjdVYV9wa0ptY25YaXZVNGo0Y01Jbm9jaHhRZGw4NWNreHZ0Q1pLOFFILTVTbG5SNzI3dTM4RVpzTzBScjUteVVyYzIydjFSUQ?oc=5",
+          "pub": "Mon, 12 Oct 2026 12:14:00 GMT",
           "source": "Yahoo Finance"
-        },
-        {
-          "title": "Jim Cramer calls the Meta settlement a 'big break,' says the stock reaction is 'ridiculous' - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdXZ4S3FjWjVBeDV4Z0lBQTVrdnFfUWxWZkRxYU1wQ0prOEl3a0Zzd1g3YTBJRWxHNFVNM0JTMGV5NDc5UDM0Q2xEQXIySzdab1E4VWVWTHB3ZjhOejlZbHdHN1RnWTZMdzJmY3IyNWFZVF9ic2R1WWVNdDNIdjJERHJteUNQcGhDTlVvZm9nRHk5RFFFVkxwRXZlTTNIOVpBRnlrU09xdEo4bHIyNVlxOXRtUWRwZ3NwQmZHZjl0UE5OSGM?oc=5",
-          "pub": "Wed, 26 Aug 2026 07:00:00 GMT",
-          "source": "CNBC"
         },
         {
           "title": "Is Meta Stock Ready For Its Next Big Revenue Transformation? - Forbes",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeHllWktUODBuOFpYcEhTc0twV0FkMHB4RFo0SlJfRUwtWmFyaGUyOHA0LU4zNXBaQ0wybmJtazNraWJ1TnFKQzZIRjZjZ3NkSGVsa0pDYzcyQ2ZLN0Jycm5KemZDVEp2QlVULXR6UEF5ckZBTjlxbkQ4MzBubUJXQ1pFTDRoWGZPLXREMndvWU1KdVpGcVZ5U1RJWV9OLVI3ZHIwbkp3aU4wUEdtandvU2JXSU1VVGFNaUE?oc=5",
           "pub": "Mon, 12 Oct 2026 13:01:52 GMT",
           "source": "Forbes"
+        },
+        {
+          "title": "Jim Cramer calls the Meta settlement a 'big break,' says the stock reaction is 'ridiculous' - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdXZ4S3FjWjVBeDV4Z0lBQTVrdnFfUWxWZkRxYU1wQ0prOEl3a0Zzd1g3YTBJRWxHNFVNM0JTMGV5NDc5UDM0Q2xEQXIySzdab1E4VWVWTHB3ZjhOejlZbHdHN1RnWTZMdzJmY3IyNWFZVF9ic2R1WWVNdDNIdjJERHJteUNQcGhDTlVvZm9nRHk5RFFFVkxwRXZlTTNIOVpBRnlrU09xdEo4bHIyNVlxOXRtUWRwZ3NwQmZHZjl0UE5OSGM?oc=5",
+          "pub": "Wed, 26 Aug 2026 07:00:00 GMT",
+          "source": "CNBC"
         }
       ]
     },
     {
       "symbol": "AVGO",
-      "price": 359.04,
+      "price": 359.235,
       "prev_close": 361.5400085449219,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -0.6914887663425014,
-      "drawdown_pct": 27.46666666666666,
+      "day_change_pct": -0.6375528269191433,
+      "drawdown_pct": 27.427272727272722,
       "name": "Broadcom",
       "news": [
         {
@@ -97,9 +97,9 @@
           "source": "MarketWatch"
         },
         {
-          "title": "Broadcom’s AI Revenue Is Tripling, but the Stock Has Lagged. Is It Time to Load Up? - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQY1plVExnQ2ppcU9fQlpCdFp0SDNsSzRoTXF2S0NsSzFVakUzSE5mdkJfMTM3Y1JMTWtTeUR5UDducUgxVDI4eTFwbmdLYTRDLWtMNXN1WUU4MURLMWJDYUNqYVNjZ2p5SW5ac2JUSEpIUl8wN2VvLTVWVWxELWFFeUR5dVdMQ3RfSW1qeWJCeGhELWVnejZGLXNwQzdITGtp?oc=5",
-          "pub": "Sat, 10 Oct 2026 14:43:43 GMT",
+          "title": "ChatGPT Sells Broadcom (AVGO) and Buys This Online Retailer - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcUZCVU83MzdPNy1wWVRUcVJKXy1BYnZfZkw5aE1yNlZ5Y0VyanJyZTJyMUFNSDJCSEVYREpZNU5LYkN0ZzgyMWxHS0dDMFV4Z0JmeE5ZX29XNVN0QmJPQjVEbW9SNU9BUHVwajAzNHRBajlnay1LZkM0WGpZRjIzWUNQOWx1bHpISzFKRUkwNUo5dmZjLXBYLXFKT0tfUQ?oc=5",
+          "pub": "Mon, 12 Oct 2026 13:44:00 GMT",
           "source": "Yahoo Finance"
         },
         {
@@ -109,23 +109,23 @@
           "source": "Seeking Alpha"
         },
         {
-          "title": "Why Are Oracle (NYSE:ORCL) and Broadcom (AVGO) Stocks Falling While Nvidia Holds Up - Stocks Down Under",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5OcDVMcU9KRjRVa3VNTFF2YTF5TnhNdjBhTUFCUnM1ODUwYTJwSlVpVXNxNWJUdFNVT0JOZGllRjFOdllnMXlKMFJiZnpKd1A3S0dGel9SbVliVWIycS0zbzRhR0ZQWGZmS1loTHpVamNQVkN5NWZOczZWZUdzS3c?oc=5",
-          "pub": "Sun, 11 Oct 2026 22:20:17 GMT",
-          "source": "Stocks Down Under"
+          "title": "Broadcom’s AI Revenue Is Tripling, but the Stock Has Lagged. Is It Time to Load Up? - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQY1plVExnQ2ppcU9fQlpCdFp0SDNsSzRoTXF2S0NsSzFVakUzSE5mdkJfMTM3Y1JMTWtTeUR5UDducUgxVDI4eTFwbmdLYTRDLWtMNXN1WUU4MURLMWJDYUNqYVNjZ2p5SW5ac2JUSEpIUl8wN2VvLTVWVWxELWFFeUR5dVdMQ3RfSW1qeWJCeGhELWVnejZGLXNwQzdITGtp?oc=5",
+          "pub": "Sat, 10 Oct 2026 14:43:43 GMT",
+          "source": "Yahoo Finance"
         }
       ]
     },
     {
       "symbol": "AMD",
-      "price": 597.745,
+      "price": 596.2,
       "prev_close": 608.0999755859375,
       "high_52w": 658.52001953125,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -1.7028409803766087,
-      "drawdown_pct": 9.229031423298425,
+      "day_change_pct": -1.9569110448444238,
+      "drawdown_pct": 9.463648436324048,
       "name": "AMD",
       "news": [
         {
@@ -156,14 +156,14 @@
     },
     {
       "symbol": "RKLB",
-      "price": 67.895,
+      "price": 66.62,
       "prev_close": 68.20999908447266,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -0.4618077828773446,
-      "drawdown_pct": 55.0364238410596,
+      "day_change_pct": -2.331035193980232,
+      "drawdown_pct": 55.880794701986744,
       "name": "Rocket Lab",
       "news": [
         {
@@ -185,23 +185,23 @@
           "source": "24/7 Wall St."
         },
         {
-          "title": "Rocket Lab Lost Nearly 9% in Two Days as Space Stocks Slid. Here’s What SpaceX’s Spectrum Moves Mean for Iridium - TIKR.com",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPclMtSldfY0xhZFphd0lIZWtNbDVpY0gwdVE1RGctSXRJVE00MmNFQ0VjQ19sZDNPVVZfdmY2R3ZmQ2x2LUpDQU1STl9ESklRdE55Y0dGRzJXcVlnak5tb1VJT192SDlpUF9nWGdZbHQyem53Mm5oWTg3TVJ6ZWxDSGFzSy1oZnFZSGY4TWJyZ19yVHNaemRTWl9tNjVmQU01SHpjVEhtZEdicE9FYTJPRklBekdRV2lkX1RkRE8tbW1uVlRzNDFIbGpxYXFuQ0U?oc=5",
-          "pub": "Fri, 09 Oct 2026 17:15:37 GMT",
-          "source": "TIKR.com"
+          "title": "Cathie Wood Keeps Buying Rocket Lab Stock as It Trades at Less Than Half Its Record - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNkVJM0tHcXN1aXplWjBoWkVpd1lXamZVdjVzQUIwVXluRV9oQVJ2TWRXMERIMDF6MWJkcnNrN0hQVHZQM1BrNkg4ZXU1a3NMemZjNnlVcE5weXRZSl81NHh3dnI0dkxYOTFsbklNcy1OR2VSMFh5bmpHVXFsajZIZ1gzMFdSX1BhODVOY3NTS1pIOFJoOFFxZlJEYTIyXzlyZWpyRTJYMFV6Q1Buc1pFc1JtVVhrS011TUNlNkZVSjROWklq?oc=5",
+          "pub": "Mon, 12 Oct 2026 08:04:00 GMT",
+          "source": "The Motley Fool"
         }
       ]
     },
     {
       "symbol": "IREN",
-      "price": 36.425,
+      "price": 35.555,
       "prev_close": 35.189998626708984,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": 3.509523789391838,
-      "drawdown_pct": 52.614805907991716,
+      "day_change_pct": 1.0372304277783677,
+      "drawdown_pct": 53.74658679639383,
       "name": "IREN",
       "news": [
         {
@@ -232,14 +232,14 @@
     },
     {
       "symbol": "MILDEF.ST",
-      "price": 224.3,
+      "price": 223.4,
       "prev_close": 220.89999389648438,
       "high_52w": 251.9,
       "currency": "SEK",
       "yahoo_name": "Mildef Group AB",
       "exchange": "Stockholm",
-      "day_change_pct": 1.5391607955901114,
-      "drawdown_pct": 10.95672886065899,
+      "day_change_pct": 1.1317366104985747,
+      "drawdown_pct": 11.31401349741961,
       "name": "MilDef Group",
       "news": [
         {
@@ -270,14 +270,14 @@
     },
     {
       "symbol": "IVSO.ST",
-      "price": 242.2,
+      "price": 241.4,
       "prev_close": 237.39999389648438,
       "high_52w": 336.0,
       "currency": "SEK",
       "yahoo_name": "INVISIO AB",
       "exchange": "Stockholm",
-      "day_change_pct": 2.0219065825286426,
-      "drawdown_pct": 27.916666666666668,
+      "day_change_pct": 1.6849225806045258,
+      "drawdown_pct": 28.154761904761905,
       "name": "Invisio",
       "news": [
         {
@@ -299,23 +299,23 @@
           "source": "www.marketscreener.com"
         },
         {
-          "title": "SB1 Markets cuts price target for Invisio to SEK 295 (315), reiterates buy - www.marketscreener.com",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMHFhY21HUzBCR09odk16UXBvRnNqYlhqNmxQVEZaWjAxMm1vX2dKVWxwLURqd0JUckNBSmdqTUVNejJ0RmRGSHZiRGhQQThVek9pRXF3cGJzUGw5cmVuQ292cENsZUZoazZzLTJjZWdsdWpRbDNCaU1vc28yTm1VQy1WcFF4M0RKQ0dLY0pCNmRfUkxvM0lZSEd6ZU10VHJCOUprVDR2bTVEY0hHSmhFbVFRY0FSQUtCTXVpMVBoYXVrQQ?oc=5",
-          "pub": "Fri, 02 Oct 2026 06:41:38 GMT",
-          "source": "www.marketscreener.com"
+          "title": "Is Invisio (OM:IVSO) Turning Its T30 Drone Detection Upgrade Into a Durable Edge in Tactical Comms? - Simply Wall Street",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQWFQVUZFaFNCb2sxNE1kelh5aWphaE9EZ0szRGpCamttckRmb3ZCLVdVU0hFTC1zaVZQeG0tcjRhS1pTbTRpRzRaN1hpSVBocUZpTWlhYjFFLUw2eVhxMFIwbk5SZE5xa2hMbUQyT0pKM0FScm1NQU5qZ2Y0ODRRTDROVTNuVVpXd0dXdXFPRUxOQUd1X3F1cWNfQk5iN2diVGRadml0WlJpQWs5OW93a1N6bkp1OXdERWh0ZVBrUmEwQ2VBNGlrNEZ4THFmUDVG0gHWAUFVX3lxTE5HenR2V2dSRjcta3ZoVldvUlJYaWdqNjl6RDJyaDdPakFIQkFhUkJNUjY2SnREU1BvalE4Y0Zoa291MzhWZ2FlaFkxTHlJU2g2OUhkWU4zTXh3bVg2VXFxTFRYb01iUUM0WHE2S0R3MjNTRXJwSUdaUndkRVRuazhwN0Qtc2IwMDF5eXRieVEwaGNaWlJBMTlqVHVIVEYtZHNWcnlBYXdiM3B1Q3hmczROYlhBZGdUOV9OQmVQZ0pzZkdqQno0OWFvR2ZVVjdINnMxb2lmU0E?oc=5",
+          "pub": "Fri, 19 Jun 2026 07:00:00 GMT",
+          "source": "Simply Wall Street"
         }
       ]
     },
     {
       "symbol": "NORBT.OL",
-      "price": 161.9,
+      "price": 161.3,
       "prev_close": 158.39999389648438,
       "high_52w": 244.8000030517578,
       "currency": "NOK",
       "yahoo_name": "NORBIT",
       "exchange": "Oslo",
-      "day_change_pct": 2.209599897966481,
-      "drawdown_pct": 33.86437990943584,
+      "day_change_pct": 1.8308120045830385,
+      "drawdown_pct": 34.109477945596055,
       "name": "Norbit ASA",
       "news": [
         {
