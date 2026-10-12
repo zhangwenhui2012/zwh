@@ -1,55 +1,55 @@
 {
-  "updated_at": "2026-10-12T18:30:35.237360+00:00",
-  "updated_at_display": "2026-10-12 18:30 UTC",
+  "updated_at": "2026-10-12T19:00:43.189597+00:00",
+  "updated_at_display": "2026-10-12 19:00 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 226.575,
+      "price": 226.385,
       "prev_close": 229.27999877929688,
       "high_52w": 243.37,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -1.1797796553116249,
-      "drawdown_pct": 6.901014915560675,
+      "day_change_pct": -1.2626477646153458,
+      "drawdown_pct": 6.9790853433044395,
       "name": "NVIDIA",
       "news": [
         {
           "title": "Nvidia Falls Back From Record High. Its Stock Chart Offers a Warning. - Barron's",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOejVzVFN5MzdQZlAybkJUWldaVW5Db2lsbUZZeHF6MW9mdkxVYl9JSE5iZFpmV1R2NlhiWmw3a0M4RFRjNW9uV0V0OVZqSXRYUDBRamZCdk5EYmZpMFlwbzZPVUFJc2ZvZ0RmVXJodEJoMHRwZkFjVk5uVC1OS3dpdmZRSnQtX2hncndRQQ?oc=5",
-          "pub": "Mon, 12 Oct 2026 16:23:00 GMT",
+          "pub": "Mon, 12 Oct 2026 16:39:19 GMT",
           "source": "Barron's"
-        },
-        {
-          "title": "Adding Nvidia During The Current Uncertainty is How Fortunes Are Made - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUE92SGNIWFBvWnBGLUFfVXNCTDBiWFlNZjNnNjcwT2FLWHBPMTdfeEVaSk1WRi1fU1JqR1VTTmFwdUEtTFlfcURLWDN5c3RTNHZTVmEwZ1RUalNfUXVDSXlOY3JVLTdET0NZYkhQVXFrMnJ2QkIwQjBFaTR5NGRla1dQeGo0SHJtSUozVnlfSTRwdXhVQVhEejgyNzhobDg2YWl0LVdFSTU?oc=5",
-          "pub": "Mon, 12 Oct 2026 11:15:13 GMT",
-          "source": "Yahoo Finance"
-        },
-        {
-          "title": "NVIDIA teeters at $225 support with fading momentum: Live levels - Investing.com",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYVZkYnJrNU5tZlRXdUxuREg0OUdGUjNkU2Z0c0NsazNaWDRicVNoMnE2TmxrZDBMY2VtejdOaUZoa3JXdWE3LWFKSHhLM2JQZk1NVVVCMlVUX1pWWHA1NmJNTXpOeXE2NEI3Y1RSY1FiVXFHWFBvc01oWWg0WTNYR1lTQmNlcGJ3aEx1MUMxbndIZ1BUanNGM2UtMWhsMUJsUEwtTXZTMUQxY0FjM0o4cVBBTlNCY3p3czZyampGNnpEdw?oc=5",
-          "pub": "Mon, 12 Oct 2026 14:17:21 GMT",
-          "source": "Investing.com"
         },
         {
           "title": "Opinion: Why Nvidia’s stock is dodging the AI credit scare that is crushing Broadcom and Oracle - MarketWatch",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTV9hSzlieTl3S1hRYklaZmQtMzZ4UGtTVUtscUUxeS1Sd1NkUEU2ZU1HLWFleUcyWXA5Sl9VU1hOMmhHVzZNY1YzQWk5SHRic1JXOGppcXZSSFNqU21yM2JaZHFkLU9XRWdteWptNmxGTTM4YzgwOTNOZ29kN2hOLW5DVTZTMlFXNEprYXdyVjFLWDhvWkZQU203czNWRmNoV0JfNThPZ3pKVUV5emNvLTNQZS1XRE1ZZERoRlRCTVIwMmsxVTVZ?oc=5",
           "pub": "Sat, 10 Oct 2026 12:30:00 GMT",
           "source": "MarketWatch"
+        },
+        {
+          "title": "Nvidia built a nearly $5 trillion company while making employees pay for their own lunch - Fortune",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTk1XQVl1dFFBNUd4MUV2U3VfSWt0eVQwQVM2ak5DLXBMQm1hYTJBMV9pb1RwM3E1ejJrV1BwV0NjZnFjdHhHZVNrZFI3QW1YMlZVekt5ZnJHWWQtWHJHVjY3bVNENEZiczJKaTVNVHNnU3d0QTZsWDRUT3F5VGN1VVNQLUNUOERoU2ZENmgtc0Z3Sll1ZVBLNktQTXQ4OU1iaThPX0g5d1R3V0tsMlZvUkNxRDNqeXNWejJoSzU5dk14empFaW5hTk9CM0ZYcXpn?oc=5",
+          "pub": "Sat, 10 Oct 2026 13:17:00 GMT",
+          "source": "Fortune"
+        },
+        {
+          "title": "Nvidia, AMD, Google, and Meta team up on global blueprint for data center design - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdFN3R3NFLVVVZE40T3c5ZmVhdzFFQ24taFViMElfVC1STTkwSWlIMHJ5X1BCZWJWQ2Vkck1EWklDS2Z1cEktb3NyY2FNMzBST2ozM08wUU44VnUwc3hKQ0pwT2JtQlpsd1RrMzlPbWh1UVQxM2Z1ZzRNclhCbTFMdDd0LU56MmRIYTM3cGpBZl9zaklycS1VMmlycHNPTGpQN21lNUxEbDVzMXByMDBrazZfbmRCLXlialBEbFVaN1N5SFRnRlRFOThFUXA0Yl9jdjNN?oc=5",
+          "pub": "Mon, 12 Oct 2026 15:00:00 GMT",
+          "source": "Yahoo Finance"
         }
       ]
     },
     {
       "symbol": "META",
-      "price": 749.16,
+      "price": 744.86,
       "prev_close": 718.6699829101562,
       "high_52w": 779.8200073242188,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 4.242561650672892,
-      "drawdown_pct": 3.931677443032254,
+      "day_change_pct": 3.64423417043117,
+      "drawdown_pct": 4.483086737435261,
       "name": "Meta Platforms",
       "news": [
         {
@@ -80,14 +80,14 @@
     },
     {
       "symbol": "AVGO",
-      "price": 355.175,
+      "price": 355.22,
       "prev_close": 361.5400085449219,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -1.7605267451696156,
-      "drawdown_pct": 28.247474747474744,
+      "day_change_pct": -1.7480799899180666,
+      "drawdown_pct": 28.238383838383836,
       "name": "Broadcom",
       "news": [
         {
@@ -97,9 +97,9 @@
           "source": "MarketWatch"
         },
         {
-          "title": "Broadcom Is Building an AI Business Unlike Nvidia’s. Here’s My Price Prediction - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTm1URFdBN0doTWk5YmFlcTZOVkx6QU12M0FNWFpEQUstMHprX0dHZUtQODNzanpDaDBLVkpGOGNCYjFLWGt2eWFxYVNmVU1GelFDVGJjSnFXQzN1OTBxc0NXUmNjd0Y0THJremkwM1BEQTFzRGxmXzFISVhEYm1SSmQ1MEI3T3RUS1d0YjhlOWFFLTc1RGNtb3V4UW5HeHFBc0E?oc=5",
-          "pub": "Mon, 12 Oct 2026 17:30:27 GMT",
+          "title": "Not Nvidia. Not Broadcom. This Little-Known Chip Supplier Could Be the AI Boom's Best-Kept Secret. - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOTNIaVY4SWgtVE8yNUZRU0tVbktmZHFhcWRaektLQ1F2YWVpMXI3ZUMwd182ZUtUdUFDMmsyZmREWEJRZDlFcWU4a1h2S3dTZ1JWOVNMZHE2MkxuV0FuVV93dDN0VFA4ZEczaHk3blllWjBZelZMVS01MjNaVGJ3OW5ka3FOM3lVRVNtb1k0RmNQeWpkeS1GQnJn?oc=5",
+          "pub": "Sun, 11 Oct 2026 23:50:00 GMT",
           "source": "Yahoo Finance"
         },
         {
@@ -118,14 +118,14 @@
     },
     {
       "symbol": "AMD",
-      "price": 591.0,
+      "price": 590.21,
       "prev_close": 608.0999755859375,
       "high_52w": 658.52001953125,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -2.812033591920595,
-      "drawdown_pct": 10.253297930002542,
+      "day_change_pct": -2.9419464404186986,
+      "drawdown_pct": 10.373263910772923,
       "name": "AMD",
       "news": [
         {
@@ -135,9 +135,9 @@
           "source": "TIKR.com"
         },
         {
-          "title": "AMD’s Biggest Problem Is No Longer Demand. Lisa Su Is in Asia to Fix the Real One - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNN3BybjdidjRESzVYQ0JuYWNNTWlpMWJiYTRpWUNJZVM5b2ZuaG9LcGxmcWpZdEMwLTMyanlGbVhlX2lNb0JHZE5SeXRaeHQ0MG1VRU9qTk8xMmZvSGdWclZ1eWtha0QxTmYxbEZUaWV0TlRzb0VQYXE3WTFCNThkNmRFblVxY3lyTktCTi1yakJGS0VudXdObVZ3?oc=5",
-          "pub": "Sun, 11 Oct 2026 12:30:14 GMT",
+          "title": "AMD Stock And Two AI Infrastructure Names Facing A Big Margin Test - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORVY2QW55WXFLMEJNaXFLYnJDMzJFSENRR0wxTUFtUEI2MjVMSW9yY3FaYzMzQVBNT3ZRNGxzbzRKTk9zV0JqWDhrVFpmWlRJWGxDbmM1WlFjUEJrTkY3VXBENUhqZ3QyYzROWnBoSHYzS0hkU3dtTHF3ZXZFVlRURlpFUnJyZnc4dEVMaVBzcENLS25pRFRLNVpHTQ?oc=5",
+          "pub": "Mon, 12 Oct 2026 06:09:00 GMT",
           "source": "Yahoo Finance"
         },
         {
@@ -147,23 +147,23 @@
           "source": "Stocks Down Under"
         },
         {
-          "title": "History Says This Will Happen to AMD Stock in 2027 - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMUFlamF0aTFqN2U0a2RyUmhCQkMxWEoybGtVcDhvcTRrNVRyVkgzM0xLaUNJV3hNcnU3WnpyVE1uanVJOUxRaGo1emJJZnRFQTY2Z0pQOVEzNmNDTUg1ZmxKdlowV1B1aHhPX0NNNWc2Y0txdnQwOURBQllfb0ppUWxGcFNZU0JnRWFLbXdLYjlVRUN0RTZydg?oc=5",
-          "pub": "Sun, 11 Oct 2026 22:15:00 GMT",
-          "source": "The Motley Fool"
+          "title": "AMD Stock Is Set to Benefit From Both Physical and Agentic AI - Barchart.com",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZElJWW5EOW1DVmUtS3BkQ1l3VV9KdzdsZ25tNXg3d0R6QWtDenBvTERKT094VzRJaHZtbWo2SGVXQTZDa3hJOXFfcGIzdkMyU2s0TGhTVU5WTFFyTi1ZU2VPZEpEWEJpeWE4eEhsY3dYbGx0eW80Qy1hTnNDR0xSTXUtRG10YXNWaXRsTzRrTVdGajdpWDFBQlZPc056a3oyTWl3MHJwVFc?oc=5",
+          "pub": "Sat, 10 Oct 2026 15:30:02 GMT",
+          "source": "Barchart.com"
         }
       ]
     },
     {
       "symbol": "RKLB",
-      "price": 65.68,
+      "price": 65.77,
       "prev_close": 68.20999908447266,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -3.709132265695308,
-      "drawdown_pct": 56.503311258278146,
+      "day_change_pct": -3.5771868013821777,
+      "drawdown_pct": 56.443708609271525,
       "name": "Rocket Lab",
       "news": [
         {
@@ -179,35 +179,41 @@
           "source": "24/7 Wall St."
         },
         {
-          "title": "Redwire vs. Rocket Lab: Which Industrials Stock Is a Better Buy in 2026? - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdmVtNGcydHhkclBMZzFjZDRRYVE5ZWkyMi1LZFVIUkhmeXlPeEJTM2FQT2V1b0tYdFp3aVM1S3JXYUNJMjVpMW4xOXNHd19KZGVCb1V3eWRuNk45cTVqNThjdlJkZC02TGtOdm9yTTZnWm5uVVoxV0RLeGZwWTVGSE5yVFUtcG1oaXNIOXlVWUFRczlTRDlLcWR0aE5RODA?oc=5",
-          "pub": "Sat, 10 Oct 2026 19:50:02 GMT",
-          "source": "Yahoo Finance"
-        },
-        {
           "title": "RKLB Stock Rises Overnight: NASA Chief Warns Moon Race With China Is ‘Months, Not Years’ As Neutron Opportunity Grows - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQR25OcFpwdmt4LXFhOEFOdHFKU3p6eVVFQ3Jfb0UzWl9Mekx0QXV1dVJydmM5OGlfRzl3Z1k2UUoyVVJQcVR5VXpQaXRoald1MmRScUM4YTFWREdib2F3YWFpR1BEclY1YV9RZVQyc2VITVAyakUzSzQwOXEtT2pLcFQydzREVnNKT2kyNThoaUhVSE9nRzhsZ25UNVg?oc=5",
           "pub": "Mon, 12 Oct 2026 07:27:01 GMT",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Redwire vs. Rocket Lab: Which Industrials Stock Is a Better Buy in 2026? - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdmVtNGcydHhkclBMZzFjZDRRYVE5ZWkyMi1LZFVIUkhmeXlPeEJTM2FQT2V1b0tYdFp3aVM1S3JXYUNJMjVpMW4xOXNHd19KZGVCb1V3eWRuNk45cTVqNThjdlJkZC02TGtOdm9yTTZnWm5uVVoxV0RLeGZwWTVGSE5yVFUtcG1oaXNIOXlVWUFRczlTRDlLcWR0aE5RODA?oc=5",
+          "pub": "Sat, 10 Oct 2026 19:50:02 GMT",
           "source": "Yahoo Finance"
         }
       ]
     },
     {
       "symbol": "IREN",
-      "price": 34.905,
+      "price": 34.889,
       "prev_close": 35.189998626708984,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": -0.8098853021627318,
-      "drawdown_pct": 54.59217021876322,
+      "day_change_pct": -0.8553527662843541,
+      "drawdown_pct": 54.61298457992923,
       "name": "IREN",
       "news": [
         {
-          "title": "Iren Shares Rise 5% Premarket Following Reported Multi-Year AI Cloud Deal With Anthropic - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbjFJVzIwcno3WG1PUDA1MUh3VXZpUy1CaFY0THF6eTNSMW1hdkRUbXJiMDJITUdSTkUwTDQyTUNoMlhFVlVlWDdBd3o1ZzZ0VHI3Vmc5a01waThFVTQwLU9UTHlRYXc3eUxDbTJyNTBoaW8zSTNfb1V4NTZiNWd0bmtRUXhvcHFyZl9pM1VYNHJ3UW5tNzN3?oc=5",
-          "pub": "Mon, 12 Oct 2026 11:04:03 GMT",
+          "title": "IREN Stock Rallies. A Major Cloud Contract Shows the AI Strategy Is Working. - Barron's",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVWpGeEVfWXdWUG14djkzU2RFSkU2Sjh2ZnMxb29ZeUotUEJuZW04LXQ1V01YbWZtMXNxOFhjcmo4X0J6SjFKdlhTU0pQbXBrUjJXV2xrQlZhQ3EtcFQxTDkyM3NhZXJCV3h0aW9rMzhpM20zTHVDZ1NFa2ZfeEJNLVp3?oc=5",
+          "pub": "Mon, 12 Oct 2026 13:52:00 GMT",
+          "source": "Barron's"
+        },
+        {
+          "title": "IREN Leans On NVIDIA AI Validation As SemiAnalysis Questions Its Infrastructure Claims - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeW91bE1PS3dEQTV2clhMbUFOek5Iem5MbFZpNHRRbE1EaU9oTFlKeDRQNUt6SlozSGNUdDQ3UHFZVjJoS2dxdy00Sll2VS1UaEpya2I5QzZ5T1dlYlBPTm0xREhVQjE0RWU3ZFcwaTZmV0dGNWVzSmlxckZKX1dZYlRQUXNVNFp4LXBOS2lheVpxTzlJS0ExV0NBdw?oc=5",
+          "pub": "Sun, 11 Oct 2026 09:52:23 GMT",
           "source": "Yahoo Finance"
         },
         {
@@ -215,12 +221,6 @@
           "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdS16WS1VSjRLbVAwQjRSdUNwWERCN05sM0VydnhkZk9IS1l4RDZ0MjZTWUtfLVZadlBKMkVWOGx1dHFLM1dNbkJHRTFEdlJRN0hxUm1DaEUtQzljTzl6bVNzTHpzVHkxdTlzUkdaMi1MZ3JvNFJueXlQUkdvSllFXzdmNkk4N0k5cjRScXB3?oc=5",
           "pub": "Mon, 12 Oct 2026 17:23:42 GMT",
           "source": "Seeking Alpha"
-        },
-        {
-          "title": "IREN Leans On NVIDIA AI Validation As SemiAnalysis Questions Its Infrastructure Claims - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeW91bE1PS3dEQTV2clhMbUFOek5Iem5MbFZpNHRRbE1EaU9oTFlKeDRQNUt6SlozSGNUdDQ3UHFZVjJoS2dxdy00Sll2VS1UaEpya2I5QzZ5T1dlYlBPTm0xREhVQjE0RWU3ZFcwaTZmV0dGNWVzSmlxckZKX1dZYlRQUXNVNFp4LXBOS2lheVpxTzlJS0ExV0NBdw?oc=5",
-          "pub": "Sun, 11 Oct 2026 09:52:23 GMT",
-          "source": "Yahoo Finance"
         },
         {
           "title": "Why IREN Stock Jumps in Overnight Trading — and What Wall Street Sees Next - TipRanks",
