@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-10-12T19:00:43.189597+00:00",
-  "updated_at_display": "2026-10-12 19:00 UTC",
+  "updated_at": "2026-10-12T19:30:34.704190+00:00",
+  "updated_at_display": "2026-10-12 19:30 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 226.385,
+      "price": 226.469,
       "prev_close": 229.27999877929688,
       "high_52w": 243.37,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -1.2626477646153458,
-      "drawdown_pct": 6.9790853433044395,
+      "day_change_pct": -1.2260113373442252,
+      "drawdown_pct": 6.944569996301932,
       "name": "NVIDIA",
       "news": [
         {
@@ -42,52 +42,27 @@
     },
     {
       "symbol": "META",
-      "price": 744.86,
+      "price": 742.31,
       "prev_close": 718.6699829101562,
       "high_52w": 779.8200073242188,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 3.64423417043117,
-      "drawdown_pct": 4.483086737435261,
+      "day_change_pct": 3.2894120600552514,
+      "drawdown_pct": 4.81008527248822,
       "name": "Meta Platforms",
-      "news": [
-        {
-          "title": "Stocks making the biggest moves midday: eBay, Sandisk, Meta Platforms, IonQ, Lumentum & more - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQaXMtVHRaX2dOdldLbDFzcE1QRGs5b0M4OXo2Q3JfaldiV1dicm5lR3pRNFJYbzkxOE16WlFqYUV5Z2ZkUDkxZkthUlJaa3EyeUFuUlFIaWNfd0xEY1c2bF9TeWdnaVpNdENxdGpLVjZhVHpBVFhjbnd0blpGVm1oSFhzSFJhR1U?oc=5",
-          "pub": "Mon, 12 Oct 2026 16:35:12 GMT",
-          "source": "CNBC"
-        },
-        {
-          "title": "Prediction: Meta Platforms Stock Will Drop After Earnings, and That Could Be an Incredible Buying Opportunity - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPd3lBVUNFcTVDZWgzcUxBS0dleDRDSjB0ZVVuQzNTRG1uQ1EzWGhCZ3VqclFBZmVhOGFMTUl2bHF1LURsRVg3Z1hLSjhLZ2thTnlRd3M5MWpZQVFYc0VVQW9BWkpwbFJ5SF93ZjVVUzlTeVZzNTJmMV93Mi1ZSmxTUXpWRHlwWnJsOGFIcjRmTnlLTHFTWUlSc3ZPQWZyOGRfY3hJ?oc=5",
-          "pub": "Sun, 11 Oct 2026 13:53:00 GMT",
-          "source": "Yahoo Finance"
-        },
-        {
-          "title": "Why is Meta Platforms stock rallying today? - Investing.com",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZjVDanlnR3RUM2QtbGxYY19rMndoQVhUcHdRNUQ5bG9ZdFVFNGhmZUtpeVpmMlNYeU56SDFEcVVUNXU4LUdQUGV0T2VZOE80V25UTTFOY1JMSkZOa2pVU1hXcUU3clRjcFN5WEc3NExoTzh2UF95S0dxSzZWeko3em05WHB3UU9uMVZqQkJ5ZDZObUtMQkRPS0k3UWRrTk15aENfa0dSOA?oc=5",
-          "pub": "Mon, 12 Oct 2026 14:02:21 GMT",
-          "source": "Investing.com"
-        },
-        {
-          "title": "Meta Stock Pops as Muse AI Threatens ChatGPT's Grip on Users - TradingView",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWkwtaTlMRFhSRUY4UV9pTk5GMjNyeUJIaUhnbzBXVGlFNEI1WXNtZnBlS203dVQ0bnBUZ25xUFNkbUZuVUNtLUxNYUxOYVpUclpvNkRXcmt3Z0phbk1vVTBJdWxfTU5hM3VYbmhKSV9CZ3lGMEc3NDduWGhRV0JNTUV1emhOYmY5WTMtbjlibnlBTFFNMFdheVJFaDY5M1JzTGhzekpkM0JPSldVLURqcFpxS003dlNiYXJkaw?oc=5",
-          "pub": "Mon, 12 Oct 2026 12:42:31 GMT",
-          "source": "TradingView"
-        }
-      ]
+      "news": []
     },
     {
       "symbol": "AVGO",
-      "price": 355.22,
+      "price": 354.935,
       "prev_close": 361.5400085449219,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -1.7480799899180666,
-      "drawdown_pct": 28.238383838383836,
+      "day_change_pct": -1.8269094398445231,
+      "drawdown_pct": 28.295959595959598,
       "name": "Broadcom",
       "news": [
         {
@@ -97,35 +72,35 @@
           "source": "MarketWatch"
         },
         {
-          "title": "Not Nvidia. Not Broadcom. This Little-Known Chip Supplier Could Be the AI Boom's Best-Kept Secret. - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOTNIaVY4SWgtVE8yNUZRU0tVbktmZHFhcWRaektLQ1F2YWVpMXI3ZUMwd182ZUtUdUFDMmsyZmREWEJRZDlFcWU4a1h2S3dTZ1JWOVNMZHE2MkxuV0FuVV93dDN0VFA4ZEczaHk3blllWjBZelZMVS01MjNaVGJ3OW5ka3FOM3lVRVNtb1k0RmNQeWpkeS1GQnJn?oc=5",
-          "pub": "Sun, 11 Oct 2026 23:50:00 GMT",
+          "title": "Broadcom Is Building an AI Business Unlike Nvidia’s. Here’s My Price Prediction - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTm1URFdBN0doTWk5YmFlcTZOVkx6QU12M0FNWFpEQUstMHprX0dHZUtQODNzanpDaDBLVkpGOGNCYjFLWGt2eWFxYVNmVU1GelFDVGJjSnFXQzN1OTBxc0NXUmNjd0Y0THJremkwM1BEQTFzRGxmXzFISVhEYm1SSmQ1MEI3T3RUS1d0YjhlOWFFLTc1RGNtb3V4UW5HeHFBc0E?oc=5",
+          "pub": "Mon, 12 Oct 2026 17:30:27 GMT",
           "source": "Yahoo Finance"
-        },
-        {
-          "title": "Broadcom vs. Qualcomm: One Owns the Data Center. The Other Is Betting on AI Everywhere Else - Barchart.com",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdTFQZ2wwcTBaSU83ak1qejU2ekJFX1RWMUNWd1hNTFRUbWF3SkZWdUN2bWl2Ymxsc3AtMTZtelBKSl9HRkpzVDJkZnAtblozRDlLVU50VUVORmFOaDJGU2liUWdybHp2Y2xJU3VvNENDNDBHN1NCck5TaGx0d1JTWlhjZ2NLbmdNdEtrWGxPVjJsSG1GZmRzUzc3SmJoZWxpSkw3NkxEX0F5TVlwa1E1ZWprZFU0bjBPQTlIZ19RNzlESE5vZ0VPMHVuMUc?oc=5",
-          "pub": "Mon, 12 Oct 2026 13:13:57 GMT",
-          "source": "Barchart.com"
         },
         {
           "title": "Chip Stocks Fall As Broadcom, Intel CEOs Warn About AI Funding - Investor's Business Daily",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdUpNa0VGMlFkV2I0bXFSQU02UzM3VmowV1JlV2NrQmU1NnZzNVJtYW5od015NVAzci0yM00xbXkxek1BSjJCWGM1N2ttY3M1TTdVUnZKeWtyUUhBdnBCREY4ZFVZdHdnRUNBM1pLTE84YWtVUXBGUk9keko0b1lrNTVLR2N4LWxha04wa3VRcG43ZDJURWJSUVdSMzhjbm05ejJYYUt1UQ?oc=5",
           "pub": "Mon, 12 Oct 2026 17:52:00 GMT",
           "source": "Investor's Business Daily"
+        },
+        {
+          "title": "Broadcom vs. Qualcomm: One Owns the Data Center. The Other Is Betting on AI Everywhere Else - Barchart.com",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdTFQZ2wwcTBaSU83ak1qejU2ekJFX1RWMUNWd1hNTFRUbWF3SkZWdUN2bWl2Ymxsc3AtMTZtelBKSl9HRkpzVDJkZnAtblozRDlLVU50VUVORmFOaDJGU2liUWdybHp2Y2xJU3VvNENDNDBHN1NCck5TaGx0d1JTWlhjZ2NLbmdNdEtrWGxPVjJsSG1GZmRzUzc3SmJoZWxpSkw3NkxEX0F5TVlwa1E1ZWprZFU0bjBPQTlIZ19RNzlESE5vZ0VPMHVuMUc?oc=5",
+          "pub": "Mon, 12 Oct 2026 13:13:57 GMT",
+          "source": "Barchart.com"
         }
       ]
     },
     {
       "symbol": "AMD",
-      "price": 590.21,
+      "price": 591.63,
       "prev_close": 608.0999755859375,
       "high_52w": 658.52001953125,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -2.9419464404186986,
-      "drawdown_pct": 10.373263910772923,
+      "day_change_pct": -2.7084322064094453,
+      "drawdown_pct": 10.157628856729959,
       "name": "AMD",
       "news": [
         {
@@ -135,9 +110,9 @@
           "source": "TIKR.com"
         },
         {
-          "title": "AMD Stock And Two AI Infrastructure Names Facing A Big Margin Test - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORVY2QW55WXFLMEJNaXFLYnJDMzJFSENRR0wxTUFtUEI2MjVMSW9yY3FaYzMzQVBNT3ZRNGxzbzRKTk9zV0JqWDhrVFpmWlRJWGxDbmM1WlFjUEJrTkY3VXBENUhqZ3QyYzROWnBoSHYzS0hkU3dtTHF3ZXZFVlRURlpFUnJyZnc4dEVMaVBzcENLS25pRFRLNVpHTQ?oc=5",
-          "pub": "Mon, 12 Oct 2026 06:09:00 GMT",
+          "title": "Microsoft reveals Maia 300 AI chip as it works to reduce dependence on Nvidia, AMD - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdzlOWjZPREptdmhCandwSVY1VlRpbGZfbTFKalh1a29UT192S0FiVnpQSHZKb1ZiRjRWQnVMLW5LdTVxUjBWbWM5VXl4czJnLWM4aFpnWU1NYk80VW5KYjJxQUt5THB5QkpVZkFXU2hNQ28wdlIwWmhyRENSTWY0d2phRklOb05XdFVaQS1YRFNyZHE3blRsYk12X2hZS0MySlBSb0ZUUGJPYS1rNUR1N0NCczZneFcyVUk1cTVSaXZURWVwTXV6SGJ6RG5TNzFOd1p2TDhodGM?oc=5",
+          "pub": "Mon, 12 Oct 2026 13:00:00 GMT",
           "source": "Yahoo Finance"
         },
         {
@@ -156,14 +131,14 @@
     },
     {
       "symbol": "RKLB",
-      "price": 65.77,
+      "price": 65.83,
       "prev_close": 68.20999908447266,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -3.5771868013821777,
-      "drawdown_pct": 56.443708609271525,
+      "day_change_pct": -3.489223158506744,
+      "drawdown_pct": 56.40397350993378,
       "name": "Rocket Lab",
       "news": [
         {
@@ -194,20 +169,20 @@
     },
     {
       "symbol": "IREN",
-      "price": 34.889,
+      "price": 35.09,
       "prev_close": 35.189998626708984,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": -0.8553527662843541,
-      "drawdown_pct": 54.61298457992923,
+      "day_change_pct": -0.2841677482564113,
+      "drawdown_pct": 54.35150416778116,
       "name": "IREN",
       "news": [
         {
-          "title": "IREN Stock Rallies. A Major Cloud Contract Shows the AI Strategy Is Working. - Barron's",
+          "title": "Anthropic Deal Report Gives IREN Stock Early Boost Before Gains Fade - Barron's",
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVWpGeEVfWXdWUG14djkzU2RFSkU2Sjh2ZnMxb29ZeUotUEJuZW04LXQ1V01YbWZtMXNxOFhjcmo4X0J6SjFKdlhTU0pQbXBrUjJXV2xrQlZhQ3EtcFQxTDkyM3NhZXJCV3h0aW9rMzhpM20zTHVDZ1NFa2ZfeEJNLVp3?oc=5",
-          "pub": "Mon, 12 Oct 2026 13:52:00 GMT",
+          "pub": "Mon, 12 Oct 2026 18:58:00 GMT",
           "source": "Barron's"
         },
         {
@@ -281,6 +256,12 @@
       "name": "Invisio",
       "news": [
         {
+          "title": "Invisio (OM:IVSO) Stock Faces Margin Squeeze As Q2 Net Income Jumps To 57.9m - Simply Wall Street",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVmNVU19TUHVLeGx2M1g3dmhDMkdnZi0wb2RORjZDRFFETC1oQ1NPcWVXMjRBQXpNLTRPSUNBME5fN05JMlpxOTVmR3c0Y1FLMFRTczlkM1NfU2NoY3NUZzdOS1RSRnp1anN6TTdfX0dNUVZvMTNFMmZXTWlqV09QR2cxWmhvemxhZ05idnFrMlVydjllRnJCM3hhUnY0TzB3UndzSWpWSkNWZ1o4LVJXY3AxemZJc2NDWmp5NFBvZ0xQc0lJVDNJN2pCUU9Bb3l40gHWAUFVX3lxTE9oYjlzZ3dzdEY0SV9pZF9HR21iWDBBV01jbnd0Smg4bkYzQ2s4R1hNdi1nVml0dmw0cG9SaF9RU1NET2NqOFNRMVkzcHlFQXViTWxYYlk1WVlDWkJTYW1lVndIbVV6N3RsWUlIeG43UEVfaHE3SHZpODR3OWZ1VWJNeHViY3VWN3NySEFmMkxaX1ZJTTJzRGJNbDd4UHZzaXlrYVF6SWpMaGJJa3hPWS1Rd3VxcWxlVkpfZE54OGYzMEd4Q0wtYmlwaFU1WEtJdlBzb3hPY1E?oc=5",
+          "pub": "Sun, 19 Jul 2026 07:00:00 GMT",
+          "source": "Simply Wall Street"
+        },
+        {
           "title": "NXLKF (Invisio AB) Shiller PE Ratio (CAPE Ratio or Cyclically Adjusted Price-to-Earnings Ratio) : (As of Oct. 11, 2026) - GuruFocus",
           "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1EM1FFaHM3ckdScGNiTmJYS1BQUkI1RnI4RXdPZUxSS3kzVl9UaDFEM05DbWNJT3IzbldOX3hsRFZKLTdoWjJUeWk2Y1NENlJzSjRfNGdSalRWcnFVT3VYNVJvMA?oc=5",
           "pub": "Tue, 06 Oct 2026 10:34:21 GMT",
@@ -297,12 +278,6 @@
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUS1fOFJlMEx1Z3l1MldPaTkwSndYcFVuWmFBb1VVMm1ubGZGdnB0UWhRdm0xTkJveGt4LWNWcDFDQS1vcVZQMFJmMVhaNjZNREthbVJRcUZSQ19QSEFSUWxpUXZuZ0ozOHR1UmpzVFJ1VE85NDNRNlVrcnk1TlNIdVhjeUpOUzNaOF9CbGgtOUw1LWxiNG9qczZ0VVJuckhxa052RUtRUVdVamRYbHJDd296Z1dGdm43b0hKRF9oRzlIRlA5?oc=5",
           "pub": "Fri, 02 Oct 2026 06:50:40 GMT",
           "source": "www.marketscreener.com"
-        },
-        {
-          "title": "Is Invisio (OM:IVSO) Turning Its T30 Drone Detection Upgrade Into a Durable Edge in Tactical Comms? - Simply Wall Street",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQWFQVUZFaFNCb2sxNE1kelh5aWphaE9EZ0szRGpCamttckRmb3ZCLVdVU0hFTC1zaVZQeG0tcjRhS1pTbTRpRzRaN1hpSVBocUZpTWlhYjFFLUw2eVhxMFIwbk5SZE5xa2hMbUQyT0pKM0FScm1NQU5qZ2Y0ODRRTDROVTNuVVpXd0dXdXFPRUxOQUd1X3F1cWNfQk5iN2diVGRadml0WlJpQWs5OW93a1N6bkp1OXdERWh0ZVBrUmEwQ2VBNGlrNEZ4THFmUDVG0gHWAUFVX3lxTE5HenR2V2dSRjcta3ZoVldvUlJYaWdqNjl6RDJyaDdPakFIQkFhUkJNUjY2SnREU1BvalE4Y0Zoa291MzhWZ2FlaFkxTHlJU2g2OUhkWU4zTXh3bVg2VXFxTFRYb01iUUM0WHE2S0R3MjNTRXJwSUdaUndkRVRuazhwN0Qtc2IwMDF5eXRieVEwaGNaWlJBMTlqVHVIVEYtZHNWcnlBYXdiM3B1Q3hmczROYlhBZGdUOV9OQmVQZ0pzZkdqQno0OWFvR2ZVVjdINnMxb2lmU0E?oc=5",
-          "pub": "Fri, 19 Jun 2026 07:00:00 GMT",
-          "source": "Simply Wall Street"
         }
       ]
     },
