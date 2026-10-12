@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-10-12T16:18:54.032300+00:00",
-  "updated_at_display": "2026-10-12 16:18 UTC",
+  "updated_at": "2026-10-12T16:30:35.393537+00:00",
+  "updated_at_display": "2026-10-12 16:30 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 226.64,
+      "price": 226.505,
       "prev_close": 229.27999877929688,
       "high_52w": 243.37,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -1.151430038970879,
-      "drawdown_pct": 6.874306611332546,
+      "day_change_pct": -1.210310011370888,
+      "drawdown_pct": 6.929777704729428,
       "name": "NVIDIA",
       "news": [
         {
@@ -42,14 +42,14 @@
     },
     {
       "symbol": "META",
-      "price": 746.406,
+      "price": 745.125,
       "prev_close": 718.6699829101562,
       "high_52w": 779.8200073242188,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 3.8593537714669077,
-      "drawdown_pct": 4.284835860889443,
+      "day_change_pct": 3.6811078407251347,
+      "drawdown_pct": 4.449104536733682,
       "name": "Meta Platforms",
       "news": [
         {
@@ -65,29 +65,29 @@
           "source": "TradingView"
         },
         {
-          "title": "Is Meta Stock Ready For Its Next Big Revenue Transformation? - Forbes",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeHllWktUODBuOFpYcEhTc0twV0FkMHB4RFo0SlJfRUwtWmFyaGUyOHA0LU4zNXBaQ0wybmJtazNraWJ1TnFKQzZIRjZjZ3NkSGVsa0pDYzcyQ2ZLN0Jycm5KemZDVEp2QlVULXR6UEF5ckZBTjlxbkQ4MzBubUJXQ1pFTDRoWGZPLXREMndvWU1KdVpGcVZ5U1RJWV9OLVI3ZHIwbkp3aU4wUEdtandvU2JXSU1VVGFNaUE?oc=5",
-          "pub": "Mon, 12 Oct 2026 13:01:52 GMT",
-          "source": "Forbes"
-        },
-        {
           "title": "Meta Platforms, Inc. $META Stock: Capital Advisors Wealth Management LLC Lowers Stake - MarketBeat",
           "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVE51OGEzX3ZyVkRYUFNjMWQ3a0h4Z2R3dHNYMWZfTC1qUk5leGdqTFVIYW1pUGlQV3Jra3VGNS1rV2htemxzZkVPSzBYZ2N4aTVXTElJWnBqWlYzd3Q0d2VqN18yNkpndW51M3k3dVczVkdtUEdhRHQ2aUxMR1l4SGtCTkdIY2JENFZ6b2dEVHgzOUZOOVdTRTh0LUVNVTJ1ZXBuTEMyUGVMSE1UTVFtdUhMWW81RWpNZlg0Y2lpZHdYRmhkSUl5eFRxQTBtN2pPS0oxajJPYUE3Zw?oc=5",
           "pub": "Sun, 11 Oct 2026 07:47:33 GMT",
           "source": "MarketBeat"
+        },
+        {
+          "title": "Is Meta Stock Ready For Its Next Big Revenue Transformation? - Forbes",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeHllWktUODBuOFpYcEhTc0twV0FkMHB4RFo0SlJfRUwtWmFyaGUyOHA0LU4zNXBaQ0wybmJtazNraWJ1TnFKQzZIRjZjZ3NkSGVsa0pDYzcyQ2ZLN0Jycm5KemZDVEp2QlVULXR6UEF5ckZBTjlxbkQ4MzBubUJXQ1pFTDRoWGZPLXREMndvWU1KdVpGcVZ5U1RJWV9OLVI3ZHIwbkp3aU4wUEdtandvU2JXSU1VVGFNaUE?oc=5",
+          "pub": "Mon, 12 Oct 2026 13:01:52 GMT",
+          "source": "Forbes"
         }
       ]
     },
     {
       "symbol": "AVGO",
-      "price": 357.166,
+      "price": 357.06,
       "prev_close": 361.5400085449219,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -1.2098269739290557,
-      "drawdown_pct": 27.84525252525253,
+      "day_change_pct": -1.2391459974104706,
+      "drawdown_pct": 27.866666666666667,
       "name": "Broadcom",
       "news": [
         {
@@ -118,14 +118,14 @@
     },
     {
       "symbol": "AMD",
-      "price": 593.09,
+      "price": 592.663,
       "prev_close": 608.0999755859375,
       "high_52w": 658.52001953125,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -2.4683401066534394,
-      "drawdown_pct": 9.93591957581253,
+      "day_change_pct": -2.5385588234998893,
+      "drawdown_pct": 10.000761947697287,
       "name": "AMD",
       "news": [
         {
@@ -156,14 +156,14 @@
     },
     {
       "symbol": "RKLB",
-      "price": 66.02,
+      "price": 66.01,
       "prev_close": 68.20999908447266,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -3.21067162273455,
-      "drawdown_pct": 56.278145695364245,
+      "day_change_pct": -3.225332229880442,
+      "drawdown_pct": 56.28476821192052,
       "name": "Rocket Lab",
       "news": [
         {
@@ -194,14 +194,14 @@
     },
     {
       "symbol": "IREN",
-      "price": 35.445,
+      "price": 35.415,
       "prev_close": 35.189998626708984,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": 0.7246416119421826,
-      "drawdown_pct": 53.889685529410194,
+      "day_change_pct": 0.6393901167141285,
+      "drawdown_pct": 53.92871245659647,
       "name": "IREN",
       "news": [
         {
