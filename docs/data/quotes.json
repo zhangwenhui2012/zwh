@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-13T20:00:44.100618+00:00",
-  "updated_at_display": "2026-10-13 20:00 UTC",
+  "updated_at": "2026-10-13T20:21:02.816657+00:00",
+  "updated_at_display": "2026-10-13 20:21 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
@@ -42,27 +42,27 @@
     },
     {
       "symbol": "META",
-      "price": 762.47,
+      "price": 762.5,
       "prev_close": 742.9600219726562,
       "high_52w": 779.8200073242188,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 2.625979521151384,
-      "drawdown_pct": 2.224873324775478,
+      "day_change_pct": 2.6300174234762386,
+      "drawdown_pct": 2.221026283186623,
       "name": "Meta Platforms",
       "news": [
-        {
-          "title": "Cathie Wood sells Meta shares after Zuckerberg's big AI launch - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPX25oR0w3NVJTVnd1Sm5Wc2VGZGFhazdfdGpPQWFmS0RrNUwxVXJCUy1kbkllcUgyd3FYSExhWEVQTEFUd1VPZ2lUNUxqVFRlaDN6alpsS3BmTENfWHEtQTU5RTFxUVp2OEZpSW5QbVk4OWdhRHpsTUo5RzlaUUpJNWFIVE9aMDJmT2VXczJrSEM5LTh4NXpNX1N3?oc=5",
-          "pub": "Tue, 13 Oct 2026 18:48:45 GMT",
-          "source": "Yahoo Finance"
-        },
         {
           "title": "Stocks making the biggest moves midday: Apple, Meta Platforms, Bumble, Fermi, Goldman Sachs & more - CNBC",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQWt3a0dkRnRqbHdfeGdDcXdLUXBmSDlKeGJKM2dsWHB4b0hkRlZRYV9NRC1veTY4Rmc4WFpxcThCMzh5eVNOMkl1dHNxc19xS1BVa2JCS0s3Vm1TQ3ZfYjVPLXIxU3lzczFvMl9HeXJydm1Dcmtld0VvUzdURzRMYWtjRFJZTER5S3VhZVE2bUNSMFV0NnNrRWhZeWE3cXc?oc=5",
           "pub": "Tue, 13 Oct 2026 16:25:50 GMT",
           "source": "CNBC"
+        },
+        {
+          "title": "Why Meta Platforms Stock Rallied Monday Morning - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQlAyRGtTYUlQLVBMLTJGM0g2Q0RpZ2VPWEhnRzMzUnJVeE5zZDlETkhJTHdBS0dVbWNMTFB1Yk13ODZFN01OX2YxZWY5Tm9DWWJGbk9aSlRzSEI0d0RDUzJzNDA1S0tjalhSQkhsYnQzdFZNOGdhYlF2N2NYeW5nSDVXNjhveXVtZnZ6UWVjU0J2dFlicjJSNlRYa1RfUQ?oc=5",
+          "pub": "Mon, 12 Oct 2026 19:28:25 GMT",
+          "source": "Yahoo Finance"
         },
         {
           "title": "Prediction: Meta Platforms Stock Will Drop After Earnings, and That Could Be an Incredible Buying Opportunity - The Motley Fool",
@@ -91,28 +91,28 @@
       "name": "Broadcom",
       "news": [
         {
+          "title": "Chip stocks slide after Broadcom boss likens AI investing to ‘casino’ - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZTNMNERvMGJITmdiUUw5VGRoSkJjT2w1dHlxd2NPemdFMTlhUFRORXpiWUhJZU5DM0RvRG43cHNGUXpPOC1SNWlfUDI5NVBTdDNKS2M2ZGZQMjR4aVJOMmhNZ0lpejBIeFBOcG96NF9oN3pRYXJnZVNVaUpBTnlOZ2F2MFlWRFFudXhleVdyelVYY1ktOUY0?oc=5",
+          "pub": "Tue, 13 Oct 2026 08:01:00 GMT",
+          "source": "The Guardian"
+        },
+        {
           "title": "Chip stocks slide in wake of ‘casino’ comment by Broadcom boss - Financial Times",
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUEdnZjlUNktHX2ViUVRqZHd4ZmhjaXdkd0NMR3BVLUp6akpVOUFabEljcHk4N0wzRDloZXhuQklwaVUwWjNYSFJnYkhzQ0RQNzZFZXh6VFh2U0hEZ1FybXhxNUQ0WTVLbXZydHM4REVRLXVVbHpsd2Rnc0M1MnVMMlVJTVc?oc=5",
           "pub": "Tue, 13 Oct 2026 02:59:46 GMT",
           "source": "Financial Times"
         },
         {
-          "title": "China’s CXMT and Broadcom’s CEO Rattle Chip Stocks: Which Fear Matters More for Micron? - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUmtwQ09OczU3ZWhncUhFNHM0VDFOTnFHV25wcUYxN3FQek8xRllqd0VkRDJLSjQ3TW1vVXBLTmZnMmZuMVV2QXptZUtNbUhXeERMekh1VDB1V2c2QWIzLXNrcGt1RXozSkN3WHdZalN0Q185bDlYWkJSSUI5SHhaaWs0eG1xOGNsNHljVUhxaFpabHYwU2ltSGtHSQ?oc=5",
-          "pub": "Tue, 13 Oct 2026 17:37:56 GMT",
-          "source": "Yahoo Finance"
+          "title": "Chip Stocks Fall As Broadcom, Intel CEOs Warn About AI Funding - Investor's Business Daily",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdUpNa0VGMlFkV2I0bXFSQU02UzM3VmowV1JlV2NrQmU1NnZzNVJtYW5od015NVAzci0yM00xbXkxek1BSjJCWGM1N2ttY3M1TTdVUnZKeWtyUUhBdnBCREY4ZFVZdHdnRUNBM1pLTE84YWtVUXBGUk9keko0b1lrNTVLR2N4LWxha04wa3VRcG43ZDJURWJSUVdSMzhjbm05ejJYYUt1UQ?oc=5",
+          "pub": "Mon, 12 Oct 2026 20:45:00 GMT",
+          "source": "Investor's Business Daily"
         },
         {
-          "title": "Nvidia (NVDA) vs. Broadcom (AVGO): Which AI Stock Is a Better Buy After the OpenAI Scare? - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaWFZZl9HS0NyR1M3ejBYZFFIcEo2UTl5UE9Fb0pVa3V1SmlwZ0M5V1EyY2MwVGxxTmprdE1pRjFwSXpyM0tyNTBOZWtpX1hvanZ2X3E1aE80X2N1cVpGblA5YzNBc01HWm0yM3c0TDl0RkZrRlVIdWE3bTVDRlNoY1V1NEhOZERndTZBem9yRlFjUU44N2l3aQ?oc=5",
-          "pub": "Tue, 13 Oct 2026 03:22:00 GMT",
+          "title": "Broadcom’s CEO Just Compared AI Investors to Gamblers - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNclBQZ2ZvM1ZvUXAtZ08wZG16dVhkZEpXM1p6TTFxX2dVbkRNUHlmclZGT3VfNUpxcUlrYTdFQ3I2OXpMb01OLWNoUkpBMkJPSWs1NndRNUtnUFRvSk1heHJxTjJYaTgzeWhRZ2pQM1NuM1dIV1RkVnUtbDNsQ3AtRktqNHBVRDlnZllwSUxia2FIeVMzY1Z2cmFn?oc=5",
+          "pub": "Tue, 13 Oct 2026 12:15:55 GMT",
           "source": "Yahoo Finance"
-        },
-        {
-          "title": "Broadcom vs. Nvidia: The AI Revolution Is Big Enough for Both. Here's the Better Buy. - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOEhXdzJLdExDUTJPQ0VTYmJvZEhqWkRYYVdXa2tKUF81a3pScUZsSTVlbFJ1cklXRElFMlM0bjJNRHAxVEZuaUp1NUl1YWlaa3g5ZkVvWnRjTkU3LXR5Y0J6MjFPMWNsS3k2YzVlTE4tVGNqWWJtMk5zMjZQQ0JkdTJ2bXE0bHRHRlo4Y0VxN0M2Sk11RzFEdQ?oc=5",
-          "pub": "Tue, 13 Oct 2026 12:14:00 GMT",
-          "source": "The Motley Fool"
         }
       ]
     },
@@ -129,28 +129,28 @@
       "name": "AMD",
       "news": [
         {
-          "title": "Nvidia and AMD Reached a Historic Valuation Split. 1 Stock Is Far Safer. - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTnBXbzZNNjl2alg4RnNpb0VtS3pRQjdNWmdmeEpLc0RPODdqa0t5aWl0YUhpVUhtcWJaQ0ZsUWZVT056d3YzT1B6aVlsLTlCTlhraWN0eEtuSUpIcHZTbzBhNkNxUGZXMFYwTk1UVVA2OG0wWE1YbVBwZjJLR2U3ZVRkYlViRG5GNDJrQkVTN3lNeV9kVWVJ?oc=5",
-          "pub": "Mon, 12 Oct 2026 20:30:00 GMT",
-          "source": "The Motley Fool"
-        },
-        {
           "title": "Nvidia and AMD shares fall as new AI announcements fail to re-energize investors - MarketWatch",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQXZzMHlabWpaZHpJVFo0dkxhUUpKbDRod2NNYmJPYzJ3Qk5aeWVMMkJUM3JyR3pNM3QxWmlFbVJOVUtLWnppX05vakw2ckNjdHExYmN4M1F5UUd1NU13Vl92dWtIenNJNHRaSlJOU3QzdkxndGI3UmFXclNIM1pxWFJ4UkhXczZmVnN2TlN6YzYtQ3NWX3JVS0FGNW5MVHd1WWNHbVJiX3NYeDRkeElOcnZRbXpaQUU4UU9Kcjg4M1Q?oc=5",
           "pub": "Mon, 12 Oct 2026 21:19:00 GMT",
           "source": "MarketWatch"
         },
         {
+          "title": "Nvidia and AMD Reached a Historic Valuation Split. 1 Stock Is Far Safer. - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTnBXbzZNNjl2alg4RnNpb0VtS3pRQjdNWmdmeEpLc0RPODdqa0t5aWl0YUhpVUhtcWJaQ0ZsUWZVT056d3YzT1B6aVlsLTlCTlhraWN0eEtuSUpIcHZTbzBhNkNxUGZXMFYwTk1UVVA2OG0wWE1YbVBwZjJLR2U3ZVRkYlViRG5GNDJrQkVTN3lNeV9kVWVJ?oc=5",
+          "pub": "Mon, 12 Oct 2026 20:30:00 GMT",
+          "source": "The Motley Fool"
+        },
+        {
+          "title": "Why Are Nvidia, AMD and Intel Stocks Falling Today? AI Chip Selloff Deepens - Stocks Down Under",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBwQjkyMXh0YndVRlJhS3FBSll4dVB4akV2TWoyclpKWEE3RXEzODUwYWxtczdwdV9PUFFLUnVfenNtSWpZWnlGRUMzbGJiVHpaOVA0WEVmQ3RzSHFOalAzWENZWFVJeW1QMWtPRDh2YnRKNkdGYzFfN2hR?oc=5",
+          "pub": "Mon, 12 Oct 2026 17:13:51 GMT",
+          "source": "Stocks Down Under"
+        },
+        {
           "title": "History Says This Will Happen to AMD Stock in 2027 - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObmYtTmJKYU9rVXBlQ0djWXdvcVhhSUhJNWJkYThSUnAtcG5DbnpRSmkxdXktYjY4VnU1WHpIRUhVMkFLOWhIZTJHN1B0bU1rMWV1QjNHVk93SHZqdE16VHkxa2c2YWgxeG13aEhyQlBlRGluYjlpYVZoUktqTDBWNDRjT0l2ZDcxVTNKVVg0R0xlY1djQzVybG9B?oc=5",
           "pub": "Sun, 11 Oct 2026 21:35:00 GMT",
           "source": "Yahoo Finance"
-        },
-        {
-          "title": "History Says This Will Happen to AMD Stock in 2027 - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMUFlamF0aTFqN2U0a2RyUmhCQkMxWEoybGtVcDhvcTRrNVRyVkgzM0xLaUNJV3hNcnU3WnpyVE1uanVJOUxRaGo1emJJZnRFQTY2Z0pQOVEzNmNDTUg1ZmxKdlowV1B1aHhPX0NNNWc2Y0txdnQwOURBQllfb0ppUWxGcFNZU0JnRWFLbXdLYjlVRUN0RTZydg?oc=5",
-          "pub": "Sun, 11 Oct 2026 22:15:00 GMT",
-          "source": "The Motley Fool"
         }
       ]
     },
@@ -225,7 +225,7 @@
         {
           "title": "Why is IREN stock sliding today? - Investing.com",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQd3BCdjRSYThVLXMzak5pWGpSSmZZX3BqN2NGQmY0d2hRMXlHVXJpY0w0ZUxIS2pJX0t5Ni02eE5ScnNJRFZodjJBeVY2dHctaUNDT0trNlM4YzdabFViNjFhQjM4QXdVQS1DaHpNenUzczRDanlrMnBjV1ZRNGZRUGNJVmVRWGtHYWE4b1ZpWTRRSUpRc3ByRA?oc=5",
-          "pub": "Tue, 13 Oct 2026 14:37:19 GMT",
+          "pub": "Tue, 13 Oct 2026 18:42:57 GMT",
           "source": "Investing.com"
         }
       ]
