@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-10-13T16:30:38.283181+00:00",
-  "updated_at_display": "2026-10-13 16:30 UTC",
+  "updated_at": "2026-10-13T17:00:51.398123+00:00",
+  "updated_at_display": "2026-10-13 17:00 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 227.18,
+      "price": 226.84,
       "prev_close": 226.32000732421875,
       "high_52w": 243.37,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 0.379989681844283,
-      "drawdown_pct": 6.652422237744997,
+      "day_change_pct": 0.22975992353885386,
+      "drawdown_pct": 6.792127213707524,
       "name": "NVIDIA",
       "news": [
         {
@@ -21,73 +21,73 @@
           "source": "Barron's"
         },
         {
-          "title": "Nvidia (NVDA) Was Among Claude AI’s Top Picks This Year. Can The Stock Keep Rising? - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNelBUb2tTdXZWdUdLeGQ3MF9HVnhNMGg5bkFKWXJ0Nm9aX1B4T2JzalJpbEJOSEZBM1RUQTc3dk82dkpRZTJVM3ZPeGZCQm5WSUJ4NlpRbTExRDEwOXBRNTdrUGU4Q3h2bm8yb3hSX2dMSW1GRzFnbjJFZzlrNHpMZkdTYzc3R19tWFRJbDBYMmRvVVFTWjkw?oc=5",
-          "pub": "Tue, 13 Oct 2026 13:39:27 GMT",
-          "source": "Yahoo Finance"
-        },
-        {
-          "title": "Nvidia: The Share Price Already Assumes No China Data Center Sales (NASDAQ:NVDA) - Seeking Alpha",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTXpVZ1JyZ1ZHeGhlMzNsRWFIZTY0bDhUenlJWHdKOVUxTV9EOFRHSVkwUEFhbDIxODN0QjllYVdJYmxHUS1Rb0t6TlE5RThfSmtVSVBudGdDYkpFckdZV296NUE2WElTN085RllnbXo3SDlXaVpDbzdxUkx2dFBLMGZOQThWVHZHOVhqR2hWdUhrR0dPVlM0ZVNLdTRuVkZjclYzc2tlUmNuZw?oc=5",
-          "pub": "Tue, 13 Oct 2026 13:15:00 GMT",
-          "source": "Seeking Alpha"
-        },
-        {
           "title": "Nvidia and AMD Reached a Historic Valuation Split. 1 Stock Is Far Safer. - The Motley Fool",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTnBXbzZNNjl2alg4RnNpb0VtS3pRQjdNWmdmeEpLc0RPODdqa0t5aWl0YUhpVUhtcWJaQ0ZsUWZVT056d3YzT1B6aVlsLTlCTlhraWN0eEtuSUpIcHZTbzBhNkNxUGZXMFYwTk1UVVA2OG0wWE1YbVBwZjJLR2U3ZVRkYlViRG5GNDJrQkVTN3lNeV9kVWVJ?oc=5",
           "pub": "Mon, 12 Oct 2026 20:30:00 GMT",
           "source": "The Motley Fool"
+        },
+        {
+          "title": "Nvidia Stock Falls as China AI-Chip Share Drops to 34% and Huawei Gains - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNS0hjRGxOTnRqOG9Jb0swdENVclc4VTk5VDVSaEdHRGlqM1dtTU4yMVNZcUtHSjk5LVRYZ0VYOXpDMW52RjB0TzlNZ0RSblFMV3MwWmNqUC1TZkswNGRhZXF1T2syTTlYMnNnQjd0SUZlOWU0WEJNc1B5SzRwOUtnaGw3b1pBYV9XZnAwaTZvaXR4NF9DSWc?oc=5",
+          "pub": "Tue, 13 Oct 2026 15:52:12 GMT",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Jensen Huang Reaffirmed His Forecast That AI Infrastructure Spending Will Hit $3 Trillion to $4 Trillion by 2030, a Projection He's Now Repeated for Several Years Running. Is Nvidia Still a Buy at These Levels? - The Globe and Mail",
+          "link": "https://news.google.com/rss/articles/CBMiogNBVV95cUxOUHJlZUlsZk5Id3JXZmN3ZU1PSGlud1VIbkEtRDk3TXQ0RVg3RVVpVDdsdjZGVmZBUjhvbzhta3ZOUkRScEx1VkxPOTRDYTFaY0ROLS1rS2NtZnE3UldKeUtBVmhYZXVnVzE2TjEtUzFIdE5hd3dtOTdibklHY205R0IwQmN1YmFXQXluTWFVZmhPZlFTMjFJR0NBcXFFSGIwUFQ0eWxabjhpWEtaa1FyN0RfTnN0MjB2eGZWU3hNMnVMWXViMGhVcVVtbXhSZ1puMDctc0FhMkt6NUxxZTY5TFpBaE53cUNnMXlnalpBUGI0ZXFvOFV6UWNaLWRUVEJxNDF6V0RRYm43dGR1cXlSNjNtemJCelZHNFJUUGh1NlhBcnJ5LVBsNjFKNWFSSnNyQ3hlUXA1OU5KU2pCUnlRQVBpQVR6d1A1TzZtQy1aNy11R0R2ZGJFMmlLNUFSS3VqYk9GUEZsMmlTYWF1SUc0TktGWVBRUVFvVWhyU3dtT2x3ak9WZk9HR2ZLZHJrM0J6Vk85YUxQRmYwUGROOVIyMXFn?oc=5",
+          "pub": "Tue, 13 Oct 2026 14:15:51 GMT",
+          "source": "The Globe and Mail"
         }
       ]
     },
     {
       "symbol": "META",
-      "price": 759.345,
+      "price": 762.149,
       "prev_close": 742.9600219726562,
       "high_52w": 779.8200073242188,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 2.205364695645334,
-      "drawdown_pct": 2.625606823614877,
+      "day_change_pct": 2.5827739662753992,
+      "drawdown_pct": 2.266036669776265,
       "name": "Meta Platforms",
       "news": [
         {
-          "title": "Can Muse AI Really Help Meta (META) Stock? - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcWdDaTdQVlVEcFRZSXlWUmIyQ3BwVUE1Ym4zMThWTWczNjdPQzBlQTVqS1Zod3ptenloV0ZEc2xhTzhXOVMzQzBreHpDaU1HQTFEc0pBSHY3SHFsalhaa3JQSlA0R3lobl8xdjlYZUUyVlhkdlQ1ZEs4ZktKVEltNFJkSFc4bmRVQXdnbTVNVGFpWXc?oc=5",
-          "pub": "Tue, 13 Oct 2026 13:49:55 GMT",
+          "title": "Stocks making the biggest moves midday: Apple, Meta Platforms, Bumble, Fermi, Goldman Sachs & more - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQWt3a0dkRnRqbHdfeGdDcXdLUXBmSDlKeGJKM2dsWHB4b0hkRlZRYV9NRC1veTY4Rmc4WFpxcThCMzh5eVNOMkl1dHNxc19xS1BVa2JCS0s3Vm1TQ3ZfYjVPLXIxU3lzczFvMl9HeXJydm1Dcmtld0VvUzdURzRMYWtjRFJZTER5S3VhZVE2bUNSMFV0NnNrRWhZeWE3cXc?oc=5",
+          "pub": "Tue, 13 Oct 2026 16:25:50 GMT",
+          "source": "CNBC"
+        },
+        {
+          "title": "Why Meta Platforms Stock Rallied Monday Morning - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQlAyRGtTYUlQLVBMLTJGM0g2Q0RpZ2VPWEhnRzMzUnJVeE5zZDlETkhJTHdBS0dVbWNMTFB1Yk13ODZFN01OX2YxZWY5Tm9DWWJGbk9aSlRzSEI0d0RDUzJzNDA1S0tjalhSQkhsYnQzdFZNOGdhYlF2N2NYeW5nSDVXNjhveXVtZnZ6UWVjU0J2dFlicjJSNlRYa1RfUQ?oc=5",
+          "pub": "Mon, 12 Oct 2026 19:28:25 GMT",
           "source": "Yahoo Finance"
         },
         {
-          "title": "Meta Stock Rallies Again As Wall Street Praises 'AI Reset' - Investor's Business Daily",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNFhnbDduT3Nwd2FIbFo2akRUX0o4WmIyNnJCOUppMzJMSXhhMi10N281dGJabVB6YkpPUUxXLU9FWjhseTZKb3VvSmFWN3lNR01XMElDQ0VEYmlhUWphRG9QdnRVVjVsUlkwRjh5Y3BVcU9KbnNzaWMxd1JMTEdZaFVWd3EtakI5UzNGMXFxSQ?oc=5",
-          "pub": "Tue, 13 Oct 2026 15:23:00 GMT",
-          "source": "Investor's Business Daily"
-        },
-        {
-          "title": "Social Media Stocks Rally as Truist Sets $1,000 Street-High Meta Target on Muse Adoption: Meta and Snap Climb 4%, Reddit Ticks Up - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQa2JHZ0Q5VkNaQW5zeXRWazNXbE9ZM19ycHg1YVBHeWRUTVZTNWl5RW1NNjBtRTVPem15ektKSkFsZGhlUXlpRjBPUXNsT1puUEZfLVlhM01ZbEN3NWZMcF9XVm11WE83SEU0akFSSnRaY0U3VFFOcDBSekdLMWhSVXQzODhxQU9fd09HT0Fuek4tcFJfSTZKQWxmZDNwUQ?oc=5",
-          "pub": "Tue, 13 Oct 2026 15:04:26 GMT",
-          "source": "Yahoo Finance"
-        },
-        {
-          "title": "Prediction: Meta Platforms Stock Will Drop After Earnings, and That Could Be an Incredible Buying Opportunity - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNV3JVZDdIdmUzZWVGTHRrS09GbXJvYUpmeWxnalJFV1puZzJfZ1ZXYTFFUmRCZ0ptTzVBSm45UFphVXlRNVg5MHNLeTlyNEZhN0dTeXk1UWk4dzhNamRFYVNkWE1Sem9QOFNkT2stV0xZdFlibzhZb051bGV4RE1HNVVuOFNYOUhCcDA1eldOdHJPYjdoUjN6eg?oc=5",
-          "pub": "Sun, 11 Oct 2026 14:33:00 GMT",
+          "title": "Alphabet vs. Meta Platforms: Which Stock Is a Better Buy in 2026? - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTThvVGo2Q1l0Mjd1WjBVbFVwLWdjZDFHem5RS0V0RFZCWm1UeGg1MVpOT1RpbXZvcTMyanlyOEpPS3I4TFFHMTc2bldDSWtEWGUzRDJfWHNSdzRIX1N6SHFFVDNfbEtxTGxHU1cyVTd0NUtLdlp2OEtPaTZKOFkzeExCMnljOTF5OW9RbFpqZHhTWXd5SnNnczJnb0JIaU10QUxnUmY4RkZRWFJHclpvbkxRdkJMUQ?oc=5",
+          "pub": "Tue, 13 Oct 2026 01:11:00 GMT",
           "source": "The Motley Fool"
+        },
+        {
+          "title": "Meta Stock Climbs As Zuckerberg Touts Muse Wonder As Frontier AI Model - Investor's Business Daily",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQb0xwcUUyaTBEM3NtMnFWMDgwcnNXNUNvMHFtLXFXT0t1d1Z3OWV3MW1lWkY5R0VPVm5xUm9fUjNfdDh5ZERLNzJNbTRodDBwMlR3R1BkaUZPN1U5Uk1vbGo3UlNkcGlzYnF0dUFfMG51dXQzZDJQMmFoX0tNbnE5N1NVQ0Q3dw?oc=5",
+          "pub": "Mon, 12 Oct 2026 17:55:00 GMT",
+          "source": "Investor's Business Daily"
         }
       ]
     },
     {
       "symbol": "AVGO",
-      "price": 356.495,
+      "price": 355.5,
       "prev_close": 354.7300109863281,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 0.49755841316169475,
-      "drawdown_pct": 27.980808080808078,
+      "day_change_pct": 0.2170633974641496,
+      "drawdown_pct": 28.18181818181818,
       "name": "Broadcom",
       "news": [
         {
@@ -118,14 +118,14 @@
     },
     {
       "symbol": "AMD",
-      "price": 599.33,
+      "price": 599.61,
       "prev_close": 594.239990234375,
       "high_52w": 658.52001953125,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 0.8565579310166391,
-      "drawdown_pct": 8.988340183398343,
+      "day_change_pct": 0.9036769409455296,
+      "drawdown_pct": 8.945820595277198,
       "name": "AMD",
       "news": [
         {
@@ -156,14 +156,14 @@
     },
     {
       "symbol": "RKLB",
-      "price": 63.856,
+      "price": 63.875,
       "prev_close": 65.70999908447266,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -2.8214870039630795,
-      "drawdown_pct": 57.71125827814569,
+      "day_change_pct": -2.7925720743256996,
+      "drawdown_pct": 57.69867549668874,
       "name": "Rocket Lab",
       "news": [
         {
@@ -194,14 +194,14 @@
     },
     {
       "symbol": "IREN",
-      "price": 34.333,
+      "price": 34.49,
       "prev_close": 34.79999923706055,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": -1.3419518600541052,
-      "drawdown_pct": 55.3362836304483,
+      "day_change_pct": -0.8908024248759426,
+      "drawdown_pct": 55.13204271150677,
       "name": "IREN",
       "news": [
         {
@@ -211,22 +211,22 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "IREN shares drop 5% as Anthropic cloud contract report remains unconfirmed, shaking investor confidence. - Pluang",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZmJ4OTNRbnRUSVZSakN3YXVJbDFyUnkxTVowSklpbDNtOEtGc3hIckN4Tk9iRVlfVmxhMWZnQVBzOUphblExaEtkM1JEZkpFeUNRQ2Q5S2FPQkM4bTE2WlhyTGJZMWdUNVJucE9IdXRwMUoxc1AxZW9rdDhKSTUzblNkSUNpbGRmSkdseHBXb3FsSHB4c2VnU3hGNjRtQk1IcGo5OTNsMFFpVHV1blRn?oc=5",
-          "pub": "Tue, 13 Oct 2026 14:03:59 GMT",
-          "source": "Pluang"
+          "title": "Why is IREN stock sliding today? By Investing.com - Investing.com UK",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTkFyZkR0RTNRS0FndGtDOURnUHM4WUh6TGJEY0VWeXRyUC1NblMwbDRncWFBYzg5Z2k2MkxCd1haTHItY2psUzhKRm8td19lOExRLTFzTnhFQnYyNV9ETUNMc3JmNGVvUEJSWmpyQnMyR1QtdVNiNXY2WE5za3BlMDdpbHVYOVhhR1N5VkR0bVVJcDMyamZn?oc=5",
+          "pub": "Tue, 13 Oct 2026 14:08:00 GMT",
+          "source": "Investing.com UK"
+        },
+        {
+          "title": "IREN Slides 5% as Anthropic Cloud Report Buzz Fades; Core Scientific Falls 3% - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMktHM1I2RWZwN2doNDdyeF9OVUg5Qm1PVzBFeHdoNm8zNlBGdEYyblQ4MDROMEU5Vk5ZMlhneldESmMyaTkzRG9vZElDTU11TjVMOUxYVFNDdGNGbkI1Q0cwRmdWZDFJMHpCa3BWZnI5WmduSjlRdzNJdmxiWU44aU1LZFk0dHFzVGYwVHkxM3dZcm9rUWpOR3V3?oc=5",
+          "pub": "Tue, 13 Oct 2026 13:48:20 GMT",
+          "source": "Yahoo Finance"
         },
         {
           "title": "IREN Stock Falls to Its Lowest Level Since July After a Brief Pop on a Reported Anthropic Deal - Benzinga",
           "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPV09LVG43Z0U2LUpzdFd1R2JCclh5QmdNRmRsWVlXMHZNQkVydXFkbG42ZWQtSjQ2ME55WFhTSEN2eG9NSGxFT056V3dIM0pLVEtKcmU0RXl5TlNJLTVQMW5WSmV0S1pGdGI1QktRZURYYWdGWS0xcFVqWi02aE0tWEpkclI5VEp0OVpxazlCcGRlaVdCU1ZRdkQ1YnJRTnEzYy1Wd0xrVTdMeDZNT1dPUVBjSy1JTHZieXpjV3NSQWtPOVNtWnlMeHB4Z211ajE5ZVQzdGN3UkN6dy1rRTFWM253Sm8zY0RuaEt3?oc=5",
           "pub": "Tue, 13 Oct 2026 13:33:55 GMT",
           "source": "Benzinga"
-        },
-        {
-          "title": "IREN Climbs 4% on Report of Unconfirmed Anthropic Cloud Deal; TeraWulf and Applied Digital Hold Flat - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcVNwOFNaZFNadHd6MGlzVmRUbldPQlNvQVFOUWc0UnlMeFI4eWpvOUZHTERUX0FXU2dWMEFQR2N5Qk0wWlhOeElmVXByWFhSVWpDS3J6MkJQUHE4dG9DdzhGMGYxblotWnNYaTgzX3U5X3V2ekthd1BzcFVHR1Fiak1MdXlMbFVCOHVLQkdzTW9VZVJWN29sZzZVa1lyZw?oc=5",
-          "pub": "Mon, 12 Oct 2026 12:30:16 GMT",
-          "source": "Yahoo Finance"
         }
       ]
     },
