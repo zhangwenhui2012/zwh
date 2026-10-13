@@ -1,24 +1,24 @@
 {
-  "updated_at": "2026-10-13T16:00:49.574194+00:00",
-  "updated_at_display": "2026-10-13 16:00 UTC",
+  "updated_at": "2026-10-13T16:30:38.283181+00:00",
+  "updated_at_display": "2026-10-13 16:30 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 225.91,
+      "price": 227.18,
       "prev_close": 226.32000732421875,
       "high_52w": 243.37,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -0.18116265064952483,
-      "drawdown_pct": 7.174261412663848,
+      "day_change_pct": 0.379989681844283,
+      "drawdown_pct": 6.652422237744997,
       "name": "NVIDIA",
       "news": [
         {
-          "title": "Nvidia and AMD Reached a Historic Valuation Split. 1 Stock Is Far Safer. - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTnBXbzZNNjl2alg4RnNpb0VtS3pRQjdNWmdmeEpLc0RPODdqa0t5aWl0YUhpVUhtcWJaQ0ZsUWZVT056d3YzT1B6aVlsLTlCTlhraWN0eEtuSUpIcHZTbzBhNkNxUGZXMFYwTk1UVVA2OG0wWE1YbVBwZjJLR2U3ZVRkYlViRG5GNDJrQkVTN3lNeV9kVWVJ?oc=5",
-          "pub": "Mon, 12 Oct 2026 20:30:00 GMT",
-          "source": "The Motley Fool"
+          "title": "Nvidia Stock Slips. How Broadcom and Microsoft Are Shaking the Chip Sector. - Barron's",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOXVla2g5SlhMWnc4QkQ4LUl3U2ZvU09mcXVQQXFORlQ4Mk55VXFKNG9UVkFiYzI1TVhZbGVnMUtxc1BBM0pfVnQzU1B3ZkJTQlctMDZweG1FSUczWnp1NTlGd0p4aFk1SWZ5c0JCbzV1RXdJN0xzejZIZEx6RlN0ZlJ2cktzdXNCcGY2eDhB?oc=5",
+          "pub": "Tue, 13 Oct 2026 14:23:00 GMT",
+          "source": "Barron's"
         },
         {
           "title": "Nvidia (NVDA) Was Among Claude AI’s Top Picks This Year. Can The Stock Keep Rising? - Yahoo Finance",
@@ -27,29 +27,29 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "Microsoft Just Took Its Biggest Step Toward Independence From Nvidia - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTDRMc21WMGswOTl0cHJRcmdfOEhlcFViOXBGdUVjU05idlFvbDJEc1BRQlVQUDRuTlZESExNRW55OS1iNWZ1Vl9URkRiRVBDelZ5R1VPdmRmVUJ2ODhINnlRX3BGNUJmdXhWS0V3V29kOG9MNWttd2VreUZJS3BORkozUHJDNmhnWmQtZ295TWdJYVg3ZEdBdUotRTFyZw?oc=5",
-          "pub": "Tue, 13 Oct 2026 13:04:54 GMT",
-          "source": "Yahoo Finance"
+          "title": "Nvidia: The Share Price Already Assumes No China Data Center Sales (NASDAQ:NVDA) - Seeking Alpha",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTXpVZ1JyZ1ZHeGhlMzNsRWFIZTY0bDhUenlJWHdKOVUxTV9EOFRHSVkwUEFhbDIxODN0QjllYVdJYmxHUS1Rb0t6TlE5RThfSmtVSVBudGdDYkpFckdZV296NUE2WElTN085RllnbXo3SDlXaVpDbzdxUkx2dFBLMGZOQThWVHZHOVhqR2hWdUhrR0dPVlM0ZVNLdTRuVkZjclYzc2tlUmNuZw?oc=5",
+          "pub": "Tue, 13 Oct 2026 13:15:00 GMT",
+          "source": "Seeking Alpha"
         },
         {
-          "title": "Jensen Huang Reaffirmed His Forecast That AI Infrastructure Spending Will Hit $3 Trillion to $4 Trillion by 2030, a Projection He's Now Repeated for Several Years Running. Is Nvidia Still a Buy at These Levels? - The Globe and Mail",
-          "link": "https://news.google.com/rss/articles/CBMiogNBVV95cUxOUHJlZUlsZk5Id3JXZmN3ZU1PSGlud1VIbkEtRDk3TXQ0RVg3RVVpVDdsdjZGVmZBUjhvbzhta3ZOUkRScEx1VkxPOTRDYTFaY0ROLS1rS2NtZnE3UldKeUtBVmhYZXVnVzE2TjEtUzFIdE5hd3dtOTdibklHY205R0IwQmN1YmFXQXluTWFVZmhPZlFTMjFJR0NBcXFFSGIwUFQ0eWxabjhpWEtaa1FyN0RfTnN0MjB2eGZWU3hNMnVMWXViMGhVcVVtbXhSZ1puMDctc0FhMkt6NUxxZTY5TFpBaE53cUNnMXlnalpBUGI0ZXFvOFV6UWNaLWRUVEJxNDF6V0RRYm43dGR1cXlSNjNtemJCelZHNFJUUGh1NlhBcnJ5LVBsNjFKNWFSSnNyQ3hlUXA1OU5KU2pCUnlRQVBpQVR6d1A1TzZtQy1aNy11R0R2ZGJFMmlLNUFSS3VqYk9GUEZsMmlTYWF1SUc0TktGWVBRUVFvVWhyU3dtT2x3ak9WZk9HR2ZLZHJrM0J6Vk85YUxQRmYwUGROOVIyMXFn?oc=5",
-          "pub": "Tue, 13 Oct 2026 14:15:51 GMT",
-          "source": "The Globe and Mail"
+          "title": "Nvidia and AMD Reached a Historic Valuation Split. 1 Stock Is Far Safer. - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTnBXbzZNNjl2alg4RnNpb0VtS3pRQjdNWmdmeEpLc0RPODdqa0t5aWl0YUhpVUhtcWJaQ0ZsUWZVT056d3YzT1B6aVlsLTlCTlhraWN0eEtuSUpIcHZTbzBhNkNxUGZXMFYwTk1UVVA2OG0wWE1YbVBwZjJLR2U3ZVRkYlViRG5GNDJrQkVTN3lNeV9kVWVJ?oc=5",
+          "pub": "Mon, 12 Oct 2026 20:30:00 GMT",
+          "source": "The Motley Fool"
         }
       ]
     },
     {
       "symbol": "META",
-      "price": 761.19,
+      "price": 759.345,
       "prev_close": 742.9600219726562,
       "high_52w": 779.8200073242188,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 2.4536956886241095,
-      "drawdown_pct": 2.3890137659000925,
+      "day_change_pct": 2.205364695645334,
+      "drawdown_pct": 2.625606823614877,
       "name": "Meta Platforms",
       "news": [
         {
@@ -80,14 +80,14 @@
     },
     {
       "symbol": "AVGO",
-      "price": 354.95,
+      "price": 356.495,
       "prev_close": 354.7300109863281,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 0.062015901349926204,
-      "drawdown_pct": 28.292929292929298,
+      "day_change_pct": 0.49755841316169475,
+      "drawdown_pct": 27.980808080808078,
       "name": "Broadcom",
       "news": [
         {
@@ -118,14 +118,14 @@
     },
     {
       "symbol": "AMD",
-      "price": 591.77,
+      "price": 599.33,
       "prev_close": 594.239990234375,
       "high_52w": 658.52001953125,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -0.4156553370635366,
-      "drawdown_pct": 10.136369062669386,
+      "day_change_pct": 0.8565579310166391,
+      "drawdown_pct": 8.988340183398343,
       "name": "AMD",
       "news": [
         {
@@ -156,14 +156,14 @@
     },
     {
       "symbol": "RKLB",
-      "price": 63.335,
+      "price": 63.856,
       "prev_close": 65.70999908447266,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -3.61436481138815,
-      "drawdown_pct": 58.056291390728475,
+      "day_change_pct": -2.8214870039630795,
+      "drawdown_pct": 57.71125827814569,
       "name": "Rocket Lab",
       "news": [
         {
@@ -194,14 +194,14 @@
     },
     {
       "symbol": "IREN",
-      "price": 33.965,
+      "price": 34.333,
       "prev_close": 34.79999923706055,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": -2.3994231476054293,
-      "drawdown_pct": 55.81501393726667,
+      "day_change_pct": -1.3419518600541052,
+      "drawdown_pct": 55.3362836304483,
       "name": "IREN",
       "news": [
         {
@@ -223,10 +223,10 @@
           "source": "Benzinga"
         },
         {
-          "title": "Why is IREN stock sliding today? - Investing.com",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQd3BCdjRSYThVLXMzak5pWGpSSmZZX3BqN2NGQmY0d2hRMXlHVXJpY0w0ZUxIS2pJX0t5Ni02eE5ScnNJRFZodjJBeVY2dHctaUNDT0trNlM4YzdabFViNjFhQjM4QXdVQS1DaHpNenUzczRDanlrMnBjV1ZRNGZRUGNJVmVRWGtHYWE4b1ZpWTRRSUpRc3ByRA?oc=5",
-          "pub": "Tue, 13 Oct 2026 14:27:19 GMT",
-          "source": "Investing.com"
+          "title": "IREN Climbs 4% on Report of Unconfirmed Anthropic Cloud Deal; TeraWulf and Applied Digital Hold Flat - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcVNwOFNaZFNadHd6MGlzVmRUbldPQlNvQVFOUWc0UnlMeFI4eWpvOUZHTERUX0FXU2dWMEFQR2N5Qk0wWlhOeElmVXByWFhSVWpDS3J6MkJQUHE4dG9DdzhGMGYxblotWnNYaTgzX3U5X3V2ekthd1BzcFVHR1Fiak1MdXlMbFVCOHVLQkdzTW9VZVJWN29sZzZVa1lyZw?oc=5",
+          "pub": "Mon, 12 Oct 2026 12:30:16 GMT",
+          "source": "Yahoo Finance"
         }
       ]
     },
