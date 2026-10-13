@@ -1,23 +1,29 @@
 {
-  "updated_at": "2026-10-13T14:30:44.094588+00:00",
-  "updated_at_display": "2026-10-13 14:30 UTC",
+  "updated_at": "2026-10-13T14:41:11.407580+00:00",
+  "updated_at_display": "2026-10-13 14:41 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 225.465,
+      "price": 225.9,
       "prev_close": 226.32000732421875,
       "high_52w": 243.37,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -0.377786893137508,
-      "drawdown_pct": 7.357110572379505,
+      "day_change_pct": -0.1855811729526216,
+      "drawdown_pct": 7.178370382545094,
       "name": "NVIDIA",
       "news": [
         {
-          "title": "Nvidia and Micron Technology Just Received Some Very Bad News From an Unlikely Place - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWlcyNzRVcXpNVzBQclJNNTllUV9na0ZlbkRNNmxOaE1UY2RLWTg1X1dOa1UwUTRxQnV3bmlQazdjLUhYRlMzdk9ULWtZbmdqUVFDUENOaTBKMDJWZWNiSTQ2OXNrdG5ibWR2NEhFSGRQbzRmNFdFTkJhaXVDOTUwTkxhVmxvWVF6VW9JMzVaX29yWDNsNF9tRQ?oc=5",
-          "pub": "Mon, 12 Oct 2026 11:06:00 GMT",
+          "title": "Nvidia Falls Back From Record High. Its Stock Chart Offers a Warning. - Barron's",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOejVzVFN5MzdQZlAybkJUWldaVW5Db2lsbUZZeHF6MW9mdkxVYl9JSE5iZFpmV1R2NlhiWmw3a0M4RFRjNW9uV0V0OVZqSXRYUDBRamZCdk5EYmZpMFlwbzZPVUFJc2ZvZ0RmVXJodEJoMHRwZkFjVk5uVC1OS3dpdmZRSnQtX2hncndRQQ?oc=5",
+          "pub": "Mon, 12 Oct 2026 20:18:00 GMT",
+          "source": "Barron's"
+        },
+        {
+          "title": "$10,000 Invested Equally in Alphabet and Nvidia Could Be Worth This Much by 2030 - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZ1gxMzZrenN5NnFsUFl5alJkSHJjM05MQUl1TTNwcDNwVzRzV2xDRV9WVkxJQ0Zsckt5YTlwdmVTRTNOTTE0dkx6bkFjQTV4X2JoeXp0YXEyU2I4aTN2bjk5LVRicF9DdUFETUhSVHhGVU5GdVZDMHlfc053V0FvbFV0Rm9YVjR1WGhxX3JOS2hHeWphYURz?oc=5",
+          "pub": "Mon, 12 Oct 2026 22:30:00 GMT",
           "source": "The Motley Fool"
         },
         {
@@ -27,29 +33,23 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "Nvidia Falls Back From Record High. Its Stock Chart Offers a Warning. - Barron's",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOejVzVFN5MzdQZlAybkJUWldaVW5Db2lsbUZZeHF6MW9mdkxVYl9JSE5iZFpmV1R2NlhiWmw3a0M4RFRjNW9uV0V0OVZqSXRYUDBRamZCdk5EYmZpMFlwbzZPVUFJc2ZvZ0RmVXJodEJoMHRwZkFjVk5uVC1OS3dpdmZRSnQtX2hncndRQQ?oc=5",
-          "pub": "Mon, 12 Oct 2026 20:18:00 GMT",
-          "source": "Barron's"
-        },
-        {
-          "title": "Nvidia: The Share Price Already Assumes No China Data Center Sales (NASDAQ:NVDA) - Seeking Alpha",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTXpVZ1JyZ1ZHeGhlMzNsRWFIZTY0bDhUenlJWHdKOVUxTV9EOFRHSVkwUEFhbDIxODN0QjllYVdJYmxHUS1Rb0t6TlE5RThfSmtVSVBudGdDYkpFckdZV296NUE2WElTN085RllnbXo3SDlXaVpDbzdxUkx2dFBLMGZOQThWVHZHOVhqR2hWdUhrR0dPVlM0ZVNLdTRuVkZjclYzc2tlUmNuZw?oc=5",
-          "pub": "Tue, 13 Oct 2026 13:15:00 GMT",
-          "source": "Seeking Alpha"
+          "title": "Jensen Huang Reaffirmed His Forecast That AI Infrastructure Spending Will Hit $3 Trillion to $4 Trillion by 2030, a Projection He's Now Repeated for Several Years Running. Is Nvidia Still a Buy at These Levels? - The Globe and Mail",
+          "link": "https://news.google.com/rss/articles/CBMiogNBVV95cUxOUHJlZUlsZk5Id3JXZmN3ZU1PSGlud1VIbkEtRDk3TXQ0RVg3RVVpVDdsdjZGVmZBUjhvbzhta3ZOUkRScEx1VkxPOTRDYTFaY0ROLS1rS2NtZnE3UldKeUtBVmhYZXVnVzE2TjEtUzFIdE5hd3dtOTdibklHY205R0IwQmN1YmFXQXluTWFVZmhPZlFTMjFJR0NBcXFFSGIwUFQ0eWxabjhpWEtaa1FyN0RfTnN0MjB2eGZWU3hNMnVMWXViMGhVcVVtbXhSZ1puMDctc0FhMkt6NUxxZTY5TFpBaE53cUNnMXlnalpBUGI0ZXFvOFV6UWNaLWRUVEJxNDF6V0RRYm43dGR1cXlSNjNtemJCelZHNFJUUGh1NlhBcnJ5LVBsNjFKNWFSSnNyQ3hlUXA1OU5KU2pCUnlRQVBpQVR6d1A1TzZtQy1aNy11R0R2ZGJFMmlLNUFSS3VqYk9GUEZsMmlTYWF1SUc0TktGWVBRUVFvVWhyU3dtT2x3ak9WZk9HR2ZLZHJrM0J6Vk85YUxQRmYwUGROOVIyMXFn?oc=5",
+          "pub": "Tue, 13 Oct 2026 14:15:51 GMT",
+          "source": "The Globe and Mail"
         }
       ]
     },
     {
       "symbol": "META",
-      "price": 770.21,
+      "price": 769.215,
       "prev_close": 742.9600219726562,
       "high_52w": 779.8200073242188,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 3.6677583209647704,
-      "drawdown_pct": 1.2323365948500533,
+      "day_change_pct": 3.5338345605236436,
+      "drawdown_pct": 1.3599301408805184,
       "name": "Meta Platforms",
       "news": [
         {
@@ -80,14 +80,14 @@
     },
     {
       "symbol": "AVGO",
-      "price": 355.91,
+      "price": 356.15,
       "prev_close": 354.7300109863281,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 0.3326442582038481,
-      "drawdown_pct": 28.098989898989895,
+      "day_change_pct": 0.4003013474173125,
+      "drawdown_pct": 28.050505050505052,
       "name": "Broadcom",
       "news": [
         {
@@ -118,14 +118,14 @@
     },
     {
       "symbol": "AMD",
-      "price": 587.515,
+      "price": 590.86,
       "prev_close": 594.239990234375,
       "high_52w": 658.52001953125,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -1.1316960058044228,
-      "drawdown_pct": 10.782514946438994,
+      "day_change_pct": -0.56879211933244,
+      "drawdown_pct": 10.274557724063115,
       "name": "AMD",
       "news": [
         {
@@ -156,14 +156,14 @@
     },
     {
       "symbol": "RKLB",
-      "price": 63.89,
+      "price": 63.526,
       "prev_close": 65.70999908447266,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -2.7697444982961863,
-      "drawdown_pct": 57.688741721854306,
+      "day_change_pct": -3.3236936766123533,
+      "drawdown_pct": 57.9298013245033,
       "name": "Rocket Lab",
       "news": [
         {
@@ -194,14 +194,14 @@
     },
     {
       "symbol": "IREN",
-      "price": 33.577,
+      "price": 33.79,
       "prev_close": 34.79999923706055,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": -3.5143657007845728,
-      "drawdown_pct": 56.31976219554255,
+      "day_change_pct": -2.902296721848605,
+      "drawdown_pct": 56.042671012519975,
       "name": "IREN",
       "news": [
         {
@@ -211,10 +211,10 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "IREN: The First GPU Cycle Could Fund The Next (NASDAQ:IREN) - Seeking Alpha",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdS16WS1VSjRLbVAwQjRSdUNwWERCN05sM0VydnhkZk9IS1l4RDZ0MjZTWUtfLVZadlBKMkVWOGx1dHFLM1dNbkJHRTFEdlJRN0hxUm1DaEUtQzljTzl6bVNzTHpzVHkxdTlzUkdaMi1MZ3JvNFJueXlQUkdvSllFXzdmNkk4N0k5cjRScXB3?oc=5",
-          "pub": "Mon, 12 Oct 2026 17:23:42 GMT",
-          "source": "Seeking Alpha"
+          "title": "Why is IREN stock sliding today? By Investing.com - Investing.com UK",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTkFyZkR0RTNRS0FndGtDOURnUHM4WUh6TGJEY0VWeXRyUC1NblMwbDRncWFBYzg5Z2k2MkxCd1haTHItY2psUzhKRm8td19lOExRLTFzTnhFQnYyNV9ETUNMc3JmNGVvUEJSWmpyQnMyR1QtdVNiNXY2WE5za3BlMDdpbHVYOVhhR1N5VkR0bVVJcDMyamZn?oc=5",
+          "pub": "Tue, 13 Oct 2026 14:08:00 GMT",
+          "source": "Investing.com UK"
         },
         {
           "title": "IREN Stock Falls to Its Lowest Level Since July After a Brief Pop on a Reported Anthropic Deal - Benzinga",
@@ -270,14 +270,14 @@
     },
     {
       "symbol": "IVSO.ST",
-      "price": 241.4,
+      "price": 240.8,
       "prev_close": 237.39999389648438,
       "high_52w": 336.0,
       "currency": "SEK",
       "yahoo_name": "INVISIO AB",
       "exchange": "Stockholm",
-      "day_change_pct": 1.6849225806045258,
-      "drawdown_pct": 28.154761904761905,
+      "day_change_pct": 1.4321845791614347,
+      "drawdown_pct": 28.333333333333332,
       "name": "Invisio",
       "news": [
         {
@@ -287,7 +287,7 @@
           "source": "Simply Wall Street"
         },
         {
-          "title": "NXLKF (Invisio AB) Shiller PE Ratio (CAPE Ratio or Cyclically Adjusted Price-to-Earnings Ratio) : (As of Oct. 11, 2026) - GuruFocus",
+          "title": "NXLKF (Invisio AB) Shiller PE Ratio (CAPE Ratio or Cyclically Adjusted Price-to-Earnings Ratio) : (As of Oct. 12, 2026) - GuruFocus",
           "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1EM1FFaHM3ckdScGNiTmJYS1BQUkI1RnI4RXdPZUxSS3kzVl9UaDFEM05DbWNJT3IzbldOX3hsRFZKLTdoWjJUeWk2Y1NENlJzSjRfNGdSalRWcnFVT3VYNVJvMA?oc=5",
           "pub": "Tue, 06 Oct 2026 10:34:21 GMT",
           "source": "GuruFocus"
@@ -308,14 +308,14 @@
     },
     {
       "symbol": "NORBT.OL",
-      "price": 158.6,
+      "price": 158.7,
       "prev_close": 158.39999389648438,
       "high_52w": 244.8000030517578,
       "currency": "NOK",
       "yahoo_name": "NORBIT",
       "exchange": "Oslo",
-      "day_change_pct": 0.1262664843575214,
-      "drawdown_pct": 35.21241910831702,
+      "day_change_pct": 0.18939779992142547,
+      "drawdown_pct": 35.17156943562366,
       "name": "Norbit ASA",
       "news": [
         {
