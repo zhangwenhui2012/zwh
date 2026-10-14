@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-10-14T01:30:34.462635+00:00",
-  "updated_at_display": "2026-10-14 01:30 UTC",
+  "updated_at": "2026-10-14T02:00:46.902307+00:00",
+  "updated_at_display": "2026-10-14 02:00 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
       "price": 228.52,
-      "prev_close": 229.27999877929688,
+      "prev_close": 226.32000732421875,
       "high_52w": 243.37,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -0.3314719048077253,
+      "day_change_pct": 0.9720716704597935,
       "drawdown_pct": 6.101820273657391,
       "name": "NVIDIA",
       "news": [
         {
-          "title": "Nvidia Stock Has a Massive AI Tailwind. Here’s the Bull Case - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMWpjaFgzeEw5SzNJNGFKYzNheE8tdFN4VGdHeWxOdWZ5RHFmd2VpQUw5V3pzTmc4SkZrZHJVOXZHaTZXaE8tUGNReVU2Y29hanJIVTdnaXFBRUx1WDJDcG5FdUZUTllSYjIwd3Y5QlRROXFYR2dlanJVdkZxWFZXVGVPNW5nTlp0dEFrdVRaNkQ1c0NYMDVMVWtXcFJfUQ?oc=5",
-          "pub": "Tue, 13 Oct 2026 17:00:55 GMT",
+          "title": "Nvidia in 5 Years: Where the Stock Could Be Headed - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbm04VVBmVXpkd2JycjZoRmhEaE0zMWpScFVMT0dhbEo3US1WaG1rMncyT1FnQjYxOVMzUGZza0xyUUpTNWdYMUVwV3ZhQmFIZFI0d1JudjBzT19mT0diajBpbVpkSzJETEhUaGw1cHgzUGhrQ1FGS1dqZHdITWRMc2tPZlJ3WWg2cnd4N0pjRTM5TERWYkE?oc=5",
+          "pub": "Tue, 13 Oct 2026 22:26:00 GMT",
           "source": "Yahoo Finance"
         },
         {
@@ -43,12 +43,12 @@
     {
       "symbol": "META",
       "price": 762.5,
-      "prev_close": 718.6699829101562,
+      "prev_close": 742.9600219726562,
       "high_52w": 779.8200073242188,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 6.098768298678632,
+      "day_change_pct": 2.6300174234762386,
       "drawdown_pct": 2.221026283186623,
       "name": "Meta Platforms",
       "news": [
@@ -81,12 +81,12 @@
     {
       "symbol": "AVGO",
       "price": 357.31,
-      "prev_close": 361.5400085449219,
+      "prev_close": 354.7300109863281,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -1.1699973571241113,
+      "day_change_pct": 0.7273106119491295,
       "drawdown_pct": 27.816161616161615,
       "name": "Broadcom",
       "news": [
@@ -119,12 +119,12 @@
     {
       "symbol": "AMD",
       "price": 605.53,
-      "prev_close": 608.0999755859375,
+      "prev_close": 594.239990234375,
       "high_52w": 658.52001953125,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -0.4226238594173952,
+      "day_change_pct": 1.8999074365850175,
       "drawdown_pct": 8.046835017858617,
       "name": "AMD",
       "news": [
@@ -147,9 +147,9 @@
           "source": "24/7 Wall St."
         },
         {
-          "title": "How This Rare Options Strategy Might Work On AMD Stock - Investor's Business Daily",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTE0xdm5qVy1EUGVHcjViNFFDSi16MUtjeTFNaEk1SkwxTEdxVVRscGRNdzdFbG43M0VybnRfOGdadGlXOHJULXpONk1US05lV0FvRkRsNGtqeGZQQzZJTms5UEpRdEJQSGpJOUxacTRHQ0tHNHFpV2gwdldpZUFkbnJ4YlBTMzlnRk9PVnp1SHZ6MDA3Y1NUZEFLcTlqUWJrXzlOQzl6VEE?oc=5",
-          "pub": "Tue, 13 Oct 2026 17:21:00 GMT",
+          "title": "Dow Jones Futures: Stock Market Holds Up As Meta, AMD Lead Buys; ASML, CPI Inflation Due - Investor's Business Daily",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVDFGc21reGxUZzFsZDdzeXdiZm43ZVBKZlJMN2NiQ2lPLXozSzBzcnNwQS11ZDM0cFBpOEsxQWxwd3dpR0J0Rks3SzZQMVZENG91UkhuLVhScVBFWU5YeEEtQmpuUktXSnpDREdhN1Bpd2JvUEFJTTQxZmhQaXdrZHlGLWJIZHJLMTFuZTNIQWxFNkxyV3Y0Qzl3cUVmQU1WdEk1UGI3RnExdFl5Umc?oc=5",
+          "pub": "Wed, 14 Oct 2026 00:25:00 GMT",
           "source": "Investor's Business Daily"
         }
       ]
@@ -157,12 +157,12 @@
     {
       "symbol": "RKLB",
       "price": 64.22,
-      "prev_close": 68.20999908447266,
+      "prev_close": 65.70999908447266,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -5.849580908997464,
+      "day_change_pct": -2.2675378256469125,
       "drawdown_pct": 57.47019867549669,
       "name": "Rocket Lab",
       "news": [
@@ -179,28 +179,28 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "3 Reasons Rocket Lab Stock Could Double in 2027 -- and 1 Reason It Might Not - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRVVpd3VLbDAyT2VmZnFNd251MG1QbDZ3WS1Bbk40a0szY3FEOUV4TWduTWo5QlhocTNUUXIyLXRaaXJaVThTb09xZ2NicXJNeXhwNGpiSEZPXy1TRlhDbXhsQXRRbk4zM05xSXk5TEZRdG9laHFGNnh2TFZnSEtjeEl5dkdVMXpLUnlHMVBiVHhUMENBbXc?oc=5",
-          "pub": "Sun, 11 Oct 2026 15:50:00 GMT",
-          "source": "Yahoo Finance"
-        },
-        {
           "title": "Cathie Wood Keeps Buying Rocket Lab Stock as It Trades at Less Than Half Its Record - The Motley Fool",
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNkVJM0tHcXN1aXplWjBoWkVpd1lXamZVdjVzQUIwVXluRV9oQVJ2TWRXMERIMDF6MWJkcnNrN0hQVHZQM1BrNkg4ZXU1a3NMemZjNnlVcE5weXRZSl81NHh3dnI0dkxYOTFsbklNcy1OR2VSMFh5bmpHVXFsajZIZ1gzMFdSX1BhODVOY3NTS1pIOFJoOFFxZlJEYTIyXzlyZWpyRTJYMFV6Q1Buc1pFc1JtVVhrS011TUNlNkZVSjROWklq?oc=5",
           "pub": "Mon, 12 Oct 2026 08:04:00 GMT",
           "source": "The Motley Fool"
+        },
+        {
+          "title": "RKLB Stock Jumps Overnight: Rocket Lab Doubles Down On ‘Responsive Space’ Push With 4-Complex Launch Network - Stocktwits",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNemZfQ3Z3UC1WNllzemNpeDBzcEVhSHRjbks0RFh0SWpHNmFKRnFUTWt6U3Q1OTgwMUNzb0VQZXByQlVWT2RpNEVEeWpKb21MVHo0SDRBWm41RHBvY1VEVkJGM20tempKMm90OGtZeXBORDg4WEQzMWZpYlloT0pVckZlVFNpXzR1MVA5MEZ3LS1QMXlQQzlLSi1xTlBaUGliU0k5ck5rYklWU1VMWUxzN0dZcGpxdw?oc=5",
+          "pub": "Tue, 13 Oct 2026 10:29:32 GMT",
+          "source": "Stocktwits"
         }
       ]
     },
     {
       "symbol": "IREN",
       "price": 34.8,
-      "prev_close": 35.189998626708984,
+      "prev_close": 34.79999923706055,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": -1.1082655354609214,
+      "day_change_pct": 2.1923547902562318e-06,
       "drawdown_pct": 54.72876446391521,
       "name": "IREN",
       "news": [
