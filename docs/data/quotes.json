@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-10-14T15:30:37.978546+00:00",
-  "updated_at_display": "2026-10-14 15:30 UTC",
+  "updated_at": "2026-10-14T16:00:48.210082+00:00",
+  "updated_at_display": "2026-10-14 16:00 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 222.98,
+      "price": 222.645,
       "prev_close": 228.52000427246094,
       "high_52w": 243.37,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -2.4242972907770843,
-      "drawdown_pct": 8.378189587870327,
+      "day_change_pct": -2.5708927720201897,
+      "drawdown_pct": 8.515840078892218,
       "name": "NVIDIA",
       "news": [
         {
@@ -21,35 +21,35 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "Not Nvidia. Not Micron. This Under-the-Radar Artificial Intelligence (AI) Chip Stock Could Be the Biggest Winner in 2027. - The Globe and Mail",
-          "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNTk9VQmtCMjQ0UUpYQ25CVnJTNWNTeUJnd1JNZG9hZ3Z1NEEtd3doSUY4TjFyM2RhMGJURUFfTC1rR0txWXNITFNpY0cyN0VqOE1RUHdVX1E5eFo3Y24ycmNmeVpuTkNwakFyZFE5dVVzYnN6eXd6cUE1ajRmV2tIQXUwQW5wMVFKNjlETTJka1RKTEtUaWkwaFVLaDBIUGNMOWotcnJNNmlhdGZkYkRjV09pWFltWnVVMi00eG5HMl84SE5VVW5UeHFpb3lnZ2lOZzRHU1A2SzBNZzdoYnZxQ2VMVm0zRkNERkwtSFlWOEQ4TFhTMmQwQkpPeVhRanFheUVGS1pGaEpRMk9yWnRVQkMtYVZMZHNEMU1jWVRRWFlJMjlad2E5VA?oc=5",
-          "pub": "Wed, 14 Oct 2026 14:56:12 GMT",
+          "title": "Why Nvidia Stock Is Up Even as Microsoft Launches the Maia 300 - Barron's",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRkt5Y3pFZXJHTFMtVjBsRS03eGdxUkFudlQwQ0JUWjlRT3JHOWxnMXlNaE9vOHhLTUdGWVNMWDFibUhzSDdielo5OThVbU85bTBMdllNZXJYSFNScVZrdEVkYVZSUlVfVGYyS29BR1dwMVM4c1E5eE1nc0JhTy1uRTFXRVZFeEFLNmpmOQ?oc=5",
+          "pub": "Tue, 13 Oct 2026 18:53:00 GMT",
+          "source": "Barron's"
+        },
+        {
+          "title": "Nvidia: The Share Price Already Assumes No China Data Center Sales (NASDAQ:NVDA) - Seeking Alpha",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTXpVZ1JyZ1ZHeGhlMzNsRWFIZTY0bDhUenlJWHdKOVUxTV9EOFRHSVkwUEFhbDIxODN0QjllYVdJYmxHUS1Rb0t6TlE5RThfSmtVSVBudGdDYkpFckdZV296NUE2WElTN085RllnbXo3SDlXaVpDbzdxUkx2dFBLMGZOQThWVHZHOVhqR2hWdUhrR0dPVlM0ZVNLdTRuVkZjclYzc2tlUmNuZw?oc=5",
+          "pub": "Tue, 13 Oct 2026 13:15:00 GMT",
+          "source": "Seeking Alpha"
+        },
+        {
+          "title": "Broadcom vs. Nvidia: If I Could Only Own One for the Next 5 Years, It Would Be This One - The Globe and Mail",
+          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOVEhsckU4UHdVSkpqZENjTkk0Mi1JaEgxSG1fd1F0VGZraUo5ZFFYZ2QxWDZpYjZaMFczYkNNdlUxaHBNNmRNQXViMU16MHJGaDV5TlMtSXRURGFQQ1dzNGdMdWhoZE4wME4ySTJ1SFFhdnpoc2EzUHB4N3RCakxXVnVtbjJfM19EV2JzcFdPYjRkVmVzYmtvVUEyaXZmdV8weDJ5X0VoY3VRM21KVURFVGluNnprVW1TZ0g3VF9QZ0V4M0ViZG1XSXlwem5nSjl4eTFFdG10MjFvMHE4Q2R6aUh2QmZwS3p0Z2dLQVlqcGxJVm1rNnAyb3pTZ0dKQQ?oc=5",
+          "pub": "Wed, 14 Oct 2026 15:47:35 GMT",
           "source": "The Globe and Mail"
-        },
-        {
-          "title": "Palantir Billionaire Peter Thiel Buys 2 Brilliant AI Stocks (Hint: Not Nvidia or Micron) - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOT2hNYmE0WE1RQjBsSEpIb2dCWFRPRmhPaVR3aVJsVnJGXzA3a2pMREhnc0tQZ0tNVHpJVmc2UmZXSU1XdzMzV19QeXpvWFZOQm9qQ01waTVaY2UtYWwydE03SHlHVU9vQnhCWVRCckdUQVN1QUtkYzRuUDk3SWtheGRrbWhzSzN4OUlhN19EMHFDVzdHZVVna0paMDRKd3NSVFlF?oc=5",
-          "pub": "Wed, 14 Oct 2026 09:08:02 GMT",
-          "source": "Yahoo Finance"
-        },
-        {
-          "title": "Dear Nvidia Stock Fans, Mark Your Calendars for October 13 - Barchart.com",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVUxJYU5oQ2JZVEJLbW5fSzBuVG9NcGx6eVpSaUlDbWRjT2x6OXd5VEozLXVZTExmQnlRdDY2Z3MtZUJPcGZEZll5ejhWTFBMaGJURDVEWjNPekpKdS1iX1BfLVM2T1BKQzNUSEY2dlByQzRxZ3FkbmQ5NlpKdWpfcXdjNTBwcEVkU2RrUUZ3RDd4V0FVUzY1T1FaR2k1OFRZUm1J?oc=5",
-          "pub": "Tue, 13 Oct 2026 11:14:57 GMT",
-          "source": "Barchart.com"
         }
       ]
     },
     {
       "symbol": "META",
-      "price": 742.81,
+      "price": 738.925,
       "prev_close": 762.5,
       "high_52w": 779.8200073242188,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -2.5822950819672204,
-      "drawdown_pct": 4.745967912673916,
+      "day_change_pct": -3.0918032786885306,
+      "drawdown_pct": 5.244159798431055,
       "name": "Meta Platforms",
       "news": [
         {
@@ -80,20 +80,20 @@
     },
     {
       "symbol": "AVGO",
-      "price": 348.81,
+      "price": 348.41,
       "prev_close": 357.30999755859375,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -2.378886014013607,
-      "drawdown_pct": 29.533333333333335,
+      "day_change_pct": -2.4908336232977226,
+      "drawdown_pct": 29.61414141414141,
       "name": "Broadcom",
       "news": [
         {
           "title": "Chip stocks slide after ‘casino’ comment by Broadcom boss - Financial Times",
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUEdnZjlUNktHX2ViUVRqZHd4ZmhjaXdkd0NMR3BVLUp6akpVOUFabEljcHk4N0wzRDloZXhuQklwaVUwWjNYSFJnYkhzQ0RQNzZFZXh6VFh2U0hEZ1FybXhxNUQ0WTVLbXZydHM4REVRLXVVbHpsd2Rnc0M1MnVMMlVJTVc?oc=5",
-          "pub": "Tue, 13 Oct 2026 02:58:54 GMT",
+          "pub": "Tue, 13 Oct 2026 02:59:46 GMT",
           "source": "Financial Times"
         },
         {
@@ -103,29 +103,29 @@
           "source": "The Guardian"
         },
         {
-          "title": "China’s CXMT and Broadcom’s CEO Rattle Chip Stocks: Which Fear Matters More for Micron? - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUmtwQ09OczU3ZWhncUhFNHM0VDFOTnFHV25wcUYxN3FQek8xRllqd0VkRDJLSjQ3TW1vVXBLTmZnMmZuMVV2QXptZUtNbUhXeERMekh1VDB1V2c2QWIzLXNrcGt1RXozSkN3WHdZalN0Q185bDlYWkJSSUI5SHhaaWs0eG1xOGNsNHljVUhxaFpabHYwU2ltSGtHSQ?oc=5",
-          "pub": "Tue, 13 Oct 2026 17:37:56 GMT",
-          "source": "Yahoo Finance"
+          "title": "Advanced Micro Devices Stock Surges 183% YTD: Time to Hold or Exit? - The Globe and Mail",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPTURjajB0VUpOLUNMT1FtZzIwLWJkbHUwLVpvUm5rWXhyc2p3X0g2RjVOYXBWV2xEWEdfbmNuVy1OeXdxMG5lUUM1M1F6MWFURVJQYzEzUUpTWG5oZC1lbkdSaloyQ0VMT3lZYktrTzgtODJFLTJ4YmlocDhWUURyd1VxSDNLUHFSaXQ5VXFUS2JydzFnMFpUUnFOaUdac0pPMFMybi13Y2dnWGFNeTBWal9aZ2czc296RHVwZDhWV0RNRC1KZllfTFlERXdIOXRIVmN5LUFLdE14d3ZmajlzcUUyUQ?oc=5",
+          "pub": "Wed, 14 Oct 2026 15:53:22 GMT",
+          "source": "The Globe and Mail"
         },
         {
-          "title": "Marvell Is Up 214% in 2026 While Broadcom Is Only Up 3%: Take Profits on MRVL Stock, or Hold On for the Ride? - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOV2VRYVNrUUp6MG0yUzdWOHhTMVA1UWF5dndUZm82d182bjNMYkRvZGN6azZhOHhSNG5aSTV3WDFfeWVoakZyakVVM2trRTF1WTE1dWQzNVMxYmdJQzNfTDkxblJJZURheHNmZFlTVG9HWGdKdnVtWi1CQlJsUzBEUFdqbV93TzVrRkRFMzBRVjhmNnZTSEM4UjVoQnY?oc=5",
-          "pub": "Tue, 13 Oct 2026 19:00:11 GMT",
-          "source": "Yahoo Finance"
+          "title": "Broadcom vs. Nvidia: If I Could Only Own One for the Next 5 Years, It Would Be This One - The Globe and Mail",
+          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOVEhsckU4UHdVSkpqZENjTkk0Mi1JaEgxSG1fd1F0VGZraUo5ZFFYZ2QxWDZpYjZaMFczYkNNdlUxaHBNNmRNQXViMU16MHJGaDV5TlMtSXRURGFQQ1dzNGdMdWhoZE4wME4ySTJ1SFFhdnpoc2EzUHB4N3RCakxXVnVtbjJfM19EV2JzcFdPYjRkVmVzYmtvVUEyaXZmdV8weDJ5X0VoY3VRM21KVURFVGluNnprVW1TZ0g3VF9QZ0V4M0ViZG1XSXlwem5nSjl4eTFFdG10MjFvMHE4Q2R6aUh2QmZwS3p0Z2dLQVlqcGxJVm1rNnAyb3pTZ0dKQQ?oc=5",
+          "pub": "Wed, 14 Oct 2026 15:47:35 GMT",
+          "source": "The Globe and Mail"
         }
       ]
     },
     {
       "symbol": "AMD",
-      "price": 580.45,
+      "price": 577.595,
       "prev_close": 605.530029296875,
       "high_52w": 658.52001953125,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -4.141830806640127,
-      "drawdown_pct": 11.855375268138701,
+      "day_change_pct": -4.61331857138652,
+      "drawdown_pct": 12.288923211302565,
       "name": "AMD",
       "news": [
         {
@@ -156,20 +156,20 @@
     },
     {
       "symbol": "RKLB",
-      "price": 61.43,
+      "price": 60.76,
       "prev_close": 64.22000122070312,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -4.344442802351878,
-      "drawdown_pct": 59.317880794701985,
+      "day_change_pct": -5.387731477631455,
+      "drawdown_pct": 59.76158940397352,
       "name": "Rocket Lab",
       "news": [
         {
-          "title": "3 Reasons Rocket Lab Stock Could Double in 2027 -- and 1 Reason It Might Not - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRVVpd3VLbDAyT2VmZnFNd251MG1QbDZ3WS1Bbk40a0szY3FEOUV4TWduTWo5QlhocTNUUXIyLXRaaXJaVThTb09xZ2NicXJNeXhwNGpiSEZPXy1TRlhDbXhsQXRRbk4zM05xSXk5TEZRdG9laHFGNnh2TFZnSEtjeEl5dkdVMXpLUnlHMVBiVHhUMENBbXc?oc=5",
-          "pub": "Sun, 11 Oct 2026 15:50:00 GMT",
+          "title": "Here's Why Rocket Lab Corporation (RKLB) Fell More Than Broader Market - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTm14N1E4VmdzM09kaFU0Zl9pXy1qd0ctQXZSOE5pZEIxMVlvNFk0VklZa3BmNlU4THdXb3ZaTG9PVUR2elpGQURQNDhja1FpT1JKNEwyblhsZ1RYNEJkUTZDMjhVY3ZGTEdXOUh6U1JWVDZJQWp4NXpNRFFVTS1BNV82R1hEb1pGcE5oaWdMcnVKQ0ZZNGNnYlFjdzhxZw?oc=5",
+          "pub": "Tue, 13 Oct 2026 21:15:06 GMT",
           "source": "Yahoo Finance"
         },
         {
@@ -179,29 +179,29 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "Should Investors Buy Planet Labs Stock Instead of Rocket Lab Stock? - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWFhXUUF6b1haWjB5Q1JzX21MSnp3dG9PNjYwTk82ZWhwVEVrcHdTRTlGOFVVYi05TUczSHhINzVBMF9pQ05DV293T2NvMDFMamhSWDRnZmxmLVNudktqTzd5X2dzVVRjQmt6VEEwRllISFdJMnZiUFZaakdLcWZHT1FRbVZ1Ri01R2prcG0zOHV0a0tjMklZ?oc=5",
-          "pub": "Wed, 14 Oct 2026 04:42:00 GMT",
+          "title": "AST SpaceMobile vs. Rocket Lab: Which Space-Focused Stock Is a Better Buy in 2026? - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQTlSR3J3V2lSeDdDNXJFWjFzTFJlcGdYbDFJYl82UGxFb1o2ZWM5bXVfRnFfMVlLV2tKQ3RhTEdROE5zdFJibmxGT3N5blFzYWd6SlRGaTV4LUlIYW4xZWp0ZThPLVd5MVFjNVZOU3Fmd0g1WDNEWV9OTHdDZndBN3NpQTZIZllJdzNRbVVPbnVQNjVCOS10ZmV6MGhYZVp2WUpuOHRHQy1vellER2t6bnFfUXJQejdjVktGU2h1b3ZaQVg1OENreTB3WnM?oc=5",
+          "pub": "Tue, 13 Oct 2026 21:22:00 GMT",
           "source": "The Motley Fool"
         },
         {
-          "title": "RKLB Stock Extends 4-Day Rally Overnight: Rocket Lab Lands $397M Deal To Track Airborne Threats From Space - Stocktwits",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOb05jTXdVNmh5eXRYa2k4eHkyX0tINzhGcXQ0SndaQlh4a3QwNFpkZnlpN04yV2dRNUNtUmV0YlVNV1llY29XRlY2U0dEQ3lndzREMnVnVjE3b01SRFNxcmFTOV9ZN0V3ZjRHY3B6eTFzb09lbmxsYVVoeUdJRU1nWlJ6TlY5VGZITGFDa1dibzV5UTI3dmx5RkxCYWxtTXc2S25CRURxaUhKUQ?oc=5",
-          "pub": "Mon, 12 Oct 2026 05:16:10 GMT",
-          "source": "Stocktwits"
+          "title": "RKLB Stock Climbs Overnight: Rocket Lab Targets 12 Hypersonic Tests As US Pushes For Faster Weapons Development - TradingView",
+          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPeXdOMVE5VnhfaW9SSVJDcVRYX0cwOWNVa1l2OXNjM2dkRmpoelo1WkQzTFp1NDdSOE9SZ01YWWZ1c0RzMkZkb21QSVlTcjV4SFlpOFBXU3dCQWNQbkx4LVhMTGItdi11ZE5sSzhHZU50QTF6SGFtZEhPbzdEbDNMaDBia19QUFhHMTlKbzNPQnhaQVhzR19WRjFvMnQ2OFBCRjRRZHF3Q0pUZG82YkNhZkpQd2pMb0xpYnNYMzhuOW5UQlMyamVNb1REUWhVekRGZ1hUX0UtTnBvelFCMU8xTTJUd3FmbjNOdVZURWxnTGdYcnlMclNTb3hyYVRjek1Z?oc=5",
+          "pub": "Wed, 14 Oct 2026 03:04:00 GMT",
+          "source": "TradingView"
         }
       ]
     },
     {
       "symbol": "IREN",
-      "price": 31.578,
+      "price": 31.37,
       "prev_close": 34.79999923706055,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": -9.258618700282192,
-      "drawdown_pct": 58.92025644372168,
+      "day_change_pct": -9.856319862811205,
+      "drawdown_pct": 59.19084313887988,
       "name": "IREN",
       "news": [
         {
@@ -299,9 +299,9 @@
           "source": "TradingView"
         },
         {
-          "title": "SB1 Markets cuts price target for Invisio to SEK 295 (315), reiterates buy - www.marketscreener.com",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMHFhY21HUzBCR09odk16UXBvRnNqYlhqNmxQVEZaWjAxMm1vX2dKVWxwLURqd0JUckNBSmdqTUVNejJ0RmRGSHZiRGhQQThVek9pRXF3cGJzUGw5cmVuQ292cENsZUZoazZzLTJjZWdsdWpRbDNCaU1vc28yTm1VQy1WcFF4M0RKQ0dLY0pCNmRfUkxvM0lZSEd6ZU10VHJCOUprVDR2bTVEY0hHSmhFbVFRY0FSQUtCTXVpMVBoYXVrQQ?oc=5",
-          "pub": "Fri, 02 Oct 2026 07:00:00 GMT",
+          "title": "PDT Partners takes new public short position in Invisio - www.marketscreener.com",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQ1FBM0xuY0phZkc5djAxNFZDNFc5cVRNdUJ2XzFDUjBLdVpMeU5ld2JGTk1FN3ZSVHpIclBaelhFbEllVUNjMktLWjhyRFhNM0FIcE1CQkRZYUxoSlRYd3RZbEt5ZW42Q1gybFdDX3NqMUR5dFB6a0xCTzY2MjlYTlQzcFdBaWRiT0JoT3RVSzlmdGJ4dFRsbWl4a25WQ3ZhUjN5eGpNM2ItZzhy?oc=5",
+          "pub": "Mon, 05 Oct 2026 07:00:00 GMT",
           "source": "www.marketscreener.com"
         }
       ]
