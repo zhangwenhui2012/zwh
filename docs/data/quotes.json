@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-10-15T17:30:38.001418+00:00",
-  "updated_at_display": "2026-10-15 17:30 UTC",
+  "updated_at": "2026-10-15T18:00:48.196757+00:00",
+  "updated_at_display": "2026-10-15 18:00 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 217.445,
+      "price": 217.925,
       "prev_close": 221.3000030517578,
       "high_52w": 243.37,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -1.7419805687287806,
-      "drawdown_pct": 10.652504417142627,
+      "day_change_pct": -1.5250804361572705,
+      "drawdown_pct": 10.455273862842581,
       "name": "NVIDIA",
       "news": [
         {
@@ -21,35 +21,35 @@
           "source": "CNBC"
         },
         {
-          "title": "Why CoreWeave stock panic matters to Nvidia, explained in under 30 seconds - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRzVES1hFdko3MUN3Z1VTa2JvM0N4ZVpnbXdyV19lTmZ2eHY4U2ZsTFZHN0ZIQ25LWkhCb1hmT2NkeER2T1Btam9EQ25vZWJ0cGpNNUc4OVVlOHg3bUF4d0dSckVPbGk4VkRhSkExNE1FekljQm4xMXJLeVBGWW5QRV85UmllTXBpM3JtbVZ3eXh5ZmlqSGhFX01RTHRzTTNNRzhSeTBqaTBHeWI3YUNfNUxnMlZoZWRyM01OXzFWMlBocWYxVXBqM05hU2dkTWhaWVYw?oc=5",
-          "pub": "Thu, 15 Oct 2026 10:32:34 GMT",
+          "title": "Nvidia CEO Jensen Huang addresses CoreWeave stock plunge: 'I'm optimistic' - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQU3RweTh1THdrck1qLURYMnJEVW03ZzdxNTIwZTVRVjV3MS1YM0E1V2VOblNmdzIzdUU2RXRVSGx3WGV2XzhudDVWeHo3REtZaHRyWk94ZDBrSzhoTy1RRWROaUxIcXZnQmdkRW5OWVVOdEJzQjN1U3pQZmdkVElaWEwxbkxDbndxalNabnV4MHYxSGYtTVdIN3VjZ2ZYVExQc2gyLXlxV0ZfamNMWWJCQkhaSFhqemhZeUJxOGxNYWYxYi1Rb2c?oc=5",
+          "pub": "Thu, 15 Oct 2026 16:15:04 GMT",
           "source": "Yahoo Finance"
         },
         {
-          "title": "Nvidia and Other Chip Stocks Face Renewed Pressure as AI Fears Swell - Moomoo",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNnAzTHUyMm1aNmxiWm9qcjRHRjR2WS1QSUhZcEpLdktGMENTT3NEamhxSmhDYUlqY3kzdG1QZ2hyVzhCZ2lXWkRIeHpPenhsemNrZWNZMk53a3ZQYW4zaU1hZU1RQ0NXZ2RLekI1Z1RaS1RQZGNsS2FJVXp3TllFR0xTMnozUDhPa1BiN24yTUlVcWV6d2tnM0dWZUxfREJBU2c?oc=5",
-          "pub": "Thu, 15 Oct 2026 17:00:38 GMT",
-          "source": "Moomoo"
+          "title": "Nvidia’s Huang Says CoreWeave Doesn’t Need a Backstop - Barron's",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSk9TQTJodzlYbzRfUlVmU2dvbUstbGZqbWJrV0RPX1E2ZWk3WXFTcnVPNWxrS19oZTdBX3FHaG93eEQ2Vi1QQU9lcnAzaVBqQVNVWTdMcE9fekZPRlZwY294ZHhfbmpjZGNIekl5aEFzSzVlYTBreHp1RXM5VVhiVGtWcU5uRFZ2eGpWUkhR?oc=5",
+          "pub": "Thu, 15 Oct 2026 16:20:00 GMT",
+          "source": "Barron's"
         },
         {
-          "title": "Nvidia CEO says CoreWeave needs no backstop as shares extend slide - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNd29MMVpPV01CVENucU1jT2pXU3AxSnZPN1VoQkdyeTJvSzh3bFVaUzc1bGtrc2JGd0E2TXUwamVMR3NWUFVDWGZpUllaVEhYVS1ZeE8xMVp6YWVEcGFnMEhJYmtCdk43WFhGc1B5VDlrSmN2QVE5MmtSLVUyZklFSUJFM0J1T3BZMnJqZUpwRWVkaFZlM3VjdzBiOA?oc=5",
-          "pub": "Thu, 15 Oct 2026 16:27:23 GMT",
-          "source": "Yahoo Finance"
+          "title": "Nvidia and other chip stocks face renewed pressure as AI fears swell - MarketWatch",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdzFZUlhsa21xa19DOXJyb3plbFQ1ek53ZF81bXdhOWJwcURqN043VktFUjBjYzVoWndQai1Dd05nUVo5N0xvejRJWGtyWi1McmRXTmFqS0tsWDV2LW96bHZISnpPY3FaVXNLQVdXV0ZnZWhRc0RKajN0MmpfamQyM2dHSkdEZ1JycTJLdmI0LU5EZTRMYXdMVENTcVBlRTBBQmJ0cjg0a0E4MjlMRU9aczNtVHRIdnh1NWc?oc=5",
+          "pub": "Thu, 15 Oct 2026 16:55:00 GMT",
+          "source": "MarketWatch"
         }
       ]
     },
     {
       "symbol": "META",
-      "price": 741.97,
+      "price": 740.895,
       "prev_close": 737.5399780273438,
       "high_52w": 779.8200073242188,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 0.600648385800727,
-      "drawdown_pct": 4.853685077161936,
+      "day_change_pct": 0.45489357493945193,
+      "drawdown_pct": 4.991537400762695,
       "name": "Meta Platforms",
       "news": [
         {
@@ -65,29 +65,29 @@
           "source": "TipRanks"
         },
         {
-          "title": "Meta Stock Just Scored a New Street-High Price Target. Here's Why. - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQejhlRkJYY0IyeWZqMjBWZ1pMSjkyQmtOWEtDeG5GTUhRQ2hPTUE4NWRHSlQwZldWY3pUYnVvWUxzcnBneW1vLXRvNnh0VVhfMy1ybWxYX05BeWFtbkFMU2RCT0V0blA4YVBUeWVXWWRvekxGYWVrOHk2cTEwdFJ4TUs5eU10Tl9tUHpEb01ZVHJEUW9fc19wVC1n?oc=5",
-          "pub": "Tue, 13 Oct 2026 20:10:57 GMT",
+          "title": "META, TTD, SNAP, GOOGL, BMBL, WDAY Stocks Get New UBS Targets Amid AI And Ad Shifts - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORGNNOXM4bG5laDJkTnQ2d0NqbURmUVYxdTRNbzE3SWxkSHlZR1JldlhDZEd6Yk9keEJFUjAxQjJHakI1SkR3QTZQcTR4aTIzX19SVERHYjZ2Vl9yeVktODhEVTdPcEVmQVc4QkFuTDNJZkNidmF6UG5sdmhIMXNKaWZiOU9nNjBlX0twZFYwXzFiYW1iZk0w?oc=5",
+          "pub": "Wed, 14 Oct 2026 13:11:44 GMT",
           "source": "Yahoo Finance"
         },
         {
-          "title": "Stocks making the biggest moves midday: Apple, Meta Platforms, Bumble, Fermi, Goldman Sachs & more - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQWt3a0dkRnRqbHdfeGdDcXdLUXBmSDlKeGJKM2dsWHB4b0hkRlZRYV9NRC1veTY4Rmc4WFpxcThCMzh5eVNOMkl1dHNxc19xS1BVa2JCS0s3Vm1TQ3ZfYjVPLXIxU3lzczFvMl9HeXJydm1Dcmtld0VvUzdURzRMYWtjRFJZTER5S3VhZVE2bUNSMFV0NnNrRWhZeWE3cXc?oc=5",
-          "pub": "Tue, 13 Oct 2026 16:25:50 GMT",
-          "source": "CNBC"
+          "title": "Meta Platforms: Muse Wonder Exposes The AI Trade's Biggest Disconnect (NASDAQ:META) - Seeking Alpha",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNnl6WVlSV2RBbHVlZmNCZXFlbUtBQnppSnJTbXdSTTl2V1FhODQ0NWpfbXU0LWtiTVQ3RkhUMnRFcnpPZFVXZXViRjRwb0dlbjBITTRqTXlRSmNGYUhiWnJ0RW9yUVZIcDh4dnVBWi1VR0tPT0QxSlI3endxaU5NenZaNTIzV2J5STdRQ1VfbTF1NUt1OXlXZnVVNHo5clV5SWh2Y2RXN0dxZmc?oc=5",
+          "pub": "Wed, 14 Oct 2026 15:34:54 GMT",
+          "source": "Seeking Alpha"
         }
       ]
     },
     {
       "symbol": "AVGO",
-      "price": 339.68,
+      "price": 338.91,
       "prev_close": 346.25,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -1.8974729241877237,
-      "drawdown_pct": 31.377777777777776,
+      "day_change_pct": -2.119855595667863,
+      "drawdown_pct": 31.53333333333333,
       "name": "Broadcom",
       "news": [
         {
@@ -97,16 +97,16 @@
           "source": "Financial Times"
         },
         {
-          "title": "Broadcom And 2 Top AI Chip Stocks To Watch - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdjEyT0ZOWE53bERLck1BX0trV0tkbEpXUm82ZFRoRVJXZ3dXNmJONVJSazBSdy1QQi1teG9XNVAwdzFSRFNONTZJR2p2WFJnLXlYQVdnczdBVENqbkRsRWVlbm5STEFGbWV3c2NHMndSd212cUYzUmJvMU50VXFFMVRKMmxNcjlKaGl3cGpLVQ?oc=5",
-          "pub": "Thu, 15 Oct 2026 03:17:00 GMT",
+          "title": "China’s CXMT and Broadcom’s CEO Rattle Chip Stocks: Which Fear Matters More for Micron? - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUmtwQ09OczU3ZWhncUhFNHM0VDFOTnFHV25wcUYxN3FQek8xRllqd0VkRDJLSjQ3TW1vVXBLTmZnMmZuMVV2QXptZUtNbUhXeERMekh1VDB1V2c2QWIzLXNrcGt1RXozSkN3WHdZalN0Q185bDlYWkJSSUI5SHhaaWs0eG1xOGNsNHljVUhxaFpabHYwU2ltSGtHSQ?oc=5",
+          "pub": "Tue, 13 Oct 2026 17:37:56 GMT",
           "source": "Yahoo Finance"
         },
         {
-          "title": "Why the chip stocks wobbled - Axios",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8tZnJqNldwazJQeEM1MEY5bllDUlpCZ0k5T19YNVcyTHN0MkpDVTNGOEFxaU00cjRmSGwzbnFWVkJTZ1ctSjFlWEp2YkEyUWw0V2tRcDRISW55OXBJbmZveXpVeFhtb09hUmkyREhoT0dWb2c?oc=5",
-          "pub": "Thu, 15 Oct 2026 03:22:01 GMT",
-          "source": "Axios"
+          "title": "Broadcom CEO Hock Tan Echoes Warren Buffett in Warning About \"Casino\"-Like Investing - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRVZpbE5rcG15SlJXbzEyRkVCZVlNSEFreGt6ZGI1T1ZFYU5aNG41VXZlRGR6aEdDOWhmdnJvbFNEQVJfemc4REl5MTM3bUlJS1VjVVYweEtBM0czUXFlRkx0Z0tsVGVjQ1U5UE1TdndDT252SWVreG50aGc4SGdpanNMOFhZYnppX0h4MDFHYw?oc=5",
+          "pub": "Thu, 15 Oct 2026 17:38:56 GMT",
+          "source": "The Motley Fool"
         },
         {
           "title": "Broadcom vs. Nvidia: If I Could Only Own One for the Next 5 Years, It Would Be This One - The Motley Fool",
@@ -118,14 +118,14 @@
     },
     {
       "symbol": "AMD",
-      "price": 549.33,
+      "price": 554.16,
       "prev_close": 570.8200073242188,
       "high_52w": 658.52001953125,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -3.7647607036332644,
-      "drawdown_pct": 16.581123776460732,
+      "day_change_pct": -2.9186095635144937,
+      "drawdown_pct": 15.847660881370917,
       "name": "AMD",
       "news": [
         {
@@ -156,14 +156,14 @@
     },
     {
       "symbol": "RKLB",
-      "price": 52.99,
+      "price": 53.43,
       "prev_close": 59.18000030517578,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -10.459615196444012,
-      "drawdown_pct": 64.90728476821191,
+      "day_change_pct": -9.716120776486202,
+      "drawdown_pct": 64.6158940397351,
       "name": "Rocket Lab",
       "news": [
         {
@@ -194,20 +194,20 @@
     },
     {
       "symbol": "IREN",
-      "price": 29.11,
+      "price": 29.475,
       "prev_close": 30.559999465942383,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": -4.7447627332531095,
-      "drawdown_pct": 62.130871653579646,
+      "day_change_pct": -3.55039098463192,
+      "drawdown_pct": 61.65604403947991,
       "name": "IREN",
       "news": [
         {
-          "title": "AI Cloud Stocks Sink as Gartner Warns Most Neoclouds Won’t Survive Independently: IREN and CoreWeave Fall 5%, Nebius Drops 4% - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYnFZV2hjTndaSmdSa3ZramUxSUc2M3VLUm53Y1dGRkNwanhfd1ZzQjhxYklQRXJhU3c5a2lSNDBHWHQ4ZDl5SjJQMHg0Sld4Sm14UFVRR3BmV2E3WjNQOEwzVE5wWnhOQV9FOXJTTkNaamJrenllWTZQV21tTV91eUJBUktySFBxd1BTNFVqbTdyd2Y0cVVkMg?oc=5",
-          "pub": "Thu, 15 Oct 2026 13:34:16 GMT",
+          "title": "CRWV, NBIS, IREN Stocks Tumble After Gartner Forecasts 80% Of Neocloud Market Will Cease To Exist By 2030 - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNb0Nzd0NUZENHOXo5YTYyYUtYLVdhWktfcDRZd0dPTnh0dndMREsxVmV0aWcxWGpocmhfNHFpOGwtTXlSMW9MbmpMbHNkdHNzTDV3Yko2aHVMZGp2OHNsdWxxd3N6ck1PZnFPSlRaWVpVdzV6OWFZVExOQlJ4eXYzWjZER2hDUHZ3NUJEZ2R6anRTRWNxSXJN?oc=5",
+          "pub": "Wed, 14 Oct 2026 18:10:12 GMT",
           "source": "Yahoo Finance"
         },
         {
@@ -217,9 +217,9 @@
           "source": "24/7 Wall St."
         },
         {
-          "title": "Why Is Nebius Group Stock Falling Tuesday? - Benzinga",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQndEUkdyam80RnY2a0N2YklrUElDOHBQV1VSNmJ1akxOUUJBLTd5OU1PQXo1TEM0anRLZ3F6aUFQNUhKZnFRZDVWakFqaWl1NU5zbWN5X3hrcWhid3c0Wjd5Q2ZJS0tKekkwSFBQUEZOWVFGRnE2d1RTQVk0MVN6a2lCOTlTNDU1Mklla195cEVQZXdEQm5zejJWZlBUczB2c29VSw?oc=5",
-          "pub": "Tue, 13 Oct 2026 14:16:39 GMT",
+          "title": "Daniel Newman Says ‘Grown-Up Move’ For Neocloud CEOs of CoreWeave, IREN Is to Buy Their Own Stock, Like P - Benzinga",
+          "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQWHBzZWhnVTB1VTU2Wk93RWpNUnhERDQ5TEx4YXJlUHlUdGlGajNMYzlucWpMc1FDbnJtX1I3VWJzRS1qQUpOdmNnLWhwd2NYdnprLXhET05ROE54WDFJU2dWWGs0aUZfcTBPNS05OFM5M3lIQXNvM3d3Qkc5MVlUZnY4TUYxUGltMFVGV1lSRXQtTWdKeFZnQVJhcUE5ckJmcjNGTzczSm9xMDZxTHA2aHY3V01udTB2RHBFclpGbmk1TWpaajVsaURPV3BuR2s2cUtnblhzUVJNTVVfRkFoUUY4R1Q4OUxZTGZJaUlpai1SRkxmM0RWY3BlOGpWbXhna0loSVhnXzZJMnVEMldsdUlDSDRWSndNOEltWQ?oc=5",
+          "pub": "Thu, 15 Oct 2026 08:29:49 GMT",
           "source": "Benzinga"
         },
         {
