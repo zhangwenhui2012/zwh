@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-10-15T19:30:40.658173+00:00",
-  "updated_at_display": "2026-10-15 19:30 UTC",
+  "updated_at": "2026-10-15T20:00:43.477188+00:00",
+  "updated_at_display": "2026-10-15 20:00 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 217.585,
+      "price": 217.23,
       "prev_close": 221.3000030517578,
       "high_52w": 243.37,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -1.6787180300620856,
-      "drawdown_pct": 10.59497883880511,
+      "day_change_pct": -1.839133753109767,
+      "drawdown_pct": 10.74084726958952,
       "name": "NVIDIA",
       "news": [
         {
@@ -33,23 +33,23 @@
           "source": "Barron's"
         },
         {
-          "title": "History Says Nvidia Stock Usually Rises in the Fourth Quarter -- It Has in 20 of the Last 27 - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTGhzSEMtZHZhSjJQVVNCeDFIX2FhRHE5TnQ2ZlJzOTV2UjZrNUltY0dFckdnYnZ0NkNoZzFhalJXMnJZeG96T3BXUUE2WUxGLW1rZXYzUzNHUng2c0NTend6UHpJaFNhcENvdS0yc25PTkYtaFItbXo5QjdUSHE2YnU1TmEzaW1SM2pCUjEwOE5NdmZTazZpTlVlNUdaTXhlTU9uOFRBUGxwMVpndEFEZDdBdjE4ZU0tbDJSTzg1SnFmU1J2NTM0aUU0SEU?oc=5",
-          "pub": "Thu, 15 Oct 2026 00:51:00 GMT",
-          "source": "The Motley Fool"
+          "title": "Nvidia leads chip stocks lower as AI trade takes - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOHlfaC1zS3lncTY1VlI4b1lqX0F3UVNNeEV2d09iWHY4NE54dnNmeTctVHRLaEFhSzNDUU1KZC1FQWFOM1MtdWJxU29FNjdzMEk4Nzc2ck9NNDJoR29uOTE2blFHWGc0Sm50VkFHdG43NEUzS2hvbGwySkJjV3o5S1AtNEx2Q2NwN3ByeGZuVW1jWUQ3OFZEUUp6T3dRVWppUWVJSFF6RWxDOGdfeWk0bHVONng?oc=5",
+          "pub": "Thu, 15 Oct 2026 13:42:37 GMT",
+          "source": "Yahoo Finance"
         }
       ]
     },
     {
       "symbol": "META",
-      "price": 734.845,
+      "price": 736.72,
       "prev_close": 737.5399780273438,
       "high_52w": 779.8200073242188,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -0.36540094200070716,
-      "drawdown_pct": 5.767357454515766,
+      "day_change_pct": -0.11117743468454028,
+      "drawdown_pct": 5.5269173552121265,
       "name": "Meta Platforms",
       "news": [
         {
@@ -80,14 +80,14 @@
     },
     {
       "symbol": "AVGO",
-      "price": 343.3,
+      "price": 344.33,
       "prev_close": 346.25,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -0.8519855595667838,
-      "drawdown_pct": 30.646464646464644,
+      "day_change_pct": -0.554512635379066,
+      "drawdown_pct": 30.438383838383842,
       "name": "Broadcom",
       "news": [
         {
@@ -99,7 +99,7 @@
         {
           "title": "Chip stocks slide after ‘casino’ comment by Broadcom boss - Financial Times",
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUEdnZjlUNktHX2ViUVRqZHd4ZmhjaXdkd0NMR3BVLUp6akpVOUFabEljcHk4N0wzRDloZXhuQklwaVUwWjNYSFJnYkhzQ0RQNzZFZXh6VFh2U0hEZ1FybXhxNUQ0WTVLbXZydHM4REVRLXVVbHpsd2Rnc0M1MnVMMlVJTVc?oc=5",
-          "pub": "Tue, 13 Oct 2026 20:28:15 GMT",
+          "pub": "Tue, 13 Oct 2026 02:58:54 GMT",
           "source": "Financial Times"
         },
         {
@@ -118,14 +118,14 @@
     },
     {
       "symbol": "AMD",
-      "price": 564.59,
+      "price": 562.23,
       "prev_close": 570.8200073242188,
       "high_52w": 658.52001953125,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -1.0914136232579792,
-      "drawdown_pct": 14.263806223858094,
+      "day_change_pct": -1.5048539318874492,
+      "drawdown_pct": 14.622185609450641,
       "name": "AMD",
       "news": [
         {
@@ -141,36 +141,36 @@
           "source": "The Motley Fool"
         },
         {
+          "title": "Advanced Micro Devices (AMD) Expands AI Infrastructure Cooling, Is The Stock Fully Priced? - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSDJhZVEwMHpmZW1ibEdwTmhQUGJWV1hBTzhBNUdtbkIySVNhRUtob2ZvUHlETHVYazJZUThvY01QcURVTTNQeE8zOFdoLVFmMjhXbE9mTkNhODY2TWE2UURyelBGa0xRVkJudDNVN0JQUnVyZzRLZDM1dWJYVlNHdzJWa1Y1eWEzQmxDZjVScFI0S1VTOFNyQUR0cnduV1VE?oc=5",
+          "pub": "Thu, 15 Oct 2026 18:10:12 GMT",
+          "source": "Yahoo Finance"
+        },
+        {
           "title": "Nvidia, AMD, Dell sell-off in global tech rout on AI funding worries - CNBC",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaGhRTkZ4cjB1WFcxY0ZaekZ0anhJSW1MYlRMVV9pZzFacHJySWt5QkZaSEFoMmVBbVZKRzc0TmloQXkydmRSaGs5RW1vQjIyZ1hhQzFBSXN1ZGlJVmI1b2VKU1FIaXlZVTJBZHZZMUkxemJ1ZWZUY3E5Q205RWp1WFItS2FJMEx2Zjg4ejRHQy11UjRMbkFPSXJnSkluT01nMVNKbHRn0gGrAUFVX3lxTE1fQkI2UFBBMEExelZWTnRzQ1lzaE1Hdms2R3hjLW9tVmdsZ1hWNGdxRVE1VnlZWVBQU1ZZTW56SUJrYVNYX25QTFFOMExfZmpZY1RCRkpwZmFZX3d6T1BCdU5Rd3ZsME5zdHJhUFRkNG5KUHdkNUsyRHBjX3I1VWNpZkhWRVZ4eFZlS3Jhc1ZoS1dBbVpPRlFyTkRUd1pRNDNqMHNDTWgzV1VGaw?oc=5",
           "pub": "Thu, 15 Oct 2026 00:42:00 GMT",
           "source": "CNBC"
-        },
-        {
-          "title": "Nvidia stock sinks as chip sell-off deepens on hot inflation data - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQb1ZGcUkyMFZEdXYtUDhENXZ6Rkl6b29Ic3BlOUE2a2U5d3I3UWlPM2ZYRjRnZVYyRVdPRUFjTklPeG9OY2hrdUNZaXc4YU9JWGlsNXY2WFlkQ0lzNHl1VFZoaWNLamlGT3lKQVpyN2VTMm1HVEpRd2FzdUZUN3dTbFBkOEVVUnh6SE05QTZpRmlDTk4xVUoyckJQRjlIRVJaZTBkV2hWalNwd1pKOW9QSFh5ODY4VEVZcE51Wm5RMHZ1RlVnWDVvZw?oc=5",
-          "pub": "Thu, 15 Oct 2026 08:16:05 GMT",
-          "source": "Yahoo Finance"
         }
       ]
     },
     {
       "symbol": "RKLB",
-      "price": 54.959,
+      "price": 55.25,
       "prev_close": 59.18000030517578,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -7.132477667132788,
-      "drawdown_pct": 63.60331125827814,
+      "day_change_pct": -6.640757493933419,
+      "drawdown_pct": 63.41059602649006,
       "name": "Rocket Lab",
       "news": [
         {
-          "title": "Rocket Lab stock tumbles as first Neutron launch slips to 2027 - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMHd1OVlEaXYwemhUZzA3TDhZUnppUnFQcGJlLXRoY2FXbmNuLTJ5OTNHTFFQSFI1bjZEUHRyMVl6OVg5d0JjT2s1a3BjaEd1TzEwcVg4bTcxdThrZV9QMWpvZjRLRUJwdVlyOWpuVmJUXzM2RkI0QTNxa2RpN3poT3FubU1yaGZ2VkRsV1FLR2h5Q0FNLXl5UGh3bThsbTFuODVWdkFYWGpCRE5kb3I3cDFkdElWbEw4SFRVeVhia0JtWU1E?oc=5",
-          "pub": "Thu, 15 Oct 2026 16:31:58 GMT",
-          "source": "Yahoo Finance"
+          "title": "Rocket Lab Stock Tumbles On Latest Neutron Launch Delay - Investor's Business Daily",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQU9ybkJ4UHg4WEpnWExJYVJpS3JPTWo4aHlwbjQ0N2dmbnNTVVZMSkV2aTlaZUxpUFhzcEY2X29IdU5CTVVmX0J6ZjBYMkgwV1Nfa3l5Q2pUdlBUaVFheHR0OGVZWXVjQlZ5QzAyOThOUFpWVXEzTE1kVm9WUk5Ndjk4cWxaTTdMNExxZWd4TzQ?oc=5",
+          "pub": "Thu, 15 Oct 2026 14:48:00 GMT",
+          "source": "Investor's Business Daily"
         },
         {
           "title": "Rocket Lab Stocks Fall 10.9% as Neutron Delay Pushes Revenue Test Into 2027 - Yahoo! Finance Canada",
@@ -194,16 +194,28 @@
     },
     {
       "symbol": "IREN",
-      "price": 29.905,
+      "price": 30.39,
       "prev_close": 30.559999465942383,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": -2.143322897215186,
-      "drawdown_pct": 61.09665808314323,
+      "day_change_pct": -0.556280984663754,
+      "drawdown_pct": 60.46572276029837,
       "name": "IREN",
       "news": [
+        {
+          "title": "Anthropic Deal Report Gives IREN Stock Early Boost Before Gains Fade - Barron's",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVWpGeEVfWXdWUG14djkzU2RFSkU2Sjh2ZnMxb29ZeUotUEJuZW04LXQ1V01YbWZtMXNxOFhjcmo4X0J6SjFKdlhTU0pQbXBrUjJXV2xrQlZhQ3EtcFQxTDkyM3NhZXJCV3h0aW9rMzhpM20zTHVDZ1NFa2ZfeEJNLVp3?oc=5",
+          "pub": "Mon, 12 Oct 2026 18:58:00 GMT",
+          "source": "Barron's"
+        },
+        {
+          "title": "IREN Stock Pops After Reportedly Winning Anthropic Deal - Investor's Business Daily",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPckxrQ3dHV1F0cUM0UzZsSzN5TkljODBZWFRYY2dSMXpIdFkzUExQN1d1SjRBQXUwOFYxSWp0eUNwa3doeTBpWEY0ZHJDb0pSUjFSVzNnQ1hVLXFHZHg0MVhPS0NpOVhES0RVbmtWYnFuQjNMLWw3T3F5RDg4akF0YTdTRXAydE4zbFJLZjNuZThIMC1rSnBSZURhbTA4dlRLNnNWamdPcw?oc=5",
+          "pub": "Mon, 12 Oct 2026 20:22:00 GMT",
+          "source": "Investor's Business Daily"
+        },
         {
           "title": "CRWV, NBIS, IREN Stocks Tumble After Gartner Forecasts 80% Of Neocloud Market Will Cease To Exist By 2030 - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNb0Nzd0NUZENHOXo5YTYyYUtYLVdhWktfcDRZd0dPTnh0dndMREsxVmV0aWcxWGpocmhfNHFpOGwtTXlSMW9MbmpMbHNkdHNzTDV3Yko2aHVMZGp2OHNsdWxxd3N6ck1PZnFPSlRaWVpVdzV6OWFZVExOQlJ4eXYzWjZER2hDUHZ3NUJEZ2R6anRTRWNxSXJN?oc=5",
@@ -215,18 +227,6 @@
           "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQZEJxQ2hrbDdwcjc3RTg4Tm1DRmV2T1FpN1BaQ0czZmtXS19NcGxuYkVvMWRacVJlek9lYkxDNEJKZG5tVTJJd0k2eV9ZS2NTM0RkUnllckhTSU9FRkFWVW0wLU1KZFRzU3BKVU5sLWc2ZGlEUS1jc2VVck1ES0tGbVk1QjE1VkY4c19oQTRycmRCVUVKVVl1SERGR3dSMVcwaUFkRzQyak9Gdk9uOWJpRndJWEhJRzN2OE10R011aHdIMl8yUnp1M2gxbURMLW9VUl9HenN0VmpSV2d5S3VjWmQyRFM1M1U?oc=5",
           "pub": "Thu, 15 Oct 2026 13:27:32 GMT",
           "source": "Benzinga"
-        },
-        {
-          "title": "CRWV, NBIS, IREN Stocks Extend Slide Overnight: Retail Eyes The Dip As CoreWeave CEO Says Market Acting ‘Irrationally’ - Stocktwits",
-          "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOby15MmVCclQtakExWVUxaUN1aEREeGkwUG5iOVdwbURuOWVOV3k4c1JtQ2JtbWpETHlRa3VsVTZ2bVI0WGYzVjlaN0tpa0NleGpVR0FJSDhXMDZvTmZFUUY2TzNrVk9BY0tERWtqR01kR2twN2dabVpmRFlhU3VZenVwdTB6TlVLV2hndnJjVTBmQlVhWFRZdE9JNWxkTnR3WkpVNkE5SDFGZnk2Q3RRMVpVN0RfXzFaQ0NoaS15QlNMSW16Z0lzR1RxUlM1VlpScnE1WDFkV2IzRXA1WkhPVmRqWXdTTHF4WXVORDJJc2l6RHFSX2dWWm12S2lEWVpiQzZtSVBUeDMxQQ?oc=5",
-          "pub": "Thu, 15 Oct 2026 02:20:00 GMT",
-          "source": "Stocktwits"
-        },
-        {
-          "title": "Anthropic Deal Report Gives IREN Stock Early Boost Before Gains Fade - Barron's",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVWpGeEVfWXdWUG14djkzU2RFSkU2Sjh2ZnMxb29ZeUotUEJuZW04LXQ1V01YbWZtMXNxOFhjcmo4X0J6SjFKdlhTU0pQbXBrUjJXV2xrQlZhQ3EtcFQxTDkyM3NhZXJCV3h0aW9rMzhpM20zTHVDZ1NFa2ZfeEJNLVp3?oc=5",
-          "pub": "Mon, 12 Oct 2026 18:58:00 GMT",
-          "source": "Barron's"
         }
       ]
     },
@@ -287,16 +287,16 @@
           "source": "Simply Wall Street"
         },
         {
-          "title": "SB1 Markets cuts price target for Invisio to SEK 295 (315), reiterates buy - www.marketscreener.com",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMHFhY21HUzBCR09odk16UXBvRnNqYlhqNmxQVEZaWjAxMm1vX2dKVWxwLURqd0JUckNBSmdqTUVNejJ0RmRGSHZiRGhQQThVek9pRXF3cGJzUGw5cmVuQ292cENsZUZoazZzLTJjZWdsdWpRbDNCaU1vc28yTm1VQy1WcFF4M0RKQ0dLY0pCNmRfUkxvM0lZSEd6ZU10VHJCOUprVDR2bTVEY0hHSmhFbVFRY0FSQUtCTXVpMVBoYXVrQQ?oc=5",
-          "pub": "Fri, 02 Oct 2026 07:00:00 GMT",
-          "source": "www.marketscreener.com"
-        },
-        {
           "title": "IVSO Forecast — Price Target — Prediction for 2027 - TradingView",
           "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1keUhnMUVzX0VnclVQS3Ywd29Ka1hUdVMzRndVV01Qb2xGYllhOFlfb0IyNEk1Q2VGYWViMkJXSVZDYi1FQWdLRzZqQTFlUnVocmdGRDM5ejdhaF9mQWlhaGVDZ29rZE9hdnNzU0FzVnpPX1pENHlDbl9n?oc=5",
           "pub": "Thu, 25 Jun 2026 19:04:11 GMT",
           "source": "TradingView"
+        },
+        {
+          "title": "SB1 Markets cuts price target for Invisio to SEK 295 (315), reiterates buy - www.marketscreener.com",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMHFhY21HUzBCR09odk16UXBvRnNqYlhqNmxQVEZaWjAxMm1vX2dKVWxwLURqd0JUckNBSmdqTUVNejJ0RmRGSHZiRGhQQThVek9pRXF3cGJzUGw5cmVuQ292cENsZUZoazZzLTJjZWdsdWpRbDNCaU1vc28yTm1VQy1WcFF4M0RKQ0dLY0pCNmRfUkxvM0lZSEd6ZU10VHJCOUprVDR2bTVEY0hHSmhFbVFRY0FSQUtCTXVpMVBoYXVrQQ?oc=5",
+          "pub": "Fri, 02 Oct 2026 07:00:00 GMT",
+          "source": "www.marketscreener.com"
         },
         {
           "title": "SB1 Markets reiterates buy rating on Invisio, cuts target price to SEK 295 - www.marketscreener.com",
