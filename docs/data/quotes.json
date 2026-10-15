@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-10-15T17:13:03.863010+00:00",
-  "updated_at_display": "2026-10-15 17:13 UTC",
+  "updated_at": "2026-10-15T17:30:38.001418+00:00",
+  "updated_at_display": "2026-10-15 17:30 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 217.35,
+      "price": 217.445,
       "prev_close": 221.3000030517578,
       "high_52w": 243.37,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -1.7849087199668896,
-      "drawdown_pct": 10.691539631014509,
+      "day_change_pct": -1.7419805687287806,
+      "drawdown_pct": 10.652504417142627,
       "name": "NVIDIA",
       "news": [
         {
@@ -33,23 +33,23 @@
           "source": "Moomoo"
         },
         {
-          "title": "Nvidia’s Huang Says CoreWeave Doesn’t Need a Backstop - Barron's",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSk9TQTJodzlYbzRfUlVmU2dvbUstbGZqbWJrV0RPX1E2ZWk3WXFTcnVPNWxrS19oZTdBX3FHaG93eEQ2Vi1QQU9lcnAzaVBqQVNVWTdMcE9fekZPRlZwY294ZHhfbmpjZGNIekl5aEFzSzVlYTBreHp1RXM5VVhiVGtWcU5uRFZ2eGpWUkhR?oc=5",
-          "pub": "Thu, 15 Oct 2026 16:20:00 GMT",
-          "source": "Barron's"
+          "title": "Nvidia CEO says CoreWeave needs no backstop as shares extend slide - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNd29MMVpPV01CVENucU1jT2pXU3AxSnZPN1VoQkdyeTJvSzh3bFVaUzc1bGtrc2JGd0E2TXUwamVMR3NWUFVDWGZpUllaVEhYVS1ZeE8xMVp6YWVEcGFnMEhJYmtCdk43WFhGc1B5VDlrSmN2QVE5MmtSLVUyZklFSUJFM0J1T3BZMnJqZUpwRWVkaFZlM3VjdzBiOA?oc=5",
+          "pub": "Thu, 15 Oct 2026 16:27:23 GMT",
+          "source": "Yahoo Finance"
         }
       ]
     },
     {
       "symbol": "META",
-      "price": 736.29,
+      "price": 741.97,
       "prev_close": 737.5399780273438,
       "high_52w": 779.8200073242188,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -0.1694793590290565,
-      "drawdown_pct": 5.582058284652436,
+      "day_change_pct": 0.600648385800727,
+      "drawdown_pct": 4.853685077161936,
       "name": "Meta Platforms",
       "news": [
         {
@@ -71,23 +71,23 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "Meta Platforms: Muse Wonder Exposes The AI Trade's Biggest Disconnect (NASDAQ:META) - Seeking Alpha",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNnl6WVlSV2RBbHVlZmNCZXFlbUtBQnppSnJTbXdSTTl2V1FhODQ0NWpfbXU0LWtiTVQ3RkhUMnRFcnpPZFVXZXViRjRwb0dlbjBITTRqTXlRSmNGYUhiWnJ0RW9yUVZIcDh4dnVBWi1VR0tPT0QxSlI3endxaU5NenZaNTIzV2J5STdRQ1VfbTF1NUt1OXlXZnVVNHo5clV5SWh2Y2RXN0dxZmc?oc=5",
-          "pub": "Wed, 14 Oct 2026 15:34:54 GMT",
-          "source": "Seeking Alpha"
+          "title": "Stocks making the biggest moves midday: Apple, Meta Platforms, Bumble, Fermi, Goldman Sachs & more - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQWt3a0dkRnRqbHdfeGdDcXdLUXBmSDlKeGJKM2dsWHB4b0hkRlZRYV9NRC1veTY4Rmc4WFpxcThCMzh5eVNOMkl1dHNxc19xS1BVa2JCS0s3Vm1TQ3ZfYjVPLXIxU3lzczFvMl9HeXJydm1Dcmtld0VvUzdURzRMYWtjRFJZTER5S3VhZVE2bUNSMFV0NnNrRWhZeWE3cXc?oc=5",
+          "pub": "Tue, 13 Oct 2026 16:25:50 GMT",
+          "source": "CNBC"
         }
       ]
     },
     {
       "symbol": "AVGO",
-      "price": 339.06,
+      "price": 339.68,
       "prev_close": 346.25,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -2.07653429602888,
-      "drawdown_pct": 31.503030303030304,
+      "day_change_pct": -1.8974729241877237,
+      "drawdown_pct": 31.377777777777776,
       "name": "Broadcom",
       "news": [
         {
@@ -118,14 +118,14 @@
     },
     {
       "symbol": "AMD",
-      "price": 548.28,
+      "price": 549.33,
       "prev_close": 570.8200073242188,
       "high_52w": 658.52001953125,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -3.9487066036590988,
-      "drawdown_pct": 16.740572231915056,
+      "day_change_pct": -3.7647607036332644,
+      "drawdown_pct": 16.581123776460732,
       "name": "AMD",
       "news": [
         {
@@ -156,14 +156,14 @@
     },
     {
       "symbol": "RKLB",
-      "price": 52.7,
+      "price": 52.99,
       "prev_close": 59.18000030517578,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -10.949645609598026,
-      "drawdown_pct": 65.09933774834437,
+      "day_change_pct": -10.459615196444012,
+      "drawdown_pct": 64.90728476821191,
       "name": "Rocket Lab",
       "news": [
         {
@@ -181,33 +181,33 @@
         {
           "title": "Stocks to Watch: CoreWeave, TSMC, Rocket Lab, Schwab - WSJ",
           "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQOGY1b1FWandtN2s5YmtFZG85S2ZQdlVkLV9fMXpUTlpiVGNoQURJNUVuRGFuYkZEcUlWNl9EU19EbVNDTFlnbUxURmVSU0VhTkVCc29CcTM1MlJUOUVfblRfZkNHSl94UHpRbjFKck5YWGVhZWRJRkZEbVkxQTZ0Rm1URlVlVnJoUk1hWDBuNTlObWFlU0ZpNW5aX2NEZXRaYWlFOFl1dXNVWlpWZG9PbmZRSkdINW5VMG9lSUtjVWRrcDRJT1RzYm91cEhRX3h5QmE5TENQaUlOVUp2a1NFWThn?oc=5",
-          "pub": "Thu, 15 Oct 2026 08:34:00 GMT",
+          "pub": "Thu, 15 Oct 2026 08:17:00 GMT",
           "source": "WSJ"
         },
         {
-          "title": "Rocket Lab, Taiwan Semiconductor And Other Big Stocks Moving Lower In Thursday’s Pre-Market Session - Benzinga",
-          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNVFhmWDNkMjN3eGdzZkRRZzBTcWx1QmhjYU1RQlFxaEx0MWdmLUFQc1EwZUlTaFhyTVZBdTNrWDVVNmVXQlgwT1hhUl9mS2FPQ0steVZrVkxtcmE1XzkxQXlUMlJSVk05VmJBRFpTOUtVVG0ta2tKbDAtTDQwSHJTU3NteThrQl9GS2dTS0pDNzh4TEU2SmRaS3BCa2hqWFZvYzdPajdvbW5NOUczTERrdS1kRS1VN1l1eU5iSXVFaDFxeFBUWlFrVzVwM2hPMUpmVXRsLWcyVGk0SUZLbE51aTBZLWk2SkhER1N3VlFyUQ?oc=5",
-          "pub": "Thu, 15 Oct 2026 12:02:09 GMT",
-          "source": "Benzinga"
+          "title": "CoreWeave, International Paper, Dell, FMC, Bloom Energy, Rocket Lab, and More Stocks That Explain Today’s Market - Barron's",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBKbzlPNVFQSmNkYlRIUHpZLWhEUU5iTWFBNUpNakVnd3g0cjlBMEtCQURpcTg5WnRuRUFvdDdtZl81MU5LMGxnUHAtQS1kMS1zOU94Q1JEVC0tNXdrYW90OVl4Sko?oc=5",
+          "pub": "Thu, 15 Oct 2026 16:45:00 GMT",
+          "source": "Barron's"
         }
       ]
     },
     {
       "symbol": "IREN",
-      "price": 28.96,
+      "price": 29.11,
       "prev_close": 30.559999465942383,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": -5.235600438165919,
-      "drawdown_pct": 62.32600628951105,
+      "day_change_pct": -4.7447627332531095,
+      "drawdown_pct": 62.130871653579646,
       "name": "IREN",
       "news": [
         {
-          "title": "CRWV, NBIS, IREN Stocks Tumble After Gartner Forecasts 80% Of Neocloud Market Will Cease To Exist By 2030 - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNb0Nzd0NUZENHOXo5YTYyYUtYLVdhWktfcDRZd0dPTnh0dndMREsxVmV0aWcxWGpocmhfNHFpOGwtTXlSMW9MbmpMbHNkdHNzTDV3Yko2aHVMZGp2OHNsdWxxd3N6ck1PZnFPSlRaWVpVdzV6OWFZVExOQlJ4eXYzWjZER2hDUHZ3NUJEZ2R6anRTRWNxSXJN?oc=5",
-          "pub": "Wed, 14 Oct 2026 18:10:12 GMT",
+          "title": "AI Cloud Stocks Sink as Gartner Warns Most Neoclouds Won’t Survive Independently: IREN and CoreWeave Fall 5%, Nebius Drops 4% - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYnFZV2hjTndaSmdSa3ZramUxSUc2M3VLUm53Y1dGRkNwanhfd1ZzQjhxYklQRXJhU3c5a2lSNDBHWHQ4ZDl5SjJQMHg0Sld4Sm14UFVRR3BmV2E3WjNQOEwzVE5wWnhOQV9FOXJTTkNaamJrenllWTZQV21tTV91eUJBUktySFBxd1BTNFVqbTdyd2Y0cVVkMg?oc=5",
+          "pub": "Thu, 15 Oct 2026 13:34:16 GMT",
           "source": "Yahoo Finance"
         },
         {
