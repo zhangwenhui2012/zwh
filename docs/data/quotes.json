@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-10-16T19:00:45.997095+00:00",
-  "updated_at_display": "2026-10-16 19:00 UTC",
+  "updated_at": "2026-10-16T19:30:36.379475+00:00",
+  "updated_at_display": "2026-10-16 19:30 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 213.885,
+      "price": 215.15,
       "prev_close": 217.22999572753906,
       "high_52w": 243.37,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -1.5398406266759475,
-      "drawdown_pct": 12.115297694867902,
+      "day_change_pct": -0.9575085248115981,
+      "drawdown_pct": 11.595513004889673,
       "name": "NVIDIA",
       "news": [
         {
@@ -27,29 +27,29 @@
           "source": "Yahoo Finance"
         },
         {
+          "title": "Not Nvidia. Not TSMC. This Equipment Maker Is the Real Bottleneck in AI Chip Production. - The Globe and Mail",
+          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQNnFweHFnOTJOOEw4QXozQngwYjF4c1k4UjBsVHBKOTZ2Q3d3X0pFYVoxR2U0NnViWDZHQl9SdG4xTHpVZUhocnRrWUhVZEhFTHZiS2pXX1ViTzBCZWFPZUVlSmViR2d3OXhYWU43X1BhejNrYVBUNHY3OGVLUWVFVTVCdW0wOFFwaVZNOUNydXdsM2hTVF91ZElxZEl6WHRhY1RVMXlDWXgtWlJ1NmZicGc2MmZZQnJPNDRSX1hycGdJNE52SThScTJyc3pCaUZYZGhBSVA4QnBXQ3JsYmU4TnlSVEZEb1ZmSHpWeUJGbmZacGtMMFlKaDR3dVQwN3Bnc1E?oc=5",
+          "pub": "Fri, 16 Oct 2026 19:15:37 GMT",
+          "source": "The Globe and Mail"
+        },
+        {
           "title": "Nvidia (NVDA): Can Paid Software Make Its Earnings Less Dependent on Hardware Sales? - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRjBMSFBUb3l5a2IyNUJXR3VkNjN6ZmFDMGsyeHVRcEdsZmg1RkZYTWRKcm1pM0plaUVMUnZ0QUpMUzRCcGxlT3FncjcxMUhRQWZSNUwtNUIxd3E5d2h1QkVqcHRBc3JINmZtZFlCcEdDM3U4dk9QQXIwZ0huVkFpRXQ0aXpBNFVXRmRFTzU1UjZfQnZTV0NVY1AyWQ?oc=5",
           "pub": "Fri, 16 Oct 2026 18:29:24 GMT",
-          "source": "Yahoo Finance"
-        },
-        {
-          "title": "Dan Ives Says 'Buy the Dip' in Nvidia Stock After Brutal Sell-Off - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQkp0S3lzeERfM1NlNEg2VnFuaUsySEdWM1VTYjIzMDdTcFFWekM0UjZzdjl1ZjFUb0t4YXdkZ1dlZzVuRkMtY1ctcUZGLWJnekd6Nk5SNGlRNWN4UDY2alVXQjdlTXNVTDJXTHkzdVZITGhKa2ViODFkWnUzd3g2YkJCd0pHN0VBUHFXU0tMcw?oc=5",
-          "pub": "Fri, 16 Oct 2026 17:54:22 GMT",
           "source": "Yahoo Finance"
         }
       ]
     },
     {
       "symbol": "META",
-      "price": 705.49,
+      "price": 706.34,
       "prev_close": 736.719970703125,
       "high_52w": 779.8200073242188,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -4.239055807502969,
-      "drawdown_pct": 9.531687649213548,
+      "day_change_pct": -4.123679540562793,
+      "drawdown_pct": 9.422688137529228,
       "name": "Meta Platforms",
       "news": [
         {
@@ -80,21 +80,21 @@
     },
     {
       "symbol": "AVGO",
-      "price": 330.13,
+      "price": 330.65,
       "prev_close": 344.3299865722656,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -4.1239471222427015,
-      "drawdown_pct": 33.30707070707071,
+      "day_change_pct": -3.9729291974965957,
+      "drawdown_pct": 33.20202020202021,
       "name": "Broadcom",
       "news": [
         {
-          "title": "Broadcom Stock Is Down 28%, And The Bar To Hit Its Target Is Lower Than You Think (AVGO) - Seeking Alpha",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSE5QempUSld4MWlNT3BfRzJIWm9HMG1SZjUtS0R5cjEzQ3lKVUZtVFo1UUwxUXFnSkFlSkd2NFhTczBpb2h0ZTlRdVZkVmtnRVhsZHJDSFJZdjhpenlRUlFCZG54NDJlbS1LWmpfQ0dsaDlqVUY4a0NlQzROWUwtVk02dXZxYkVoNFR1SmNra3k4dTg1ZG9aaTlyN1BfRlVTalZZRW40Z3F0U2ZFa3VuQV9xVXJDcjZNNi1QN3o0YlJ0Sml5N0tJ?oc=5",
-          "pub": "Fri, 16 Oct 2026 11:25:11 GMT",
-          "source": "Seeking Alpha"
+          "title": "Better Artificial Intelligence Stock for 2026: Broadcom vs. NVIDIA - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQV3Vyd3V4TUVxbTV6Q3Q5WU1hanpTeTJsRG5rLWJEMXBhdUdmdGFiZUVJN1UydDE3R1gtOUFDNnpYWjB0aTY0VlpsNWhYOG5wMHJMS19UUDQ3ZnBWZy1oSTNLTnp4S3VmUG1BeklRek81U0xlOVJnSGJPR3MwWU1WQ2RobDVwaUN1OHFrNjYxbWNuSlA1ak01U0FGSnVBY3dIaC1rdG9ncHRqMjcwMUpaY0w0cUxJQTJZ?oc=5",
+          "pub": "Thu, 15 Oct 2026 16:06:00 GMT",
+          "source": "The Motley Fool"
         },
         {
           "title": "Why Nvidia Stock Is Rising While AMD, Broadcom, and Intel Stocks Are Falling in Premarket Today, October 16 - TipRanks",
@@ -118,14 +118,14 @@
     },
     {
       "symbol": "AMD",
-      "price": 532.535,
+      "price": 534.13,
       "prev_close": 562.22998046875,
       "high_52w": 658.52001953125,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -5.281643010924521,
-      "drawdown_pct": 19.131539785370403,
+      "day_change_pct": -4.997951273484581,
+      "drawdown_pct": 18.889329988751708,
       "name": "AMD",
       "news": [
         {
@@ -141,9 +141,9 @@
           "source": "CNBC"
         },
         {
-          "title": "If You Invest $1,000 in AMD Each Month Starting Now, This is What You’d Have in 5 Years - 24/7 Wall St.",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQM0ZsZ3lPTzJ6bktQQTNTaUNDd25SZk5La0p2WWJkLWVKeHB1dUxRNlhoUXBVcmVkb0stMURQMlpZS2YzSjdCU25ONHl1M3VUcHctcFBHNGhjREpMTlRIVGVIZ0VzX2lpQndnSUFXQ0FKbWxyMFVoZ19lWVhTazN2enhDZ1VINlYzajlPUkhOTUd4MWdaeWlFNGd3SlV3bXB3VVNaRFI2ZmxpVlNabk5iVWJMOXJPamhQY0tFa3lBQlM1SjlwdkE?oc=5",
-          "pub": "Fri, 16 Oct 2026 15:00:00 GMT",
+          "title": "Intel and AMD Drop 3% as Rotation Out of AI Chip Stocks Continues; NVIDIA Holds Steady - 24/7 Wall St.",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYkx0cUlYODFLcFU1VmZRLThzT01WVVlib1hPV0NvTmJYTnhzbFZjZTNpelZjdDd0ZEZmWGNLVE5xYTVHWWhYS2JaNklfQ3hnMGVPRVJCVTlBOFJSQ1hFTXBjWmZMdDdzZ1dWS2ZtOE14SWxFMmJTeU82YmhWVjlMQ1BxN3B6MGNjTkxVa21tTnViRmxXSDZMZEhtZWVpbVRCOFVTM2VDUS0tS05vT1o1d1NPYW41VV9YMjhJellwSjh3dGQ5Mk5j?oc=5",
+          "pub": "Fri, 16 Oct 2026 14:54:00 GMT",
           "source": "24/7 Wall St."
         },
         {
@@ -156,20 +156,20 @@
     },
     {
       "symbol": "RKLB",
-      "price": 50.75,
+      "price": 51.065,
       "prev_close": 55.25,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -8.144796380090497,
-      "drawdown_pct": 66.3907284768212,
+      "day_change_pct": -7.574660633484168,
+      "drawdown_pct": 66.18211920529802,
       "name": "Rocket Lab",
       "news": [
         {
-          "title": "Rocket Lab stock tumbles as effort to take market share from SpaceX slips to 2027 - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdHZQNmdXS1dRSUc3NWdpVHVFbmFWdVRTcnZzNFpQVllUZWVkY1MtSTE3NWF5Tjc2YnR3SXIwdTU0UzZzTzRWM1k5ai00SllxZVZlWFdST3BSMGRnYnVON0o0WGViTXlyQUNLTlE4QVd6UVRDZ2lSaTdyRHBiZXhrc213c2s4RDlQdFR5UVRvZWFkSExQLTJHc3g2aDBaclZocEJrWVFBQi1oSGV3ZmhtcWUyUWlZQXdRNExGUE9SR2hIMjB0Qk5tODhsTS1BSkRSSnBZWlVsYWNYalk4TFE?oc=5",
-          "pub": "Thu, 15 Oct 2026 20:45:55 GMT",
+          "title": "Rocket Lab stock tumbles as first Neutron launch slips to 2027 - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMHd1OVlEaXYwemhUZzA3TDhZUnppUnFQcGJlLXRoY2FXbmNuLTJ5OTNHTFFQSFI1bjZEUHRyMVl6OVg5d0JjT2s1a3BjaEd1TzEwcVg4bTcxdThrZV9QMWpvZjRLRUJwdVlyOWpuVmJUXzM2RkI0QTNxa2RpN3poT3FubU1yaGZ2VkRsV1FLR2h5Q0FNLXl5UGh3bThsbTFuODVWdkFYWGpCRE5kb3I3cDFkdElWbEw4SFRVeVhia0JtWU1E?oc=5",
+          "pub": "Thu, 15 Oct 2026 16:31:58 GMT",
           "source": "Yahoo Finance"
         },
         {
@@ -179,29 +179,29 @@
           "source": "Yahoo Finance"
         },
         {
+          "title": "Rocket Lab stock tumbles as effort to take market share from SpaceX slips to 2027 - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdHZQNmdXS1dRSUc3NWdpVHVFbmFWdVRTcnZzNFpQVllUZWVkY1MtSTE3NWF5Tjc2YnR3SXIwdTU0UzZzTzRWM1k5ai00SllxZVZlWFdST3BSMGRnYnVON0o0WGViTXlyQUNLTlE4QVd6UVRDZ2lSaTdyRHBiZXhrc213c2s4RDlQdFR5UVRvZWFkSExQLTJHc3g2aDBaclZocEJrWVFBQi1oSGV3ZmhtcWUyUWlZQXdRNExGUE9SR2hIMjB0Qk5tODhsTS1BSkRSSnBZWlVsYWNYalk4TFE?oc=5",
+          "pub": "Thu, 15 Oct 2026 20:45:55 GMT",
+          "source": "Yahoo Finance"
+        },
+        {
           "title": "Why is Rocket Lab stock tumbling today? - Investing.com",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYjAwN1NrRnJ4NTFhVUZtNlh4WEdpN2lUdFNFOWFNSVBBTHlPVVBqS1ppY0ZyLVdjcmZxazdlRmgyNjdpNUlEQS1nejN4b3Yxa0VDYlBFUFdQU0dBZFlkYkJaLTlnOHhPT2RyTndac0lZaUlKMlR6Nnl2X3IyS1lEUnYxVkJwNUhtYUxxTXlTQ3JNTkpQd2dYYkEtVUY5dGpnSHc?oc=5",
           "pub": "Wed, 14 Oct 2026 21:32:32 GMT",
           "source": "Investing.com"
-        },
-        {
-          "title": "Rocket Lab Shares Fall After Delaying Inaugural Neutron Rocket Launch - TIKR.com",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9zVzRRV3czRC1hWEdHT1pfYUVEX0ZWQ0EzWGFPSkduWHNQQzd4UmpOWHhLdnhpcHdrXzQxb0l5ZGVtaC1FQmtMVnZSTGtTeGkyQy03dlM1UkQ4SzNFcjF6ejFyQnFaNDVuempsQVo2Q2tLN1lsS1VsUA?oc=5",
-          "pub": "Fri, 16 Oct 2026 12:31:23 GMT",
-          "source": "TIKR.com"
         }
       ]
     },
     {
       "symbol": "IREN",
-      "price": 26.85,
+      "price": 27.025,
       "prev_close": 30.389999389648438,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": -11.648566833648061,
-      "drawdown_pct": 65.0709001682794,
+      "day_change_pct": -11.072719503886,
+      "drawdown_pct": 64.8432430930261,
       "name": "IREN",
       "news": [
         {
