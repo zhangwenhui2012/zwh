@@ -1,55 +1,55 @@
 {
-  "updated_at": "2026-10-16T13:30:37.681046+00:00",
-  "updated_at_display": "2026-10-16 13:30 UTC",
+  "updated_at": "2026-10-16T14:00:45.601236+00:00",
+  "updated_at_display": "2026-10-16 14:00 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 215.5,
+      "price": 216.255,
       "prev_close": 217.22999572753906,
       "high_52w": 243.37,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -0.7963889709360908,
-      "drawdown_pct": 11.451699059045898,
+      "day_change_pct": -0.44883107614749324,
+      "drawdown_pct": 11.141471833011469,
       "name": "NVIDIA",
       "news": [
         {
-          "title": "Lenders Are Getting Nervous About CoreWeave. I'd Still Buy Nvidia Stock. - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQkg3RHU2NXczb3RIaFRkNEdmMlprWHJDNHhpY0duckgzTkNzMW1VSnYwaUlRN1dNVGNsMWNlN3NCaGJ5RVMya1BseXI1QnI0RTBBTFNTcWtGM1F3UXRJWnBPcFZaOUdvTWNhMXdDQnZVZHJmSmJjN1JZZ2kxVWVSYWRGdUtRTUpRMEFpSXkteVRMMFFhOElzaEp4TGZ2Q2xDYmM4?oc=5",
-          "pub": "Fri, 16 Oct 2026 04:06:00 GMT",
+          "title": "Nvidia leads chip stocks lower as AI trade takes - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQY1lhcFhDalVzMzVWSUVsUWo2ZWtLYjdpR3dQUXJWWDc1UUFONzJUM3ZvazhJWFhxU0dST2R4cTgtaUdoTGx1MzFjOUU5U09ma3c4d0JNc3MzLWZxSGVOUVFTSFRxMWFRUEgxR1NCR2lWUHc5MFZZQmRJM1d1dFNZWWFkRnk5a0VWbXphUk90TWtUUktraE5lczFfLVVSbFBoRnBHYWMyY2VHSXFKd3p4VkZ6dW9NYUdwVTNHdTF0T0Y3SkVxbDhNQ2NTc2F4SnVrVGtReEt3?oc=5",
+          "pub": "Thu, 15 Oct 2026 20:33:00 GMT",
           "source": "Yahoo Finance"
+        },
+        {
+          "title": "Broadcom vs. Nvidia: If I Could Only Own One for the Next 5 Years, It Would Be This One - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORVVRSkprWFJzUXJEY01lZENlWkNqMDZyVzJzYkNSYXpmYzhTMGwzZFV3eTdzdFFTZ3A3d0Z5RzJ6SkV1SGlZR0xadjRjVkVsRU80bk53bVdldXktRVhtQzVVYUt6X3JMVGRkYVQ2VTVNN05iMkRXNWRMZXJGZ2JYamUxUC10NW1yYzdwNTFpVmJLUktRS3hyTA?oc=5",
+          "pub": "Wed, 14 Oct 2026 16:00:00 GMT",
+          "source": "The Motley Fool"
+        },
+        {
+          "title": "The Number Changing My View on Nvidia Stock - The Globe and Mail",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOTRqNlNPTUI3bmNEd0I2bTdCZ2Nta0JKM0o4QnFMT21reFZoWkpFeXkzbFhIbG1UdXFMX3hkeGhxY2VQX2M0SDdBWXRoT2VqYUx6N1JRSDN3OVdPT2M0TDJjQjVEbzc1YmpwbXJJdzFRZVp6UERFc2tDenJzd24ydzRYNW5NWWlsWkFOVlpjdXJ3M0FyUHdTVWtMTlB2NWFyUjZuSW9iRUdESDZFUnA3SG44QkxzbDBxcGYzMTRvdDc2NXJYZDFMbg?oc=5",
+          "pub": "Fri, 16 Oct 2026 12:50:35 GMT",
+          "source": "The Globe and Mail"
         },
         {
           "title": "Nvidia, AMD, Dell sink in global tech rout on AI funding worries - CNBC",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaGhRTkZ4cjB1WFcxY0ZaekZ0anhJSW1MYlRMVV9pZzFacHJySWt5QkZaSEFoMmVBbVZKRzc0TmloQXkydmRSaGs5RW1vQjIyZ1hhQzFBSXN1ZGlJVmI1b2VKU1FIaXlZVTJBZHZZMUkxemJ1ZWZUY3E5Q205RWp1WFItS2FJMEx2Zjg4ejRHQy11UjRMbkFPSXJnSkluT01nMVNKbHRn0gGrAUFVX3lxTE1fQkI2UFBBMEExelZWTnRzQ1lzaE1Hdms2R3hjLW9tVmdsZ1hWNGdxRVE1VnlZWVBQU1ZZTW56SUJrYVNYX25QTFFOMExfZmpZY1RCRkpwZmFZX3d6T1BCdU5Rd3ZsME5zdHJhUFRkNG5KUHdkNUsyRHBjX3I1VWNpZkhWRVZ4eFZlS3Jhc1ZoS1dBbVpPRlFyTkRUd1pRNDNqMHNDTWgzV1VGaw?oc=5",
           "pub": "Thu, 15 Oct 2026 00:42:00 GMT",
           "source": "CNBC"
-        },
-        {
-          "title": "Better AI Stock: SpaceX vs. Nvidia - The Globe and Mail",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTXhWVUZiVnVrM0FQM3ZXLW5FbjFjaFpKMTVHRFFHeEhWWGJUZEs4VWFQeklpaDV4YUlqQlotdGFnSjBpSEdEUldDWEpJV0FwM0lyOEh1Z2RTWWprckQzVENCbzhoX3VzaTFKTjdzYnU5NGltcHVRdXB1RHNjbXNZTnhZVHJ2Y251VXQxbzVHenQ4d3dCRzZIdF9kS2o3SHh3R0Z0LUNncHN0b0JGc200bElrSjNGaC0t?oc=5",
-          "pub": "Fri, 16 Oct 2026 10:50:37 GMT",
-          "source": "The Globe and Mail"
-        },
-        {
-          "title": "The Zacks Analyst Blog Highlights NVIDIA, Philip Morris International, Home Depot and CPI Aerostructures - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUXljWnJHRERQSXRGd3VJSnl1NkFpNUxsb1lwVXJmOW50YkZDelhrbHNzaU1VQ2R2S2ZadURZZFdyUl94cUIwampSenlac2RReGQtSzdfN0VINGhfZm95SUF3UUJvemNqblNkVjk2QmpYMDZFNGpwalFkb2NSNkJ6VFpqc2doNFRfb2k2dXdwTHFJMTFsMzFEa01RTHZPVmV3Z3Zv?oc=5",
-          "pub": "Fri, 16 Oct 2026 11:48:00 GMT",
-          "source": "Yahoo Finance"
         }
       ]
     },
     {
       "symbol": "META",
-      "price": 737.725,
+      "price": 726.815,
       "prev_close": 736.719970703125,
       "high_52w": 779.8200073242188,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 0.1364194452222903,
-      "drawdown_pct": 5.398041461985376,
+      "day_change_pct": -1.3444688751509817,
+      "drawdown_pct": 6.797082253133483,
       "name": "Meta Platforms",
       "news": [
         {
@@ -65,29 +65,29 @@
           "source": "TipRanks"
         },
         {
-          "title": "Ahead of Meta Platforms (META) Q3 Earnings: Get Ready With Wall Street Estimates for Key Metrics - Yahoo! Finance Canada",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONE1kdGVOa01ubjZiU2J2LU1SOFVXOXFNSURfR2Fkb1dsN1BWYnhEeXo4ZWJMLTY4dzJZVm1jVXJKZ25HWUduZ2dlTHA1QmdUeVJMOEZhS2dfeHZjTlpVWXhmWHBBVl9ZLXBack5xWmp6aGJ3QUk0di13Si1CM0lwakJCYw?oc=5",
-          "pub": "Fri, 16 Oct 2026 12:15:22 GMT",
-          "source": "Yahoo! Finance Canada"
+          "title": "How Bad Would Outspending Its Cash Flow Be For Meta Stock? - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZm00SmltaklwVTQteVNlM193b3RMRk9KUVFRaFB2RDVmQ1YxVTJnNDVTQVJEQ3A0Uk56N2praE1uNXNtRG5MTXRrTG5tbjJ6RU1XWlFUa3pqQTMzaldnZjdqdFN5a3RUdURYblBwSmV2SHUwXzRWb3N0WDRHMkZ2ME9qQjJidDZtYmg1TVFwSmZ0T0xuZUJIQTVRUQ?oc=5",
+          "pub": "Fri, 16 Oct 2026 13:25:34 GMT",
+          "source": "Yahoo Finance"
         },
         {
-          "title": "Can Meta AI Break Into The Enterprise? Why Zuckerberg Thinks So - Investor's Business Daily",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNd3NvbHJkcVhFbVFIMzl3WFJIMVpEdEFkS1ZTNmctdDFiR0paZFVMLWJsNHkzMXp6dWFGcmZfVUdLZnZjSEdXdldLenMwUXpXOGkydGduQTZuSnNtUHZGdXFqU1doZVFoXzhiRlRwWE00bEpvVUVIOFlWTUN2d3o1SUxWVjd4aWJNT1RISHlabHRjUGxwZUhTaA?oc=5",
-          "pub": "Fri, 16 Oct 2026 12:00:00 GMT",
-          "source": "Investor's Business Daily"
+          "title": "Meta Platforms (META): Distribution Reach and Muse AI Catalyst Bridge the Capex Return Gap - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPd2szTDNRQjJBYnhXWU9DLXNPaWM2a3BvUVlBUDV5U1FoTnFQb2J6Wm8tSy1ZMEI5VjdGNUdJNDFaTThUVzlKdl9XTXl1QkdYZlpfcHFNdWl6OTAwZ0NEN2k2NUg3TXJHa2xsblJpVkZPRDdUbkRXVEo0RGFVS01vOHFudHV2aUlVX3J3RVdZeGo2UXVORE5ZMS1jMUctNFBwNkFfWlVB?oc=5",
+          "pub": "Fri, 16 Oct 2026 13:35:47 GMT",
+          "source": "Yahoo Finance"
         }
       ]
     },
     {
       "symbol": "AVGO",
-      "price": 336.975,
+      "price": 338.35,
       "prev_close": 344.3299865722656,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -2.1360284782289756,
-      "drawdown_pct": 31.924242424242422,
+      "day_change_pct": -1.7367022349099308,
+      "drawdown_pct": 31.64646464646464,
       "name": "Broadcom",
       "news": [
         {
@@ -97,10 +97,10 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "Broadcom And 2 Top AI Chip Stocks To Watch - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdjEyT0ZOWE53bERLck1BX0trV0tkbEpXUm82ZFRoRVJXZ3dXNmJONVJSazBSdy1QQi1teG9XNVAwdzFSRFNONTZJR2p2WFJnLXlYQVdnczdBVENqbkRsRWVlbm5STEFGbWV3c2NHMndSd212cUYzUmJvMU50VXFFMVRKMmxNcjlKaGl3cGpLVQ?oc=5",
-          "pub": "Thu, 15 Oct 2026 03:17:00 GMT",
-          "source": "Yahoo Finance"
+          "title": "Broadcom Stock Is Down 28%, And The Bar To Hit Its Target Is Lower Than You Think (AVGO) - Seeking Alpha",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSE5QempUSld4MWlNT3BfRzJIWm9HMG1SZjUtS0R5cjEzQ3lKVUZtVFo1UUwxUXFnSkFlSkd2NFhTczBpb2h0ZTlRdVZkVmtnRVhsZHJDSFJZdjhpenlRUlFCZG54NDJlbS1LWmpfQ0dsaDlqVUY4a0NlQzROWUwtVk02dXZxYkVoNFR1SmNra3k4dTg1ZG9aaTlyN1BfRlVTalZZRW40Z3F0U2ZFa3VuQV9xVXJDcjZNNi1QN3o0YlJ0Sml5N0tJ?oc=5",
+          "pub": "Fri, 16 Oct 2026 11:25:11 GMT",
+          "source": "Seeking Alpha"
         },
         {
           "title": "Capital Over Chips: Broadcom CEO Warns Financing Costs Could Slow AI Expansion - Yahoo Finance",
@@ -118,14 +118,14 @@
     },
     {
       "symbol": "AMD",
-      "price": 550.68,
+      "price": 542.65,
       "prev_close": 562.22998046875,
       "high_52w": 658.52001953125,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -2.0543160041235162,
-      "drawdown_pct": 16.376118619448064,
+      "day_change_pct": -3.482557165028008,
+      "drawdown_pct": 17.595519664493878,
       "name": "AMD",
       "news": [
         {
@@ -156,14 +156,14 @@
     },
     {
       "symbol": "RKLB",
-      "price": 53.75,
+      "price": 53.674,
       "prev_close": 55.25,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -2.7149321266968327,
-      "drawdown_pct": 64.40397350993378,
+      "day_change_pct": -2.8524886877828064,
+      "drawdown_pct": 64.45430463576159,
       "name": "Rocket Lab",
       "news": [
         {
@@ -185,23 +185,23 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "Rocket Lab Tumbles on Yet Another Neutron Delay. Time to Bail? - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOd3dxdS1YQS1aUVkzci0wZEJpSHN5dkw4TFJWQWJxUktSNzdWWExTdUpOYW1TZUE3VURTS2EzV1I2QkpvTUxiSXVxTzJlRjRHeTdPVXQ1cWloeEpFTmt0T1JzNXV5UVh2VDNOTjZzVlNlRlZKUzFEUFV2VVZ5cEYtTVNQNkd1bDFZb2FlU1QyQy1McEV1T1VqX0FDdw?oc=5",
-          "pub": "Fri, 16 Oct 2026 11:26:51 GMT",
-          "source": "Yahoo Finance"
+          "title": "Stocks making the biggest moves premarket: CoreWeave, Rocket Lab Corp, SK Hynix & more - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ2Z2T1A1Z0ttUldwQnJmQUZJU3hlRHBPcjFyakJ5X21wNU9tX2dGcm1FcEZkTUx2MjVRa2pvemlCWXhLMEdWY2puelVKUmlBa1FEWFNvSkswQjVLUmpHaVBCLTZiS3NrSW05NHROSmFDWkRRRlhFOWdRUHFpeG5EZXVfU0dOMXBWbUlMZk1sS1lxallSVmpCTg?oc=5",
+          "pub": "Thu, 15 Oct 2026 11:44:59 GMT",
+          "source": "CNBC"
         }
       ]
     },
     {
       "symbol": "IREN",
-      "price": 29.11,
+      "price": 28.695,
       "prev_close": 30.389999389648438,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": -4.211909889292188,
-      "drawdown_pct": 62.130871653579646,
+      "day_change_pct": -5.5774906998708085,
+      "drawdown_pct": 62.67074414632319,
       "name": "IREN",
       "news": [
         {
@@ -211,16 +211,16 @@
           "source": "Yahoo Finance"
         },
         {
+          "title": "Daniel Newman Says ‘Grown-Up Move’ For Neocloud CEOs of CoreWeave, IREN Is to Buy Their Own Stock, Like P - Benzinga",
+          "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQWHBzZWhnVTB1VTU2Wk93RWpNUnhERDQ5TEx4YXJlUHlUdGlGajNMYzlucWpMc1FDbnJtX1I3VWJzRS1qQUpOdmNnLWhwd2NYdnprLXhET05ROE54WDFJU2dWWGs0aUZfcTBPNS05OFM5M3lIQXNvM3d3Qkc5MVlUZnY4TUYxUGltMFVGV1lSRXQtTWdKeFZnQVJhcUE5ckJmcjNGTzczSm9xMDZxTHA2aHY3V01udTB2RHBFclpGbmk1TWpaajVsaURPV3BuR2s2cUtnblhzUVJNTVVfRkFoUUY4R1Q4OUxZTGZJaUlpai1SRkxmM0RWY3BlOGpWbXhna0loSVhnXzZJMnVEMldsdUlDSDRWSndNOEltWQ?oc=5",
+          "pub": "Thu, 15 Oct 2026 08:29:49 GMT",
+          "source": "Benzinga"
+        },
+        {
           "title": "CoreWeave collapses after Gartner predicts 80% of neoclouds will evaporate by 2030 - Seeking Alpha",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWDk2Z0VPTmVQeTNJM0R1UGpWVlJYMWpTVk5jUmVkVlNsRjdraU1kRFh5aXB1REJyM2RyeFcxV2hwZk53U1h5N01qbjN6UFVjRnhMSkVLV0I2emNGcXNLdUEteVdzcVgyQkxQUWk3bWt4OGtIZjNXMkpNaUllalN1SzVGaUxUTndZMkhyeGhkaGpzYlNETlpad3U1dUNUUUdJTTlkY3BuWXA2SUJkZWcxZ1k3MVNyQVQ1dk5FcjRwV3dtY3FENlE?oc=5",
           "pub": "Wed, 14 Oct 2026 16:05:00 GMT",
           "source": "Seeking Alpha"
-        },
-        {
-          "title": "CRWV, NBIS, IREN in Focus: Gartner Warns 80% of Neoclouds Will 'Cease Independent Operations' by 2030 - Benzinga",
-          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQZEJxQ2hrbDdwcjc3RTg4Tm1DRmV2T1FpN1BaQ0czZmtXS19NcGxuYkVvMWRacVJlek9lYkxDNEJKZG5tVTJJd0k2eV9ZS2NTM0RkUnllckhTSU9FRkFWVW0wLU1KZFRzU3BKVU5sLWc2ZGlEUS1jc2VVck1ES0tGbVk1QjE1VkY4c19oQTRycmRCVUVKVVl1SERGR3dSMVcwaUFkRzQyak9Gdk9uOWJpRndJWEhJRzN2OE10R011aHdIMl8yUnp1M2gxbURMLW9VUl9HenN0VmpSV2d5S3VjWmQyRFM1M1U?oc=5",
-          "pub": "Thu, 15 Oct 2026 13:27:32 GMT",
-          "source": "Benzinga"
         },
         {
           "title": "IREN Shares Are Falling Thursday: What's Going On? - Benzinga",
@@ -232,14 +232,14 @@
     },
     {
       "symbol": "MILDEF.ST",
-      "price": 248.8,
+      "price": 249.6,
       "prev_close": 244.6999969482422,
       "high_52w": 254.8000030517578,
       "currency": "SEK",
       "yahoo_name": "Mildef Group AB",
       "exchange": "Stockholm",
-      "day_change_pct": 1.6755223142176983,
-      "drawdown_pct": 2.3547892385774474,
+      "day_change_pct": 2.0024532541347897,
+      "drawdown_pct": 2.0408174997947452,
       "name": "MilDef Group",
       "news": [
         {
@@ -270,14 +270,14 @@
     },
     {
       "symbol": "IVSO.ST",
-      "price": 258.2,
+      "price": 256.4,
       "prev_close": 252.8000030517578,
       "high_52w": 336.0,
       "currency": "SEK",
       "yahoo_name": "INVISIO AB",
       "exchange": "Stockholm",
-      "day_change_pct": 2.136074716398081,
-      "drawdown_pct": 23.15476190476191,
+      "day_change_pct": 1.4240494085378266,
+      "drawdown_pct": 23.690476190476197,
       "name": "Invisio",
       "news": [
         {
@@ -308,14 +308,14 @@
     },
     {
       "symbol": "NORBT.OL",
-      "price": 161.8,
+      "price": 162.2,
       "prev_close": 158.0,
       "high_52w": 244.8000030517578,
       "currency": "NOK",
       "yahoo_name": "NORBIT",
       "exchange": "Oslo",
-      "day_change_pct": 2.405063291139248,
-      "drawdown_pct": 33.90522958212921,
+      "day_change_pct": 2.6582278481012587,
+      "drawdown_pct": 33.74183089135575,
       "name": "Norbit ASA",
       "news": [
         {
