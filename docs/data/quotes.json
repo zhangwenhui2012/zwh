@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-10-19T19:30:36.856203+00:00",
-  "updated_at_display": "2026-10-19 19:30 UTC",
+  "updated_at": "2026-10-19T19:52:45.869321+00:00",
+  "updated_at_display": "2026-10-19 19:52 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 217.87,
+      "price": 217.005,
       "prev_close": 214.1300048828125,
       "high_52w": 243.37,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 1.7466002110420265,
-      "drawdown_pct": 10.477873197189465,
+      "day_change_pct": 1.3426400091668151,
+      "drawdown_pct": 10.83329909191766,
       "name": "NVIDIA",
       "news": [
         {
@@ -21,10 +21,10 @@
           "source": "24/7 Wall St."
         },
         {
-          "title": "$3,000 Split Across Nvidia, Broadcom, and TSMC Could Be Worth This Much by 2030 - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQR3dPRm9vb1NvUzFESHZ6YWtJLVEtd3p3UVRNUkpBdkJMeFB6cXZoaWNwcnJCQzJWSUNrLWNvOFQ5cDlDdGJ2clE3emVySlVkeHZtOTFYN3VrYmphNGVONmVsMjFFbm5Vb3V6NlBPRGZfRkw5MHQ1VDN0TGJyMWtDUTdlUnJXdXlrVDJNUkw5SURmQmljbU9VZQ?oc=5",
-          "pub": "Sun, 18 Oct 2026 01:00:00 GMT",
-          "source": "The Motley Fool"
+          "title": "Here’s What a $10,000 Investment in Nvidia Stock Will Be Worth by 2030 - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZFhBeFNLSGRFT0wzZTBUVmtJbUhhQUZGOWNNZWszTXVDNjVSeWlMNVlGVU5hdVFzZUhfYXBQRmx2RnhRQVNoRVZwS2M0RE1hX0J2UkJzczVIcTluSldnSkt5QkNsNTMyN0xadklsYWNWRjRQRVp5UHlZUGg2WHJLY1RDOXZyQWNMLUxIcFNrNmZMN2k0YVdpVkI2WQ?oc=5",
+          "pub": "Mon, 19 Oct 2026 01:06:00 GMT",
+          "source": "Yahoo Finance"
         },
         {
           "title": "Nvidia vs. TSMC: Which Business Depends Less on Picking the Winning AI Chip? - Yahoo Finance",
@@ -33,23 +33,23 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "Is Nvidia Stock Really Trading for Just 8 Times 2030 Earnings? - The Globe and Mail",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSHRtemJFVUlybUs1dWN2RFBzTE9VTlg2ZnFxRWFwZDQtem9CME5VQTVwM3Z2OF9vSkVfN0FLOV9UdWd6UWloZlF6WnBOTFM2NjFWU2pPcUFmTzFlRUhDMDl3MFJOSV9fcFlaYkxsX3hvSThNMjQ0WXM1TGptRllUejd1ZWpYRU1GaW5FU0JrWkpmZ1VrNGtWaDcyX3hqQ1h0bWVnQzB4clFBeWRKUmtfOGtCNTA2dy1hM1g0aloxT2RMemU4dl83UFdlVWhUVWdkdUJEU1pDaHlhOTRxemJQUQ?oc=5",
-          "pub": "Mon, 19 Oct 2026 18:41:44 GMT",
-          "source": "The Globe and Mail"
+          "title": "Is Nvidia Stock Really Trading for Just 8 Times 2030 Earnings? - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTmNna0dmYkFSSUl2XzNQNHpzak9hU0xxdVdVUXFtRmh6WnB1UnZTa2pyZnFoUnZPYVhXZWNtTDlkR2k5WlFkN1lTM3ZPRk54a0Q2ZXkyV0hid2NQVFhHQ1RxSVdIRGdqQ2JiczgtNUd5dmFJZXYtOWt1TEpSZjltVk80UFlwR0lseTh0ZDh4WkNkZDJ4SDlLYQ?oc=5",
+          "pub": "Mon, 19 Oct 2026 18:13:03 GMT",
+          "source": "The Motley Fool"
         }
       ]
     },
     {
       "symbol": "META",
-      "price": 705.395,
+      "price": 704.315,
       "prev_close": 709.3300170898438,
       "high_52w": 779.8200073242188,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -0.5547512434322033,
-      "drawdown_pct": 9.54386994757827,
+      "day_change_pct": -0.7070075943520227,
+      "drawdown_pct": 9.682363444777156,
       "name": "Meta Platforms",
       "news": [
         {
@@ -80,14 +80,14 @@
     },
     {
       "symbol": "AVGO",
-      "price": 335.59,
+      "price": 334.98,
       "prev_close": 328.75,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 2.0806083650190037,
-      "drawdown_pct": 32.204040404040406,
+      "day_change_pct": 1.895057034220538,
+      "drawdown_pct": 32.32727272727272,
       "name": "Broadcom",
       "news": [
         {
@@ -97,9 +97,9 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "Marvell Jumps 6% as GF Securities Says Google Chip Delay Won’t Dent Its Position; Broadcom Rises 3% - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdklUckR0Mmg4S25hM051eThoeUl0LVV4enZUMjFjZTIxNzgyZG5aN0VSeWhicWtTNE9QanpMNjNPZFlscGpKc0NVZzIxVkJSXzExR1NNaS1TZVVPdUpYNEJ3OTJiTFlLTTRWSTNGTXhKN1ZfZXFKQkItZjV3OWU1dU1mWFhEb1BsN2hvSzhVN2hOeEN5WjFSOTFn?oc=5",
-          "pub": "Mon, 19 Oct 2026 17:08:26 GMT",
+          "title": "Broadcom (AVGO) vs. Texas Instruments (TXN): Higher Income or Stronger Dividend Coverage? - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNelktbEwydndHVE1ERE1zdFVoelFpalBHV1hqdE5rc29RSnBWOWJ6LTdVUWVXZG1SalRiSWtUYXd4SlhDVnJpVHJsMXRDa3lFT25kNkFqckE0UWJ5V2M4Smk1Tzhia1FtdTQzQ05vY0FjcEo5THA5QmtVSXl3ZnBXMUxnM0ppUi13azB6YVMwU3BWTjVRRFp3WTJHOUg0TEZJ?oc=5",
+          "pub": "Mon, 19 Oct 2026 18:57:56 GMT",
           "source": "Yahoo Finance"
         },
         {
@@ -109,25 +109,31 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "Broadcom (AVGO) vs. Texas Instruments (TXN): Higher Income or Stronger Dividend Coverage? - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNelktbEwydndHVE1ERE1zdFVoelFpalBHV1hqdE5rc29RSnBWOWJ6LTdVUWVXZG1SalRiSWtUYXd4SlhDVnJpVHJsMXRDa3lFT25kNkFqckE0UWJ5V2M4Smk1Tzhia1FtdTQzQ05vY0FjcEo5THA5QmtVSXl3ZnBXMUxnM0ppUi13azB6YVMwU3BWTjVRRFp3WTJHOUg0TEZJ?oc=5",
-          "pub": "Mon, 19 Oct 2026 18:57:56 GMT",
-          "source": "Yahoo Finance"
+          "title": "Is Broadcom Stock Cheap Enough Yet? - Trefis",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUUlPNWtyaFJqT2hEdkJ1OEVXY1ZjdldvcDUtLWFtRXF3UkkwZVdZdUZPc0I5Z2thX1M3TExXaGVXb0dzQmNLX2F2Z0dHaF9HMEU2SlpFTW9zY0dQOUJWN2xzYVZGeUNmWEotaWZUblpLRG5GN05MbTVwRE56UUV3Z05NSDJfem5OaGxldmJxSkprb3dEZzFTdnhkVQ?oc=5",
+          "pub": "Mon, 19 Oct 2026 12:20:39 GMT",
+          "source": "Trefis"
         }
       ]
     },
     {
       "symbol": "AMD",
-      "price": 541.152,
+      "price": 538.64,
       "prev_close": 528.75,
       "high_52w": 658.52001953125,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 2.3455319148936256,
-      "drawdown_pct": 17.822999460942018,
+      "day_change_pct": 1.8704491725768295,
+      "drawdown_pct": 18.20446090865748,
       "name": "AMD",
       "news": [
+        {
+          "title": "Here's What a $5,000 Investment in AMD Could Be Worth by 2032 - The Globe and Mail",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNcmtIX3FFaXZpYWdvVDhiM1h5cHhCb2llTXpWcXFnUE9fSjAxZnJDQldCdU1GXzhBU2RNMDZnVVNVUVBhemVaRG5tMjFIMWh2VUJ2WFUtT2lLMUxuYS1QSkNQcHJPZVFWaTlQRnJzUHNxV2tkWUM0SXJsanc1M1BYTXRCTTRMamdnalBURXl0SnlFSnVOaU9LTjh5X3FVUFlCVVZTMUYxQzJySEtreGhZSnlpMlpNeUU5SkpaTWhzUkRFbHZQV0x1NXFPRi1Oa01KbllzM3c1bkx4OGhKNEVJdQ?oc=5",
+          "pub": "Mon, 19 Oct 2026 19:07:19 GMT",
+          "source": "The Globe and Mail"
+        },
         {
           "title": "AMD Stock Is Up Over 140% This Year. I'd Still Buy It Before Its Nov. 3 Report. - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOOHN5eGJqWVVRTENKdnA4QzFpYk9RN1RzMGdEVTg3QmFiNmpJZElRZFRMeVRDZE56TVR4bThZS0NFLVBHRzFrZ2pSUUVpSU9DMnBJY3dhOW1DZXg4Y3pHWTNuUlRPQ1haV0tySmlYUHdBR0VBQ2FDbzFDT0VKQzJDUGxEbjRmOVFHMnEyQ1pVcw?oc=5",
@@ -145,25 +151,19 @@
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNmMtTXFVUjdtdExpSk12WnF5bWlNcnhJUjlvRGJzQnc3M0FxUEczWGRVSFc1bmlaUUI0aWFYdUN4YUQzYkh3Qno4LXVqQnM4ZFJ5ZlVTSDBIY1d2THRnbkhaXzdZSFhjRkxhdE1YWURCWmtJQm9XTWpoRzJVRmdBUVBNN3JvNzM1VmVpa1kyMkNLa0ZBVHdRd3laNHpsWUhxckRlUDJRNndCa0dtdEI5X2Z4alFwVWptNmh2YUVn?oc=5",
           "pub": "Mon, 19 Oct 2026 15:59:00 GMT",
           "source": "24/7 Wall St."
-        },
-        {
-          "title": "Here's What a $5,000 Investment in AMD Could Be Worth by 2032 - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdGhTZ1MzT29YTEV1WUNHNXBCR2NJRkwyODY2Y05PcjI5ZEUtOTlMTnVScEpwelNlYy1LUUoxTmJ6cDctazE4TmwzaDVVN0RVYjM0Y0tJRnJaSEpCUjdsazhIcDRMWFoyUDlvTzU5ZEVkYlNVVjQ3TWZYMWl6alRJdkhjekt6bUFqRDJIcXVmWVlRM1FxRGhRRg?oc=5",
-          "pub": "Mon, 19 Oct 2026 18:53:55 GMT",
-          "source": "The Motley Fool"
         }
       ]
     },
     {
       "symbol": "RKLB",
-      "price": 51.64,
+      "price": 51.47,
       "prev_close": 50.84000015258789,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 1.5735638178816722,
-      "drawdown_pct": 65.80132450331125,
+      "day_change_pct": 1.2391814428034371,
+      "drawdown_pct": 65.91390728476821,
       "name": "Rocket Lab",
       "news": [
         {
@@ -194,16 +194,22 @@
     },
     {
       "symbol": "IREN",
-      "price": 28.01,
+      "price": 27.865,
       "prev_close": 26.989999771118164,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": 3.779178353211153,
-      "drawdown_pct": 63.561858983743235,
+      "day_change_pct": 3.2419423353169745,
+      "drawdown_pct": 63.75048913181027,
       "name": "IREN",
       "news": [
+        {
+          "title": "What IREN Bears Saw Before A 54% Drop - Simply Wall Street",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbVFielRvSThMaFo5Zm9xQXBtYUx1VGVBOGc3enJyX2ZXSUVHZkNPallaSnlNZ2ZfVXJyVlJSR2NtekdVT1l2UTFtOUlRMU0zRW5TbFVMVHFucVF6VDNBWG0waUY4LXFrMGtNT3ZfdDdRYlMtTjh1RDk2M1kyQW9pZ1V4SkdlTE53QWthTDVzbEdURmxLcWdzQlBjNFU5VEpD0gGmAUFVX3lxTFBMYVU1WnRISEV0LV8wOEZIbEhfQnFKU3BwRUNTMEkxSkhVdm1qYzVDZF8zSHc3dDQzb0N0ZHdqQ1pYQlBVcHBqNEROOWk5WExuNGEyQXRkQTBwTGVLWUdsUUw3ODVUeWRkLTNNQXpwdWt2SVBTQk1mbVBFTmY2QzdpZEZoNkR5Z0tYT0VEU1JTV1g2SkFXUjdONTAxWDdIX1I5OElMYUE?oc=5",
+          "pub": "Mon, 19 Oct 2026 19:42:34 GMT",
+          "source": "Simply Wall Street"
+        },
         {
           "title": "If I Could Only Own 1 Artificial Intelligence (AI) Stock Through the Next Bubble Scare, It Would Be This One - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbWQ0TlNSVzJETlo2akNxdzBEYmlQdlBNaUpLeEtVZ3duNGtoRVZBSDdUbnpMT2hHWEN4eUtGcDg5ZzVIMjlheEJoYUlOXzY0SS1Qbnd3a2pKZjVmM1g1dDZpR3NDdHRvTUZlU05raV9OUXpwS1pLMWxKRWtnSnVTSWZlaWEtRnFjNzNpTVJsLXJpQjNJNXc?oc=5",
@@ -221,12 +227,6 @@
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdzdaRzRrWFIwaG01NW81eWpFSDdBN1MzaDM5V1MxSXJjQlZ5SnJXZVIxbHEyb2FpM2dMZjdpcXFyMEJTR08tclZndE8xTWlTZF9VR2FRX3RPMVdIdWtDWmJuVkhrWTN1aHltLXlKWnZZQ1RNRVJtT29fai1xQ2ZfeGtaU2l5djRRRWZTZ1FVdFU3OVl0WWN3c3NHRk5ZZ0dXeUgtWi1fQml3Xy1oX05KYlZpYW5aUlBZVHdyRTE1Z0I?oc=5",
           "pub": "Mon, 19 Oct 2026 16:44:57 GMT",
           "source": "Investing.com"
-        },
-        {
-          "title": "Nebius Vs. CoreWeave Vs. IREN: AI Backlog Is Booming, Shareholder Returns Remain Unproven - Seeking Alpha",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNN0xTb0JYeWExN3ExcHZfQmRxZWVfOGFGSmZpWmxkdlhiWmZlTmMxQml2aXZMZFl6M0hPYjF2ZEtlRlRHYmE3Skg0T05XZDZCTXluZGdMYnJuYUE5T0ZhTEt4aWpodFhJdnZDcG1lRXR2TnpLWFVfQlF5cTJVQndJRUJaeVdxS0tNT3Q1UVhKMkhQSDRxSTZLdlNsdF9lUGN0YXhReVN4VmdRbmw5Ry1TVTltX3NSM1ptQ2hqTkpoXzFzbDRL?oc=5",
-          "pub": "Mon, 19 Oct 2026 16:08:03 GMT",
-          "source": "Seeking Alpha"
         }
       ]
     },
