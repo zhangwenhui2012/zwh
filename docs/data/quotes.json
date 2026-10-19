@@ -1,19 +1,25 @@
 {
-  "updated_at": "2026-10-19T19:00:47.079485+00:00",
-  "updated_at_display": "2026-10-19 19:00 UTC",
+  "updated_at": "2026-10-19T19:30:36.856203+00:00",
+  "updated_at_display": "2026-10-19 19:30 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 217.37,
+      "price": 217.87,
       "prev_close": 214.1300048828125,
       "high_52w": 243.37,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 1.5130972041777448,
-      "drawdown_pct": 10.683321691252003,
+      "day_change_pct": 1.7466002110420265,
+      "drawdown_pct": 10.477873197189465,
       "name": "NVIDIA",
       "news": [
+        {
+          "title": "Nvidia Stock Could Be Headed for a Significant Revaluation - 24/7 Wall St.",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPemNXVkt2U3hmeXZyTFVZX19ObndHanBmWTJmNVJYdHVOcUtydVQ1U0RCVFEzZHhwQXJfWjVWQmJnMHk4dGxoa3h5SXhTamhFUmRyY082NG55ZThJOHBHTk9GUDRmR3dIbmlqbDRscHhzMmZCRHA4b2IzT1M4Y19IYkVHVTBuemhOSThNU2NMaktOdzZxUU1IZDJISXEwV2tvYncxUQ?oc=5",
+          "pub": "Mon, 19 Oct 2026 16:00:00 GMT",
+          "source": "24/7 Wall St."
+        },
         {
           "title": "$3,000 Split Across Nvidia, Broadcom, and TSMC Could Be Worth This Much by 2030 - The Motley Fool",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQR3dPRm9vb1NvUzFESHZ6YWtJLVEtd3p3UVRNUkpBdkJMeFB6cXZoaWNwcnJCQzJWSUNrLWNvOFQ5cDlDdGJ2clE3emVySlVkeHZtOTFYN3VrYmphNGVONmVsMjFFbm5Vb3V6NlBPRGZfRkw5MHQ1VDN0TGJyMWtDUTdlUnJXdXlrVDJNUkw5SURmQmljbU9VZQ?oc=5",
@@ -21,15 +27,9 @@
           "source": "The Motley Fool"
         },
         {
-          "title": "Why Nvidia Stock Can Defy the Broader Chip Sector Slump - Barron's",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5PVVcyTUpzN3dWbVBTZ3ZmX19KNHc1UFoyUm9JeGFfa01DWXA3Mkh3VXNtMFJ1ZTZNU1BFN3EzbTk5SnR1VXU0NERRRHlwaW5hSmMxdnhJN0t4cTNNVlNXdG1Wbjd6TG1KMVRONkYtRmY?oc=5",
-          "pub": "Fri, 16 Oct 2026 16:23:00 GMT",
-          "source": "Barron's"
-        },
-        {
-          "title": "NVIDIA Stock And 2 Other Undervalued Stocks To Own - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVHk5WjNhUlBQWkx5bkg0c3Q4YkVsWDRiSU5KYThGVVhFa3FyWWdxb2p3ajdxeWU5Mmt5WWoydG1mSTNqMzhhcXFoU0F2OER3ZXBiNTRDQ1kzM0ZneTVlcGJIcThBZ0IxY002ZzB6MnVjTzI0c0hnbWdIbGFpRC1DbmJvOXV4OFk4M01pVTRTOEJodTh3NGNNNnZnQ0V6UQ?oc=5",
-          "pub": "Mon, 19 Oct 2026 18:12:30 GMT",
+          "title": "Nvidia vs. TSMC: Which Business Depends Less on Picking the Winning AI Chip? - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTVd6NXl0TlQtMXNKRzJtdnNpUTJvaXhEdlNBVlNiMkdyZUowTUkwTFlqMXVld2RRbVBuR0VoeWM3OHVXblFveGkybUR0ZzduUm42MFRsaF80b29MamVzWDh0dXc2Z29MbHEyRzNydE9vSHpqNkc3RlZ1c3NpYk5EZWVyRWplTTJKN3RocnJocjJrS1k1SU5OWUVoaw?oc=5",
+          "pub": "Mon, 19 Oct 2026 18:56:30 GMT",
           "source": "Yahoo Finance"
         },
         {
@@ -42,20 +42,20 @@
     },
     {
       "symbol": "META",
-      "price": 704.625,
+      "price": 705.395,
       "prev_close": 709.3300170898438,
       "high_52w": 779.8200073242188,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -0.6633043825139311,
-      "drawdown_pct": 9.642610681692295,
+      "day_change_pct": -0.5547512434322033,
+      "drawdown_pct": 9.54386994757827,
       "name": "Meta Platforms",
       "news": [
         {
-          "title": "Accelerating Ad Business and Distribution Scale Create Compelling Value at Meta Platforms (META) - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaHNwMThON05rZlJYc1RKeGk0Uzg2RVBMM2VEUVZ3aGpDa2s5dzh6YS1SSmJDMmNld0R6Wm45em42YWszdnlPVW9jTEc4emZnYnd5VHQ2YTc2M3FnTS02R0pkVUNwMER6TXFmejZlOGs0VFJkWnplREdOYldZdnZzN294V1pCVk9XSGZTUFN6ZHd5TUlLeVJ6djBfVm5jR1YyN0o5cndWVndNLWVxM2k2Zw?oc=5",
-          "pub": "Mon, 19 Oct 2026 14:42:07 GMT",
+          "title": "Should You Buy Meta (META) Ahead of Earnings? - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObHAxelFtNmtsWHhTNmJFY1BzdHlJTVktNzFYQkRqdGREcUpybjllbFozSXQ5VWJSaFJQTXJ4VHYtVU05VWxUaURTYU9malBuVVBQUWhDSFZtRXdDNEgtdUpXX2NNMVhiLThKYnF1TUZ5UGVBRi1qSGFJc2Zzb2lWbXRTLTl3WktYS2RNZkYxNGFCWXJmbk9XUw?oc=5",
+          "pub": "Mon, 19 Oct 2026 14:07:01 GMT",
           "source": "Yahoo Finance"
         },
         {
@@ -80,14 +80,14 @@
     },
     {
       "symbol": "AVGO",
-      "price": 335.465,
+      "price": 335.59,
       "prev_close": 328.75,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 2.042585551330791,
-      "drawdown_pct": 32.22929292929294,
+      "day_change_pct": 2.0806083650190037,
+      "drawdown_pct": 32.204040404040406,
       "name": "Broadcom",
       "news": [
         {
@@ -109,23 +109,23 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "Broadcom’s Time is Nearing as Neocloud Risk Jolts Nvidia - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNV1BtWlZSWUJKemxTMUlncjBhZV92cDFOVXM3NDU0Q2MwRzQ0RURaTkFNaXhCMGFkV2VUTEN0QkdrdzlXWmFERDNtQmJFZXczYWVWamZYNjVIcHFwckpFSWF1VzhMLUdMc0NOQkRLbnY1YkdUaEFuVEZuS2pPRHlEUkpELVJSVGdSLTN2NzRZaUZPQ2MzZmNGVUEzd1JBWVIyR3c?oc=5",
-          "pub": "Mon, 19 Oct 2026 16:45:21 GMT",
+          "title": "Broadcom (AVGO) vs. Texas Instruments (TXN): Higher Income or Stronger Dividend Coverage? - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNelktbEwydndHVE1ERE1zdFVoelFpalBHV1hqdE5rc29RSnBWOWJ6LTdVUWVXZG1SalRiSWtUYXd4SlhDVnJpVHJsMXRDa3lFT25kNkFqckE0UWJ5V2M4Smk1Tzhia1FtdTQzQ05vY0FjcEo5THA5QmtVSXl3ZnBXMUxnM0ppUi13azB6YVMwU3BWTjVRRFp3WTJHOUg0TEZJ?oc=5",
+          "pub": "Mon, 19 Oct 2026 18:57:56 GMT",
           "source": "Yahoo Finance"
         }
       ]
     },
     {
       "symbol": "AMD",
-      "price": 540.18,
+      "price": 541.152,
       "prev_close": 528.75,
       "high_52w": 658.52001953125,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 2.1617021276595647,
-      "drawdown_pct": 17.970603173991165,
+      "day_change_pct": 2.3455319148936256,
+      "drawdown_pct": 17.822999460942018,
       "name": "AMD",
       "news": [
         {
@@ -147,35 +147,35 @@
           "source": "24/7 Wall St."
         },
         {
-          "title": "Why AMD Stock Popped on Monday - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1qSEl3bUFUaUFRdGg4YjZVa3hPRklUQkJGRmo5YWNxNjB6UWhmem4xdzN0RDcxTDN3N3kyX2JVOGkyT2Zwa2FoNXA3TWlsY1NFWjQ2NDFEWjhWWlluVThuNmwyZzFjdTFTSnF1eC14VVlnWTBVSnlDTjRlb2JPZw?oc=5",
-          "pub": "Mon, 19 Oct 2026 17:00:39 GMT",
+          "title": "Here's What a $5,000 Investment in AMD Could Be Worth by 2032 - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdGhTZ1MzT29YTEV1WUNHNXBCR2NJRkwyODY2Y05PcjI5ZEUtOTlMTnVScEpwelNlYy1LUUoxTmJ6cDctazE4TmwzaDVVN0RVYjM0Y0tJRnJaSEpCUjdsazhIcDRMWFoyUDlvTzU5ZEVkYlNVVjQ3TWZYMWl6alRJdkhjekt6bUFqRDJIcXVmWVlRM1FxRGhRRg?oc=5",
+          "pub": "Mon, 19 Oct 2026 18:53:55 GMT",
           "source": "The Motley Fool"
         }
       ]
     },
     {
       "symbol": "RKLB",
-      "price": 51.79,
+      "price": 51.64,
       "prev_close": 50.84000015258789,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 1.8686070900095209,
-      "drawdown_pct": 65.7019867549669,
+      "day_change_pct": 1.5735638178816722,
+      "drawdown_pct": 65.80132450331125,
       "name": "Rocket Lab",
       "news": [
         {
-          "title": "Rocket Lab's Neutron Delay Leaves Wall Street Bullish But Raises the Stakes for 2027 - MarketBeat",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcFhuNEFZS0I4ZUdQVHMtVnN2b1J3VGN6MDJMNGV0UTRGWm94b1FZMjZvUmk4eUFoSEVqcGRpVFhPZlU2MWZsYXdhSEhpTGhienc1ejEtdU5PUUhxMTRlVm0xemFWazlBYi1oam5nUUhUczFtU1hLYVZhb0xDdmQ2QUY3Q2NZaXc3OGxrcEdaempsbGFSRmJCbGZEaXBjTnIzaFV2YTA3QWptNkt6VEtYb2tUOHJYSFF3bTdaYg?oc=5",
-          "pub": "Sat, 17 Oct 2026 16:08:22 GMT",
-          "source": "MarketBeat"
+          "title": "Rocket Lab Stock: Neutron Delayed, Strong Buy Intact (NASDAQ:RKLB) - Seeking Alpha",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbmZCTDVQWGtQUmVuYjNwcDFyVlduODJZRkdWOXJ0MDdhZVZaWHpXTGVzN1pVdmFPS29ydEJySklPVV9DZVJMRzhvelVaMDNuT2JiZmFSd2xqV3VadlprQjV1VnlqdVFxSWNSQTM5THlwcXJ5R2FOY2t1RTRSWWgwbG53X2RTTUNyTndwRmNn?oc=5",
+          "pub": "Sat, 17 Oct 2026 02:59:03 GMT",
+          "source": "Seeking Alpha"
         },
         {
-          "title": "AST SpaceMobile Rises 4% as Europe’s Largest Carriers Explore Joint Satellite Spectrum Bid; SpaceX and Rocket Lab Edge Higher - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTHBqOUZUY3NKSXhQM0J0TDRBS1pOMXA0UURESVhFaDJ4aDJQX3hMbWlseHhRMnhxUnUxTmFUWnp4dWNqYTVPUE9YN1M1RzN5dnhaNzRWUThDcDdCcFdHSlB3NTI5Y2VzLUVyQkpxaUUwT3FRMHduaVhmMDNEVmNGeS1TY1VFSDl1TzdRSFQ4clZxOWRWMEwtMEVEZw?oc=5",
-          "pub": "Mon, 19 Oct 2026 13:06:15 GMT",
+          "title": "RKLB Stock Suffers Worst Week Ever: AST SpaceMobile Partner Challenges Iridium Deal — Claims Rival Uses FCC To Block Competitors - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVU9BMzdNQzBRSm5hNHViVm1zQ2VMcUJPYndlLTIwWm4yVHR2ZWVCZ2J4YVRhVzZHRnFhSVROQnRQUVROSlV3UGlzM0d0eVFXZFduYmtySnZWR3ZKcXB0cWJBWmJVOWVyRFJiUFZaSHJPTEl4cFVSNkM2WlhYYUx6SEVwRVdOMDd0Z2F2WTgtRVJsSjF4dTQzU2RB?oc=5",
+          "pub": "Mon, 19 Oct 2026 05:29:00 GMT",
           "source": "Yahoo Finance"
         },
         {
@@ -194,14 +194,14 @@
     },
     {
       "symbol": "IREN",
-      "price": 27.825,
+      "price": 28.01,
       "prev_close": 26.989999771118164,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": 3.0937392958978975,
-      "drawdown_pct": 63.8025250347253,
+      "day_change_pct": 3.779178353211153,
+      "drawdown_pct": 63.561858983743235,
       "name": "IREN",
       "news": [
         {
