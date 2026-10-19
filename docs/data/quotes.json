@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-10-19T16:00:44.467590+00:00",
-  "updated_at_display": "2026-10-19 16:00 UTC",
+  "updated_at": "2026-10-19T16:30:37.960399+00:00",
+  "updated_at_display": "2026-10-19 16:30 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 219.292,
+      "price": 218.03,
       "prev_close": 214.1300048828125,
       "high_52w": 243.37,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 2.4106827625640417,
-      "drawdown_pct": 9.893577680075607,
+      "day_change_pct": 1.821321173238595,
+      "drawdown_pct": 10.412129679089453,
       "name": "NVIDIA",
       "news": [
         {
@@ -27,29 +27,29 @@
           "source": "Barron's"
         },
         {
-          "title": "Stock Market Today: Dow Up, Nasdaq Rallies; Sandisk Surges As This Biotech Play Tests Entry (Live Coverage) - Investor's Business Daily",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORXNBVmY5QW01S283Ul9KVExGV1RFeXFxWlpROFh3QzBNTkJNY3NkbkZWU2xUMEc5UXMtS05xUTFFMTR1aW1sWTFIV3BLR0VVSk9rZk02RU52VU8zMFEyX2lBV1NoakVyYUozNmtVc1lqb2NoOGpDeGVHd0FwRGNzR3FQSHMtSVBmVG0zT3lveHpMX0FyNlVJOUticTR1Tmx5NmpLRjMyQmg1alVKaDBTUg?oc=5",
-          "pub": "Mon, 19 Oct 2026 15:44:00 GMT",
-          "source": "Investor's Business Daily"
+          "title": "Not Nvidia. Not Micron. This Artificial Intelligence (AI) Chip Stock Has the Most Upside Through 2030. - The Globe and Mail",
+          "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNdFYwSXNHaWN2UkFjYV91QXlJTXJnYWs3N3RqdExyaVBNdU1DUG43cmg5S2lyVDZ4Q2EwR1MtLVU1YjBzOUhvdGxGNHpLM2FVbzdRVGZGbkFwc1lRYkF0NVVsdXlHWFg4bzBRS3o0M1RIQ3RpR05ZdXBnYVFnNDM4dHJUaXRseEotdXNCNnZBVWNuVmQ3dEVBQzEtX2dYdkpqUkFXVEdvTmU3WnkxcUl0T1dfLWk4cl8ybkptbTFvNW1lU00wcmRlOGlNcUNkLVBHeXJmR1ZEWXRlbno3aXlMd0ZNQUVlMmMzMHB0N3ZjMjE1b3NlTk9jT09wVDJnZ1g1LXMtWWh4c0w5ejk0V1E?oc=5",
+          "pub": "Mon, 19 Oct 2026 15:03:26 GMT",
+          "source": "The Globe and Mail"
         },
         {
-          "title": "Here’s What a $10,000 Investment in Nvidia Stock Will Be Worth by 2030 - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZFhBeFNLSGRFT0wzZTBUVmtJbUhhQUZGOWNNZWszTXVDNjVSeWlMNVlGVU5hdVFzZUhfYXBQRmx2RnhRQVNoRVZwS2M0RE1hX0J2UkJzczVIcTluSldnSkt5QkNsNTMyN0xadklsYWNWRjRQRVp5UHlZUGg2WHJLY1RDOXZyQWNMLUxIcFNrNmZMN2k0YVdpVkI2WQ?oc=5",
-          "pub": "Mon, 19 Oct 2026 01:06:00 GMT",
-          "source": "Yahoo Finance"
+          "title": "Nvidia, Intel, Micron, Monolithic Power Are Buys Ahead of Tech Earnings. - Barron's",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOUdZbkIzLXZ5YW0wMkVnUjFGR09FSERGOTRJUXI4Ql9aR1lWRmZwMXZYYzVqamNsSmR2VDdnMV9faFJrTXhKd3dYT20wemE3d0FUNWlvSENUVTdrSS1SazRFdnh3WU5vWkxVQU0xcDk5ajlrcjc5YmlpWk5FMWY1MWdBbEx2VVMxLWZfaA?oc=5",
+          "pub": "Mon, 19 Oct 2026 15:04:00 GMT",
+          "source": "Barron's"
         }
       ]
     },
     {
       "symbol": "META",
-      "price": 703.34,
+      "price": 702.115,
       "prev_close": 709.3300170898438,
       "high_52w": 779.8200073242188,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -0.8444612444879831,
-      "drawdown_pct": 9.807392296415053,
+      "day_change_pct": -1.0171594202998302,
+      "drawdown_pct": 9.9644798279601,
       "name": "Meta Platforms",
       "news": [
         {
@@ -80,14 +80,14 @@
     },
     {
       "symbol": "AVGO",
-      "price": 339.335,
+      "price": 337.77,
       "prev_close": 328.75,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 3.2197718631178645,
-      "drawdown_pct": 31.44747474747475,
+      "day_change_pct": 2.7437262357414394,
+      "drawdown_pct": 31.763636363636365,
       "name": "Broadcom",
       "news": [
         {
@@ -118,14 +118,14 @@
     },
     {
       "symbol": "AMD",
-      "price": 550.455,
+      "price": 546.455,
       "prev_close": 528.75,
       "high_52w": 658.52001953125,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 4.1049645390071,
-      "drawdown_pct": 16.41028614561683,
+      "day_change_pct": 3.3484633569740034,
+      "drawdown_pct": 17.01770883306182,
       "name": "AMD",
       "news": [
         {
@@ -156,14 +156,14 @@
     },
     {
       "symbol": "RKLB",
-      "price": 52.78,
+      "price": 52.405,
       "prev_close": 50.84000015258789,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 3.8158926860533446,
-      "drawdown_pct": 65.04635761589404,
+      "day_change_pct": 3.078284505733716,
+      "drawdown_pct": 65.29470198675497,
       "name": "Rocket Lab",
       "news": [
         {
@@ -173,9 +173,9 @@
           "source": "Seeking Alpha"
         },
         {
-          "title": "RKLB Stock Suffers Worst Week Ever: AST SpaceMobile Partner Challenges Iridium Deal — Claims Rival Uses FCC To Block Competitors - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVU9BMzdNQzBRSm5hNHViVm1zQ2VMcUJPYndlLTIwWm4yVHR2ZWVCZ2J4YVRhVzZHRnFhSVROQnRQUVROSlV3UGlzM0d0eVFXZFduYmtySnZWR3ZKcXB0cWJBWmJVOWVyRFJiUFZaSHJPTEl4cFVSNkM2WlhYYUx6SEVwRVdOMDd0Z2F2WTgtRVJsSjF4dTQzU2RB?oc=5",
-          "pub": "Mon, 19 Oct 2026 05:29:00 GMT",
+          "title": "AST SpaceMobile Rises 4% as Europe’s Largest Carriers Explore Joint Satellite Spectrum Bid; SpaceX and Rocket Lab Edge Higher - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTHBqOUZUY3NKSXhQM0J0TDRBS1pOMXA0UURESVhFaDJ4aDJQX3hMbWlseHhRMnhxUnUxTmFUWnp4dWNqYTVPUE9YN1M1RzN5dnhaNzRWUThDcDdCcFdHSlB3NTI5Y2VzLUVyQkpxaUUwT3FRMHduaVhmMDNEVmNGeS1TY1VFSDl1TzdRSFQ4clZxOWRWMEwtMEVEZw?oc=5",
+          "pub": "Mon, 19 Oct 2026 13:06:15 GMT",
           "source": "Yahoo Finance"
         },
         {
@@ -194,14 +194,14 @@
     },
     {
       "symbol": "IREN",
-      "price": 28.615,
+      "price": 28.43,
       "prev_close": 26.989999771118164,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": 6.020749324424735,
-      "drawdown_pct": 62.774815952153276,
+      "day_change_pct": 5.335310267111492,
+      "drawdown_pct": 63.015482003135325,
       "name": "IREN",
       "news": [
         {
@@ -223,10 +223,10 @@
           "source": "TradingView"
         },
         {
-          "title": "Nebius, IREN rally as dip buyers return to AI infrastructure stocks - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPX2RRc1dtdHFrNnRZaWhXV2dtQ0pSbmJGTDl4Q0NTN1R4eUpTakoxa1pXTEhSQ2dqMmNLbUZBUXZrbWVJZnpValFUcVR1ajU3UmUtYV84c2JrMDFPbTJhNl9aR3dwbGlDMHBHc1c5ZTk1WXhHd3FlR2N5blJOREp3VVduNHhtdnNGWkRfdmo5eWpEdTA1NjFN?oc=5",
-          "pub": "Mon, 19 Oct 2026 13:21:38 GMT",
-          "source": "Yahoo Finance"
+          "title": "Nebius Vs. CoreWeave Vs. IREN: AI Backlog Is Booming, Shareholder Returns Remain Unproven - Seeking Alpha",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNN0xTb0JYeWExN3ExcHZfQmRxZWVfOGFGSmZpWmxkdlhiWmZlTmMxQml2aXZMZFl6M0hPYjF2ZEtlRlRHYmE3Skg0T05XZDZCTXluZGdMYnJuYUE5T0ZhTEt4aWpodFhJdnZDcG1lRXR2TnpLWFVfQlF5cTJVQndJRUJaeVdxS0tNT3Q1UVhKMkhQSDRxSTZLdlNsdF9lUGN0YXhReVN4VmdRbmw5Ry1TVTltX3NSM1ptQ2hqTkpoXzFzbDRL?oc=5",
+          "pub": "Mon, 19 Oct 2026 16:08:03 GMT",
+          "source": "Seeking Alpha"
         }
       ]
     },
