@@ -1,30 +1,30 @@
 {
-  "updated_at": "2026-10-20T15:30:36.751401+00:00",
-  "updated_at_display": "2026-10-20 15:30 UTC",
+  "updated_at": "2026-10-20T16:00:47.607861+00:00",
+  "updated_at_display": "2026-10-20 16:00 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 216.75,
+      "price": 217.445,
       "prev_close": 217.08999633789062,
       "high_52w": 243.37,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -0.15661538699435798,
-      "drawdown_pct": 10.938077823889552,
+      "day_change_pct": 0.16352833760097413,
+      "drawdown_pct": 10.652504417142627,
       "name": "NVIDIA",
       "news": [
+        {
+          "title": "Not Even Rumors of a Big China Chip Purchase Can Lift Nvidia Stock - Barron's",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1oeXdGdlJLZWg4QWFrdDdoTFI5WWs1b1A4R1R0U2NCNmR2RkNSMnJZb2RBZVprejQwSmV3OHRVOFhmTGxTa3R0b1A2bE5Yb1VTbVB2QmJYajNZQWNPZWlsdVdhSXVQRW1abl82WEtBMGpJaFI3LTR1S1dSTlY?oc=5",
+          "pub": "Tue, 20 Oct 2026 15:22:00 GMT",
+          "source": "Barron's"
+        },
         {
           "title": "Nvidia Stock Could Be Headed for a Significant Revaluation - 24/7 Wall St.",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPemNXVkt2U3hmeXZyTFVZX19ObndHanBmWTJmNVJYdHVOcUtydVQ1U0RCVFEzZHhwQXJfWjVWQmJnMHk4dGxoa3h5SXhTamhFUmRyY082NG55ZThJOHBHTk9GUDRmR3dIbmlqbDRscHhzMmZCRHA4b2IzT1M4Y19IYkVHVTBuemhOSThNU2NMaktOdzZxUU1IZDJISXEwV2tvYncxUQ?oc=5",
           "pub": "Mon, 19 Oct 2026 16:00:00 GMT",
           "source": "24/7 Wall St."
-        },
-        {
-          "title": "Nvidia Stock (NVDA) Rises on ‘Record-Breaking’ Quantum Computing Simulation - TipRanks",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaEVKcWxLUHpPZndvbzI0S1NMWFZLQUFHWlRNcTUzQ0xIT2NxLXFLXzhka21Mbmh5b0cyMGFEN0pWaGdrVzNXblhQZHpqdDVFdlB2RDBTMkdoT25MRHVOYnExUDNIdzN3aS1qV3FlNVdDWnJtdFFua0t2MjFOSGNVOFpFSVhLdWhwYTM1WGtHWk1OY3BYcFFhY3BWX05HSzEzRXVV?oc=5",
-          "pub": "Mon, 19 Oct 2026 23:04:46 GMT",
-          "source": "TipRanks"
         },
         {
           "title": "These 2 Billionaires Like Nvidia (NVDA). Should You Buy the Dip Ahead of Earnings? - Yahoo Finance",
@@ -42,14 +42,14 @@
     },
     {
       "symbol": "META",
-      "price": 693.39,
+      "price": 692.25,
       "prev_close": 705.4400024414062,
       "high_52w": 779.8200073242188,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -1.7081541165376621,
-      "drawdown_pct": 11.083327756719703,
+      "day_change_pct": -1.8697553861076668,
+      "drawdown_pct": 11.229515337096315,
       "name": "Meta Platforms",
       "news": [
         {
@@ -80,14 +80,14 @@
     },
     {
       "symbol": "AVGO",
-      "price": 335.741,
+      "price": 335.985,
       "prev_close": 334.5899963378906,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 0.34400420655344477,
-      "drawdown_pct": 32.17353535353536,
+      "day_change_pct": 0.41692927982838546,
+      "drawdown_pct": 32.124242424242425,
       "name": "Broadcom",
       "news": [
         {
@@ -118,14 +118,14 @@
     },
     {
       "symbol": "AMD",
-      "price": 540.37,
+      "price": 543.0,
       "prev_close": 538.0499877929688,
       "high_52w": 658.52001953125,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 0.43118897122323707,
-      "drawdown_pct": 17.94175059633752,
+      "day_change_pct": 0.9199911382464186,
+      "drawdown_pct": 17.542370179342438,
       "name": "AMD",
       "news": [
         {
@@ -156,14 +156,14 @@
     },
     {
       "symbol": "RKLB",
-      "price": 51.5,
+      "price": 51.59,
       "prev_close": 51.36000061035156,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 0.2725844781633837,
-      "drawdown_pct": 65.89403973509934,
+      "day_change_pct": 0.44781812094076323,
+      "drawdown_pct": 65.8344370860927,
       "name": "Rocket Lab",
       "news": [
         {
@@ -194,20 +194,20 @@
     },
     {
       "symbol": "IREN",
-      "price": 26.965,
+      "price": 26.91,
       "prev_close": 27.729999542236328,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": -2.7587434362237775,
-      "drawdown_pct": 64.92129694739866,
+      "day_change_pct": -2.957084586270418,
+      "drawdown_pct": 64.99284631390685,
       "name": "IREN",
       "news": [
         {
-          "title": "Stock Market Today, Oct. 19: IREN Rallies on AI Infrastructure Sentiment Rebound - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWmRWVW1BZE9wTklfUU01SXFZUjJvMEFHcWk0dzRJX2RncDJFWFZKSzltZXFnSllON0daekg5LVZnaGk2ZkR6S0JnTnZyTkFfV3Z0RWJyempxX1gwSDNGNzhyWC05ajR0ZlAwZW5ITEJ2cVBBV2ZLNkgxNW5HeUZVVTZFUFF3UjFhRGFQQmp4ZUs0NXB0?oc=5",
-          "pub": "Mon, 19 Oct 2026 22:05:13 GMT",
+          "title": "IREN Co-CEO Daniel Roberts Says Firm’s Data Centers Carry No Debt As Funding Worries Hit Stock - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNLTRUYkc1YUxEWW9FQ3NENG1xdk9SY2V6RUM4eG80cWhJOVA5WXVLWVZfS0hwdzRPa3NyOUdCcU5ubUx2VDN0MDNXdDhkbFIwLVJHb01zSGthc1ktNnp4akF4ZmtKU1hXeThzdDk2X0otMnFXbEpHakdnNm1RMGRVX2NCaDdEZWNYQ2dtQ1dGWVphVzJQMkE?oc=5",
+          "pub": "Tue, 20 Oct 2026 11:43:33 GMT",
           "source": "Yahoo Finance"
         },
         {
@@ -223,10 +223,10 @@
           "source": "TradingView"
         },
         {
-          "title": "Nebius Vs. CoreWeave Vs. IREN: AI Backlog Is Booming, Shareholder Returns Remain Unproven - Seeking Alpha",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNN0xTb0JYeWExN3ExcHZfQmRxZWVfOGFGSmZpWmxkdlhiWmZlTmMxQml2aXZMZFl6M0hPYjF2ZEtlRlRHYmE3Skg0T05XZDZCTXluZGdMYnJuYUE5T0ZhTEt4aWpodFhJdnZDcG1lRXR2TnpLWFVfQlF5cTJVQndJRUJaeVdxS0tNT3Q1UVhKMkhQSDRxSTZLdlNsdF9lUGN0YXhReVN4VmdRbmw5Ry1TVTltX3NSM1ptQ2hqTkpoXzFzbDRL?oc=5",
-          "pub": "Mon, 19 Oct 2026 16:08:03 GMT",
-          "source": "Seeking Alpha"
+          "title": "Why is IREN stock rallying today? - Investing.com",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSVAwV3Y1d2V6dkdtMU9DVG1wREdZUDhHWDRMZlpicXowN0NMVHVid0FBa0ZDWVp2eTlkZkRTSE1zQWlzSTdyVjJKRi1SbmlZUm8tTWlWUWt0cTRuZTQ2N1BId21acU9vODJKOHlqTk5zSG83bEJtdlZRVWFaM2RIcVpUajhHQ0tRZV9pcVB4YnpTVF9oak9GakdR?oc=5",
+          "pub": "Mon, 19 Oct 2026 13:10:51 GMT",
+          "source": "Investing.com"
         }
       ]
     },
@@ -293,16 +293,16 @@
           "source": "www.marketscreener.com"
         },
         {
-          "title": "IVSO Forecast — Price Target — Prediction for 2027 - TradingView",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1keUhnMUVzX0VnclVQS3Ywd29Ka1hUdVMzRndVV01Qb2xGYllhOFlfb0IyNEk1Q2VGYWViMkJXSVZDYi1FQWdLRzZqQTFlUnVocmdGRDM5ejdhaF9mQWlhaGVDZ29rZE9hdnNzU0FzVnpPX1pENHlDbl9n?oc=5",
-          "pub": "Thu, 25 Jun 2026 19:04:11 GMT",
-          "source": "TradingView"
-        },
-        {
           "title": "SB1 Markets cuts price target for Invisio to SEK 295 (315), reiterates buy - marketscreener.com",
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMHFhY21HUzBCR09odk16UXBvRnNqYlhqNmxQVEZaWjAxMm1vX2dKVWxwLURqd0JUckNBSmdqTUVNejJ0RmRGSHZiRGhQQThVek9pRXF3cGJzUGw5cmVuQ292cENsZUZoazZzLTJjZWdsdWpRbDNCaU1vc28yTm1VQy1WcFF4M0RKQ0dLY0pCNmRfUkxvM0lZSEd6ZU10VHJCOUprVDR2bTVEY0hHSmhFbVFRY0FSQUtCTXVpMVBoYXVrQQ?oc=5",
           "pub": "Fri, 02 Oct 2026 07:00:00 GMT",
           "source": "marketscreener.com"
+        },
+        {
+          "title": "INVISIO (Investment case): Strongest Q1 ever, new product ramp-up and Coast Guard catch-up in focus - Inderes",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUVVOQzBXNmhVb0FEWmFxRmJKRnphbk1tYTRMcnpvSjhmZjdnMGttQ29RcjBIdW5XZkc2MTdTQTlCR0NCRVl0YUdpS1NPZURHOW80NkNSV1RST1NYYmxzbFpYWnBVc2gwVTlSM0VHcVpLcHBndjA3MWp2VWFYVzVMR3gtb0tLaEJPTXg2bkdOeFdhS1Y1OXFobG1kMkhEbW0xV0RmTkZrdXRrUWJZa1RiN2Z4OEhWREx4MDRBelFZSGFZZERYTjVTVXlB?oc=5",
+          "pub": "Fri, 22 May 2026 07:00:00 GMT",
+          "source": "Inderes"
         }
       ]
     },
