@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-10-20T17:00:45.402724+00:00",
-  "updated_at_display": "2026-10-20 17:00 UTC",
+  "updated_at": "2026-10-20T17:23:12.965006+00:00",
+  "updated_at_display": "2026-10-20 17:23 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 217.012,
+      "price": 217.1,
       "prev_close": 217.08999633789062,
       "high_52w": 243.37,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -0.03592811239870621,
-      "drawdown_pct": 10.830422813000782,
+      "day_change_pct": 0.004608071434944922,
+      "drawdown_pct": 10.794263878045777,
       "name": "NVIDIA",
       "news": [
         {
@@ -42,14 +42,14 @@
     },
     {
       "symbol": "META",
-      "price": 689.87,
+      "price": 692.135,
       "prev_close": 705.4400024414062,
       "high_52w": 779.8200073242188,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -2.2071334752099614,
-      "drawdown_pct": 11.534713969812401,
+      "day_change_pct": -1.8860572685642916,
+      "drawdown_pct": 11.244262329853607,
       "name": "Meta Platforms",
       "news": [
         {
@@ -65,29 +65,29 @@
           "source": "CNBC"
         },
         {
-          "title": "Should You Buy Meta Stock Before the Huge Investor Update? - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOFNUSTRDTmNlRWt0Z1NpWHgtMDZEV1REd0hDbTJSbExHajNYUmkzVnNPdExhLWFXWmxXQm4xMHh6MGxreUQ0MURvb25LSEY0eGlUR3VwVGdMQ3pHSTBhOTAwdXdhdl9TMXZLd1NZejVsZmVySW92RDA3S3pEcEV5elZhcWFaekhxZ1ZmUnJ0ZHZLYUVudU9hSg?oc=5",
-          "pub": "Tue, 20 Oct 2026 09:30:00 GMT",
-          "source": "The Motley Fool"
-        },
-        {
           "title": "Meta Earnings: What To Look For From META - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeTRJb1ZlX0xYbmVxazluY0g1N1FFMnRWOGl2aDR6QzBvSWF1YTFxZjBmZThiOXlzSTEtejl2cHlYNUNSYkRBMVZJWTRjUnRXLW8zQnY0VkY5X3QzaVlTcmE2VHhzc0I4N3pPM0trTUkzeGd2T0N0RnFoZWpLTmE3ZnN4VFhpM1lrYl9DQ0lNUVkxdw?oc=5",
           "pub": "Tue, 20 Oct 2026 07:17:50 GMT",
           "source": "Yahoo Finance"
+        },
+        {
+          "title": "Meta (META) Stock Trades Below Fair Value After Its 127% Run - Simply Wall Street",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVU9vM3RSbDNGVElrREppY296M0VSVVNVdUNXdFlwdTE1bHB5dV9fcDA5MFlGU2phdUZYaFREOWhtTGdpVkFLTFA2R084NERYNlg4VmRjajI2b1pSQ0lXa0VVdGYzbGViUl9LbmUxYWhNR08zeV9wYk9ncjlyTWJTdmcybWJyUWJTako2WXY4VmxMWmJBbUlsOHJnTTlsQXBBQ0RhVWVDVXYzZ0Nmd21ldUhyUzZTNU9YZThNSXpsUGNMZG03VFHSAcsBQVVfeXFMTm1Gb1ZVTnJPZXprWDNrQ1hUVzEzS2dScmpBQXpIcTk1Tk1yY0lUR0RYVjJ5YXBUa2RTWE93bW8za1lRTUR5QW5VLTZzNHVjNHNvVkZ6SHhnbHItYVdjODJFUldSZ1l1MzNOdUxFTDAxc2U5RHFRbl9OQjJEZzFhUGsyX3hJNWoxRG5tZllwTS0wX1I3akVJMUZ4dFJmM0JteGJrRXczQkRLY2NXSUtYaGs2SFNCdk5wM1ctX0Nra0p6UDlncmdxR2NSOGM?oc=5",
+          "pub": "Tue, 20 Oct 2026 08:39:49 GMT",
+          "source": "Simply Wall Street"
         }
       ]
     },
     {
       "symbol": "AVGO",
-      "price": 334.67,
+      "price": 334.827,
       "prev_close": 334.5899963378906,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 0.02391095459668138,
-      "drawdown_pct": 32.38989898989899,
+      "day_change_pct": 0.07083405502357923,
+      "drawdown_pct": 32.35818181818182,
       "name": "Broadcom",
       "news": [
         {
@@ -118,14 +118,14 @@
     },
     {
       "symbol": "AMD",
-      "price": 539.67,
+      "price": 540.7,
       "prev_close": 538.0499877929688,
       "high_52w": 658.52001953125,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 0.30108953513340814,
-      "drawdown_pct": 18.0480495666404,
+      "day_change_pct": 0.49252156252273144,
+      "drawdown_pct": 17.891638224623303,
       "name": "AMD",
       "news": [
         {
@@ -156,14 +156,14 @@
     },
     {
       "symbol": "RKLB",
-      "price": 51.41,
+      "price": 51.45,
       "prev_close": 51.36000061035156,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 0.09735083538600417,
-      "drawdown_pct": 65.95364238410596,
+      "day_change_pct": 0.17523245439818208,
+      "drawdown_pct": 65.92715231788078,
       "name": "Rocket Lab",
       "news": [
         {
@@ -179,29 +179,29 @@
           "source": "WSJ"
         },
         {
-          "title": "Why Rocket Lab's Recent Fall Is Overblown - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSFpraTFsY3E3aGhvQnRRbW1BTXlobU9zd0dYNVVkRTBzOHZ3RmNrNENhQkRPT0Q4MnBRY3I1UmJ3bEtsbk9RTXFVN1ZWWE5RbUJWYW1VS0pneWtocDZiM2ZUakhaR2cyTkNyUGRYdW9XZkhHcXMyMDFmVUdEODU4OUdCVGFFZ1lXY3B0SVkyYm9wNUdBZHFN?oc=5",
-          "pub": "Tue, 20 Oct 2026 11:56:00 GMT",
-          "source": "Yahoo Finance"
-        },
-        {
           "title": "Unfortunate News for Rocket Lab Stock Investors - The Motley Fool",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOa1Y2SnpjTU1EWUxlaGVkZDhXaVNIc0oxbFlCNFk1azR2ZEV0YVdHNC1MWG9MV0VueTFDYjJ1aXJZZ1lGS3JrQUlKUFpFUXV4UzBuLVZSRVlrbmNwYWc2V25DZWRIanZXaWdOWkxPbmxIU3F5OXpFNWVkSkt5RzBsVU5fRHJsLWtySUZON0hicGkzVHdW?oc=5",
           "pub": "Tue, 20 Oct 2026 02:17:00 GMT",
           "source": "The Motley Fool"
+        },
+        {
+          "title": "Why Rocket Lab's Recent Fall Is Overblown - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSFpraTFsY3E3aGhvQnRRbW1BTXlobU9zd0dYNVVkRTBzOHZ3RmNrNENhQkRPT0Q4MnBRY3I1UmJ3bEtsbk9RTXFVN1ZWWE5RbUJWYW1VS0pneWtocDZiM2ZUakhaR2cyTkNyUGRYdW9XZkhHcXMyMDFmVUdEODU4OUdCVGFFZ1lXY3B0SVkyYm9wNUdBZHFN?oc=5",
+          "pub": "Tue, 20 Oct 2026 11:56:00 GMT",
+          "source": "Yahoo Finance"
         }
       ]
     },
     {
       "symbol": "IREN",
-      "price": 26.865,
+      "price": 26.663,
       "prev_close": 27.729999542236328,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": -3.1193637090358584,
-      "drawdown_pct": 65.05138670468628,
+      "day_change_pct": -3.8478166601162447,
+      "drawdown_pct": 65.31416801440723,
       "name": "IREN",
       "news": [
         {
@@ -217,16 +217,16 @@
           "source": "The Motley Fool"
         },
         {
-          "title": "CRWV, NBIS, IREN Bounce Overnight After Brutal Week — But Industry Execs Reportedly See Only A Few Neocloud Survivors - TradingView",
-          "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQTHdqaEFPVmVvdUsxYlIyY2J5WUNVenlNdTd6amVBaEJrelBBaUswMTRTMEJtcXJjSzVOcFFBczBhRGlxbndnTUoyT1JMRnl1TmRFUU9hc25BTnY3M0plMzdtd0R0ck9qNkh5QjhCSDB0S1dTRVRTU0VreU1ac3E4cDJCMGZkU2VpWHJLQWNfMnRTZUlmeHdFQXdhc0RyMm1OSlk3UWl3ZVdSQy1Bb3pUVHpBM1VOX0c1bEVyeHgxWDhiT2lrR3BSUGFUV1RuMU50d3VBLXFTMGhDRWlaTkZhLXI4cHVNNFhfSlp3bHJvX3ZZeDFrV1BkM0g4R09qTHUwRUVxQQ?oc=5",
-          "pub": "Mon, 19 Oct 2026 02:31:00 GMT",
-          "source": "TradingView"
+          "title": "CoreWeave, Applied Digital, Nebius, and IREN Stocks Are Rebounding Today — Here’s Why and What Wall Street Sees Next - TipRanks",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWGsxUmpHeXpsaFlRcVVlUE1JcW03UG85elR4OVVfb2lxSG0tQ2RUcmgzWm1HejNnLXRWcEQzZFoxbUNmWWZqbDRKb0ZodDIxZDFDeXdlVzNvVHVfSzUycHBzUjByLThqS0dtNEVGWkJjUEtSdzc0bXl6YVZSYXhLcl8wUnNoa3o2NE5DSzM2VG85VU05ZFl0cEdvMi1SVXAxQUhLa3paaTZLOEVjcG1TR1hZSkl6RUwzYXJ0c3FHdklHeW10TS05NXRqU1VfTE5pSTR5WGI5dw?oc=5",
+          "pub": "Mon, 19 Oct 2026 14:17:12 GMT",
+          "source": "TipRanks"
         },
         {
-          "title": "What's Going On With IREN Stock Tuesday? - Benzinga",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMmpmdU5ZbjdWMkl0b0stcHNHSmZZbVJBMlN2dnRvbkQzOFo1TnZtX0hjbjNLdkZOYkNYWkJ2elE1RHEtbEZkbjFucmk0TTZBazEzTlc3MDFQNml0bVhiZDZ0YVEyZlF3UmhxRXVnUkdVa1NXRWxIcnF6dTNITWIzQWFpTmpGWVJ1cHFiaXloTmRVWHVLS00xMXJiOG81Ymk0WUM0?oc=5",
-          "pub": "Tue, 20 Oct 2026 13:35:10 GMT",
-          "source": "Benzinga"
+          "title": "Insurance stocks, TransUnion among winners; Banks, IREN in losers: week's financials wrap (XLF:NYSEARCA) - Seeking Alpha",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUF9lSUNsNktzY0t2ZjRFWXM1Um5YSUVqSmpHLVJob2E4OEVienlGYktPUVJNT2J3d0poR2Ztdy1EOFp6TlVRcHpWVGRJQW1kMTVtVVFBVk8wS0VqU1RTNHRVWDNvR1g5N0xXS2ZYZDdOc2REUWxkMkdkUXIwSjl1aUpVWkJTaExDcWdoNC1Wb2ZqMFFXZlc4Z2pjNWlTZWFoelRWa3VSRWtGdjJuWEtJd1l4dWtoSFJVZ0VMNlBpbw?oc=5",
+          "pub": "Sat, 17 Oct 2026 14:00:30 GMT",
+          "source": "Seeking Alpha"
         }
       ]
     },
