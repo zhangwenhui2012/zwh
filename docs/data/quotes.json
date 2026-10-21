@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-10-21T16:30:40.292356+00:00",
-  "updated_at_display": "2026-10-21 16:30 UTC",
+  "updated_at": "2026-10-21T17:00:48.114620+00:00",
+  "updated_at_display": "2026-10-21 17:00 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 220.025,
+      "price": 221.3,
       "prev_close": 216.47000122070312,
       "high_52w": 243.37,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 1.6422593242711552,
-      "drawdown_pct": 9.592390187779923,
+      "day_change_pct": 2.2312554867001806,
+      "drawdown_pct": 9.068496527920447,
       "name": "NVIDIA",
       "news": [
         {
@@ -33,23 +33,23 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "AMD vs. Nvidia. 1 Metric Proves Which Is the Best Stock. - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOY3VvNnRBVE9DUmxCVGpzdWJDX1ZkVmVHRnI2LWlIeUgyVlphdEhDRDdjYVdkbGxsSnU2WW9ubHR1eFdtM2lVTTdNeGVfTGdHdGlQeWJXTkpreVQ3YmhGemFiTVJ4TnVFZDB3dGc2SmdnUG5DY1RkT1dQV3F3V1hlQ2IxZHJmWFVXUVNnTi1maE9JM2hh?oc=5",
-          "pub": "Wed, 21 Oct 2026 15:29:00 GMT",
-          "source": "The Motley Fool"
+          "title": "AMD vs. Nvidia. 1 Metric Proves Which Is the Best Stock. - The Globe and Mail",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbS1GWDRjSDIxZ3FnX0VtQUszbEtNN0stWHpnU0hROTRnSGdvOGJwRndON3lRZzcwbkJMSTJXRnlBWXB3UDJzNVVrU2xMQ2s3YURNYlR3NENDLXVXbHV2TjFtRjRSTEdqOFppNmw4QlB2U2N3UHRfYVVCLWtQWTcxRU5IVmNkWHNBQmRybUlodzVHNWp1SWg5dURtTUxfWTVMS18xWHJnSmVOVWpNY3YwNndSSzJlMi1uVmxLRDdqcDZ5ZnRWMFRZTldRRGl1LUluVFpFaA?oc=5",
+          "pub": "Wed, 21 Oct 2026 15:42:59 GMT",
+          "source": "The Globe and Mail"
         }
       ]
     },
     {
       "symbol": "META",
-      "price": 712.35,
+      "price": 710.33,
       "prev_close": 694.25,
       "high_52w": 779.8200073242188,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 2.607129996398995,
-      "drawdown_pct": 8.651997472561296,
+      "day_change_pct": 2.3161685271876182,
+      "drawdown_pct": 8.911031606211083,
       "name": "Meta Platforms",
       "news": [
         {
@@ -59,10 +59,10 @@
           "source": "Morningstar"
         },
         {
-          "title": "Meta Platforms and Tesla are among the companies set to report next week. What to expect - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1hSXZwWHdvclVzQXBWMWFOOGZpa216a3FaTWtpdkdiSl9CZ18zdWNpdG8zdVVERWUzU1hidjRFZFZUTWx2YmRHbVhPdVVzYXhEdjR2ZldrdkdNbzRmSkhzVVAybkYyNTdlMU9semdzQVJOVk0zeC1BcnhKRFA?oc=5",
-          "pub": "Sun, 18 Oct 2026 12:41:18 GMT",
-          "source": "CNBC"
+          "title": "Meta Platforms, Tesla Could Swing More Than $100 Billion After Earnings - Benzinga",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZnUzRkE4ZUFKNHA3UE1QaTluOHZfclAzVDdSMjY5RkxuV3VzZTgxU3lrZklBM0dJMWhvcGR3eDdoVzVLRi1MTHA4VTlQanNhVWhaY1dUZk4tdm5vQ0tZaEp3TFg0MzE0VkR2T0d1dUNzendFM05OM1lILWNISXJYX2pYQTJBY0QxZUswczE0QmlxVmZhazVZZTBxYkRQVU1NdXlqSUVzaDBIWVdhbDluT0h0cXhhamc2eUxhMXpXSmxlaFE?oc=5",
+          "pub": "Tue, 20 Oct 2026 19:30:21 GMT",
+          "source": "Benzinga"
         },
         {
           "title": "Jim Cramer and a Billionaire Like Meta (META) Stock Despite AI CapEx Concerns - Yahoo Finance",
@@ -71,23 +71,23 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "Meta Stock Climbs With Earnings On Deck. These Are The Numbers To Watch. - Investor's Business Daily",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVi15RnlfaXdaV0hqZ2ZUeUpoR3hOTml6Y3ZvVzBvb2hSc0xESnVvLUE3dzgwX3FHQmV4VHlPQzJSbXJvbkgtajJaMzlDRWlKT0djSHF3VTFYZVVkMDlUSU8tOHhxdXVSVTNjMmJSMVlMZndXUkQ4dWxPLTg5VWpQNWp6S0I?oc=5",
-          "pub": "Wed, 21 Oct 2026 15:03:00 GMT",
-          "source": "Investor's Business Daily"
+          "title": "Why is Meta Platforms stock rallying today? - Investing.com",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVkNaY3NMVUdoQUhhNmp4RC1jTkpmUUJ5WjhNX0ZwSEp2bkgtMjZ2c1pjVkJEeF85X2huSmtuaTJ0RkhlZWt3dTZiZ2VuenpGb3ZZM3BNWFpwc1ZZdlpzNnlURnZQUWFoS1pBQWxXTEhkV2ZTMmNqaWgwWVgwWjY2NDVHX25VbVNuOUlmdlRQME8zUlROaDBZalJMa2djMmN0NEFlU1NWOA?oc=5",
+          "pub": "Wed, 21 Oct 2026 14:36:39 GMT",
+          "source": "Investing.com"
         }
       ]
     },
     {
       "symbol": "AVGO",
-      "price": 336.44,
+      "price": 337.776,
       "prev_close": 334.3699951171875,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 0.6190761470947828,
-      "drawdown_pct": 32.032323232323236,
+      "day_change_pct": 1.0186335294884337,
+      "drawdown_pct": 31.762424242424242,
       "name": "Broadcom",
       "news": [
         {
@@ -109,23 +109,23 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "Apple vs. Broadcom: Which Tech Stock Is a Better Buy in 2026? - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNXcxWFNINHZMaTdpQmw0ajZSdkI5N2Y2cF96dWt1cUc3bnFfWGJtYW9UMm9LVVZQUlpfNUlmaVQ2SWdiQUlIVmplWkhRRFM0LUc3OTNEUkliNDNWMGxMZkFEc3plaTdWMV9aZ0dQZG85RE05QVdIbzJTMTlHSnN1ZjBlOTRVeVE5RXpIdHBzZFd0SFRqcmxqYXZoYjlZeFd6OVYwd2R3aldLS21IX2FLNA?oc=5",
-          "pub": "Wed, 21 Oct 2026 13:32:00 GMT",
-          "source": "The Motley Fool"
+          "title": "Broadcom: Once-In-A-Decade Opportunity (NASDAQ:AVGO) - Seeking Alpha",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPV0NFMkN1ZDJkU0xwcHJ4ZTVsZ2JweFRkV1RuenlJV1NnbHFIYWNBd3hGZzJPUXgyMlJienJIWkc5cnhDWm5yUDZoT0Ywc21YYk10WkZuNjdzUWRKSlVSWHgyaHNwR0tHNTE5aVBkTWcteXZwZTdDLXpOQU1MdVJzY0xkeUI?oc=5",
+          "pub": "Tue, 20 Oct 2026 13:01:58 GMT",
+          "source": "Seeking Alpha"
         }
       ]
     },
     {
       "symbol": "AMD",
-      "price": 549.51,
+      "price": 553.265,
       "prev_close": 534.739990234375,
       "high_52w": 658.52001953125,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 2.762091864337907,
-      "drawdown_pct": 16.553789755525717,
+      "day_change_pct": 3.464302297179145,
+      "drawdown_pct": 15.98357170768673,
       "name": "AMD",
       "news": [
         {
@@ -156,14 +156,14 @@
     },
     {
       "symbol": "RKLB",
-      "price": 53.025,
+      "price": 53.31,
       "prev_close": 50.900001525878906,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 4.174849529308338,
-      "drawdown_pct": 64.88410596026489,
+      "day_change_pct": 4.734770927061346,
+      "drawdown_pct": 64.69536423841059,
       "name": "Rocket Lab",
       "news": [
         {
@@ -194,21 +194,27 @@
     },
     {
       "symbol": "IREN",
-      "price": 27.525,
+      "price": 27.77,
       "prev_close": 26.6200008392334,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": 3.3996962142570024,
-      "drawdown_pct": 64.19279430658811,
+      "day_change_pct": 4.320056816345761,
+      "drawdown_pct": 63.87407440123349,
       "name": "IREN",
       "news": [
         {
-          "title": "Data Center Stocks Rise as IREN Plans 300MW AI Campus in Spain: IREN and Cipher Digital Gain 4%, Core Scientific Climbs 3% - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZ3hneFRQeW9wMm9JaF9qR2twQVhFVlF6emJmQkdIZFN5cmx1MzI1XzlIc1UyQkk0UFdLMENpSklfcVZ6ZWZ4ZmFGQVJXMkVjbkRDXzdKM2hiSTdRbFpVZkU0MnBjN0FoSUhLX0dNbEo5YnJTd3JGTF9zdXdMU3p3S3dULVFJZlZMU25rdk1kdHhFN2J3ejlB?oc=5",
-          "pub": "Wed, 21 Oct 2026 13:42:21 GMT",
+          "title": "Stock Market Today, Oct. 20: IREN Slides on Funding Worries and Rate Fears - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOTNCOWptcXFiMXdVZmJ0Z3FHV3VxaFBIUlRQRUdrcDE2Njk2U0hRVDJvS3Q0QmN6NlFxdHFjZlVsZnFJT25IXzVHMC03cGpES29KNkJlNEdGLVY0MG9hMkw1azlXemlrTV9ZSXJieEhTcENXc0ttRHhCYnZTUElFOWJBTkdPRWo2VjZjY1k1WUFOaGR3?oc=5",
+          "pub": "Tue, 20 Oct 2026 22:00:01 GMT",
           "source": "Yahoo Finance"
+        },
+        {
+          "title": "IREN Stock Rises: AI Cloud Provider Plans 300MW AI Campus In Spain For 2028 - TradingView",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZmI0VGFRdDlmS0h5M0RYdTRDZ1JQU1dZMW50Yi1tN0ZycHBVUzNPdm84aFlaVnpzTkV0MnVQV2RYR0wyMWJ0UjcyNVlLTDMxM3ZQUVhhdmJSbk14cTFPajAxQnFMVEdnSG9hT2UyV2VLc1Rpc0I4V1gxU0pHaFRENmtrTVBvWmJQTW1DcW1qM3ZsMExrYVEydXNoZlMzMy1WVlFUcDFqLTN6ZU0zWS16a1FwS01VNG1tekFybG1haEtqNk1RcnNmaWI1ampuZzhw?oc=5",
+          "pub": "Wed, 21 Oct 2026 13:00:05 GMT",
+          "source": "TradingView"
         },
         {
           "title": "IREN Stock Rises: AI Cloud Provider Plans 300MW AI Campus In Spain For 2028 - Yahoo Finance",
@@ -217,16 +223,10 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "Stock Market Today, Oct. 20: IREN Slides on Funding Worries and Rate Fears - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOTNCOWptcXFiMXdVZmJ0Z3FHV3VxaFBIUlRQRUdrcDE2Njk2U0hRVDJvS3Q0QmN6NlFxdHFjZlVsZnFJT25IXzVHMC03cGpES29KNkJlNEdGLVY0MG9hMkw1azlXemlrTV9ZSXJieEhTcENXc0ttRHhCYnZTUElFOWJBTkdPRWo2VjZjY1k1WUFOaGR3?oc=5",
-          "pub": "Tue, 20 Oct 2026 22:00:01 GMT",
-          "source": "Yahoo Finance"
-        },
-        {
-          "title": "Mr. Wonderful’s Test for AI Data Center Stocks: Power, Permits, and Tenants - MarketBeat",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZXY4QW5TNlBxd216cHFad3BTX1RwOE1sMlA0WkJjQnNwbEc2YVZRUlpFTHFzc0ctWG5yX182LUR1ajNjcXluZWRUYXlRZW52T0F5OXBackxnbUlLQ1RVUHdkNEtNcHZITmJDcVlyc1NuSkd6RXNmUHRNQVBuM3Z3YU00S1lsQUFSVVlFVEZVVWE1THkyUnl2bjF2S2ZSSmlLQ25TWjhub0F2N2c?oc=5",
-          "pub": "Mon, 19 Oct 2026 17:26:05 GMT",
-          "source": "MarketBeat"
+          "title": "IREN Stock Rises: AI Cloud Provider Plans 300MW AI Campus In Spain For 2028 - Stocktwits",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZWhOSzhraGtTaFo4TFRRLWhKaXhsVko3dDJvM2lZSlljX0VRSFdpMWJkZVVDQ1pjaEd1M2Vsdk9fU3N6bTduWTc4eVBOS1dicmlNMUtGTFVWMTBJaG1UZWtZenRQWEVyWWRaYndQNVJKT09JVVVRWGVnZXQxS1hiVHhHVERvQ3NaM3ZyTWtjcnNpX1pyWm1Za01idUwwVWstYTVpUw?oc=5",
+          "pub": "Wed, 21 Oct 2026 13:05:17 GMT",
+          "source": "Stocktwits"
         }
       ]
     },
@@ -325,16 +325,16 @@
           "source": "Barron's"
         },
         {
-          "title": "NORBIT - Shares of NORBIT ASA trading ex-dividend of NOK 5.00 today - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPR1kwRWtEbUplNkg3VWl5VmUtazlTZFpsb1U3MzdnLWpNNEVoUDY4b0tzOE9aUnpiTFZremRyMjJYVUc2YWVOVjdrRHdjS0x6SVBQYzE5dXZFOVBlTFJOeF9NTk1MQm9kRW1IZF8wR0tDLWs1NENKNzR2SGczR181S2NnYlY4a3lyb3RJUkt0a21MN2JCMy00M2VqV0JQdw?oc=5",
-          "pub": "Wed, 20 May 2026 07:00:00 GMT",
-          "source": "Yahoo Finance"
-        },
-        {
           "title": "NORBT Forecast — Price Target — Prediction for 2027 - TradingView",
           "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1GWDVHdEMzX0ZmeXk5cEpuZ3F4WFNMZm5jMzhFOEsxc0Q5TnV5YUdWcWh0VXd1c29jdGl5R0hneDJTaXBwclB1V2E4Q2ZzWWpEYkZ5UDFPRTZGZjVxOXlNcUhJQ2V1ZTliemxPRnJZYzVsR3hKV3Rr?oc=5",
           "pub": "Fri, 26 Jun 2026 13:15:32 GMT",
           "source": "TradingView"
+        },
+        {
+          "title": "NORBIT - Shares of NORBIT ASA trading ex-dividend of NOK 5.00 today - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPR1kwRWtEbUplNkg3VWl5VmUtazlTZFpsb1U3MzdnLWpNNEVoUDY4b0tzOE9aUnpiTFZremRyMjJYVUc2YWVOVjdrRHdjS0x6SVBQYzE5dXZFOVBlTFJOeF9NTk1MQm9kRW1IZF8wR0tDLWs1NENKNzR2SGczR181S2NnYlY4a3lyb3RJUkt0a21MN2JCMy00M2VqV0JQdw?oc=5",
+          "pub": "Wed, 20 May 2026 07:00:00 GMT",
+          "source": "Yahoo Finance"
         },
         {
           "title": "Earnings call transcript: Norbit posts record Q2 2026 results as shares slip - Investing.com",
