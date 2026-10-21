@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-10-21T18:00:49.373348+00:00",
-  "updated_at_display": "2026-10-21 18:00 UTC",
+  "updated_at": "2026-10-21T18:30:40.456218+00:00",
+  "updated_at_display": "2026-10-21 18:30 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 221.575,
+      "price": 221.77,
       "prev_close": 216.47000122070312,
       "high_52w": 243.37,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 2.358293874675057,
-      "drawdown_pct": 8.95549985618606,
+      "day_change_pct": 2.448375640693624,
+      "drawdown_pct": 8.875374943501662,
       "name": "NVIDIA",
       "news": [
         {
@@ -33,25 +33,31 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "AMD vs. Nvidia. 1 Metric Proves Which Is the Best Stock. - The Globe and Mail",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPaTZqbU9UZ3VGS25fa1YxS053Wmg3Sk9MWFlBV1hvWF9aMGo1M0ZyOFVmb1NIM2VLMUJGVUlIWVhvZjY1N01ibXppNkVkX3pVc2NHTkpqdEdlY2FtdS1NQWVibHVaVEhWTlF3T1kycFlqa0ZFdVkxb2RCR0swTzl1RUtSYTRCODk1cFFDMTd5ZGMwaW55b2hIbTVFb3R3VFU5c2htTlR3MFR6eElQUV9Rem42Mko4VkRIREVWVVkzRWhLWllDRHM4b3R5a2M?oc=5",
-          "pub": "Wed, 21 Oct 2026 16:07:33 GMT",
-          "source": "The Globe and Mail"
+          "title": "Goldman Sachs reiterates Nvidia stock rating on AI deployment outlook By Investing.com - Investing.com UK",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxON1B3NG5WSmY4dkM2TXdCSU9LRVpDb2F5X2lCYnRQdWRmbnIwaUtiMm5GWXpoRURGaUxhdVZGOS1aVWFZQXNQVEh6b2EyR0Z6M0FXVWNKVVNNeDhKMFQyMjAteFB4M2NtVlQtV2htRDVka2Z2X1lnV3Vucmc4RVJqel9YN0R1dDJEc3J2NW9PcUNqcWE5WEZqUmt6c3VKZnRuNWduLV9nZDQtcll2Ymp0azlNU2F2d09pUGVZeWVmS05vdEZoandFUWJB?oc=5",
+          "pub": "Wed, 21 Oct 2026 16:46:00 GMT",
+          "source": "Investing.com UK"
         }
       ]
     },
     {
       "symbol": "META",
-      "price": 707.62,
+      "price": 708.13,
       "prev_close": 694.25,
       "high_52w": 779.8200073242188,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 1.925819229384228,
-      "drawdown_pct": 9.258547696404614,
+      "day_change_pct": 1.9992797983435353,
+      "drawdown_pct": 9.193147989394026,
       "name": "Meta Platforms",
       "news": [
+        {
+          "title": "Stocks making the biggest moves midday: SpaceX, Meta Platforms, Super Micro Computer, Roivant Sciences & more - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSUhzZVYtNUVaWUVHWGdFVUVoRnJ2VG53S0FkOXBBMzZqWnNOVjlfYmc2eE01REFBVzVNR3NRSzI5TFE1N0szb0hvbjVjVnBZY3JrVC1nRlRpdUd4Nm90aXlGMVVOTG9tbk81eV9MWmota1JEdlZJcFh4ZEdDZUYwWVJqM25GUFpGZG9pR1JJQ1JPdWhQLU85TEF4dw?oc=5",
+          "pub": "Wed, 21 Oct 2026 16:48:42 GMT",
+          "source": "CNBC"
+        },
         {
           "title": "Zacks Investment Ideas feature highlights: Meta Platforms, Bloom Energy and Western Digital - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZWZtRDZQQVNseXhZTTNzREliUERwTkdNVVR2QmJYTk9lcnB1Zld3Q2V5WlFzS2NHRzZESzZmVjhaMThteXQyd2ZPUy1pSHNpem00VndkMmtIR3g5YlFZck9lS1plSWdFdEVzYjZBdW1LVFJCVHYyWlJobDVFWTJaMjYzRVQzMmRZLWg4akZqM2dfbWFVOUp6Nk0tekFUTzdMTkZERW5KUkU4QQ?oc=5",
@@ -65,29 +71,23 @@
           "source": "Benzinga"
         },
         {
-          "title": "Jim Cramer and a Billionaire Like Meta (META) Stock Despite AI CapEx Concerns - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYk4xdjNFSnYwblR5a1hqNG5mRE5CUDN6SG1MUUh3S0hReWprbXBZYnJtek9RQ3k3R0ZCZHh4MENsNGRpWjBmQ0hRU0UweGxJbXFiWUN4cldXZjdIcGgtbTRIQnM5QTJzNnlYbl85ZFQ2VFdFZ3lQZnlaZnUzREZROHhPMXNja3V1QW1KYkRCaFQxSUs0TjNnUGFWSE5Idw?oc=5",
-          "pub": "Wed, 21 Oct 2026 13:23:19 GMT",
-          "source": "Yahoo Finance"
-        },
-        {
-          "title": "Why is Meta Platforms stock rallying today? - Investing.com",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVkNaY3NMVUdoQUhhNmp4RC1jTkpmUUJ5WjhNX0ZwSEp2bkgtMjZ2c1pjVkJEeF85X2huSmtuaTJ0RkhlZWt3dTZiZ2VuenpGb3ZZM3BNWFpwc1ZZdlpzNnlURnZQUWFoS1pBQWxXTEhkV2ZTMmNqaWgwWVgwWjY2NDVHX25VbVNuOUlmdlRQME8zUlROaDBZalJMa2djMmN0NEFlU1NWOA?oc=5",
-          "pub": "Wed, 21 Oct 2026 14:36:39 GMT",
-          "source": "Investing.com"
+          "title": "Meta Platforms, Inc. $META Stock Purchased by Generali Investments Management Co LLC - MarketBeat",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVDdFQzdIOVAzakFrdXNOVGhlSGFjQkpCVkRramVzcjNNTnk5bnlyd3k0Y25ac0V4aUZCTUZsQnNwNjZoQUdDUEtmamtDY1U0cXFYdGZGbllGeEFGWjAtLU9Od2Qzc0VTTDdlc1l6ajM0RXRVcmRyT2hoVDFVdHptQ3daN3FqeFV1YThzSlA1akg0UDVyX0xqU3hUZEJEX0YyV2I5UThIYTg1dlhyV0NnQlFRYlREVWVlakFxR1hhLTFiMkZPZkNsdjE2T1VYV3M5NEhrVFh6QS1vdw?oc=5",
+          "pub": "Wed, 21 Oct 2026 07:48:23 GMT",
+          "source": "MarketBeat"
         }
       ]
     },
     {
       "symbol": "AVGO",
-      "price": 338.19,
+      "price": 338.42,
       "prev_close": 334.3699951171875,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 1.1424484668469403,
-      "drawdown_pct": 31.67878787878788,
+      "day_change_pct": 1.2112345431572293,
+      "drawdown_pct": 31.632323232323227,
       "name": "Broadcom",
       "news": [
         {
@@ -118,21 +118,21 @@
     },
     {
       "symbol": "AMD",
-      "price": 554.27,
+      "price": 555.795,
       "prev_close": 534.739990234375,
       "high_52w": 658.52001953125,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 3.6522441041046947,
-      "drawdown_pct": 15.830956757466177,
+      "day_change_pct": 3.9374294330215713,
+      "drawdown_pct": 15.599376857877779,
       "name": "AMD",
       "news": [
         {
-          "title": "AMD vs. Nvidia. 1 Metric Proves Which Is the Best Stock. - The Globe and Mail",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUV9ENDRISTFZTGRoUzZFRkdMYk5wUk85ZW5YN3JDQ1VMME1Jc2ZpVTQ1amV2SUpobVQ0bEVGeWZKaTRqaHBiSzdvZXgtcEQ5TUxqWkpOLXFrcGlvQzdtQkhWQnpQSnNBbUlLR3VGTXgwYkZjX1pFTlJUcTQteWJrRXFoNWNUSjJ2SndNN2dJaWF1djJmTnV4ZENFTV9MRzItU0pVdk5JT3lWaGFRZGxYZ0hVS2hnckZqbFRGMnJyc3poeEg0Z2pZMHhralI4RFNxdnhJ?oc=5",
-          "pub": "Wed, 21 Oct 2026 15:59:31 GMT",
-          "source": "The Globe and Mail"
+          "title": "AMD vs. Nvidia. 1 Metric Proves Which Is the Best Stock. - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOY3VvNnRBVE9DUmxCVGpzdWJDX1ZkVmVHRnI2LWlIeUgyVlphdEhDRDdjYVdkbGxsSnU2WW9ubHR1eFdtM2lVTTdNeGVfTGdHdGlQeWJXTkpreVQ3YmhGemFiTVJ4TnVFZDB3dGc2SmdnUG5DY1RkT1dQV3F3V1hlQ2IxZHJmWFVXUVNnTi1maE9JM2hh?oc=5",
+          "pub": "Wed, 21 Oct 2026 15:29:00 GMT",
+          "source": "The Motley Fool"
         },
         {
           "title": "Will AI Rack Expansion Change AMD Stock Narrative - Yahoo Finance",
@@ -156,14 +156,14 @@
     },
     {
       "symbol": "RKLB",
-      "price": 53.19,
+      "price": 53.145,
       "prev_close": 50.900001525878906,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 4.499014549060074,
-      "drawdown_pct": 64.7748344370861,
+      "day_change_pct": 4.41060590730961,
+      "drawdown_pct": 64.8046357615894,
       "name": "Rocket Lab",
       "news": [
         {
@@ -194,26 +194,20 @@
     },
     {
       "symbol": "IREN",
-      "price": 28.256,
+      "price": 28.075,
       "prev_close": 26.6200008392334,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": 6.1457517249789655,
-      "drawdown_pct": 63.24183818081575,
+      "day_change_pct": 5.465811851599107,
+      "drawdown_pct": 63.477300641506304,
       "name": "IREN",
       "news": [
         {
-          "title": "IREN Stock Hits Another One-Year Low — Here’s Why AI Analysts Are on the Sidelines - TipRanks",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYzNzZEhGVFpSVWtSZ3NYbmlQQjIzNVdBZ1pmeUw3NFc1bTZNd2N6YUkyV0xuSVRfdjBGM3g5cHo0RnVVb203YWJRTDkyY3c0SGYwVW5CeFRlVFJ2RUpOM3FrNm1uem9sZzh0MzllVUQ3NVMzY1FEeC1wbVNXbFpuX3ROWENQekRMQUgtcWVVWWJYcVN0bWVzcl9tanlsWUdEbUxZUDhXWUg4bGhQMXc?oc=5",
-          "pub": "Tue, 20 Oct 2026 18:10:58 GMT",
-          "source": "TipRanks"
-        },
-        {
-          "title": "Stock Market Today, Oct. 20: IREN Slides on Funding Worries and Rate Fears - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOTNCOWptcXFiMXdVZmJ0Z3FHV3VxaFBIUlRQRUdrcDE2Njk2U0hRVDJvS3Q0QmN6NlFxdHFjZlVsZnFJT25IXzVHMC03cGpES29KNkJlNEdGLVY0MG9hMkw1azlXemlrTV9ZSXJieEhTcENXc0ttRHhCYnZTUElFOWJBTkdPRWo2VjZjY1k1WUFOaGR3?oc=5",
-          "pub": "Tue, 20 Oct 2026 22:00:01 GMT",
+          "title": "TeraWulf Jumps 8% as CEO Says Power Demand Remains ‘Extremely Strong’; Applied Digital Surges 9%, IREN Climbs 6% - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWWcyQVk5dlJlT19wOGpIazNEV3VOLUZldzdOWEpxZjRkWVJJVUVVeTFGdmc5S19wd3FDUGRrYnJOMUgxTVRYSFMxc3RTOGxIWGNSTEZOUHZBMmhQRmppMk1HLXRIZE9CU1k1a1lNenpKbU9DVFU5SlNTNW9CSzg0bFIwYXNvSEhTQVZObHpBS3JzWGdS?oc=5",
+          "pub": "Wed, 21 Oct 2026 18:09:15 GMT",
           "source": "Yahoo Finance"
         },
         {
@@ -223,10 +217,16 @@
           "source": "TradingView"
         },
         {
-          "title": "CRWV vs NBIS vs IREN: Which neocloud stock has the most upside? - Investing.com",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdzdaRzRrWFIwaG01NW81eWpFSDdBN1MzaDM5V1MxSXJjQlZ5SnJXZVIxbHEyb2FpM2dMZjdpcXFyMEJTR08tclZndE8xTWlTZF9VR2FRX3RPMVdIdWtDWmJuVkhrWTN1aHltLXlKWnZZQ1RNRVJtT29fai1xQ2ZfeGtaU2l5djRRRWZTZ1FVdFU3OVl0WWN3c3NHRk5ZZ0dXeUgtWi1fQml3Xy1oX05KYlZpYW5aUlBZVHdyRTE1Z0I?oc=5",
-          "pub": "Mon, 19 Oct 2026 16:44:57 GMT",
-          "source": "Investing.com"
+          "title": "Stock Market Today, Oct. 20: IREN Slides on Funding Worries and Rate Fears - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOTNCOWptcXFiMXdVZmJ0Z3FHV3VxaFBIUlRQRUdrcDE2Njk2U0hRVDJvS3Q0QmN6NlFxdHFjZlVsZnFJT25IXzVHMC03cGpES29KNkJlNEdGLVY0MG9hMkw1azlXemlrTV9ZSXJieEhTcENXc0ttRHhCYnZTUElFOWJBTkdPRWo2VjZjY1k1WUFOaGR3?oc=5",
+          "pub": "Tue, 20 Oct 2026 22:00:01 GMT",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Nebius Vs. CoreWeave Vs. IREN: AI Backlog Is Booming, Shareholder Returns Remain Unproven - Seeking Alpha",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNN0xTb0JYeWExN3ExcHZfQmRxZWVfOGFGSmZpWmxkdlhiWmZlTmMxQml2aXZMZFl6M0hPYjF2ZEtlRlRHYmE3Skg0T05XZDZCTXluZGdMYnJuYUE5T0ZhTEt4aWpodFhJdnZDcG1lRXR2TnpLWFVfQlF5cTJVQndJRUJaeVdxS0tNT3Q1UVhKMkhQSDRxSTZLdlNsdF9lUGN0YXhReVN4VmdRbmw5Ry1TVTltX3NSM1ptQ2hqTkpoXzFzbDRL?oc=5",
+          "pub": "Mon, 19 Oct 2026 16:08:03 GMT",
+          "source": "Seeking Alpha"
         }
       ]
     },
@@ -293,16 +293,16 @@
           "source": "www.marketscreener.com"
         },
         {
+          "title": "SB1 Markets cuts price target for Invisio to SEK 295 (315), reiterates buy - marketscreener.com",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMHFhY21HUzBCR09odk16UXBvRnNqYlhqNmxQVEZaWjAxMm1vX2dKVWxwLURqd0JUckNBSmdqTUVNejJ0RmRGSHZiRGhQQThVek9pRXF3cGJzUGw5cmVuQ292cENsZUZoazZzLTJjZWdsdWpRbDNCaU1vc28yTm1VQy1WcFF4M0RKQ0dLY0pCNmRfUkxvM0lZSEd6ZU10VHJCOUprVDR2bTVEY0hHSmhFbVFRY0FSQUtCTXVpMVBoYXVrQQ?oc=5",
+          "pub": "Fri, 02 Oct 2026 07:00:00 GMT",
+          "source": "marketscreener.com"
+        },
+        {
           "title": "INVISIO (Investment case): Strongest Q1 ever, new product ramp-up and Coast Guard catch-up in focus - Inderes",
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUVVOQzBXNmhVb0FEWmFxRmJKRnphbk1tYTRMcnpvSjhmZjdnMGttQ29RcjBIdW5XZkc2MTdTQTlCR0NCRVl0YUdpS1NPZURHOW80NkNSV1RST1NYYmxzbFpYWnBVc2gwVTlSM0VHcVpLcHBndjA3MWp2VWFYVzVMR3gtb0tLaEJPTXg2bkdOeFdhS1Y1OXFobG1kMkhEbW0xV0RmTkZrdXRrUWJZa1RiN2Z4OEhWREx4MDRBelFZSGFZZERYTjVTVXlB?oc=5",
           "pub": "Fri, 22 May 2026 07:00:00 GMT",
           "source": "Inderes"
-        },
-        {
-          "title": "IVSO Stock Price and Chart — OMXSTO:IVSO - TradingView",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBsNFloY2ktLU1xUGRPUi11bW1IVG5BVlA4WkdlT1JKRk1TWUZta2ptRDZraGwyQlRoRzAtQmtQY3FGQU96ZUJmQkdBS2RtbG4xekVILVhJOGgweFho?oc=5",
-          "pub": "Sat, 14 Apr 2018 01:11:10 GMT",
-          "source": "TradingView"
         }
       ]
     },
