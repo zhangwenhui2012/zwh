@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-10-22T17:37:21.041616+00:00",
-  "updated_at_display": "2026-10-22 17:37 UTC",
+  "updated_at": "2026-10-22T18:00:48.514845+00:00",
+  "updated_at_display": "2026-10-22 18:00 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 212.92,
+      "price": 212.41,
       "prev_close": 221.97000122070312,
       "high_52w": 243.37,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -4.077128067276437,
-      "drawdown_pct": 12.511813288408602,
+      "day_change_pct": -4.306888844496464,
+      "drawdown_pct": 12.721370752352387,
       "name": "NVIDIA",
       "news": [
         {
@@ -42,27 +42,21 @@
     },
     {
       "symbol": "META",
-      "price": 646.82,
+      "price": 646.86,
       "prev_close": 697.52001953125,
       "high_52w": 779.8200073242188,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -7.268611381981777,
-      "drawdown_pct": 17.055218649823956,
+      "day_change_pct": -7.262876779550316,
+      "drawdown_pct": 17.050089261038817,
       "name": "Meta Platforms",
       "news": [
         {
-          "title": "Meta's new nonvoting shares create an overhang — and Wall Street wants it gone - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZVNpWjBTNHNYeEllV1pjUDVEV0otck9RUUxSWjJrUHBhTXJCR3pCa21PY1ZxdmtUSTlaejJ6YVVmWnhIZkZyQlJrZ2tOTFpfalRQQ2pDYVI2QldWMm9wVUxMS250M08xZHprS0twNDQtS2lTWGhQRG5RX3RUUEs4N1RHdlJmRTJjUUFHa1pqRlRFVVNNSjcxSng5NklSeTNFdXhoc20ycjltYmdfcXZPUGpBVzFoNWE5eGsyOUJNTVI1dEZCSmNEZlNVUXBzeF9pZmNKdHBEVQ?oc=5",
-          "pub": "Thu, 22 Oct 2026 12:49:00 GMT",
+          "title": "Meta earnings live: Meta beats Q3 revenue expectations, announces 2-for-1 stock split - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMFA4WEFHWVZMRTNkc3A4VktRbEI2eG1KTUloYWZld19RWEZFNXhRVGNPMTM1YWxKNDBtMlpqbldhUEdBNEdjZGNObmFHbDRhdy1QdnEwaDZNM19HMUpaNzYzOTlCY3EyTkFPSU4tX08xUXRqbUM4UlBQZXdKb1NJTjMyRkFzV3BsaV9WUFkxTjFVMHVlWGk4YTZTdTczdXZ2emM0cHgzZy1CZUplSGZzeW1xRHBSd1pPNHM5bFM5U2RNM2wtaVBnNXNEcDUxbndLNm1XOGY0WTk?oc=5",
+          "pub": "Thu, 22 Oct 2026 08:16:06 GMT",
           "source": "Yahoo Finance"
-        },
-        {
-          "title": "Meta Shares Slide 6% on Spending Commitments - WSJ",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQ3pBQnlyald6SFB5eXA5X1pLaDYzeGxaT3pCSDB0aFZJUlVRTDJGUUxoRU5ReGQ3MlVNZFd4U2doU1VmQWtTd1ZlVG0xNG12VGVxU0NkV24zdlY4bV9XNUI1VU0wSHllclFVdTh5LXlxRmNYa29CQkh2TkgyOE9MWkFEdkdEMGN2TkFsZkI5OEZuLURkbXEzQ1ZwbHhpaHhibnpQb1l4aUMxT2JQc3J0aGx3cmdOODdNUERQWWdpUXoyXzV1MFZvRnkzZ2RlTVkwLXd0enItRmtMOXctTG5ORV95UkY?oc=5",
-          "pub": "Thu, 22 Oct 2026 16:09:20 GMT",
-          "source": "WSJ"
         },
         {
           "title": "How Meta Stock Can Be Both the ‘Cleanest’ AI Winner and a Risky Play - Barron's",
@@ -71,23 +65,29 @@
           "source": "Barron's"
         },
         {
-          "title": "Zuckerberg weighed leaving California over the wealth tax. Meta answered with a new class of stock - Fortune",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcHd0MEVNWDJTdEktRVc0YXBmTXc1WEFVRy1MR0VlZnp4QUNVZUh0Zm11NF96MlA1eTZXUHpNczFYYTJTa0paa3J0aDRtZEw2MzZ0b0liYm8ydnBUaERmNjBUQjhTd2RRSnZLVU5kNlc2T3RER3A5MTFVVXoyYnBXY2E2OU5UQVpQRXdONEhVUmlxSnRPc1Fr?oc=5",
-          "pub": "Wed, 21 Oct 2026 23:59:00 GMT",
-          "source": "Fortune"
+          "title": "Why Meta (META) shares are getting obliterated today - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNR0E3WDFFeXVId3dtV3I1N3BGVEdoSlJ4TUxVZzhVd3ctRjMyX1ZwU2VhaklwOVA4eldpdmVpb1d5amdOMGR2d1IwYkFiMF9jVzZaa0RQendlYldjRldVckdlWVRveWl1WTFUcXQ4TW11NllKQlMyR0FQTXVEQ3RxdHhqMlpYaEJTQnR4V3I2NG5JOFB5RWpNMg?oc=5",
+          "pub": "Thu, 22 Oct 2026 17:01:53 GMT",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Meta Shares Slide 6% on Spending Commitments - WSJ",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQ3pBQnlyald6SFB5eXA5X1pLaDYzeGxaT3pCSDB0aFZJUlVRTDJGUUxoRU5ReGQ3MlVNZFd4U2doU1VmQWtTd1ZlVG0xNG12VGVxU0NkV24zdlY4bV9XNUI1VU0wSHllclFVdTh5LXlxRmNYa29CQkh2TkgyOE9MWkFEdkdEMGN2TkFsZkI5OEZuLURkbXEzQ1ZwbHhpaHhibnpQb1l4aUMxT2JQc3J0aGx3cmdOODdNUERQWWdpUXoyXzV1MFZvRnkzZ2RlTVkwLXd0enItRmtMOXctTG5ORV95UkY?oc=5",
+          "pub": "Thu, 22 Oct 2026 15:37:49 GMT",
+          "source": "WSJ"
         }
       ]
     },
     {
       "symbol": "AVGO",
-      "price": 324.82,
+      "price": 324.31,
       "prev_close": 337.79998779296875,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -3.8425068863306016,
-      "drawdown_pct": 34.379797979797985,
+      "day_change_pct": -3.993483801200285,
+      "drawdown_pct": 34.48282828282828,
       "name": "Broadcom",
       "news": [
         {
@@ -97,10 +97,10 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "Broadcom: An Effective Hedge Against The AI Cash Crunch (NASDAQ:AVGO) - Seeking Alpha",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVk5oMktfajUybmxyNzhvSXFpc3RSdC1GaDVNQnFNTHpJYWFsd1RiU2JSWnNNWVRYRUZGMy1jczdyMjBnSm50bFR4dzE0aWl4UlhwdlFhNWpJUzdfSzA5bElaRkVabS0yeWNDNjJMV1Uyd09TdzExZFc1Ym5FRVNqck81S1JFV1l2QlJPUldaNW9SNFpTZXR0V3pQQQ?oc=5",
-          "pub": "Wed, 21 Oct 2026 18:28:01 GMT",
-          "source": "Seeking Alpha"
+          "title": "Prediction: Broadcom Stock Could Crush the S&P 500 Through 2030 - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVWExVGxQbDI2NDJLbVNWM0VJQzgtalVnMi0yX1RtRTA3dnIzczJLTk1nTXJHdk12SmJUeVozRHpOQWFLX1ZjeUlybWZKdVBic2NCcHFVbXR3MUlJZk9qeEpiUXVqSFJrZ3hoV3lLbE5jZUdZeFpnNnk2UGN4Vkl2N0lTWENMeFk5dVBZVHBvUXB6MnBVbmZObmtBR0lLbm00UGxrUQ?oc=5",
+          "pub": "Thu, 22 Oct 2026 16:00:47 GMT",
+          "source": "Yahoo Finance"
         },
         {
           "title": "Snowflake vs. Broadcom: Which Enterprise AI Stock Is the Smarter Buy? - Zacks Investment Research",
@@ -118,27 +118,27 @@
     },
     {
       "symbol": "AMD",
-      "price": 510.905,
+      "price": 509.73,
       "prev_close": 552.719970703125,
       "high_52w": 658.52001953125,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -7.565308459893615,
-      "drawdown_pct": 22.416177967729194,
+      "day_change_pct": -7.777893505175264,
+      "drawdown_pct": 22.59460838216615,
       "name": "AMD",
       "news": [
+        {
+          "title": "Meta and chip stocks decline as AI trade comes under pressure: AlphaCheck - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZ2ZfdGdfS21jbGZ2WDZCX241bWs2RTFmdnRFY1FCQVdsS0VLOTdFNk1relhYdHAxT3VrdUY1RzhfdlFtbGRkV3o5MzZVeG93WkxfNzFxczIxWDJOVEZEN0o2eXJiQUN2eGQxRUdNMkEtZm52RUdZTmFmdGJnVEl2YjV3djlkVzExVnJQMFMwRWM5eldrdFRiNnFHQVFQUzhUZWFYOVN0Wlk1Zk96aWdEQ2thRDM2NDVKRFZwNnB0QWdUMGhCQkRtUQ?oc=5",
+          "pub": "Thu, 22 Oct 2026 15:39:07 GMT",
+          "source": "Yahoo Finance"
+        },
         {
           "title": "Why Are Nvidia, AMD and Micron Stocks Crashing Today? AI Spending Fears Hit Chips - Stocks Down Under",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zc25iZ1RZenM5U3N2QkJMQ2Q1UVBscjFreDQ5cDZ1LW1EUGdiNVFHU2JIeEJmajJfaThMN3RqNExGNWRnVFlqblEtb0o2OFMwaF9FZmJicloxemtoZzJRNFhtOXhmMXI4YWxtd2ZEcklyRDZOVWNyZ1RMTXhxWTg?oc=5",
           "pub": "Thu, 22 Oct 2026 16:45:42 GMT",
           "source": "Stocks Down Under"
-        },
-        {
-          "title": "Does The Move In AMD Stock Change Anything? - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWEhzbzBWYkJYY0xEMTNvVmhraFVvbEV1d0dJMXptWmN1OG9RNTJ1cEVoUnZpYmRSellnd0ZjT0Q1eWNrLXZOYlVpeElNZnNhTVptbWZseTAtZmR5UFZNVzlkNjNTdU5neC1yUjltUVdLNmhwaG94eS1EVWhGX0YyNXpJLVdoSjJpUHlPWTVBaVZPTlpSYVE?oc=5",
-          "pub": "Thu, 22 Oct 2026 11:45:44 GMT",
-          "source": "Yahoo Finance"
         },
         {
           "title": "Not Intel. Not AMD. This Is the CPU Stock I'd Buy for the AI Agent Era. - The Motley Fool",
@@ -156,14 +156,14 @@
     },
     {
       "symbol": "RKLB",
-      "price": 50.58,
+      "price": 50.26,
       "prev_close": 53.66999816894531,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -5.757403157008598,
-      "drawdown_pct": 66.50331125827815,
+      "day_change_pct": -6.353639435967818,
+      "drawdown_pct": 66.71523178807948,
       "name": "Rocket Lab",
       "news": [
         {
@@ -194,16 +194,22 @@
     },
     {
       "symbol": "IREN",
-      "price": 25.325,
+      "price": 25.225,
       "prev_close": 27.84000015258789,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": -9.033764866391738,
-      "drawdown_pct": 67.0547689669153,
+      "day_change_pct": -9.392960266721872,
+      "drawdown_pct": 67.1848587242029,
       "name": "IREN",
       "news": [
+        {
+          "title": "IREN (IREN) Lands 300 MW Spain License And Opens IREN Europe - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbS1CWFE2ZmlLQ1QzMHptdkNwOHJoa1Fyay03SEVfVnFUWlpaVXpkb2Q5ZWc2bmRoTDFobG53RXFsaE5FckhtalRfXzJaZ0VISUhLV0NXSEpsZXhxQzhCeEkwbE5RUFlCZU1NM05lX09sODZCTDQ5V1luTVZ2cF8wRDlDZW5nWWRkbGhmR3lmSQ?oc=5",
+          "pub": "Thu, 22 Oct 2026 10:15:56 GMT",
+          "source": "Yahoo Finance"
+        },
         {
           "title": "IREN vs. TeraWulf: Which AI Infrastructure Stock Carries Less Risk Now? - Zacks Investment Research",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNi1fT1BqY296UC1pcENzcFZ4bjl1RU54VklMRF9weW9sOWEtWUFDSnIzUEg0NnVXbWVuTDdiVkZKU2tlTnh1YVVRaV9Md2J0ekR1NFQyR09xb3F4V3IzdlRnak5HVUlGX3NrRTIyUkpRRkprWTRNOHVFcFR3ZVFpNG42Z3dValJZU01FRmhlMmRNR01Ock9IOXBoVTRzUTJXQmdzSVpsai1PLXYxU2c?oc=5",
@@ -211,22 +217,16 @@
           "source": "Zacks Investment Research"
         },
         {
+          "title": "TeraWulf Jumps 8% as CEO Says Power Demand Remains 'Extremely Strong'; Applied Digital Surges 9%, IREN Climbs 6% - 24/7 Wall St.",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPM1JodG41MzViVC11YzJscHdOUDFsY3dFY0huUTRuZy01MEZXcDJnYmFvOExQZ1hzZmpyMWlLeXg4Mk1fMU5DTGlTUHNfa2FScTZZT3BTM1pqcHVKMVJKaEtoTkZnM3ZpWVdHczFIQ0xGalVBdERRalF4OHhjTS1Ua0hBSXdXMUVpNmxHMFFBY2FqZkVZSVN6cFBwYk9KSHdUNXFFWDlLZm9NeVRIMTJzT0dtcW90aWR3b2xQR0pvWUEwR1czNGgydThLR29Edm5MZFNUMVlQSTYydC02VFp0Sm9Sbw?oc=5",
+          "pub": "Wed, 21 Oct 2026 18:09:00 GMT",
+          "source": "24/7 Wall St."
+        },
+        {
           "title": "IREN Stock Rises: AI Cloud Provider Plans 300MW AI Campus In Spain For 2028 - TradingView",
           "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZmI0VGFRdDlmS0h5M0RYdTRDZ1JQU1dZMW50Yi1tN0ZycHBVUzNPdm84aFlaVnpzTkV0MnVQV2RYR0wyMWJ0UjcyNVlLTDMxM3ZQUVhhdmJSbk14cTFPajAxQnFMVEdnSG9hT2UyV2VLc1Rpc0I4V1gxU0pHaFRENmtrTVBvWmJQTW1DcW1qM3ZsMExrYVEydXNoZlMzMy1WVlFUcDFqLTN6ZU0zWS16a1FwS01VNG1tekFybG1haEtqNk1RcnNmaWI1ampuZzhw?oc=5",
           "pub": "Wed, 21 Oct 2026 13:00:05 GMT",
           "source": "TradingView"
-        },
-        {
-          "title": "Data Center Stocks Rise as IREN Plans 300MW AI Campus in Spain: IREN and Cipher Digital Gain 4%, Core Scientific Climbs 3% - 24/7 Wall St.",
-          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPb3ozekZhci1iQ2ZBaF9yd21tdTQtcnl2TlBWMGRJVzhkN1c0TDlKaWhxbkFPb0N1Y1B6Q2xxd3FEZ0pPMjlxT3I2UTNScnNfRXZ0dzgzbHdqczlBcGZWZmJVUU1xQlBrbTJYRHVsWE43Y2hUZXNEUFdmZVlheEZKaktNX1JmN2twS3RqUHNsZVdfd0x2a0tpQzAwMERHeGdzYkczb1hiYzVBaERTVzRpV2FRRUdGZHl5dnlCR0N5VEFpYjhaYXVWT2dZR19aNlFSVm4tdU9obXpOTUhFVjIwT0xSSXNQRXVldExsNDI5WVd1NFh1?oc=5",
-          "pub": "Wed, 21 Oct 2026 13:42:00 GMT",
-          "source": "24/7 Wall St."
-        },
-        {
-          "title": "Why is IREN stock sliding today? - Investing.com",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTERtZDVOVXE2MXRfMUhHamZIMnNaTDVHYXh6U1h5Y21uQWY1RDNXMkZZVGVCcEFBU0cxYzFwOV9mT0xaZXRSalV3Qk5QenZQU0pJazlrUnVwYmJObm5wdjRIVWNuS3hBUkdfeU1COXBoZlNGczNwLTFreGJJUlJaV2VvSGFJZ1FLSVhHdUZhWW9yYWlYOHBtTw?oc=5",
-          "pub": "Tue, 20 Oct 2026 13:53:56 GMT",
-          "source": "Investing.com"
         }
       ]
     },
@@ -287,16 +287,16 @@
           "source": "Yahoo Finance"
         },
         {
+          "title": "Swedbank Robur reduces stake in Invisio to just below 5 percent - www.marketscreener.com",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOV1hwMFZVTkxya0Z4Y0hpOFNJbkVlbXlfWmZfZTVCaXRXWmZQUGxoMTBpSFdXdUlkcG1OSmFvRTd4dXFxNmYtN1lTN1NaLVpLWkJDczBQSlNCQ0V6clAwek1Kemc2Sk4yQ2VVMUtHTFJROW1sY1VYMEJSSnhDbHpnX3JVNFhBeE9JMmpBbDlfT3hQOUV4VnV4SnlqNUdhTGliYmQwcEE3ZXRpVEZKUFB1c2Y1WE16TGs?oc=5",
+          "pub": "Thu, 22 Oct 2026 09:29:30 GMT",
+          "source": "www.marketscreener.com"
+        },
+        {
           "title": "PDT Partners no longer public short seller in Invisio - www.marketscreener.com",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNc21Hakw4TnZiRXZkZlJMdXlybXhNTWtFMWdyOUFGTk9WWUtGbmVVMDBoV3N2NTRMeTJJOFJMRTVqU2NGbDd5UnNXS1ZjcjZXRHdPY1hlSUpNQXhMaDFLbWwxdzhoak5kTmIxb2pqSzJ2T2V3Yzk3VDVrMmVZeURkdVRKWDVjLWVvMmo2TVJRR0JjM3l1SHl5UVRLejRLWHoxaUxMQXd4QXdJUQ?oc=5",
           "pub": "Fri, 16 Oct 2026 06:51:33 GMT",
           "source": "www.marketscreener.com"
-        },
-        {
-          "title": "SB1 Markets cuts price target for Invisio to SEK 295 (315), reiterates buy - marketscreener.com",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMHFhY21HUzBCR09odk16UXBvRnNqYlhqNmxQVEZaWjAxMm1vX2dKVWxwLURqd0JUckNBSmdqTUVNejJ0RmRGSHZiRGhQQThVek9pRXF3cGJzUGw5cmVuQ292cENsZUZoazZzLTJjZWdsdWpRbDNCaU1vc28yTm1VQy1WcFF4M0RKQ0dLY0pCNmRfUkxvM0lZSEd6ZU10VHJCOUprVDR2bTVEY0hHSmhFbVFRY0FSQUtCTXVpMVBoYXVrQQ?oc=5",
-          "pub": "Fri, 02 Oct 2026 07:00:00 GMT",
-          "source": "marketscreener.com"
         },
         {
           "title": "INVISIO (Investment case): Strongest Q1 ever, new product ramp-up and Coast Guard catch-up in focus - Inderes",
