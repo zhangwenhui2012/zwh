@@ -1,19 +1,31 @@
 {
-  "updated_at": "2026-10-22T17:30:37.525047+00:00",
-  "updated_at_display": "2026-10-22 17:30 UTC",
+  "updated_at": "2026-10-22T17:37:21.041616+00:00",
+  "updated_at_display": "2026-10-22 17:37 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 213.08,
+      "price": 212.92,
       "prev_close": 221.97000122070312,
       "high_52w": 243.37,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -4.00504625481524,
-      "drawdown_pct": 12.446069770308581,
+      "day_change_pct": -4.077128067276437,
+      "drawdown_pct": 12.511813288408602,
       "name": "NVIDIA",
       "news": [
+        {
+          "title": "ASML Has Incredible News for Nvidia Stock and Micron Stock Investors - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVkFJdXAzQlduVjl6alhDSmJkdlc3N1dnUUhRai1jVWNKSU56OFc1U0tfa1NUeW1WejltYmRjV1hHMzJ4dmtCYkpTV21XTTZNaEgwVWdJMWVIS21tTE15S1E2SDItT0pvdU1LaGdEOGdHeHU1azdzbHUyc2VhMUltcXZBV283WHZaLXNmSHFKc0p4MTkwWHBQa3NwNnc2R2hhNEpoQzFpZmV6OVM1cUJNZA?oc=5",
+          "pub": "Wed, 21 Oct 2026 19:32:00 GMT",
+          "source": "The Motley Fool"
+        },
+        {
+          "title": "Not Even Rumors of a Big China Chip Purchase Can Lift Nvidia Stock - Barron's",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1oeXdGdlJLZWg4QWFrdDdoTFI5WWs1b1A4R1R0U2NCNmR2RkNSMnJZb2RBZVprejQwSmV3OHRVOFhmTGxTa3R0b1A2bE5Yb1VTbVB2QmJYajNZQWNPZWlsdVdhSXVQRW1abl82WEtBMGpJaFI3LTR1S1dSTlY?oc=5",
+          "pub": "Tue, 20 Oct 2026 18:41:00 GMT",
+          "source": "Barron's"
+        },
         {
           "title": "Why Are Nvidia, AMD and Micron Stocks Crashing Today? AI Spending Fears Hit Chips - Stocks Down Under",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zc25iZ1RZenM5U3N2QkJMQ2Q1UVBscjFreDQ5cDZ1LW1EUGdiNVFHU2JIeEJmajJfaThMN3RqNExGNWRnVFlqblEtb0o2OFMwaF9FZmJicloxemtoZzJRNFhtOXhmMXI4YWxtd2ZEcklyRDZOVWNyZ1RMTXhxWTg?oc=5",
@@ -21,35 +33,23 @@
           "source": "Stocks Down Under"
         },
         {
-          "title": "Jensen Huang Says the Next Wave of AI Is Physical. Forget Nvidia and Tesla, I’d Bet on These 2 Mid-Cap Stocks Instead. - Barchart.com",
-          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNdFotaUFUdXRhWk5JLWRwTWd1WE5YT0M5VTItX2I5TGkzM21LQ2M2SHZjM2lQeVlhd2ZKTENkdlczVUlDZGlxbWdISVZkUXpvZWZCZ01LM1AyX1VFc0pqOUl2LUtpNzFvQk90bFR6cHBpUkFrM2xsUGVrdkowTjVoWWpITmdYZFJrYWF5OWxZV0tmVjZLdElxQ01JRkJwcV9UZ2NXYUdfNVhJazhfcW9HSTRxSFJQbVpaa3pEQ3hfQm1xSU1Ba3hPd0ZQNFdIa1ZVOUlvblYyaWdMeXE5aTBjMncybFVITHE5QWhQQ3NUVQ?oc=5",
-          "pub": "Wed, 21 Oct 2026 22:25:32 GMT",
-          "source": "Barchart.com"
-        },
-        {
-          "title": "Does Super Micro's Big Quarter Make Nvidia Stock a Buy? - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZ3V6aUZOWGNBZGQwMjhrR3EwQmVJVi13V3dxMXZjYnprNDVPU2RVUXJkaVRjZTlyVUxaQzVOR0ltN1d6WURIYTktMzd5U0Q2Uk5Lb2hBTkxkSm1mV245cU51dVRVVzF3QWlMVDlEUTRkM1hUeDI1TjQxTWNYdlVUMVJDRmY2enBhd2g4Z2JLUXBXQVNnZl9LRGdB?oc=5",
-          "pub": "Thu, 22 Oct 2026 07:32:01 GMT",
+          "title": "Hewlett Packard Enterprise (HPE) Tests Its Valuation Following NVIDIA AI Factory And Moon Computing News - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNDItanZROGZVMGpYaWdiblJkS0xhMk5xaUFSUURvTXg2RHhlVW9NeFExMHNaWHZDSDRNdVAyUTRTTGNFSTk3SjkwRlhnbDFxd0VEbGdEdG8zMWl0VWR4T3ZWN0pYdURHRjVNTVdJeS1fQlQ2R2RDWlYwcGU4ZDNOUFdORTRpVWF0SW05ZDNRTVdBNEg1Sl9DUkxoX1BDNFNmN2dn?oc=5",
+          "pub": "Thu, 22 Oct 2026 15:15:31 GMT",
           "source": "Yahoo Finance"
-        },
-        {
-          "title": "Nvidia Stock Falls in a Case of Bad Timing Over Another Potential AI Investment - Barron's",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9VeEdHR2lCQXB5TGVFS2dwc0JnRTVDR3loNTVlRlRmTHNWcmpHbUdHdzV6bVJQQWgzQkJZTmZWbXJrQjFHWGhMVEVUZEJyOXh4UWZFa1kybFZWcGVDVGF3RXcwOXhZZkVxWVVKc0pwa1lhak1lRXBB?oc=5",
-          "pub": "Thu, 22 Oct 2026 09:30:00 GMT",
-          "source": "Barron's"
         }
       ]
     },
     {
       "symbol": "META",
-      "price": 647.785,
+      "price": 646.82,
       "prev_close": 697.52001953125,
       "high_52w": 779.8200073242188,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -7.130264098322675,
-      "drawdown_pct": 16.93147214538236,
+      "day_change_pct": -7.268611381981777,
+      "drawdown_pct": 17.055218649823956,
       "name": "Meta Platforms",
       "news": [
         {
@@ -59,16 +59,16 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "Bill Ackman talks Meta and markets with CNBC - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPT2dySUtTcDJmOXEtWlQyVUZYV0p0YjRIekJITVZ0X0xKWi15d19YNjN2OThaUVVTekxnM2xXdjh6MGg0T2pyTHY4VjdSbzFSVHdkWERVTDA1RTNtbDl4TVVBZVpVT09JdHZRNVdEd1UwSTJPTGpXQ1BvRHdBN0xYcDByU2Y3NHFj0gGOAUFVX3lxTE9Uc2lXY1MwdzFvczlIRHB0VW8zS3E3MGgzQnJTYjltZkhXZjdvblI4Q0JXdVV4UkNYRGllcTNqMG9qMWQyU3FhZFFJNnNjOWdZSm9idjRrVW5xZDFqYnU2VjltUGYxZ0JUUl8xVFYwWFEtTm5DaktCNWh0VTg0Zk1VSnJ6RXZLRlFSSTN6aFE?oc=5",
-          "pub": "Thu, 22 Oct 2026 14:55:52 GMT",
-          "source": "CNBC"
-        },
-        {
           "title": "Meta Shares Slide 6% on Spending Commitments - WSJ",
           "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQ3pBQnlyald6SFB5eXA5X1pLaDYzeGxaT3pCSDB0aFZJUlVRTDJGUUxoRU5ReGQ3MlVNZFd4U2doU1VmQWtTd1ZlVG0xNG12VGVxU0NkV24zdlY4bV9XNUI1VU0wSHllclFVdTh5LXlxRmNYa29CQkh2TkgyOE9MWkFEdkdEMGN2TkFsZkI5OEZuLURkbXEzQ1ZwbHhpaHhibnpQb1l4aUMxT2JQc3J0aGx3cmdOODdNUERQWWdpUXoyXzV1MFZvRnkzZ2RlTVkwLXd0enItRmtMOXctTG5ORV95UkY?oc=5",
           "pub": "Thu, 22 Oct 2026 16:09:20 GMT",
           "source": "WSJ"
+        },
+        {
+          "title": "How Meta Stock Can Be Both the ‘Cleanest’ AI Winner and a Risky Play - Barron's",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5DajFQVmM2bGkwbGwwRVdiS1JIZEcwdE52SkRyMTZLWnVOWUdjMWdaaVViZC14WXpqQTVXSmlPSFJkWHk5eDBLTk9YQlNuSHI3NC1uaTRGaDFPX3dEVDJwNUV2NXdvMnBCQngxZnZ3NHFYQ3ptdWxMSE5CeFZyUQ?oc=5",
+          "pub": "Thu, 22 Oct 2026 17:14:00 GMT",
+          "source": "Barron's"
         },
         {
           "title": "Zuckerberg weighed leaving California over the wealth tax. Meta answered with a new class of stock - Fortune",
@@ -80,14 +80,14 @@
     },
     {
       "symbol": "AVGO",
-      "price": 325.0,
+      "price": 324.82,
       "prev_close": 337.79998779296875,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -3.7892209163765926,
-      "drawdown_pct": 34.34343434343434,
+      "day_change_pct": -3.8425068863306016,
+      "drawdown_pct": 34.379797979797985,
       "name": "Broadcom",
       "news": [
         {
@@ -118,14 +118,14 @@
     },
     {
       "symbol": "AMD",
-      "price": 510.145,
+      "price": 510.905,
       "prev_close": 552.719970703125,
       "high_52w": 658.52001953125,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -7.702810276416218,
-      "drawdown_pct": 22.531588278343737,
+      "day_change_pct": -7.565308459893615,
+      "drawdown_pct": 22.416177967729194,
       "name": "AMD",
       "news": [
         {
@@ -156,14 +156,14 @@
     },
     {
       "symbol": "RKLB",
-      "price": 50.6201,
+      "price": 50.58,
       "prev_close": 53.66999816894531,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -5.682687298301516,
-      "drawdown_pct": 66.47675496688741,
+      "day_change_pct": -5.757403157008598,
+      "drawdown_pct": 66.50331125827815,
       "name": "Rocket Lab",
       "news": [
         {
@@ -194,14 +194,14 @@
     },
     {
       "symbol": "IREN",
-      "price": 25.305,
+      "price": 25.325,
       "prev_close": 27.84000015258789,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": -9.105603946457766,
-      "drawdown_pct": 67.08078691837282,
+      "day_change_pct": -9.033764866391738,
+      "drawdown_pct": 67.0547689669153,
       "name": "IREN",
       "news": [
         {
