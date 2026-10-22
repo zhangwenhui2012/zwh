@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-10-22T15:30:38.010436+00:00",
-  "updated_at_display": "2026-10-22 15:30 UTC",
+  "updated_at": "2026-10-22T16:00:51.736080+00:00",
+  "updated_at_display": "2026-10-22 16:00 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 213.37,
+      "price": 213.81,
       "prev_close": 221.97000122070312,
       "high_52w": 243.37,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -3.8743979697293436,
-      "drawdown_pct": 12.32690964375231,
+      "day_change_pct": -3.676172985461082,
+      "drawdown_pct": 12.146114968977278,
       "name": "NVIDIA",
       "news": [
         {
@@ -42,14 +42,14 @@
     },
     {
       "symbol": "META",
-      "price": 656.545,
+      "price": 660.02,
       "prev_close": 697.52001953125,
       "high_52w": 779.8200073242188,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -5.87438616583166,
-      "drawdown_pct": 15.808136001435757,
+      "day_change_pct": -5.3761925795980625,
+      "drawdown_pct": 15.362520350726344,
       "name": "Meta Platforms",
       "news": [
         {
@@ -80,27 +80,21 @@
     },
     {
       "symbol": "AVGO",
-      "price": 322.75,
+      "price": 325.06,
       "prev_close": 337.79998779296875,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -4.4552955408016786,
-      "drawdown_pct": 34.7979797979798,
+      "day_change_pct": -3.771458926391923,
+      "drawdown_pct": 34.33131313131313,
       "name": "Broadcom",
       "news": [
         {
-          "title": "Broadcom’s AI Revenue Surges 221%, But is Growth Becoming Too Dependent on AI Spending? - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPX081U0VMOFZKZFNTRFladkVFU3FoVy00amNrbHlKaVNxemp1X2hsb3A3bjV3WURTd0hQLWRRcDlwSVIycEw5NEp1ZTFMUU9LSVRUVVIyRmw1eXBKVU1qQ09aWHBFMDNQZzJWa09UeHFTQXQ4SWhiT2EzR29UOGdpUWlNeW4xUGh4OVBrMjAyTFg3MVp4OTBlbkd3?oc=5",
-          "pub": "Wed, 21 Oct 2026 15:25:33 GMT",
-          "source": "Yahoo Finance"
-        },
-        {
-          "title": "Apple vs. Broadcom: Which Tech Stock Is a Better Buy in 2026? - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNXcxWFNINHZMaTdpQmw0ajZSdkI5N2Y2cF96dWt1cUc3bnFfWGJtYW9UMm9LVVZQUlpfNUlmaVQ2SWdiQUlIVmplWkhRRFM0LUc3OTNEUkliNDNWMGxMZkFEc3plaTdWMV9aZ0dQZG85RE05QVdIbzJTMTlHSnN1ZjBlOTRVeVE5RXpIdHBzZFd0SFRqcmxqYXZoYjlZeFd6OVYwd2R3aldLS21IX2FLNA?oc=5",
-          "pub": "Wed, 21 Oct 2026 13:32:00 GMT",
-          "source": "The Motley Fool"
+          "title": "Broadcom: Once-In-A-Decade Opportunity (NASDAQ:AVGO) - Seeking Alpha",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPV0NFMkN1ZDJkU0xwcHJ4ZTVsZ2JweFRkV1RuenlJV1NnbHFIYWNBd3hGZzJPUXgyMlJienJIWkc5cnhDWm5yUDZoT0Ywc21YYk10WkZuNjdzUWRKSlVSWHgyaHNwR0tHNTE5aVBkTWcteXZwZTdDLXpOQU1MdVJzY0xkeUI?oc=5",
+          "pub": "Tue, 20 Oct 2026 13:01:58 GMT",
+          "source": "Seeking Alpha"
         },
         {
           "title": "Snowflake vs. Broadcom: Which Enterprise AI Stock Is the Smarter Buy? - Zacks Investment Research",
@@ -113,19 +107,25 @@
           "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWGdTVjN0b0tvZjV5YllNemh3TDYxQjA1LTVQS2xBQWtXbGM3UWN0V0VEYTlUY25SLU9EaUppdzNNM3FGcm9kUGpRVWx4VkhUNm52dUlSY3cwaXpFbWxJSnUzaG50NjhKU2FJbXRWV1pGMFloZ2NhYXNNMjkxbDBRakZBS2JETXhTTWRn?oc=5",
           "pub": "Thu, 22 Oct 2026 15:15:54 GMT",
           "source": "TradingKey"
+        },
+        {
+          "title": "Is Broadcom Stock Cheap Enough Yet? - Trefis",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUUlPNWtyaFJqT2hEdkJ1OEVXY1ZjdldvcDUtLWFtRXF3UkkwZVdZdUZPc0I5Z2thX1M3TExXaGVXb0dzQmNLX2F2Z0dHaF9HMEU2SlpFTW9zY0dQOUJWN2xzYVZGeUNmWEotaWZUblpLRG5GN05MbTVwRE56UUV3Z05NSDJfem5OaGxldmJxSkprb3dEZzFTdnhkVQ?oc=5",
+          "pub": "Mon, 19 Oct 2026 12:20:39 GMT",
+          "source": "Trefis"
         }
       ]
     },
     {
       "symbol": "AMD",
-      "price": 510.495,
+      "price": 514.52,
       "prev_close": 552.719970703125,
       "high_52w": 658.52001953125,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -7.639487071438698,
-      "drawdown_pct": 22.4784387931923,
+      "day_change_pct": -6.911270214197282,
+      "drawdown_pct": 21.867219713950778,
       "name": "AMD",
       "news": [
         {
@@ -141,29 +141,29 @@
           "source": "The Motley Fool"
         },
         {
-          "title": "Advanced Micro Devices, Inc. $AMD Stock Position Lowered by Pinnacle Associates Ltd. - MarketBeat",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPLUpRbzlOem54MmVxd29uempHRlVJVm9LTnlfay0waUcxNkJBd1FpNkxuUGJtMG1BeDBDcjlCUS1mTjFPT0NXZjVqamxMSXdPWDZqdDdXVmJ3a085VXhTNzNDSnFxSmdzdXdhZlJqUjVUS1huNDFuVXh2VWtySVEycFpuS013RERDaFdoaHlyZUFndlJadlBmMUtKbTVadXVOV0hvWFBlSlZidzkxeGNQclFSajQ2NlhLeEVLaHVFU3IyQXEyNkZxRi12UEZqcHJLT2hqUDRuNXk?oc=5",
-          "pub": "Thu, 22 Oct 2026 09:31:12 GMT",
-          "source": "MarketBeat"
+          "title": "AMD Stock Forecast for 2026, 2027, 2028–2030 and Beyond - LiteFinance",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOHJoMzFPekd2UWJ5dWt1TVl5RU9DQkRZdm9FZnlvdWxnVVVHVzJNbWx6eUwtcnROSXl2MHZCdDVuUXdjbDlqZmF6SGpGc2Exck9keE5wTHAxSkN0SzVEdFBMekdFaEFyM050bGdFaGtMQ19BZ0FCT0E3VkJDYUZjLWF0UUU?oc=5",
+          "pub": "Wed, 21 Oct 2026 22:59:08 GMT",
+          "source": "LiteFinance"
         },
         {
-          "title": "AMD Stock: My Notes On Its 70+ P/E Ratio (NASDAQ:AMD) - Seeking Alpha",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbUhSOVFCNG1BeC1iQXpOcW1tT1J3TXk0THdROXZPX1F4dVJiUmpsVkc3YWxGS0hINjdRZWZBLU1jSFkyU3dibDdrNTFzWGhWS2pfbVh4MWpuS0QtcjhvTEhYQU0yT0liWU1jMXMzNHlqQUNicGE0allaWTh4Z2VROVlSNk5FOXZhTlZV?oc=5",
-          "pub": "Tue, 20 Oct 2026 16:51:50 GMT",
-          "source": "Seeking Alpha"
+          "title": "AMD Stock Gains Overnight: Analysts Laud Chipmaker's ‘Server Leadership’ After Strong Helios, Customer Updates - Stocktwits",
+          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPMm1DSlBRbTY2VnQyMUxkaWRGZy0tNURpUWlMSUNjcW1oTDRtM3lsbHB5MFFoemkya3BUUFF5UVNLbkJvSmkxYkd5NUNYV0tHS0tnMmVnQmxTQmdQMEZyU29DdHZDTkRVVmNnMjZuaktGemxRSmVXWjNGdmVaeGdpRTVZUFFIazBzTXBGOExiUU1VQnFyT0dEUXlMdWlKVkFCZTZuZFNqZTBDUllPMmh6YXY4MWt5dHNfZVI4ZEVGem9FUC1OdmZfSTlfTjV3TTQtNW1iSWpvSE5TZ25XLVp0cmE2QmxBc3VCZ2J3blRXQkVWYzIwYnhiOWxLbUk0dmM?oc=5",
+          "pub": "Thu, 22 Oct 2026 00:07:24 GMT",
+          "source": "Stocktwits"
         }
       ]
     },
     {
       "symbol": "RKLB",
-      "price": 50.97,
+      "price": 51.63,
       "prev_close": 53.66999816894531,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -5.03074019202705,
-      "drawdown_pct": 66.24503311258279,
+      "day_change_pct": -3.8010028666736555,
+      "drawdown_pct": 65.80794701986756,
       "name": "Rocket Lab",
       "news": [
         {
@@ -194,21 +194,27 @@
     },
     {
       "symbol": "IREN",
-      "price": 25.105,
+      "price": 25.705,
       "prev_close": 27.84000015258789,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": -9.823994747118045,
-      "drawdown_pct": 67.34096643294802,
+      "day_change_pct": -7.668822345137205,
+      "drawdown_pct": 66.56042788922242,
       "name": "IREN",
       "news": [
         {
-          "title": "IREN vs. TeraWulf: Which AI Infrastructure Stock Carries Less Risk Now? - Yahoo Finance Australia",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZWh1YnBCYlBUaWg1YzJFV08yU1I1R2xnMlVvSW5pMWRVVmVnQXM2cE9XeTFkUmhkcTJDWWRJTVFzM0FyVkFpSjRUcW5DTC1iZzdXeXI1VjNCT2lhTDhyNmNqRlA5bFZuZzM1ZkpWaG5qSnRfSUlvVEI0aWMzVzZjWUU3TUo5eDRMd1Nv?oc=5",
-          "pub": "Thu, 22 Oct 2026 13:30:00 GMT",
-          "source": "Yahoo Finance Australia"
+          "title": "IREN (IREN) Lands 300 MW Spain License And Opens IREN Europe - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbS1CWFE2ZmlLQ1QzMHptdkNwOHJoa1Fyay03SEVfVnFUWlpaVXpkb2Q5ZWc2bmRoTDFobG53RXFsaE5FckhtalRfXzJaZ0VISUhLV0NXSEpsZXhxQzhCeEkwbE5RUFlCZU1NM05lX09sODZCTDQ5V1luTVZ2cF8wRDlDZW5nWWRkbGhmR3lmSQ?oc=5",
+          "pub": "Thu, 22 Oct 2026 10:15:56 GMT",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "IREN vs. TeraWulf: Which AI Infrastructure Stock Carries Less Risk Now? - Zacks Investment Research",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNi1fT1BqY296UC1pcENzcFZ4bjl1RU54VklMRF9weW9sOWEtWUFDSnIzUEg0NnVXbWVuTDdiVkZKU2tlTnh1YVVRaV9Md2J0ekR1NFQyR09xb3F4V3IzdlRnak5HVUlGX3NrRTIyUkpRRkprWTRNOHVFcFR3ZVFpNG42Z3dValJZU01FRmhlMmRNR01Ock9IOXBoVTRzUTJXQmdzSVpsai1PLXYxU2c?oc=5",
+          "pub": "Thu, 22 Oct 2026 13:38:05 GMT",
+          "source": "Zacks Investment Research"
         },
         {
           "title": "TeraWulf Jumps 8% as CEO Says Power Demand Remains 'Extremely Strong'; Applied Digital Surges 9%, IREN Climbs 6% - 24/7 Wall St.",
@@ -221,12 +227,6 @@
           "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZmI0VGFRdDlmS0h5M0RYdTRDZ1JQU1dZMW50Yi1tN0ZycHBVUzNPdm84aFlaVnpzTkV0MnVQV2RYR0wyMWJ0UjcyNVlLTDMxM3ZQUVhhdmJSbk14cTFPajAxQnFMVEdnSG9hT2UyV2VLc1Rpc0I4V1gxU0pHaFRENmtrTVBvWmJQTW1DcW1qM3ZsMExrYVEydXNoZlMzMy1WVlFUcDFqLTN6ZU0zWS16a1FwS01VNG1tekFybG1haEtqNk1RcnNmaWI1ampuZzhw?oc=5",
           "pub": "Wed, 21 Oct 2026 13:00:05 GMT",
           "source": "TradingView"
-        },
-        {
-          "title": "Why is IREN stock sliding today? - Investing.com",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTERtZDVOVXE2MXRfMUhHamZIMnNaTDVHYXh6U1h5Y21uQWY1RDNXMkZZVGVCcEFBU0cxYzFwOV9mT0xaZXRSalV3Qk5QenZQU0pJazlrUnVwYmJObm5wdjRIVWNuS3hBUkdfeU1COXBoZlNGczNwLTFreGJJUlJaV2VvSGFJZ1FLSVhHdUZhWW9yYWlYOHBtTw?oc=5",
-          "pub": "Tue, 20 Oct 2026 13:53:56 GMT",
-          "source": "Investing.com"
         }
       ]
     },
