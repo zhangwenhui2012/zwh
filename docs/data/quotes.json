@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-22T08:30:35.956985+00:00",
-  "updated_at_display": "2026-10-22 08:30 UTC",
+  "updated_at": "2026-10-22T09:00:46.752545+00:00",
+  "updated_at_display": "2026-10-22 09:00 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
@@ -15,18 +15,6 @@
       "name": "NVIDIA",
       "news": [
         {
-          "title": "ASML Has Incredible News for Nvidia Stock and Micron Stock Investors - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVkFJdXAzQlduVjl6alhDSmJkdlc3N1dnUUhRai1jVWNKSU56OFc1U0tfa1NUeW1WejltYmRjV1hHMzJ4dmtCYkpTV21XTTZNaEgwVWdJMWVIS21tTE15S1E2SDItT0pvdU1LaGdEOGdHeHU1azdzbHUyc2VhMUltcXZBV283WHZaLXNmSHFKc0p4MTkwWHBQa3NwNnc2R2hhNEpoQzFpZmV6OVM1cUJNZA?oc=5",
-          "pub": "Wed, 21 Oct 2026 19:32:00 GMT",
-          "source": "The Motley Fool"
-        },
-        {
-          "title": "Not Even Rumors of a Big China Chip Purchase Can Lift Nvidia Stock - Barron's",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1oeXdGdlJLZWg4QWFrdDdoTFI5WWs1b1A4R1R0U2NCNmR2RkNSMnJZb2RBZVprejQwSmV3OHRVOFhmTGxTa3R0b1A2bE5Yb1VTbVB2QmJYajNZQWNPZWlsdVdhSXVQRW1abl82WEtBMGpJaFI3LTR1S1dSTlY?oc=5",
-          "pub": "Tue, 20 Oct 2026 18:41:00 GMT",
-          "source": "Barron's"
-        },
-        {
           "title": "Does Super Micro's Big Quarter Make Nvidia Stock a Buy? - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZ3V6aUZOWGNBZGQwMjhrR3EwQmVJVi13V3dxMXZjYnprNDVPU2RVUXJkaVRjZTlyVUxaQzVOR0ltN1d6WURIYTktMzd5U0Q2Uk5Lb2hBTkxkSm1mV245cU51dVRVVzF3QWlMVDlEUTRkM1hUeDI1TjQxTWNYdlVUMVJDRmY2enBhd2g4Z2JLUXBXQVNnZl9LRGdB?oc=5",
           "pub": "Thu, 22 Oct 2026 07:32:01 GMT",
@@ -37,6 +25,18 @@
           "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNdFotaUFUdXRhWk5JLWRwTWd1WE5YT0M5VTItX2I5TGkzM21LQ2M2SHZjM2lQeVlhd2ZKTENkdlczVUlDZGlxbWdISVZkUXpvZWZCZ01LM1AyX1VFc0pqOUl2LUtpNzFvQk90bFR6cHBpUkFrM2xsUGVrdkowTjVoWWpITmdYZFJrYWF5OWxZV0tmVjZLdElxQ01JRkJwcV9UZ2NXYUdfNVhJazhfcW9HSTRxSFJQbVpaa3pEQ3hfQm1xSU1Ba3hPd0ZQNFdIa1ZVOUlvblYyaWdMeXE5aTBjMncybFVITHE5QWhQQ3NUVQ?oc=5",
           "pub": "Wed, 21 Oct 2026 22:25:32 GMT",
           "source": "Barchart.com"
+        },
+        {
+          "title": "Not Even Rumors of a Big China Chip Purchase Can Lift Nvidia Stock - Barron's",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1oeXdGdlJLZWg4QWFrdDdoTFI5WWs1b1A4R1R0U2NCNmR2RkNSMnJZb2RBZVprejQwSmV3OHRVOFhmTGxTa3R0b1A2bE5Yb1VTbVB2QmJYajNZQWNPZWlsdVdhSXVQRW1abl82WEtBMGpJaFI3LTR1S1dSTlY?oc=5",
+          "pub": "Tue, 20 Oct 2026 18:41:00 GMT",
+          "source": "Barron's"
+        },
+        {
+          "title": "Nvidia Stock Jumps After Hours on Elon Musk’s SpaceX Chip Plan - NVIDIA (NASDAQ:NVDA) - Benzinga",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaFJQcVY3VVNKZUY4bzNsY3JoNGFtN0xTUVNqTGs2cEtwemUwYU5MQVMyeXlzYWJXR0ZfWHF5VXZmTnBFcldmVnoyN19kb3FoZnRYWWF3RUZQSjllczBkNlVNbXA2ZktqRFR0dkx3azNSTTR2YzhLak9Yd1l6X2ZZQ1VDa3VVNllWZ0lNamZVRVl5TEV4SzJGRklPZmFDUDA1SHdrdDBnZ1ZneS1VNXc?oc=5",
+          "pub": "Wed, 21 Oct 2026 12:20:00 GMT",
+          "source": "Benzinga"
         }
       ]
     },
@@ -232,14 +232,14 @@
     },
     {
       "symbol": "MILDEF.ST",
-      "price": 229.8,
-      "prev_close": 243.0,
+      "price": 232.1,
+      "prev_close": 237.1999969482422,
       "high_52w": 254.8000030517578,
       "currency": "SEK",
       "yahoo_name": "Mildef Group AB",
       "exchange": "Stockholm",
-      "day_change_pct": -5.432098765432094,
-      "drawdown_pct": 9.81161803466679,
+      "day_change_pct": -2.150083058118685,
+      "drawdown_pct": 8.908949285666507,
       "name": "MilDef Group",
       "news": [
         {
@@ -247,6 +247,12 @@
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcGw1Tm1tRW8yenBhZWgxemlURXNLTUtjeUU1SXZlbi05d0tzZHRfUmdOcmlmUno0bWVqaHpnYmVvRU43bDJTQzdHMzZXOUFCVGE2azhGTjRlRS04VDhocnJCYlF3MDJESmw3YlIxNGQ5bU5sbW1xeDZPMGxKaXhZOEswRGxzMGhDcDBzTlFxRXlwTjFUSkgwMzhtYw?oc=5",
           "pub": "Wed, 21 Oct 2026 13:17:57 GMT",
           "source": "Yahoo Finance"
+        },
+        {
+          "title": "Earnings call transcript: MilDef posts record Q3 2026 sales, profit growth - Investing.com UK",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcWF4Y19oZ0UyZXluLURyd1VUenMwSHpUb1JBT0ZVRUhBQzRiVzF5aTEwRUFSSjNTYktjY2o1VVVDZk0xRlMtNUZ4bFRUa0hRVWtNWXItdEd0Qk5yZFotMHNqY0l0ZTE2Z1lyWUJoSWd2SGFqaGcwbWdkdlJvVkFSdzd1bE43MmpWaEdIUUxKRjM2U3k5S09RYVVvREZ6dWFYa3Q0NnltTWZsdnpPMzE5dF81N2xUTms3MUlISXBXY1ZEdWZCUk1yRjRZLTlVdw?oc=5",
+          "pub": "Thu, 22 Oct 2026 08:54:00 GMT",
+          "source": "Investing.com UK"
         },
         {
           "title": "Is Strong Q3 Guidance Altering The Investment Case For MilDef Group (OM:MILDEF)? - Simply Wall Street",
@@ -259,25 +265,19 @@
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWng4R0RhWE91M1RWal9UTWRBZ3A0dGlYNHNianVtazdSU09IWWw4Z0ZLUW1aSy1uUk12VUpTVFY1VE00UDhPbUQzRDVOaU5mLUw3WU9XWWg4TXFHQXZDTUxiMFlYeUJWd2ZzR3dwWU5zUXZuNW1GMTNXdDRvN0dWNE84Sk1BZTNBazlqM3pIYXM2YU5RclNFVy1R?oc=5",
           "pub": "Thu, 15 Oct 2026 09:00:52 GMT",
           "source": "TradingView"
-        },
-        {
-          "title": "Making Battlefield Tech Fuels an 80% Rally for Swedish Stock - Bloomberg.com",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWFZjRE0wOVJoN0E4MHI1dUJOOHZySlIzcHRjbXA2LVlnOW9FbGx4VzktajJlaXJ1S0VhRm8zMUVSWjhVekY5RGxsaWR3WWRQZ2pFdjZOQzF0Ml9yb3FJS3FycTJjZExXMy1VcmpwOVdiQjdvaEhONlh2Y28yNDVKRENpRWVoel9nV1VJU2dYMUlybTZkUFlVZEIya3VETV9sTlJ4dEVPd0t5UDFJMU9Ec0ZvRE0?oc=5",
-          "pub": "Fri, 21 Aug 2026 07:00:00 GMT",
-          "source": "Bloomberg.com"
         }
       ]
     },
     {
       "symbol": "IVSO.ST",
-      "price": 248.6,
-      "prev_close": 246.0,
+      "price": 249.0,
+      "prev_close": 251.39999389648438,
       "high_52w": 336.0,
       "currency": "SEK",
       "yahoo_name": "INVISIO AB",
       "exchange": "Stockholm",
-      "day_change_pct": 1.0569105691056888,
-      "drawdown_pct": 26.011904761904763,
+      "day_change_pct": -0.9546515333141131,
+      "drawdown_pct": 25.892857142857146,
       "name": "Invisio",
       "news": [
         {
@@ -293,29 +293,29 @@
           "source": "www.marketscreener.com"
         },
         {
-          "title": "SB1 Markets cuts price target for Invisio to SEK 295 (315), reiterates buy - marketscreener.com",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMHFhY21HUzBCR09odk16UXBvRnNqYlhqNmxQVEZaWjAxMm1vX2dKVWxwLURqd0JUckNBSmdqTUVNejJ0RmRGSHZiRGhQQThVek9pRXF3cGJzUGw5cmVuQ292cENsZUZoazZzLTJjZWdsdWpRbDNCaU1vc28yTm1VQy1WcFF4M0RKQ0dLY0pCNmRfUkxvM0lZSEd6ZU10VHJCOUprVDR2bTVEY0hHSmhFbVFRY0FSQUtCTXVpMVBoYXVrQQ?oc=5",
-          "pub": "Fri, 02 Oct 2026 07:00:00 GMT",
-          "source": "marketscreener.com"
-        },
-        {
           "title": "INVISIO (Investment case): Strongest Q1 ever, new product ramp-up and Coast Guard catch-up in focus - Inderes",
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUVVOQzBXNmhVb0FEWmFxRmJKRnphbk1tYTRMcnpvSjhmZjdnMGttQ29RcjBIdW5XZkc2MTdTQTlCR0NCRVl0YUdpS1NPZURHOW80NkNSV1RST1NYYmxzbFpYWnBVc2gwVTlSM0VHcVpLcHBndjA3MWp2VWFYVzVMR3gtb0tLaEJPTXg2bkdOeFdhS1Y1OXFobG1kMkhEbW0xV0RmTkZrdXRrUWJZa1RiN2Z4OEhWREx4MDRBelFZSGFZZERYTjVTVXlB?oc=5",
           "pub": "Fri, 22 May 2026 07:00:00 GMT",
           "source": "Inderes"
+        },
+        {
+          "title": "IVSO Stock Price and Chart — OMXSTO:IVSO - TradingView",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBsNFloY2ktLU1xUGRPUi11bW1IVG5BVlA4WkdlT1JKRk1TWUZta2ptRDZraGwyQlRoRzAtQmtQY3FGQU96ZUJmQkdBS2RtbG4xekVILVhJOGgweFho?oc=5",
+          "pub": "Sat, 14 Apr 2018 01:11:10 GMT",
+          "source": "TradingView"
         }
       ]
     },
     {
       "symbol": "NORBT.OL",
-      "price": 159.4,
-      "prev_close": 161.5,
+      "price": 159.8,
+      "prev_close": 162.39999389648438,
       "high_52w": 244.8000030517578,
       "currency": "NOK",
       "yahoo_name": "NORBIT",
       "exchange": "Oslo",
-      "day_change_pct": -1.3003095975232164,
-      "drawdown_pct": 34.88562172677007,
+      "day_change_pct": -1.6009815235224885,
+      "drawdown_pct": 34.722223035996585,
       "name": "Norbit ASA",
       "news": [
         {
