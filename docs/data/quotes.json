@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-10-22T23:46:28.547401+00:00",
-  "updated_at_display": "2026-10-22 23:46 UTC",
+  "updated_at": "2026-10-23T00:00:48.590729+00:00",
+  "updated_at_display": "2026-10-23 00:00 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
       "price": 212.21,
-      "prev_close": 221.97000122070312,
+      "prev_close": 216.47000122070312,
       "high_52w": 243.37,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -4.396991110072942,
+      "day_change_pct": -1.9679406830879123,
       "drawdown_pct": 12.803550149977399,
       "name": "NVIDIA",
       "news": [
@@ -43,20 +43,20 @@
     {
       "symbol": "META",
       "price": 648.85,
-      "prev_close": 697.52001953125,
+      "prev_close": 694.25,
       "high_52w": 779.8200073242188,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -6.97758030858489,
+      "day_change_pct": -6.53943104069139,
       "drawdown_pct": 16.794902168977888,
       "name": "Meta Platforms",
       "news": [
         {
-          "title": "Meta earnings live: Meta beats Q3 revenue expectations, announces 2-for-1 stock split - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMFA4WEFHWVZMRTNkc3A4VktRbEI2eG1KTUloYWZld19RWEZFNXhRVGNPMTM1YWxKNDBtMlpqbldhUEdBNEdjZGNObmFHbDRhdy1QdnEwaDZNM19HMUpaNzYzOTlCY3EyTkFPSU4tX08xUXRqbUM4UlBQZXdKb1NJTjMyRkFzV3BsaV9WUFkxTjFVMHVlWGk4YTZTdTczdXZ2emM0cHgzZy1CZUplSGZzeW1xRHBSd1pPNHM5bFM5U2RNM2wtaVBnNXNEcDUxbndLNm1XOGY0WTk?oc=5",
-          "pub": "Thu, 22 Oct 2026 08:16:06 GMT",
-          "source": "Yahoo Finance"
+          "title": "Meta reports third-quarter revenue beat and issues strong guidance - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5HVnM1M1JBSWFqUlBzWnZDYlNqcksySUpHN2xrOU0zM1BpZjE2TDdCY2UyMk52VjEwVU1CLUpnM3psWkZ0QTlFTllWcGRZWEQ5WXBjdjQzcnBfOXRoWThaM3ZaMXlHa0NqSjRQcWtVME9nQmhhVV9pNzRTWdIBgAFBVV95cUxPaUNsLXo1aHM2VlZxR3RUWFQwWUpDNVR5VFdSb3VIdWUtS0VlQXJhQ2tYS2ZwalYzanZaSjVMRjdmMGtQNi1mOWotNmZKa3hhOFpKbVlYbTI3OUI3eEQwRnNqM0k1RGRFa2dlWUdXNUpSUnM2MW1yMXlKc1RPS3ZtSQ?oc=5",
+          "pub": "Wed, 21 Oct 2026 23:45:00 GMT",
+          "source": "CNBC"
         },
         {
           "title": "Zuckerberg weighed leaving California over the wealth tax. Meta answered with a new class of stock - Fortune",
@@ -73,7 +73,7 @@
         {
           "title": "Meta agrees deal to keep Mark Zuckerberg in California despite wealth tax proposal - Financial Times",
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZk4zZnUwaDAxMVZIU0NjeUk3Z0RIUEZDX0JBeUhUYVBSOWFzNThhVXVZT2duZnhvSGItS3Vtejl2VjBuOW10bzB6Sl9hYWJjRzZYUFlnR2h1TnlQWnR3dERUdXhfMkdncDUtYWx4RXpZMHRreGhkUXNzN1FwNG1TTGFHUDM?oc=5",
-          "pub": "Thu, 22 Oct 2026 13:40:22 GMT",
+          "pub": "Wed, 21 Oct 2026 20:07:01 GMT",
           "source": "Financial Times"
         }
       ]
@@ -81,12 +81,12 @@
     {
       "symbol": "AVGO",
       "price": 323.24,
-      "prev_close": 337.79998779296875,
+      "prev_close": 334.3699951171875,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -4.310239289260212,
+      "day_change_pct": -3.3286464933214877,
       "drawdown_pct": 34.69898989898989,
       "name": "Broadcom",
       "news": [
@@ -119,12 +119,12 @@
     {
       "symbol": "AMD",
       "price": 507.93,
-      "prev_close": 552.719970703125,
+      "prev_close": 534.739990234375,
       "high_52w": 658.52001953125,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -8.103555702202485,
+      "day_change_pct": -5.01364975950728,
       "drawdown_pct": 22.8679485915164,
       "name": "AMD",
       "news": [
@@ -157,12 +157,12 @@
     {
       "symbol": "RKLB",
       "price": 51.22,
-      "prev_close": 53.66999816894531,
+      "prev_close": 50.900001525878906,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -4.564930599090161,
+      "day_change_pct": 0.6286806768726656,
       "drawdown_pct": 66.0794701986755,
       "name": "Rocket Lab",
       "news": [
@@ -195,12 +195,12 @@
     {
       "symbol": "IREN",
       "price": 25.51,
-      "prev_close": 27.84000015258789,
+      "prev_close": 26.6200008392334,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": -8.36925337578097,
+      "day_change_pct": -4.169800166187232,
       "drawdown_pct": 66.81410291593323,
       "name": "IREN",
       "news": [
@@ -217,16 +217,16 @@
           "source": "Zacks Investment Research"
         },
         {
-          "title": "IREN plans to bring 300MW capacity data center in Spain online in 2028 - Seeking Alpha",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQXNJNHNfNE9mYklXZnR2cWV1OTFJakZpaEc5MXJSbEZQcXI5V2JoYTBybXUwVGdISFc0WEYwVDczNDRzZUNuaEJEX1Y2a2tfZ3JySWdYSkVLMEtaVktjR3pNXy1nOWFaX01na0llMnI0WE53a0RqYjA4X0lHRG9ya003QV9IdG5Yd2tHT3pWbWM0NjVrQ2tIRE8xUWVKc2hjLWNzVk9UbFREaE5k?oc=5",
-          "pub": "Wed, 21 Oct 2026 14:30:16 GMT",
-          "source": "Seeking Alpha"
+          "title": "IREN Stock Rises: AI Cloud Provider Plans 300MW AI Campus In Spain For 2028 - TradingView",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZmI0VGFRdDlmS0h5M0RYdTRDZ1JQU1dZMW50Yi1tN0ZycHBVUzNPdm84aFlaVnpzTkV0MnVQV2RYR0wyMWJ0UjcyNVlLTDMxM3ZQUVhhdmJSbk14cTFPajAxQnFMVEdnSG9hT2UyV2VLc1Rpc0I4V1gxU0pHaFRENmtrTVBvWmJQTW1DcW1qM3ZsMExrYVEydXNoZlMzMy1WVlFUcDFqLTN6ZU0zWS16a1FwS01VNG1tekFybG1haEtqNk1RcnNmaWI1ampuZzhw?oc=5",
+          "pub": "Wed, 21 Oct 2026 13:00:05 GMT",
+          "source": "TradingView"
         },
         {
-          "title": "TeraWulf Jumps 8% as CEO Says Power Demand Remains 'Extremely Strong'; Applied Digital Surges 9%, IREN Climbs 6% - 24/7 Wall St.",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPM1JodG41MzViVC11YzJscHdOUDFsY3dFY0huUTRuZy01MEZXcDJnYmFvOExQZ1hzZmpyMWlLeXg4Mk1fMU5DTGlTUHNfa2FScTZZT3BTM1pqcHVKMVJKaEtoTkZnM3ZpWVdHczFIQ0xGalVBdERRalF4OHhjTS1Ua0hBSXdXMUVpNmxHMFFBY2FqZkVZSVN6cFBwYk9KSHdUNXFFWDlLZm9NeVRIMTJzT0dtcW90aWR3b2xQR0pvWUEwR1czNGgydThLR29Edm5MZFNUMVlQSTYydC02VFp0Sm9Sbw?oc=5",
-          "pub": "Wed, 21 Oct 2026 18:09:00 GMT",
-          "source": "24/7 Wall St."
+          "title": "Stock Market Today, Oct. 20: IREN Slides on Funding Worries and Rate Fears - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVG9HeWFyd0pJR0dwVmVvZmpmREVrMmJtbFZwRWhWUlBDWTFRczJ4M1A3b2tGSnZXdnpGQkg3RjVTenBXX016bmJHR2RkS1M0Z0NBOU5yOUxEaUdVc1RBa3FsamlmdHNabHJzVlprc0oxU2xsQ2QwRFluNkNyZ0pMZjNVTkhvWmZaNHQ2dDkwVEs0b0lfUmpfWnRnd2JaNEdwS1o4Ykd0Nzh0ME0yMEhER3l3cjZnSzBjcWVpWEw1eUQxd0lUc2xITUgxT0c?oc=5",
+          "pub": "Tue, 20 Oct 2026 22:40:00 GMT",
+          "source": "The Motley Fool"
         }
       ]
     },
@@ -255,9 +255,9 @@
           "source": "Investing.com UK"
         },
         {
-          "title": "EBITDA per share of MilDef Group AB – HAN:8QA - TradingView",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWng4R0RhWE91M1RWal9UTWRBZ3A0dGlYNHNianVtazdSU09IWWw4Z0ZLUW1aSy1uUk12VUpTVFY1VE00UDhPbUQzRDVOaU5mLUw3WU9XWWg4TXFHQXZDTUxiMFlYeUJWd2ZzR3dwWU5zUXZuNW1GMTNXdDRvN0dWNE84Sk1BZTNBazlqM3pIYXM2YU5RclNFVy1R?oc=5",
-          "pub": "Thu, 15 Oct 2026 09:00:52 GMT",
+          "title": "MILDEF Stock Price and Chart — OMXSTO:MILDEF - TradingView",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5zV2pPMV9QMDktZlJ1N0NmNGtYYUlrQXNfU0VhYjhtMWpJdjc4ZUpaVTUzZ2QwN29ZcE9TMVZkVm1GRWpwTFdXSHh1UkJvd3lLSTg5NUJod3dRYWtpMGxr?oc=5",
+          "pub": "Mon, 16 Feb 2026 08:00:00 GMT",
           "source": "TradingView"
         },
         {
@@ -293,16 +293,16 @@
           "source": "www.marketscreener.com"
         },
         {
-          "title": "SB1 Markets cuts price target for Invisio to SEK 295 (315), reiterates buy - marketscreener.com",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMHFhY21HUzBCR09odk16UXBvRnNqYlhqNmxQVEZaWjAxMm1vX2dKVWxwLURqd0JUckNBSmdqTUVNejJ0RmRGSHZiRGhQQThVek9pRXF3cGJzUGw5cmVuQ292cENsZUZoazZzLTJjZWdsdWpRbDNCaU1vc28yTm1VQy1WcFF4M0RKQ0dLY0pCNmRfUkxvM0lZSEd6ZU10VHJCOUprVDR2bTVEY0hHSmhFbVFRY0FSQUtCTXVpMVBoYXVrQQ?oc=5",
-          "pub": "Fri, 02 Oct 2026 07:00:00 GMT",
-          "source": "marketscreener.com"
-        },
-        {
           "title": "INVISIO (Investment case): Strongest Q1 ever, new product ramp-up and Coast Guard catch-up in focus - Inderes",
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUVVOQzBXNmhVb0FEWmFxRmJKRnphbk1tYTRMcnpvSjhmZjdnMGttQ29RcjBIdW5XZkc2MTdTQTlCR0NCRVl0YUdpS1NPZURHOW80NkNSV1RST1NYYmxzbFpYWnBVc2gwVTlSM0VHcVpLcHBndjA3MWp2VWFYVzVMR3gtb0tLaEJPTXg2bkdOeFdhS1Y1OXFobG1kMkhEbW0xV0RmTkZrdXRrUWJZa1RiN2Z4OEhWREx4MDRBelFZSGFZZERYTjVTVXlB?oc=5",
           "pub": "Fri, 22 May 2026 07:00:00 GMT",
           "source": "Inderes"
+        },
+        {
+          "title": "IVSO Stock Price and Chart — OMXSTO:IVSO - TradingView",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBsNFloY2ktLU1xUGRPUi11bW1IVG5BVlA4WkdlT1JKRk1TWUZta2ptRDZraGwyQlRoRzAtQmtQY3FGQU96ZUJmQkdBS2RtbG4xekVILVhJOGgweFho?oc=5",
+          "pub": "Sat, 14 Apr 2018 01:11:10 GMT",
+          "source": "TradingView"
         }
       ]
     },
