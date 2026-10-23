@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-10-23T19:00:48.099764+00:00",
-  "updated_at_display": "2026-10-23 19:00 UTC",
+  "updated_at": "2026-10-23T19:30:35.345875+00:00",
+  "updated_at_display": "2026-10-23 19:30 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 211.665,
+      "price": 211.77,
       "prev_close": 212.2100067138672,
       "high_52w": 243.37,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -0.2568242291241496,
-      "drawdown_pct": 13.027489008505572,
+      "day_change_pct": -0.20734494130640085,
+      "drawdown_pct": 12.98434482475243,
       "name": "NVIDIA",
       "news": [
         {
@@ -42,14 +42,14 @@
     },
     {
       "symbol": "META",
-      "price": 644.9,
+      "price": 645.685,
       "prev_close": 648.8499755859375,
       "high_52w": 779.8200073242188,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -0.6087656214166512,
-      "drawdown_pct": 17.301429311510894,
+      "day_change_pct": -0.48778233875703775,
+      "drawdown_pct": 17.200765056602442,
       "name": "Meta Platforms",
       "news": [
         {
@@ -59,35 +59,35 @@
           "source": "Yahoo Finance"
         },
         {
+          "title": "Meta’s Muse Is a Huge Hit. Its Success Could Hammer the Stock Market. - Barron's",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5zMTEtanl4eUt1NEtWNXUzZS1CN19UbTVrYmZQMUFmRW1SVTBMTTk2c3hzZFFwSFk1Q1F6eUEwMlpsYXM2b3pfZFEybUotNVVjR2VhZWI5ZGtXQTdwU2g0aGRDNlRET1hxREJVSGJ4YW05UQ?oc=5",
+          "pub": "Fri, 23 Oct 2026 07:00:00 GMT",
+          "source": "Barron's"
+        },
+        {
           "title": "Meta Platforms beat the Street. Here's why analysts are bullish on the stock - CNBC",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQXc5Ql8xa1pibzJwR1NianB4NkNyOXczbHpNS0FoeWt1cjA0YlJaTnNxN1BhUzF6dktubUNzYXBwUXU1M3BfWkdHeFpxSzR5UnhuX1BacVlPaXRseUdBSC00NmhnSXI5enB2S2hQdS0wbVAwQ2thSU1qWnRTLVdlZzFHNFdrWnZZSllrdTBucjUySFN0bmRpNmNGZjREbFE2NUNvYkZ0Wlk3dkx5VGdSSA?oc=5",
           "pub": "Thu, 22 Oct 2026 12:48:13 GMT",
           "source": "CNBC"
         },
         {
-          "title": "Is Meta Platforms Stock a Buy as Revenue Continues to Soar? - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNd2FTR2VVcnNyQXoyWndTa205TWVDOTZhTTdudU0yWUlPMERDXy0zVnRlSHgtNkJRWGJyTEtqUXl0WHZjeUNKYzNWdk5ZeEtnYmZUWjJKbmVfaVVtOTJ0QlhYOWcxSVVabFBKQUtZVF9wM0M4WUU5RXBQT2JRZXZwd0NOWUd1aUoyUC1rVGxyS1g0V3Jvbm5sU1BxX3Fmdw?oc=5",
-          "pub": "Fri, 23 Oct 2026 11:01:00 GMT",
-          "source": "Yahoo Finance"
-        },
-        {
-          "title": "Explainer: Why is Meta creating a new class of non-voting shares amid its AI growth? - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOVdyMzNSMWdnREtoZkVQaUlaNzJXNnNpclFud1JZUTZaRGdhTFhKYTUxaEtfWGRsM1NwU3VKSTVXSW95WXdKVlh1TzVGSDVkb3VYYmdLa1ZLQVNIVWM3M25pTk95dkE0Ti1sdmhsZGxsSXNCSExIWjhGZ3Fsb1VEdHFwdTlEZXpJdlBoVlQxX20wTEl2aGpYZ1l1WVFMbWM2akpOR2RGV045ejljRURJdUl3?oc=5",
-          "pub": "Fri, 23 Oct 2026 12:49:43 GMT",
+          "title": "Meta shares slide, default insurance hits record as AI spending alarms investors - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdnFibXQ2bEZfUWFpTEoxYTNPQ3dHTlMwMjZRaFcxZlphTlplUlNFWkgta2xwdVBvU0l5OWNkMEctQmNrM2s1UDRpSW5jNFhpLW9TQUlzYlpmZFZudjhvM0RtcC1hQ24xSmVOMDYwbUIzNDQ3NlAwTEpILTc4akh1czlRcThIUnU3Y2VkbWJJWE9jdXJzbWtzclVfeUh5RzN6UzdaTlZjRWlMQQ?oc=5",
+          "pub": "Thu, 22 Oct 2026 17:21:56 GMT",
           "source": "Reuters"
         }
       ]
     },
     {
       "symbol": "AVGO",
-      "price": 324.06,
+      "price": 323.02,
       "prev_close": 323.239990234375,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 0.2536845038976858,
-      "drawdown_pct": 34.53333333333333,
+      "day_change_pct": -0.06805786444168234,
+      "drawdown_pct": 34.74343434343435,
       "name": "Broadcom",
       "news": [
         {
@@ -97,9 +97,9 @@
           "source": "The Motley Fool"
         },
         {
-          "title": "Broadcom (AVGO) Stock Could Be A Bargain Following Its 5.7x Run - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPN0pkbDJfd2tRRTJVNlZaSEp5czdMVnR1cC15azJLeHliV2I0OE1BYUhvN1RVa2FYczd2U2dVckFuMWdDdFBqN0ktOUktTEZuMDFfcGt5WU1Md1JGVzRaRzF3VF90aGdjclZDZ1c0T0RQVkgzMVVYOEtvUEl0cXY0MGVYSjVrTmM4RGkyYWctMEJiWk9oUWRvWDlaYy1QS0E?oc=5",
-          "pub": "Fri, 23 Oct 2026 01:10:00 GMT",
+          "title": "Prediction: Broadcom Stock Could Crush the S&P 500 Through 2030 - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVWExVGxQbDI2NDJLbVNWM0VJQzgtalVnMi0yX1RtRTA3dnIzczJLTk1nTXJHdk12SmJUeVozRHpOQWFLX1ZjeUlybWZKdVBic2NCcHFVbXR3MUlJZk9qeEpiUXVqSFJrZ3hoV3lLbE5jZUdZeFpnNnk2UGN4Vkl2N0lTWENMeFk5dVBZVHBvUXB6MnBVbmZObmtBR0lLbm00UGxrUQ?oc=5",
+          "pub": "Thu, 22 Oct 2026 16:00:47 GMT",
           "source": "Yahoo Finance"
         },
         {
@@ -118,14 +118,14 @@
     },
     {
       "symbol": "AMD",
-      "price": 517.665,
+      "price": 516.83,
       "prev_close": 507.92999267578125,
       "high_52w": 658.52001953125,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 1.9166041510828253,
-      "drawdown_pct": 21.38963362594716,
+      "day_change_pct": 1.7522114174304704,
+      "drawdown_pct": 21.51643311195129,
       "name": "AMD",
       "news": [
         {
@@ -135,16 +135,16 @@
           "source": "The Motley Fool"
         },
         {
-          "title": "Chip Stocks Fall as Supply Warning Deepens AI Selloff: Marvell and AMD Sink 8%, Intel Drops 7% - 24/7 Wall St.",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSHYtVnBnaXBZc3V3cXUySWxseXJNcVUxV0Vhb2R5SlFkMVF4aTRyemE3VDladG5fVVB4blJNb0YwR3BwTG85TUt4MG0xT2R4Q1dOMUFXcUNtSkFVejktNjVWVXlWRThLUVBoX1hHZGNQWnZPdjZCaXFqYzRFWm1IWXdoQzl0WjlpZ0hxclhpUWFZa01ERVFCMHRtTFdVUEtDRURXYW1lWnJxSlRVYmpiaEREaGphdmo3Rld6OUg4R1BaOUhXNGtadEZvOENFWlE?oc=5",
-          "pub": "Thu, 22 Oct 2026 15:45:00 GMT",
-          "source": "24/7 Wall St."
-        },
-        {
           "title": "Meta and chip stocks decline as AI trade comes under pressure: AlphaCheck - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZ2ZfdGdfS21jbGZ2WDZCX241bWs2RTFmdnRFY1FCQVdsS0VLOTdFNk1relhYdHAxT3VrdUY1RzhfdlFtbGRkV3o5MzZVeG93WkxfNzFxczIxWDJOVEZEN0o2eXJiQUN2eGQxRUdNMkEtZm52RUdZTmFmdGJnVEl2YjV3djlkVzExVnJQMFMwRWM5eldrdFRiNnFHQVFQUzhUZWFYOVN0Wlk1Zk96aWdEQ2thRDM2NDVKRFZwNnB0QWdUMGhCQkRtUQ?oc=5",
           "pub": "Thu, 22 Oct 2026 15:39:07 GMT",
           "source": "Yahoo Finance"
+        },
+        {
+          "title": "AMD Stock Price Prediction: One Growth Opportunity Could Push Shares Much Higher - 24/7 Wall St.",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSUlZX05pUTBjV2o1T0pYZEh1NnAwX2U2UTBrM2ZGdGxPQWZyT3MzZGJSS1ZOd20zTFVSb2x1TjcweFVlNTI4VHhMNldmMjhNNE9RT1NvMXI1M1dKMU90Wk5yMmJYMzN4Z21JX0c0azEtM3ZTTkZFaDR0MGZyZllWeWo2cGdKUE1JLVNjRFVnbjlHQlpUTGRvbEtKN0RwYnkzbjZOTEJTWk1tSkJhZV9uSWk5bVZ5VTBGX0FnTjlXVTY?oc=5",
+          "pub": "Fri, 23 Oct 2026 15:00:00 GMT",
+          "source": "24/7 Wall St."
         },
         {
           "title": "Why Are Nvidia, AMD and Micron Stocks Crashing Today? AI Spending Fears Hit Chips - Stocks Down Under",
@@ -156,14 +156,14 @@
     },
     {
       "symbol": "RKLB",
-      "price": 52.645,
+      "price": 52.85,
       "prev_close": 51.220001220703125,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 2.782113911236874,
-      "drawdown_pct": 65.13576158940396,
+      "day_change_pct": 3.182348185181282,
+      "drawdown_pct": 65.0,
       "name": "Rocket Lab",
       "news": [
         {
@@ -194,20 +194,20 @@
     },
     {
       "symbol": "IREN",
-      "price": 25.425,
+      "price": 25.14,
       "prev_close": 25.510000228881836,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": -0.33320355985571465,
-      "drawdown_pct": 66.92467920962771,
+      "day_change_pct": -1.4504124875033502,
+      "drawdown_pct": 67.29543501789736,
       "name": "IREN",
       "news": [
         {
-          "title": "The Neocloud Bloodbath: NBIS, IREN, and CRWV Selloff Continues - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSDRMbWF3LURac3dOTWs5c0drdldsNG9jME02NE5yR2N0aENZZHMzcUh4ZnI0YTZ3OGQyOFNyU0VHZV8yZk1xbzg0RXZKM2VoTWNpSzFTX0o2Uk1CZmpUdG4wWTBFWmFlUmp3UXE5eUhrSnZWTWFFU0lCcmZzaEI3ekkyS0w1RGNXNW1yM3VpbGpGTkw2NVM1R0t6MGJjN2M?oc=5",
-          "pub": "Thu, 22 Oct 2026 17:06:31 GMT",
+          "title": "IREN (IREN) Lands 300 MW Spain License And Opens IREN Europe - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbS1CWFE2ZmlLQ1QzMHptdkNwOHJoa1Fyay03SEVfVnFUWlpaVXpkb2Q5ZWc2bmRoTDFobG53RXFsaE5FckhtalRfXzJaZ0VISUhLV0NXSEpsZXhxQzhCeEkwbE5RUFlCZU1NM05lX09sODZCTDQ5V1luTVZ2cF8wRDlDZW5nWWRkbGhmR3lmSQ?oc=5",
+          "pub": "Thu, 22 Oct 2026 10:15:56 GMT",
           "source": "Yahoo Finance"
         },
         {
@@ -249,6 +249,12 @@
           "source": "Yahoo Finance"
         },
         {
+          "title": "PDT Partners no longer a public short seller in Mildef - www.marketscreener.com",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQc0lkYXVVVFo3X1ZPMldncHgtQUNfdUItNF9tb2t4aGhkT1lwQ3RCWHUwVjUxMG03NGNtOEJ0ZjVPclN6Q2ZLU3ZMaVNUZzRUT2hYZE53a1YteDdyWU1uSDFVNnhFcjlMaERWc21zTEVhMTA1ZVBPaW13OVhHZFhVX2ZkOVRrMjdVaVd2Q21ZcnJtclpPYlA5dTlGVFRZX3E2MkNvY2FmLVRJdU0?oc=5",
+          "pub": "Fri, 23 Oct 2026 07:54:26 GMT",
+          "source": "www.marketscreener.com"
+        },
+        {
           "title": "Earnings call transcript: MilDef posts record Q3 2026 sales, profit growth - Investing.com Nigeria",
           "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZTdXVVFUajY4MzN2S3F3TmM4cHQyT013ZmU5TzJ0ckRCYk1aU2xONnFqRDFOcDRzZDBJQXMxN3A2b2F0TTJORVhJSEx4WTUxTVZJTG9pVGdiRUlsdlkwYmpyV0JGUTdlR1BQYVNRNmhuV2RRUVZiQk10dEJOUGFUaVFfN0JSRDcwWFlvaExUU2VEMExySWtZZ0o2UlNoV3RiMDBOcUlpdEk0LVZuTjR2YVJjbWJkR3UyZjJlSFRfMUxPUkFvai1Od2xCTlBXdw?oc=5",
           "pub": "Thu, 22 Oct 2026 09:42:55 GMT",
@@ -259,12 +265,6 @@
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWFZjRE0wOVJoN0E4MHI1dUJOOHZySlIzcHRjbXA2LVlnOW9FbGx4VzktajJlaXJ1S0VhRm8zMUVSWjhVekY5RGxsaWR3WWRQZ2pFdjZOQzF0Ml9yb3FJS3FycTJjZExXMy1VcmpwOVdiQjdvaEhONlh2Y28yNDVKRENpRWVoel9nV1VJU2dYMUlybTZkUFlVZEIya3VETV9sTlJ4dEVPd0t5UDFJMU9Ec0ZvRE0?oc=5",
           "pub": "Fri, 21 Aug 2026 07:00:00 GMT",
           "source": "Bloomberg.com"
-        },
-        {
-          "title": "MILDEF Forecast — Price Target — Prediction for 2027 - TradingView",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9hWW9rMkp5VFlIZmlhT1RWd3k5bVQyVTVlLXktUHJfNm43Qld6bURaV0wwTDN1ZmJwZ0c2c2FPNV8wRVYyaVRRNndDaUZOeHdPQTkwS1doZUdWQ180N051Ym91OXZxYW9YRklxUFRIcVFJOFJxbXFVSEl2dWg?oc=5",
-          "pub": "Thu, 25 Jun 2026 11:58:03 GMT",
-          "source": "TradingView"
         }
       ]
     },
@@ -287,10 +287,10 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "PDT Partners no longer public short seller in Invisio - marketscreener.com",
+          "title": "PDT Partners no longer public short seller in Invisio - www.marketscreener.com",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNc21Hakw4TnZiRXZkZlJMdXlybXhNTWtFMWdyOUFGTk9WWUtGbmVVMDBoV3N2NTRMeTJJOFJMRTVqU2NGbDd5UnNXS1ZjcjZXRHdPY1hlSUpNQXhMaDFLbWwxdzhoak5kTmIxb2pqSzJ2T2V3Yzk3VDVrMmVZeURkdVRKWDVjLWVvMmo2TVJRR0JjM3l1SHl5UVRLejRLWHoxaUxMQXd4QXdJUQ?oc=5",
           "pub": "Fri, 16 Oct 2026 06:51:33 GMT",
-          "source": "marketscreener.com"
+          "source": "www.marketscreener.com"
         },
         {
           "title": "SB1 Markets cuts price target for Invisio to SEK 295 (315), reiterates buy - marketscreener.com",
