@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-24T08:30:33.668899+00:00",
-  "updated_at_display": "2026-10-24 08:30 UTC",
+  "updated_at": "2026-10-24T09:00:43.698556+00:00",
+  "updated_at_display": "2026-10-24 09:00 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
@@ -33,10 +33,10 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "SpaceX, Anthropic and Nvidia Help Snap Tech Stocks Out of Their Recent Malaise - WSJ",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVGRlMHl1WTZEajZ1em9odVlVQzlDd1FDX3VXQzYwaFlkZ2tFcktZT3g0Y1JLcGJVbTZxSzdHM3pSNzY3Q1MyZlpjYXRfVTZrRDVEM09velVsbk52MXdDbjJwUHkyUTlUZHR4X2d6SlkzeHFONlktS01wcVZJMDRyWW02NDN2ZVpyWDdLdk1ZbkpraDdYdWx5a2FEeFFYZklzNGZQSTE2UHNGYVZYVERiOUdjUzhpU2dCQWx1UkJB?oc=5",
-          "pub": "Wed, 21 Oct 2026 21:36:00 GMT",
-          "source": "WSJ"
+          "title": "Not Nvidia. Not Micron. This Little-Known Chip Stock Is the AI Boom's Best-Kept Secret. - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOb01Rb0tTV242ZXZIYWZKcldDVEhKNkZGN1VyMXcyMHlsWXJha24wVTJXd2c4WDNSNlRtOFd2MEFNYlZKbDhZN2Y3cGxtNWxfaDNYemc2WWlhTEVISXdSa2cxY0VXclRKaE5ZbHlaVW9zX3h0OWhDYmxJUG4tRy1aaHIyazk2U3RrWkNiMmxGVlZzLTlmUi12Vw?oc=5",
+          "pub": "Fri, 23 Oct 2026 14:45:00 GMT",
+          "source": "The Motley Fool"
         }
       ]
     },
@@ -179,16 +179,16 @@
           "source": "The Motley Fool"
         },
         {
+          "title": "SpaceX and AST SpaceMobile Sink 6%, Rocket Lab Falls 5% as Tech Selloff Hits High-Flying Space Stocks - 24/7 Wall St.",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPQW1ETTF4UWFQcUp4Q1psbTBmYmg2NUVCaUVaaDBkSndESWxMX2twamhVZFBjZS03SUpsMEZkc2MwdHhzZ0RMR190UHhCcklkcTdaYWRkODhjRWJNaTJhbDVVVWhnTzMzR3dYdEpUWW1XbXFsNndQa3ctM3MwdUo5QTY3MzZhd2NWVG1EZ1JWOTVYSzlkLTBYLXlmc2J0eGx5aWM4ZkZ6cE5hU2l2aU4zS2J4cnB1MElvVmJKQ2ZiQ3hQN2kzemRzc2ZxdDJnSHRDTE45Wi1CZ0NsZw?oc=5",
+          "pub": "Thu, 22 Oct 2026 15:56:00 GMT",
+          "source": "24/7 Wall St."
+        },
+        {
           "title": "Why Is Rocket Lab Stock Surging on Wednesday? - Benzinga",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSDBGMVdHZVRkQkszcVdEYWlHVng0YU11WlFnb05lMk01U1FwMFhhOVF1NXlGdFJadzlHZ2dmYmJSLVNHSTlnam1xV0VFNGFYcGMwQWRBV0owTUNjRnpLN2lfOERYOXdxTmYwckZkNW9HWEd6RHFadnY3dVItTkRoaUNZYm04eFBzMF84ZHJsMlBxY0t4UVFoRHI2MmY2MWd1VmI1SGs4WFNQNmM?oc=5",
           "pub": "Wed, 21 Oct 2026 18:29:59 GMT",
           "source": "Benzinga"
-        },
-        {
-          "title": "‘Still Not Right,’ Says Investor About Rocket Lab Stock - TipRanks",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdEZKZzJSQVZTMGUzcm5SaVZwN3ZLa3diMFdERmN1N1dna0kxaHRtRmVTMlUwZGRSZ0liYmNSNFdlVWl5ODVCb254Rk9RdjBTMEZVdllQODVXWmlGMnAydElQSVdic0VoTlo4UnRfbDF5T01udVpVRVlFZnhSOWtwTXNfdXRySmp6blBLVjFkUDM1UEM4?oc=5",
-          "pub": "Wed, 21 Oct 2026 11:48:38 GMT",
-          "source": "TipRanks"
         }
       ]
     },
@@ -233,12 +233,12 @@
     {
       "symbol": "MILDEF.ST",
       "price": 230.7,
-      "prev_close": 237.1999969482422,
+      "prev_close": 229.5,
       "high_52w": 254.8000030517578,
       "currency": "SEK",
       "yahoo_name": "Mildef Group AB",
       "exchange": "Stockholm",
-      "day_change_pct": -2.7403022899956104,
+      "day_change_pct": 0.5228758169934591,
       "drawdown_pct": 9.458399828536251,
       "name": "MilDef Group",
       "news": [
@@ -271,12 +271,12 @@
     {
       "symbol": "IVSO.ST",
       "price": 245.4,
-      "prev_close": 251.39999389648438,
+      "prev_close": 248.0,
       "high_52w": 336.0,
       "currency": "SEK",
       "yahoo_name": "INVISIO AB",
       "exchange": "Stockholm",
-      "day_change_pct": -2.386632475001136,
+      "day_change_pct": -1.0483870967741913,
       "drawdown_pct": 26.96428571428571,
       "name": "Invisio",
       "news": [
@@ -309,12 +309,12 @@
     {
       "symbol": "NORBT.OL",
       "price": 157.6,
-      "prev_close": 162.39999389648438,
+      "prev_close": 157.89999389648438,
       "high_52w": 244.8000030517578,
       "currency": "NOK",
       "yahoo_name": "NORBIT",
       "exchange": "Oslo",
-      "day_change_pct": -2.955661377391401,
+      "day_change_pct": -0.18998980879065128,
       "drawdown_pct": 35.62091583525071,
       "name": "Norbit ASA",
       "news": [
