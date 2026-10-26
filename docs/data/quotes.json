@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-10-26T13:00:47.545516+00:00",
-  "updated_at_display": "2026-10-26 13:00 UTC",
+  "updated_at": "2026-10-26T13:30:40.173659+00:00",
+  "updated_at_display": "2026-10-26 13:30 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 210.96,
-      "prev_close": 212.2100067138672,
+      "price": 213.079,
+      "prev_close": 210.9600067138672,
       "high_52w": 243.37,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -0.5890423044718258,
-      "drawdown_pct": 13.317171385133744,
+      "day_change_pct": 1.0044526065108106,
+      "drawdown_pct": 12.446480667296706,
       "name": "NVIDIA",
       "news": [
         {
@@ -27,29 +27,29 @@
           "source": "MarketWatch"
         },
         {
-          "title": "Elon Musk and SpaceX Just Delivered Incredible News to Nvidia That Could Help the Stock Double in the Next Year - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMFQzZmIyWlE4d3J4OVJyTVFvTmxHOEpYQjJSamZEek1GS1dQQ2huQWJlbTBTUnFNdUlxYkp2WTBiQksxWEpIVDBFd1BtU2RGMjNEZFhBRTFjODVLRTdNYTZlM05zX0F2b3dFZnExT0ZkVXdKWVJhS2VOdmVmQUQ4UHpFM1Y4d2xQeFRmbmVJVlUxN2hJcnFQclZkYXA?oc=5",
-          "pub": "Mon, 26 Oct 2026 07:35:00 GMT",
-          "source": "Yahoo Finance"
+          "title": "Meta announces $95 billion stock offering to fund AI expansion - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9DMHRxU0FJYU1FQ2Q5NFlWX0ZLa3dZQlhnWnlRcU9UZ2N1V0tmRklSTGFoN2h4cmRTNTVzN3BDR0MwS0tBNVg3M0k5eUpoMFp1X1FKd2xPdWE3MTM4YjBONFVXX3JpQTBmTXlV0gFwQVVfeXFMTmZORnFJWGJWQ296RnRpdXY1aFRXRElQZWw2Y3dpNWFtekxSZlc4eTc5NEJuVWFSLUFLWDNfOWV4aGxBTENheXpVMXo0Z0ZmQVRjSVo2bGo2MnFqdGVlSVNrNnJIbEdWZTIzQklXQmEwNQ?oc=5",
+          "pub": "Mon, 26 Oct 2026 11:34:42 GMT",
+          "source": "CNBC"
         },
         {
-          "title": "Apple stock rally and Nvidia sell-off tighten race for world's most valuable company - Business Insider",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNLUtWVnFMaHJBdHp5TXVOblMydXdwSFNXSm5QZWIyUFBCMkdKVVJzSXFWMl84RDlnc2RfZnhOc0UwUjVGRVBQNVlvU2JCV0xXRjVnVzkwX1I4blBRUElsZDR2M2xNbXJoQ3JROFd5NktRZWhHSkpsMzBLV0w5cmpLdGdOeHRQcDQ2bXZjYkc5ZWc1QUxtQ0tGRGVhZzdUcllQZHRTODlxZXE?oc=5",
-          "pub": "Mon, 26 Oct 2026 10:14:32 GMT",
-          "source": "Business Insider"
+          "title": "Meta Launches $35B Stock Offering, Plans Another $60B Program In 2027: Nvidia, AMD, Broadcom Eye Up To $5B Investment - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRUZTaHN0QlFyYk9uM1pRZWtkcWV4T19femtzQ3FwWXpGQnhDZDh0WFdQUU1EREtESlhjeUVKRUpfTkxfUjVhVGFFNFFnSUJ6NEc4RWNoUkJqZ19WdlNUNDZMb3U3N3RKUzZKa24zaTd0dkM0R0VLdThfUThyM1lIU2NOdlRXSHJTVXJyeUxfS1AtUnZqaVotNElVakI2QQ?oc=5",
+          "pub": "Mon, 26 Oct 2026 12:17:38 GMT",
+          "source": "Yahoo Finance"
         }
       ]
     },
     {
       "symbol": "META",
-      "price": 642.62,
-      "prev_close": 648.8499755859375,
+      "price": 637.465,
+      "prev_close": 642.6199951171875,
       "high_52w": 779.8200073242188,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -0.960156557039488,
-      "drawdown_pct": 17.593804472264114,
+      "day_change_pct": -0.8021840522169574,
+      "drawdown_pct": 18.254854451949583,
       "name": "Meta Platforms",
       "news": [
         {
@@ -65,37 +65,31 @@
           "source": "Financial Times"
         },
         {
-          "title": "Meta Platforms, Inc. (META) Launches $22.5B Common Stock Offering And Preferred Issue - TradingView",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZTZ5bjJiT3BLTlBsblpLWjV5SmZlXzRKRDJkRTQxWVFhUlI5RHJwUExjWFVWRVAybVVqYXN0ZUI2SkdFT1pQVkNzTDNSVGN2bzlXbTEzcmo5SGxUelNJeklpejZucDgyeTdLMlRsbkJrQUR3ME5HSU11cUFfdkV6bE1LcERRM1ZQRDNfeWluV1B1Q3JiM3htTm5GOTJmZEZIQ1EzbHpsUWRKemlXemhYQlNfUGl3OExpSVpHN0pOUElhVmR0UVZPMlJTa0o0WksxTFJhd3hlTjJfZw?oc=5",
-          "pub": "Mon, 26 Oct 2026 10:58:00 GMT",
-          "source": "TradingView"
-        },
-        {
           "title": "Meta’s Unending AI Spending - WSJ",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE14Tmg2cXRWUzNFZEY0dzl1dzFkZElUOTIyNzhRUEh6SXRDMnJRYW5sVTVoY2pJS2VZNFVQMThXX2FvWXZpbjlYQ0xzQWhTSnRHUGZEd243c1VvVnM4WXNuMWRnTy1RSDNMSDBYV1ZkTlg?oc=5",
           "pub": "Sun, 25 Oct 2026 14:55:31 GMT",
           "source": "WSJ"
+        },
+        {
+          "title": "Meta Platforms, Inc. (META) Launches $22.5B Common Stock Offering And Preferred Issue - TradingView",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZTZ5bjJiT3BLTlBsblpLWjV5SmZlXzRKRDJkRTQxWVFhUlI5RHJwUExjWFVWRVAybVVqYXN0ZUI2SkdFT1pQVkNzTDNSVGN2bzlXbTEzcmo5SGxUelNJeklpejZucDgyeTdLMlRsbkJrQUR3ME5HSU11cUFfdkV6bE1LcERRM1ZQRDNfeWluV1B1Q3JiM3htTm5GOTJmZEZIQ1EzbHpsUWRKemlXemhYQlNfUGl3OExpSVpHN0pOUElhVmR0UVZPMlJTa0o0WksxTFJhd3hlTjJfZw?oc=5",
+          "pub": "Mon, 26 Oct 2026 10:58:00 GMT",
+          "source": "TradingView"
         }
       ]
     },
     {
       "symbol": "AVGO",
-      "price": 321.68,
-      "prev_close": 323.239990234375,
+      "price": 323.32,
+      "prev_close": 321.67999267578125,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -0.4826105313404677,
-      "drawdown_pct": 35.01414141414141,
+      "day_change_pct": 0.5098257154810661,
+      "drawdown_pct": 34.68282828282828,
       "name": "Broadcom",
       "news": [
-        {
-          "title": "Meta Launches $35B Stock Offering, Plans Another $60B Program In 2027: Nvidia, AMD, Broadcom Eye Up To $5B Investment - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRUZTaHN0QlFyYk9uM1pRZWtkcWV4T19femtzQ3FwWXpGQnhDZDh0WFdQUU1EREtESlhjeUVKRUpfTkxfUjVhVGFFNFFnSUJ6NEc4RWNoUkJqZ19WdlNUNDZMb3U3N3RKUzZKa24zaTd0dkM0R0VLdThfUThyM1lIU2NOdlRXSHJTVXJyeUxfS1AtUnZqaVotNElVakI2QQ?oc=5",
-          "pub": "Mon, 26 Oct 2026 12:17:38 GMT",
-          "source": "Yahoo Finance"
-        },
         {
           "title": "Nvidia, AMD and Broadcom could buy Meta shares as part of $35 billion stock offering - MarketWatch",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdDYyd2VndnhVdFI0ckxsUnVKbVRRaGxOMEoxOUpZTFcxeWJIdW5MbzlIWElaUW05RDdfNlM1b01jM3lFTkNCN184YzZwaU9PMWxOOVBKZkNrY2tGZldMc3U3THdNU0FST1ZKcmgtTF95ZlIwV3ZiYlBaVU12RXNoUjdIcVNBRGdnMldGUXllTXRxazY2SWNfZjZ0cks5T3p4LWppMUZqb1E3MWdpdThjVEU1OGNKdng4SUZHQndKalFVOTA?oc=5",
@@ -103,31 +97,43 @@
           "source": "MarketWatch"
         },
         {
-          "title": "Nvidia vs. Broadcom: One Grew AI Revenue 221% Last Quarter. The Other Grew 117%. - Barchart.com",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbUZXZ0JzckR5ZHE5Qnl4bkgzVlhpWWFIUU5IbFNSenNva0EwcEdDbzQxcEx2ckFOZ2RMclF2eVBGVVcyQnQtOVFYRG1WMzFtUV8td2pCMkVjMEtfeVlaR2UwV0ZEUXBsTllGX1VWYnVtaGNtR1hfODV5UGFIYlhNaVVDY3l0aUJJRHVjWWhPZmVqaFZtdnZ4UXJLNXl5UHpYcWp2bEt2dmxxalVNREt3Zl84Sng1d0FQNmc?oc=5",
-          "pub": "Sat, 24 Oct 2026 14:30:02 GMT",
-          "source": "Barchart.com"
+          "title": "Nvidia, AMD and Broadcom Could Buy Meta Shares as Part of $35 Billion Stock Offering - Moomoo",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPd3lGU19rblNnU3JvQXBCLWxjVzB4QVJPMUZSUnFBVkJGZGphZWdGZzlHN3VhNGJ2Yno1TTRVVk5VQ29jbm12bm1zRG1qOXdmYzJoMVV4TFM0T18xNENSa21uVTI4QjVCQlc1MHZ2alNveEVzN2I0THNxYWY3WWJ2Wm8wTWRXOUxDTEhmaGJldHhoZy1DY19wcjFWT3dpZw?oc=5",
+          "pub": "Mon, 26 Oct 2026 12:18:13 GMT",
+          "source": "Moomoo"
         },
         {
-          "title": "Here's What $10,000 Invested Equally in Nvidia, AMD, and Broadcom Could Be Worth by 2030 - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPV19lUHYwU1N2d0lVanRvN1I1UzNSMVZxUEdlcGJsZW1VVUdwbUhvTkVPRTJVY2lnMHRmOFlpN3d4VXRqcHBnWVg5N2lLYmVZTVR0TUJwMHZCcWxpVW5PcUd6ZENIeXJhZmJiMDRWeW5rYzNrRDF1Vi00VkR5MF94SUtZd3hmMHc?oc=5",
-          "pub": "Sun, 25 Oct 2026 14:15:00 GMT",
+          "title": "Here's What $10,000 Invested Equally in Nvidia, AMD, and Broadcom Could Be Worth by 2030 - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQam9ueHNidEo0LVFIUml2R3NFbl8wNklCdzcxNWVsc1FqSF9yTUh6eVRoU3Y5eDFpN1dXa2EtQnAzOW96WDZaZXgwTzlGaGJZZHc2cGNsbWt1Y0hvWFV1MGJfTldLVU52WVpoT1lpZ2JiY1k1TUt4bzIyS0pmaUNKY1ZUYzRwOEduWnRETElFS2tBUTZ3Y2JsakpB?oc=5",
+          "pub": "Sun, 25 Oct 2026 13:35:00 GMT",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "AMD or Broadcom: If I Could Only Own 1 AI Chip Stock Through 2030, Here's My Pick - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNd0VTd2R1Q3ZwWlJZdFpRaXNmOTlFaGk0OXNMaWk0cWJhSXZqS3JESXNoLWVpaU1FWk1ZSFBWR1dsU3AtX2piazhnbnJNdGxMUHd6UVBwaVZoajd2b1l3T1RVcUFIRFBnX3UxYkJRamhjbXQzZWFaVzJZbjNJeENvSWNubDNFQWR5TGhoczg5a0dUZnVJRFkwYw?oc=5",
+          "pub": "Fri, 23 Oct 2026 16:00:00 GMT",
           "source": "The Motley Fool"
         }
       ]
     },
     {
       "symbol": "AMD",
-      "price": 516.79,
-      "prev_close": 507.92999267578125,
+      "price": 521.975,
+      "prev_close": 516.7899780273438,
       "high_52w": 658.52001953125,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 1.744336316417168,
-      "drawdown_pct": 21.52250733882575,
+      "day_change_pct": 1.0033131819715608,
+      "drawdown_pct": 20.73513568022517,
       "name": "AMD",
       "news": [
+        {
+          "title": "Nvidia, AMD and Broadcom Could Buy Meta Shares as Part of $35 Billion Stock Offering - Moomoo",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPd3lGU19rblNnU3JvQXBCLWxjVzB4QVJPMUZSUnFBVkJGZGphZWdGZzlHN3VhNGJ2Yno1TTRVVk5VQ29jbm12bm1zRG1qOXdmYzJoMVV4TFM0T18xNENSa21uVTI4QjVCQlc1MHZ2alNveEVzN2I0THNxYWY3WWJ2Wm8wTWRXOUxDTEhmaGJldHhoZy1DY19wcjFWT3dpZw?oc=5",
+          "pub": "Mon, 26 Oct 2026 12:18:13 GMT",
+          "source": "Moomoo"
+        },
         {
           "title": "Dell, Lenovo, Cisco, HPE, Supermicro: Why AMD’s New AI Blueprint Has Everyone Signing On - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWXB6a3d0Yml4a2t1bHNKNTZkZ3B4SEpqYjgyN0JHcTJBTVQ1NUJKMjg0V3pnWERNSjJHVS1QUHdZZ2xOVUl1MVNraGJrd1ZULTlyaW5ObnB4Vko3R013Tkx3bUZzRzFBVThNLVcweGx4dTA2SC1MSzFtd0xXUUc1QnVtX0RyZjl1MTd5bDJTcFBXcGZidFl6d3dQdDI?oc=5",
@@ -141,12 +147,6 @@
           "source": "Trefis"
         },
         {
-          "title": "Meta is raising about $35 billion in stock for AI, with Nvidia and AMD as potential buyers - Quartz",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE45TUVNZzdNSTRQMVhfZEQyb2l0YXl0bm5KdE5oeTZHbWZxcmg0Qm55NDZ5bVMyYWVQLXRqSFk3S2FJdm9KZmVmZWtBN1NQWlBUejFsVUJnLUpLQkJmeVNnSE9WdnR4MERXak9TSEpCaUhMdE9p?oc=5",
-          "pub": "Mon, 26 Oct 2026 12:35:41 GMT",
-          "source": "Quartz"
-        },
-        {
           "title": "Here's What $10,000 Invested Equally in Nvidia, AMD, and Broadcom Could Be Worth by 2030 - The Motley Fool",
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPV19lUHYwU1N2d0lVanRvN1I1UzNSMVZxUEdlcGJsZW1VVUdwbUhvTkVPRTJVY2lnMHRmOFlpN3d4VXRqcHBnWVg5N2lLYmVZTVR0TUJwMHZCcWxpVW5PcUd6ZENIeXJhZmJiMDRWeW5rYzNrRDF1Vi00VkR5MF94SUtZd3hmMHc?oc=5",
           "pub": "Sun, 25 Oct 2026 14:15:00 GMT",
@@ -156,14 +156,14 @@
     },
     {
       "symbol": "RKLB",
-      "price": 52.6,
-      "prev_close": 51.220001220703125,
+      "price": 53.01,
+      "prev_close": 52.599998474121094,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 2.694257607200292,
-      "drawdown_pct": 65.1655629139073,
+      "day_change_pct": 0.7794706041305738,
+      "drawdown_pct": 64.89403973509934,
       "name": "Rocket Lab",
       "news": [
         {
@@ -194,14 +194,14 @@
     },
     {
       "symbol": "IREN",
-      "price": 24.905,
-      "prev_close": 25.510000228881836,
+      "price": 23.895,
+      "prev_close": 24.905000686645508,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": -2.3716198488970117,
-      "drawdown_pct": 67.60114594752322,
+      "day_change_pct": -4.055413205377216,
+      "drawdown_pct": 68.915052496128,
       "name": "IREN",
       "news": [
         {
@@ -232,14 +232,14 @@
     },
     {
       "symbol": "MILDEF.ST",
-      "price": 235.8,
+      "price": 233.8,
       "prev_close": 230.6999969482422,
       "high_52w": 254.8000030517578,
       "currency": "SEK",
       "yahoo_name": "Mildef Group AB",
       "exchange": "Stockholm",
-      "day_change_pct": 2.210664551028154,
-      "drawdown_pct": 7.456829993796471,
+      "day_change_pct": 1.3437377948701548,
+      "drawdown_pct": 8.241759340753244,
       "name": "MilDef Group",
       "news": [
         {
@@ -270,14 +270,14 @@
     },
     {
       "symbol": "IVSO.ST",
-      "price": 243.6,
+      "price": 244.4,
       "prev_close": 245.39999389648438,
       "high_52w": 336.0,
       "currency": "SEK",
       "yahoo_name": "INVISIO AB",
       "exchange": "Stockholm",
-      "day_change_pct": -0.7334938635913991,
-      "drawdown_pct": 27.500000000000004,
+      "day_change_pct": -0.40749548547511,
+      "drawdown_pct": 27.26190476190476,
       "name": "Invisio",
       "news": [
         {
@@ -331,10 +331,10 @@
           "source": "TradingView"
         },
         {
-          "title": "Norbit ASA Reports Earnings Results for the Second Quarter and Six Months Ended June 30, 2026 - www.marketscreener.com",
+          "title": "Norbit ASA Reports Earnings Results for the Second Quarter and Six Months Ended June 30, 2026 - marketscreener.com",
           "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQTjFEdlN3SE5HT2ZMbE5OWi1FRzFmX1NpR2xEeGlVQmZ0Z2k4OUpJUExhTy1xNmxNS2FxOG1adzh4cnNjaUdUV19sdWdWUHc1a3lPaDR0RGc1SWVJQVNkWFFaa0htVU4tMFdCeVlzd3JSdXBSVDNQaVJiOU16R2xGMnljRzJrRHFTSzI4ZDNSWFpjb0Vfd09fZ3hjMnYtSThrbzBmc0IwcVVUT280X21pQWxieWpPLVdzQ1kyTWhiQXp2ZHZwV1QzUVJNbWZTZlhzblV5SVZQYXdKbFpZcnc?oc=5",
           "pub": "Thu, 13 Aug 2026 07:00:00 GMT",
-          "source": "www.marketscreener.com"
+          "source": "marketscreener.com"
         },
         {
           "title": "NORBIT ASA – Mandatory notification of trade by primary insider - Yahoo Finance",
