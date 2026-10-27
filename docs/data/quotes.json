@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-27T01:00:44.193934+00:00",
-  "updated_at_display": "2026-10-27 01:00 UTC",
+  "updated_at": "2026-10-27T01:30:34.108758+00:00",
+  "updated_at_display": "2026-10-27 01:30 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
@@ -14,6 +14,12 @@
       "drawdown_pct": 11.246250564983361,
       "name": "NVIDIA",
       "news": [
+        {
+          "title": "The bull case for Nvidia as most S&P 500 stocks slide - TheStreet",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcWtBOFBGa0ZEWGRjeXM0aTJQcHRzNjBTanJGeTZybHY0ZmRPVzF5RFk1Q3J6Ulk0S1M0eHVHNmdRT0xkWEU4MFdXVF9hSTdxZjl3R1RwdUdLYmZCN2FpN003bjhpdGJocmN3NHdvY0hlbXpwTS1HbElscG1sUDF3RXFnVXZfWGkxd3lMbA?oc=5",
+          "pub": "Mon, 26 Oct 2026 20:13:57 GMT",
+          "source": "TheStreet"
+        },
         {
           "title": "Meta Launches $95 Billion Stock Offering Plan to Fund AI Expansion; Nvidia, AMD, and Broadcom Weigh $5 Billion Purchase - TipRanks",
           "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOT0ZpcFlFQTFFSHc2cFFmOVBDanJ2X0JvYzZxRjhiZUk5ZXMzM25mZFRhcTJkdmh5TUFtNHZMQzZJTVdCSndiQWw3bUJfYWlyWGJkcWJscjlYZEJsOXROdDBQTlVNQlo5elR4bjRSZ3ctdUx0dkdTaHJIbTB1V09ROVRYdkhDNXpaQVU1bS1qOVRkZ1FkUGp0dFVsMmxqOS1wMjQ3OVA4YXpiaFJwUDRCRk4weUU5eUJNNnczaVZaSVhQY0FLczVRVjN2WjZDdEdPb2pTZGk3UVBzV0VC?oc=5",
@@ -31,12 +37,6 @@
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQy13QVhWcnlNN0VOMGc2UmRUWDJBbVFiaFFmalhpYWNCZ1JiVGVOSGpPejBXemladmNjYUxhU1c3MXJJeGZLS1RqcVlmN19lZi05c0xOM3RVdU96M2JKUC10clBoNklXUnZaNzdBd1VRSzB4emZsVkVsamJxQmROcnl6Qnh3QzdLXzVJZ2hLbHpWeERjV2lKZm5ycVdlbTB6YjRScTFyeWY2NEZJc1VkcXQtSUlyQU5nLU5ERENpSm8?oc=5",
           "pub": "Mon, 26 Oct 2026 20:28:21 GMT",
           "source": "Forbes"
-        },
-        {
-          "title": "The Mixed Blessing From Tech Earnings Weighing on Nvidia Stock - Barron's",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMTFwZFVteGpUWTFvanFsalB1MUlMcmVua0FsbzB6c2tRUFhaQXpZWXNpaXVtUVAyaVZ3UFF1Vnk3SXI0NlhMTGgtWXdIM3hjdERWeDZOdkZlbjI3SjgzdHRlVU1USDN0TzNJeHdPcUtIbVZXcTBZSTFRc1hQYnpHbHpXVQ?oc=5",
-          "pub": "Mon, 26 Oct 2026 09:57:00 GMT",
-          "source": "Barron's"
         }
       ]
     },
@@ -59,10 +59,10 @@
           "source": "WSJ"
         },
         {
-          "title": "Meta eyes record $95 billion equity raise to fund AI expansion - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPclhjOFJvYkM0S0hLUmxaY0l2X3hCdWI0N1prZlo2QXhXdmt5T0pNQVpFODVpYzgycWdZcHM2NkZ2LTdaMEVUVlpTXzVFUzc2ZEdVdlpTeThUVkZtc3V4cEFTelk5bDd2Z0dfRDFsb0dGQ0MxRXhYMExFZTlXVkNjRXF6TDBLalZ5ZTFBbFMyX24wMVBTQW1GQkJNRjNYWTRiVGJJWWdialBfV1oyQUZNN3I4RQ?oc=5",
-          "pub": "Mon, 26 Oct 2026 19:07:55 GMT",
-          "source": "Reuters"
+          "title": "Meta plans $95bn stock offering to bankroll AI expansion - Financial Times",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaUtNaHFNcWhwbXByd1BLYTlMcjgxN1A4M1RpVHQtT0JJTWp5SG9sZm5uQlJIaURJME1ZOVY5ZThyTVdPcW5TbTlRWXhNcU0yb3hXMjl6dzRMMnZXNm9sOUluMFdaY19rNlFMVWRmNEQ5WUs2ZDlNSDAzUnZ5S1Z3V0g2aDI?oc=5",
+          "pub": "Mon, 26 Oct 2026 11:15:50 GMT",
+          "source": "Financial Times"
         },
         {
           "title": "Meta Announces Launch of Offering of Depositary Shares Representing Series A Mandatory Convertible Preferred Stock and Offering of Class A Common Stock in Connection with Forward Sale Agreements - Meta Investor Relations",
@@ -109,10 +109,10 @@
           "source": "Barchart.com"
         },
         {
-          "title": "Prediction: Broadcom Will Be a $4.5 Trillion Company by 2030 - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRUpBaF9CYVR2b3N6T1NHZGt6Z2FNNE9Dd2VsaDVHNlNXTTQwNUdJUkxBdDZ1RGNrTHdKMmRLVlAyeENzT3d3a0dxVVNjelVrSlR2aThJTkVyZ1hhR2dkeHRDZGxVRzRYeC1jTDhQU2gzT1ZfSzRCY2ZRWXBhRXVwdHdzZnU0b0VKTkFWdWRTY3F5cTR5d2NJX0tLYjRxdw?oc=5",
-          "pub": "Mon, 26 Oct 2026 10:26:00 GMT",
-          "source": "Yahoo Finance"
+          "title": "Nvidia, AMD and Broadcom could buy Meta shares as part of $35 billion stock offering - MarketWatch",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdDYyd2VndnhVdFI0ckxsUnVKbVRRaGxOMEoxOUpZTFcxeWJIdW5MbzlIWElaUW05RDdfNlM1b01jM3lFTkNCN184YzZwaU9PMWxOOVBKZkNrY2tGZldMc3U3THdNU0FST1ZKcmgtTF95ZlIwV3ZiYlBaVU12RXNoUjdIcVNBRGdnMldGUXllTXRxazY2SWNfZjZ0cks5T3p4LWppMUZqb1E3MWdpdThjVEU1OGNKdng4SUZHQndKalFVOTA?oc=5",
+          "pub": "Mon, 26 Oct 2026 21:44:00 GMT",
+          "source": "MarketWatch"
         }
       ]
     },
@@ -217,16 +217,16 @@
           "source": "FinanceFeeds"
         },
         {
-          "title": "Nasdaq Futures Slip Amid Tech Selloff While S&P 500, Dow Edge Higher Ahead Of Crucial Earnings Week: IREN, CRWV, NBIS, MRNA, EWZ In Focus - Stocktwits",
-          "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPWmluXzRSdUFjVjh6MWNzZ0NCclhhQWFlYmJHRGdIMHYweDMtanRiV2Ezbi00MG14akJTSEtVb3BhbGJYR3Vtem90TXp3VlJKMHctNnBROVVOOGYxZlFnVTZWV3NqWUxjOEJNZERtWHBkODRCNHBDb20yRjRjd1B4aXpQaVJyTF9ma2tnSTFwTGV2ZjViRTJFcXlHTTlNNWNITXNjOGIyZi13WFdEcXlIdmhjSlItZ2UtSjJobzEtbWlkbTJRUlhoMTZVUmdKLUtpMUw0Y0F2RzBSTzhyanFtMHB0R2dLLWcydnRpc1VPNjRnZlBNMmUwaDRzQklva1h4NTJJTEVTejZseVhOQV94VXN5eXhMc3BIaERpQnRhX2VDaFpWRmc?oc=5",
-          "pub": "Mon, 26 Oct 2026 02:50:55 GMT",
-          "source": "Stocktwits"
-        },
-        {
           "title": "Stock of the Day: Is IREN About to Reverse? - TradingView",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWGJDV0ltSVc2TFhfUG5VZFNtd0tscGJYcGhOTWo5MDNnQzZGRUFNTDN2ZlRxRHpSVGh4bHBFRDEyUFNjZVY2MkdMM0xBaVJ0TUNPN3pvNFFBWVI1RGtTMDhRWHZQUUMtd2pkS29QRDIxd29KOFZaTGt2cXVCa1VvV0Q1c01sTExiazMzQmpmMGlQVVpJZ2dHMzN2VUNkb3JwSFE?oc=5",
           "pub": "Fri, 23 Oct 2026 20:03:38 GMT",
           "source": "TradingView"
+        },
+        {
+          "title": "IREN, CRWV, NBIS, APLD Stocks Fall Pre-Market as Analyst Echoes Elon Musk’s Neocloud Debt Warning: ‘Putti - Benzinga",
+          "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOM25RcWxOdVc3SUdVbjZOTGZIMWd1V1ZOT0hjSDNnVHlnd1NFWnhpRUlVOC01QnIxcHBZM2E2MGl5Z1ZVY2R5OWktRkY5dkRJcS1palhqaW5DWl9XT1pscDh6SExWVUQ4T1RKQ1ZCelhjdm1Oc09nQUppQlpyX2pHSXkyaHNfY0JRTUNWX2ZsemtyT2xGSmZrUlRpeWNHXzdtUGVaV0hXdVBKNHprRTZpZ080anpibmJYWm9VUGljVW5oNTNhSDNwdHVYRjRBRFhMTnRPYkJLUXpYVkg1WkxlY2steEhYTVhEZEk0RG5xLU00dF9TbUstSUUyWk4zXy1fYnZ2a1NSQjNKUHdLSWYyUGR6aFVtWURrQjlJejk1em1aSGs?oc=5",
+          "pub": "Mon, 26 Oct 2026 10:14:13 GMT",
+          "source": "Benzinga"
         }
       ]
     },
