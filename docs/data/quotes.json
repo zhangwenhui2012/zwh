@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-27T08:00:41.911376+00:00",
-  "updated_at_display": "2026-10-27 08:00 UTC",
+  "updated_at": "2026-10-27T08:30:35.724906+00:00",
+  "updated_at_display": "2026-10-27 08:30 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
@@ -21,6 +21,12 @@
           "source": "TheStreet"
         },
         {
+          "title": "Nvidia Picks Up $3B Stock In Meta's Equity Offering, Will Help Improve Muse AI Platform - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbGpWWWxhdjZ6bFFVbnA2blZ6V3AxNzY3S0daQ3h0ZFEzVkhpQmJOVWFiRlFLZXZXMl9CT1RRcWM2X19LWm1zR1AxWk4zQUUyWXRiVU55cFdiR1g1Q3EwXzRvSzJqWW9QQ2JvTllfT0FGSGRTMGdjdllQTEE4bUtRTjZZdlNHQnBkd3NuOEVTejUyYi01Y1E?oc=5",
+          "pub": "Tue, 27 Oct 2026 07:43:33 GMT",
+          "source": "Yahoo Finance"
+        },
+        {
           "title": "Meta plans $95bn stock offering to bankroll AI expansion - Financial Times",
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaUtNaHFNcWhwbXByd1BLYTlMcjgxN1A4M1RpVHQtT0JJTWp5SG9sZm5uQlJIaURJME1ZOVY5ZThyTVdPcW5TbTlRWXhNcU0yb3hXMjl6dzRMMnZXNm9sOUluMFdaY19rNlFMVWRmNEQ5WUs2ZDlNSDAzUnZ5S1Z3V0g2aDI?oc=5",
           "pub": "Mon, 26 Oct 2026 11:15:50 GMT",
@@ -31,12 +37,6 @@
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdDYyd2VndnhVdFI0ckxsUnVKbVRRaGxOMEoxOUpZTFcxeWJIdW5MbzlIWElaUW05RDdfNlM1b01jM3lFTkNCN184YzZwaU9PMWxOOVBKZkNrY2tGZldMc3U3THdNU0FST1ZKcmgtTF95ZlIwV3ZiYlBaVU12RXNoUjdIcVNBRGdnMldGUXllTXRxazY2SWNfZjZ0cks5T3p4LWppMUZqb1E3MWdpdThjVEU1OGNKdng4SUZHQndKalFVOTA?oc=5",
           "pub": "Mon, 26 Oct 2026 21:44:00 GMT",
           "source": "MarketWatch"
-        },
-        {
-          "title": "Why Are Chip Stocks Nvidia (NVDA), AMD, and Broadcom (AVGO) Up Today? - TipRanks",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcHQtNE4yRy1pcExlQS1kTnctNUVqUXZuSmxKeHJCaXBYUEFQR3Y1YTRzSVJlREZVVlZLZGFqenFYX1hHUmxFcS1iNmJNX0JYcThRLTY1TXg0UVhCcC14TnIyRjZJMFgwQ3FQc0pWTjFXOVdDRmdaUW1SZUVtVWxSQmZjdW5nTHFZZ3c1djdCb05IZ25xdE5F?oc=5",
-          "pub": "Mon, 26 Oct 2026 16:06:26 GMT",
-          "source": "TipRanks"
         }
       ]
     },
@@ -109,10 +109,10 @@
           "source": "MarketWatch"
         },
         {
-          "title": "Broadcom Stock Is Down 7% in a Year. Cheap for a Reason or Too Cheap to Ignore? - TIKR.com",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSGhaX00tcDRRRzE4NlFWV0t3UzdZWUxDSUlveG5fWEJBSTJIbmlBb2lLU2lmWW5zN1pJbmJfb3RzZHczMHFMaE5KbENlaXZTWXA1NFFrTjZFeUFXbXhTaEVaSTdFRVpuT3JhVEoxMTdNbWw0eVFOMjlDSzRsZktDTEpFb0hwd2RKZjlMVzg0Wkl5eXlEaEFJNENldFFqZ2VFMW1FTw?oc=5",
-          "pub": "Sat, 24 Oct 2026 18:15:02 GMT",
-          "source": "TIKR.com"
+          "title": "Broadcom stock gets massive $600 call even as AI fears grow - TheStreet",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9tNGRMTWItTW1PbmZERG5Bc2JQcXRhVUxrczdYeldXRHRHX05zYUFOOVZFb1hrTGcwZmxwNUtzVl9FMzRLVV9VNnNnRmlOSlVDX01uY19SeC0wNjJhZmZRR1VUdTdyV2ZNdVBSQS1rRXRGaHhyal9jdmsxdnM?oc=5",
+          "pub": "Sat, 24 Oct 2026 00:33:00 GMT",
+          "source": "TheStreet"
         }
       ]
     },
@@ -232,14 +232,14 @@
     },
     {
       "symbol": "MILDEF.ST",
-      "price": 238.8,
+      "price": 236.8,
       "prev_close": 230.6999969482422,
       "high_52w": 254.8000030517578,
       "currency": "SEK",
       "yahoo_name": "Mildef Group AB",
       "exchange": "Stockholm",
-      "day_change_pct": 3.511054685265154,
-      "drawdown_pct": 6.279435973361312,
+      "day_change_pct": 2.644127929107154,
+      "drawdown_pct": 7.0643653203180845,
       "name": "MilDef Group",
       "news": [
         {
@@ -261,23 +261,23 @@
           "source": "Bloomberg.com"
         },
         {
-          "title": "Earnings call transcript: MilDef posts record Q3 2026 sales, profit growth - Investing.com Nigeria",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZTdXVVFUajY4MzN2S3F3TmM4cHQyT013ZmU5TzJ0ckRCYk1aU2xONnFqRDFOcDRzZDBJQXMxN3A2b2F0TTJORVhJSEx4WTUxTVZJTG9pVGdiRUlsdlkwYmpyV0JGUTdlR1BQYVNRNmhuV2RRUVZiQk10dEJOUGFUaVFfN0JSRDcwWFlvaExUU2VEMExySWtZZ0o2UlNoV3RiMDBOcUlpdEk0LVZuTjR2YVJjbWJkR3UyZjJlSFRfMUxPUkFvai1Od2xCTlBXdw?oc=5",
-          "pub": "Thu, 22 Oct 2026 09:42:55 GMT",
-          "source": "Investing.com Nigeria"
+          "title": "MILDEF Stock Price and Chart — OMXSTO:MILDEF - TradingView",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5zV2pPMV9QMDktZlJ1N0NmNGtYYUlrQXNfU0VhYjhtMWpJdjc4ZUpaVTUzZ2QwN29ZcE9TMVZkVm1GRWpwTFdXSHh1UkJvd3lLSTg5NUJod3dRYWtpMGxr?oc=5",
+          "pub": "Mon, 16 Feb 2026 08:00:00 GMT",
+          "source": "TradingView"
         }
       ]
     },
     {
       "symbol": "IVSO.ST",
-      "price": 244.6,
+      "price": 240.6,
       "prev_close": 245.39999389648438,
       "high_52w": 336.0,
       "currency": "SEK",
       "yahoo_name": "INVISIO AB",
       "exchange": "Stockholm",
-      "day_change_pct": -0.32599589094604353,
-      "drawdown_pct": 27.202380952380956,
+      "day_change_pct": -1.9559877815274658,
+      "drawdown_pct": 28.392857142857142,
       "name": "Invisio",
       "news": [
         {
@@ -309,12 +309,12 @@
     {
       "symbol": "NORBT.OL",
       "price": 165.9,
-      "prev_close": 157.89999389648438,
+      "prev_close": 157.60000610351562,
       "high_52w": 244.8000030517578,
       "currency": "NOK",
       "yahoo_name": "NORBIT",
       "exchange": "Oslo",
-      "day_change_pct": 5.066501844680406,
+      "day_change_pct": 5.266493385179653,
       "drawdown_pct": 32.23039300170109,
       "name": "Norbit ASA",
       "news": [
