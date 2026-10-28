@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-10-28T13:30:36.681021+00:00",
-  "updated_at_display": "2026-10-28 13:30 UTC",
+  "updated_at": "2026-10-28T13:40:11.967073+00:00",
+  "updated_at_display": "2026-10-28 13:40 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 219.314,
+      "price": 219.47,
       "prev_close": 217.94000244140625,
       "high_52w": 243.37,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 0.630447620079818,
-      "drawdown_pct": 9.884537946336858,
+      "day_change_pct": 0.7020269530395609,
+      "drawdown_pct": 9.820438016189344,
       "name": "NVIDIA",
       "news": [
         {
@@ -21,15 +21,9 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "Indian investors rush to Nvidia, SpaceX, Apple as local trading apps roll out access to U.S. stocks - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5uNkM4SHBzLVRtc0U3dHBoZGhOd0hmVzZqY2MzUWE2UHlFNHhDSkVCSHFWOUk4bnkxdk9XZ21hTC1vYUdjZzZIMVJnXzdTT2ZGUW92VHhpZ3RXNVJzMjZHbHdYdWxNNS1uOWU3YlFGRjZPaERu0gF6QVVfeXFMT1NsUnFwajBlOFlGWmNvNFhrMlBsQlpvbS1xdDZTdU1sdS0yYTlZeWt6UFRXOGZJU25PSGV5RTJlbWdjSlN0dWp4b1hVaXZWelo3SGI5Mi1KVW84Nmt2Z1pFeWZ5UFByci10RDVnWmkwYUZrNzM1MGRwN3c?oc=5",
-          "pub": "Wed, 28 Oct 2026 00:00:00 GMT",
-          "source": "CNBC"
-        },
-        {
-          "title": "Not Nvidia. Not Micron. This Underappreciated AI Stock Could Be 2027's Biggest Winner. - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZXgwb1VlN2JwNTB0MGtkM2Q2enNYaTJfZ0VqX3ZPOUtYa2tJR3V5ZnpnZ19BSVJpdVM3RUhQOC1mUVd1dmhoUnBCOUF2RGVrM2VMR3BTckcxbVp5TFRJaTNYSjRIQi1GMnRDQ2x0cDRGZVFwcHAxamtfaTZSWUtfVUp3UTk2Y3dmbTVxVThjLWlZNVlmc0JJMg?oc=5",
-          "pub": "Wed, 28 Oct 2026 13:20:34 GMT",
+          "title": "Elon Musk Just Delivered a Sweeping Blow to Nvidia Investors - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdFlrYjBrclR0Z1h0LTZJejNtYXRkbWRQb3NkSENTdVlicWxDTWFzRXp4V0pfYWhLX0xQVzc1NVZkUThPOFkzLXBQOXdVV193ZkpPVk9LNXAwQnV3N0VPNE81Zk5wM3YxLVYwRGNQbjFLRzF4N21GdzhTSVFPTUktMDM1cG5RdDBxUEJSOGtOall0UkRNMnBKTg?oc=5",
+          "pub": "Mon, 26 Oct 2026 19:30:00 GMT",
           "source": "The Motley Fool"
         },
         {
@@ -37,19 +31,25 @@
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSC1PdDA4VHlXNk4zak1wYTd3c3VqNUdpMjg3WFdUVjZTVmFvNk1KcUVKdlhJYzNIS3d5c0xONzh3Y0lhMTRfd2NLSXVtSXJCTnduaHhEN3RSUUxtUjRKR1ZtbWhQdmtIZUdJZDNYUkJCdGdlaHJERUhFRE1ET0xoWmg5cnBrbnVYWndBaE9EUUF2UnFtU2RubEc4aw?oc=5",
           "pub": "Wed, 28 Oct 2026 13:13:43 GMT",
           "source": "Yahoo Finance"
+        },
+        {
+          "title": "Not Nvidia. Not Micron. This Underappreciated AI Stock Could Be 2027's Biggest Winner. - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZXgwb1VlN2JwNTB0MGtkM2Q2enNYaTJfZ0VqX3ZPOUtYa2tJR3V5ZnpnZ19BSVJpdVM3RUhQOC1mUVd1dmhoUnBCOUF2RGVrM2VMR3BTckcxbVp5TFRJaTNYSjRIQi1GMnRDQ2x0cDRGZVFwcHAxamtfaTZSWUtfVUp3UTk2Y3dmbTVxVThjLWlZNVlmc0JJMg?oc=5",
+          "pub": "Wed, 28 Oct 2026 13:30:50 GMT",
+          "source": "The Motley Fool"
         }
       ]
     },
     {
       "symbol": "META",
-      "price": 622.97,
+      "price": 620.28,
       "prev_close": 620.1900024414062,
       "high_52w": 779.8200073242188,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 0.4482493345023606,
-      "drawdown_pct": 20.113616712966255,
+      "day_change_pct": 0.01451128819223838,
+      "drawdown_pct": 20.458568108767214,
       "name": "Meta Platforms",
       "news": [
         {
@@ -80,33 +80,33 @@
     },
     {
       "symbol": "AVGO",
-      "price": 348.62,
+      "price": 350.32,
       "prev_close": 342.3299865722656,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 1.837412343194353,
-      "drawdown_pct": 29.57171717171717,
+      "day_change_pct": 2.334009213664863,
+      "drawdown_pct": 29.228282828282833,
       "name": "Broadcom",
       "news": [
         {
-          "title": "Why Broadcom Is the Big Anthropic IPO Winner. The Stock Jumps on Buy Upgrade. - Barron's",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOHdzX3JsU3hKY3Bxa3ZMM1R2ZThPS21vTnE4Mllid1pLSVJPakxoNndGVGhUMGZMZzE3NU1YeUU1X3JfRmJLSFZsMnQ3UVdaV1h5cFhrN0FrSFp4RXpGa3p0cXhHZTd6QVNFYUttZG1yMlZVX3ptMkUtN0VZOFNnbnVBX0k?oc=5",
-          "pub": "Tue, 27 Oct 2026 17:50:00 GMT",
-          "source": "Barron's"
+          "title": "Wall Street sees this chip stock as the big winner from the Anthropic IPO - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5mVjV4Nzg4VW91WldSdHJmc0ZHclRDdjd3bWlOTTMwV0EwR0x1VXdPNENxMmZ2UG1TdkdfZWNVNndoSEthTUFLQmh0aFVNVWJYLXNvWTZGS054TndvOEM1ellxUXJnNlBxaXIza05YYTR1Wm51?oc=5",
+          "pub": "Tue, 27 Oct 2026 12:51:16 GMT",
+          "source": "CNBC"
+        },
+        {
+          "title": "Broadcom Stock: DA Davidson Upgrades AVGO to Buy After Anthropic IPO Filing, Raises Price Target to $400 - TipRanks",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTEY4N2dBb3JpMmFBRVVvTFJCX25NdExHNElkZEh3N0VWc1ZSSHFfQlVwalNUVTZmRnczWDdsVTYybTdPSDE3RkhPMUVVVnJTYzZjaU52Sk8zV2RiYlRVclNsVVFGeGtvUTBGUWtaVUJnc0pjdGl2YzlxNFFMblJXb2VhMmVjY3FnMzRCVjhZZWdDRXZlY2hZbm5SbG1OYXduXzdCd0NmRUF1cnM2clBvcEJfUFZpZnVlQlFlV2lKR0twaVN5UkxPai1nSQ?oc=5",
+          "pub": "Tue, 27 Oct 2026 13:52:27 GMT",
+          "source": "TipRanks"
         },
         {
           "title": "NVIDIA, AMD and Broadcom May Invest in Meta, Their Own Biggest Customer. What That Signals - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSC1PdDA4VHlXNk4zak1wYTd3c3VqNUdpMjg3WFdUVjZTVmFvNk1KcUVKdlhJYzNIS3d5c0xONzh3Y0lhMTRfd2NLSXVtSXJCTnduaHhEN3RSUUxtUjRKR1ZtbWhQdmtIZUdJZDNYUkJCdGdlaHJERUhFRE1ET0xoWmg5cnBrbnVYWndBaE9EUUF2UnFtU2RubEc4aw?oc=5",
           "pub": "Wed, 28 Oct 2026 13:13:43 GMT",
           "source": "Yahoo Finance"
-        },
-        {
-          "title": "Wall Street sees this chip stock as the big winner from the Anthropic IPO - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5mVjV4Nzg4VW91WldSdHJmc0ZHclRDdjd3bWlOTTMwV0EwR0x1VXdPNENxMmZ2UG1TdkdfZWNVNndoSEthTUFLQmh0aFVNVWJYLXNvWTZGS054TndvOEM1ellxUXJnNlBxaXIza05YYTR1Wm51?oc=5",
-          "pub": "Tue, 27 Oct 2026 12:51:16 GMT",
-          "source": "CNBC"
         },
         {
           "title": "Broadcom: New Anthropic Financing Deal Agrees With Our Bullish Forecast for This Top Stock Pick - Morningstar",
@@ -118,14 +118,14 @@
     },
     {
       "symbol": "AMD",
-      "price": 570.06,
+      "price": 567.99,
       "prev_close": 560.260009765625,
       "high_52w": 658.52001953125,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 1.7491861035155087,
-      "drawdown_pct": 13.43315569877708,
+      "day_change_pct": 1.379714793067011,
+      "drawdown_pct": 13.747496939529855,
       "name": "AMD",
       "news": [
         {
@@ -156,16 +156,22 @@
     },
     {
       "symbol": "RKLB",
-      "price": 58.555,
+      "price": 57.755,
       "prev_close": 58.310001373291016,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 0.420165702176104,
-      "drawdown_pct": 61.221854304635755,
+      "day_change_pct": -0.951811627885216,
+      "drawdown_pct": 61.75165562913908,
       "name": "Rocket Lab",
       "news": [
+        {
+          "title": "Lincoln Electric, Rocket Lab, Fluence Energy, ChargePoint, and American Superconductor shares skyrocket, what you need to know - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWkVpMHRVU2VNazc3QzFnTW9kejY2NU4tZ2I3TEU1Yl9MbV82MExxUHRYR0dUNE9xcWdDeURxYS1nWndKdHUwYW9PWFNOR3dwMnVUU2R6UGpOdTFJNmtnclNqbFE4MVFQQTJhdjhfNG1FYS1PaWxCN2h4MFdoSHhTaWgyOWJIbWdxQ3padFd0cHlual9tNkRHOHI0dUxMdUlvdWc?oc=5",
+          "pub": "Tue, 27 Oct 2026 23:42:47 GMT",
+          "source": "Yahoo Finance"
+        },
         {
           "title": "Why Rocket Lab Stock Took Flight on Tuesday - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTmJzZTVGa2pheGFwb0p3c1Y4cVc5ZVRPVTFyLUk4NmJrSmFFX2E2cXBtdWYtT01SdF9lMWFPZUJpeTdfRi1MaEV2MWpUeVNfc2d0VGZNN2FTLVNRXzJ3STVwcURRQ1ZoTS02blByWmxuckQydVpKUVdCdzJlNkRwMlA2OW0yNjVwSEZ4dHlaRERMUlFN?oc=5",
@@ -179,29 +185,23 @@
           "source": "Zacks Investment Research"
         },
         {
-          "title": "Rocket Lab Corporation (RKLB) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ZQUpJQVhWMXdheXZxN2syd1NGQkh3Zk1KVE9nVnVtY3N2WGZuV2FFWEo0ajVfbEhfUXViM1VqbEpxV29GOUtHNk1YOEh3cnpLZ3c?oc=5",
-          "pub": "Wed, 28 Oct 2026 05:02:01 GMT",
-          "source": "Yahoo! Finance Canada"
-        },
-        {
-          "title": "Rocket Lab Corporation (RKLB) stock price, news, quote and history - Yahoo Finance UK",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBpOUFlMlNkTEllYUI1Yy1rOXNDeEtCYmhPQzFXWUF1SzN2Q2RSZHg1bkNRNmQzVUpOLXVLRmZqXzhhdHNUOHhYbnFNRVhVZ1pvTFE?oc=5",
-          "pub": "Wed, 28 Oct 2026 07:32:01 GMT",
-          "source": "Yahoo Finance UK"
+          "title": "Rocket Lab Just Dropped 29% in a Month. Is It Time to Sell, or Load Up? - TIKR.com",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYzd5eFNUakl0MlRRNUZSMHAwUHpJTEV2MjB3TndpUXRZZ1ZaN1pBUUFSRTBHMVhhM0Y4YTJWaGtqLS1teFBtUmNoSzFCNHBTb29FM1pRRENsaV9PYzdBMTF2RzY4SVRpN0doZFUtTy1ncDJ5eVNjbUcwLWhEVjl6eERpajJPVzZWT3RuRnlnMHdxT1FKS25Qd0Rn?oc=5",
+          "pub": "Tue, 27 Oct 2026 17:26:48 GMT",
+          "source": "TIKR.com"
         }
       ]
     },
     {
       "symbol": "IREN",
-      "price": 27.96,
+      "price": 27.25,
       "prev_close": 27.440000534057617,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": 1.8950417486216065,
-      "drawdown_pct": 63.62690386238704,
+      "day_change_pct": -0.6924217578705759,
+      "drawdown_pct": 64.55054113912901,
       "name": "IREN",
       "news": [
         {
@@ -232,14 +232,14 @@
     },
     {
       "symbol": "MILDEF.ST",
-      "price": 244.5,
+      "price": 244.7,
       "prev_close": 239.3000030517578,
       "high_52w": 254.8000030517578,
       "currency": "SEK",
       "yahoo_name": "Mildef Group AB",
       "exchange": "Stockholm",
-      "day_change_pct": 2.173003293743163,
-      "drawdown_pct": 4.042387334534514,
+      "day_change_pct": 2.2565803925519465,
+      "drawdown_pct": 3.963894399838841,
       "name": "MilDef Group",
       "news": [
         {
@@ -270,14 +270,14 @@
     },
     {
       "symbol": "IVSO.ST",
-      "price": 241.6,
+      "price": 241.2,
       "prev_close": 238.1999969482422,
       "high_52w": 332.0,
       "currency": "SEK",
       "yahoo_name": "INVISIO AB",
       "exchange": "Stockholm",
-      "day_change_pct": 1.4273732558009158,
-      "drawdown_pct": 27.228915662650603,
+      "day_change_pct": 1.2594471411389914,
+      "drawdown_pct": 27.349397590361452,
       "name": "Invisio",
       "news": [
         {
@@ -308,14 +308,14 @@
     },
     {
       "symbol": "NORBT.OL",
-      "price": 166.5,
+      "price": 166.4,
       "prev_close": 163.8000030517578,
       "high_52w": 244.8000030517578,
       "currency": "NOK",
       "yahoo_name": "NORBIT",
       "exchange": "Oslo",
-      "day_change_pct": 1.6483497545412364,
-      "drawdown_pct": 31.985294965540877,
+      "day_change_pct": 1.5872996946286027,
+      "drawdown_pct": 32.02614463823424,
       "name": "Norbit ASA",
       "news": [
         {
