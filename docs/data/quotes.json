@@ -1,57 +1,63 @@
 {
-  "updated_at": "2026-10-30T16:30:38.035544+00:00",
-  "updated_at_display": "2026-10-30 16:30 UTC",
+  "updated_at": "2026-10-30T17:00:51.136394+00:00",
+  "updated_at_display": "2026-10-30 17:00 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 204.64,
+      "price": 203.64,
       "prev_close": 213.66000366210938,
       "high_52w": 243.37,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -4.2216622238638495,
-      "drawdown_pct": 15.91404035008424,
+      "day_change_pct": -4.689695539814476,
+      "drawdown_pct": 16.32493733820932,
       "name": "NVIDIA",
       "news": [
         {
-          "title": "Nvidia Stock Is Set for Its Worst Month in a Year. Time to Buy the Dip. - Barron's",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA5eVhHal84SUVnWXJrMXZ0NGxSNzlkY2VBcnd2M1pjaEhYOTBJcWg1ZFVGeUFyUXhrX0cyZkhMQ0VQRms1VEFXUkFJS2kxd0g4a3ZjbDMteXhJYXVFVFJRVW90VjBaRHE0VUJDc2twdGVFc1c3azhjeQ?oc=5",
-          "pub": "Fri, 30 Oct 2026 14:22:00 GMT",
+          "title": "Nvidia Stock Declines as Competition Probe—and Spy Report—Presents New AI Concern - Barron's",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQUhtWFVGeXRmbWVsY083ckRJRUYwOHhEYTZ5cURrdlktQXNyVWk2QllyVVZpRGY3cWg0X3JTNU4xWVBjUTZ4M1pRWWJLR1V3c0FYcGsxQWwzd29jYjRETGpHYnhqMFZpMlk4RG81OFU2NUtUZ3JVaEwxY1NYZkVuYUxabUpWRjNyeVJmbg?oc=5",
+          "pub": "Thu, 29 Oct 2026 17:19:00 GMT",
           "source": "Barron's"
-        },
-        {
-          "title": "NVIDIA Stock: Analyst Estimates & Ratings - Barchart.com",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUmtaX09vY0lvNDRSS196b0l5UFNXbEx0eVp4RmhQT2E0UTVrT2x0MWJQZ1ZLSTMzTk9PbEF1cmNub3laQ1JkaUxnMEJFY0luc0IxUDZvS1V0V21WRnU0RmZpZmtlUDdZUGs0MjdQeVRGMG1kcDkyTmhVOEVtNUlpZ2F6RUFURG5iQkE?oc=5",
-          "pub": "Fri, 30 Oct 2026 15:42:30 GMT",
-          "source": "Barchart.com"
-        },
-        {
-          "title": "Nvidia’s AI Dominance Could Have Further to Run - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNkh5aHlweVhseEFHazllRTFLOVRvMWVBM1pzSGQtdW1jR2VUNEQtNUpnNGdCX3U3SkVOOVlSa2JuYmFxejVmaldFdkNya0w1a1djT0MwMUwyMEMwaTZiVFR5NUU3UEVQWXowZVVrSVkzUmw5bEt6aEU1VVpoV0NCU19EeTZrRldEMzN0dF85RlAxbkpaN1JBaHVEZjVkUzQ?oc=5",
-          "pub": "Fri, 30 Oct 2026 16:03:28 GMT",
-          "source": "Yahoo Finance"
         },
         {
           "title": "Nvidia Is Getting Dangerously Close to Getting Surpassed by Apple in Market Cap. Here's the Better Growth Stock to Buy Now. - The Motley Fool",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUFoxamF2MDFpYXNFenFSejgtVFMwaEY2SkhTRU02WVZhSUQ3bjVuc2tkZjdwNjhFdGZjWC0zWGF6aWdSRmN4T1NxLW1xTmJuNEY3YzY4TUJiaXNUYnJoUFZZOTA0d2FvQm8zeE52NmpGSUFSYWpER3dHQjZmQ2dFNWtjcXFRS0ZpYkY1Ylc1cU9Hdkt3Nkh6dw?oc=5",
           "pub": "Thu, 29 Oct 2026 17:38:00 GMT",
           "source": "The Motley Fool"
+        },
+        {
+          "title": "It’s Time to Revisit The Nvidia Vs. AMD Debate - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMFBhZFlXZnVGTnVRSkk4YU9FNXJDQkRXNloyckp3ODhuWGtRVE5WUzJnQ1lfMGZUb1lLN05ITHVKMTgtUDVxLUxJU2ZORTQzX1FjQkpkSWVDWmpVSkMtQTZvQ2NOWkQ4QXZiQ2lENlNrZGJkdlMyT09kR19nTFpiQ0laWGI0c215c3FNcXNJTHNQeDZ5QXc?oc=5",
+          "pub": "Fri, 30 Oct 2026 16:45:33 GMT",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Why Are Semiconductor Stocks Falling Today? Intel Crashes 28%, AMD and Nvidia Slide - Stocks Down Under",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84Q1dKMEZ2MC1XSDBVSDZYdWx2RktzZElqdDdzOEFFTlBDbjNnVUdKLU5zczkxQjRLRTFQSDlDM0VTdFhCYW1tZ3pJZ0oteWJEcVBhX0lBdkhzRGpjcTZUS29xVVk3a2VMMVVQb0RBamJ6TnRfVk5TMGdpVUc4bHM?oc=5",
+          "pub": "Fri, 30 Oct 2026 15:55:23 GMT",
+          "source": "Stocks Down Under"
         }
       ]
     },
     {
       "symbol": "META",
-      "price": 619.535,
+      "price": 621.33,
       "prev_close": 624.52001953125,
       "high_52w": 779.8200073242188,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -0.7982161300436245,
-      "drawdown_pct": 20.55410297489053,
+      "day_change_pct": -0.5107953999047641,
+      "drawdown_pct": 20.323921653157168,
       "name": "Meta Platforms",
       "news": [
+        {
+          "title": "Massive News for Meta Stock Investors - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZUJjVTVVd19qajRKZEtjUEZRUEk3QW1oc2JVRVdVQmNiRVI1VTdJcmxNcXBCQm8weE1oV0lJTjZKejVYaGw5c09FQS1KVy03b3N4cmVJVGZBQXJ4dUUzM2RMdkI0Y3FMMnZPTTl1Wkd2LVlDN29JTGVMNnV6TXR0QlNlYXJabUU?oc=5",
+          "pub": "Fri, 30 Oct 2026 03:17:00 GMT",
+          "source": "The Motley Fool"
+        },
         {
           "title": "Mark Zuckerberg's Meta Platforms Reported Negative Free Cash Flow for the First Time Since 2012. Here's Why That Milestone Matters for Shareholders. - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbHI0SkZMVEc1QWJ5M3hGS0tMaUwyUW1ldVBNTzg1XzJKU1VuaEU2azNSOF8tQzV1YkYybzFBNE8zVGNGUG1keEo1RXZBVU94SVhta2hjVmYwYWQ2WTVUWjREd3VwbE1neG1CN2dHVGZvNEt2N1RhYW5fU20yRVI5ZDV4N0ROQnRkUi1Cd2lRX3ZydjU3N2pBQURCQXNzS1NfeGZlb1lqbVM?oc=5",
@@ -59,42 +65,36 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "Meta Shares Are Down 12% Since Earnings. Is the Stock a Buy? - Morningstar",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeEFsRjB6d2lwTVZ1UWhyVnhEZmkwRG9rQmo1dVp5d3plSFNEVzZHQllCakFVdXJaM2dQUklnQTEwMHp6MDlud0pmOERnSFVpeEtuMFY1ZjFGMmtkcGFlN2JSUVVMLTBDNEJqazJDUXVRWTBFczdKTXJVVTlXcHk2VHZJUE1aTTVfZm1uM2YzRQ?oc=5",
-          "pub": "Wed, 28 Oct 2026 15:15:52 GMT",
-          "source": "Morningstar"
+          "title": "Meta’s $25 Billion Stock Sale Ended Five Times Oversubscribed - Bloomberg.com",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdmR1WjllZWo5S013MU1kTmgzNWdZXzd3ejl4bHZFRlR6NUpLbWt5aHdaYkpzc3g4eG55M0Q2UGVHb01oSHBIUWZyY0tzTHNzMlU2clZ6NVFoZmJ3clRtYkZLWHFsWElfRHRibEw0UkZYMUNtQzNQcFVtejBQUjM4QVh6Yk9LdVMzOENZU1U3S0syTWRxSU9zdmFkQUlLY2hVQkFtVlFrN3lseGhEcWNPdA?oc=5",
+          "pub": "Tue, 27 Oct 2026 14:22:52 GMT",
+          "source": "Bloomberg.com"
         },
         {
-          "title": "Why is Meta Platforms stock climbing today? - Investing.com",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOa1lvdHVJc2JVSXRWVkFnN195c2N0TWpkbklsOXJETlZYR2Q5VVBnbll0OGJqVVJmNXBkc2JjREpGTkpXTmNaeFNaWkdBZWYwbTNwTUtEeklkNWdYekwxRHkwaWNMaFdsMTRua0I0enJrSUpPN2VoZ1RRSld3WGFpdE5wcFdKa0EyNFIwUE1JQ0VuNkE5TjdhWnY5SUk0N0RZUVcxWWRqSQ?oc=5",
-          "pub": "Thu, 29 Oct 2026 14:54:23 GMT",
-          "source": "Investing.com"
-        },
-        {
-          "title": "Meta Platforms Just Delivered Great News to AI Stock Investors - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNY3RFaF95TzNuUUhqODJYMkJYY0lNRkN1Qm1ydUtDTW40Y0sxUlQ3bXNwMzVVM0NTSTdKZjlqZXBoUjJ4cGs4TjBPSUZjZnhJNkN5eTQwMUtVOThqYVNNY1VCSzZKLUtlWVlsZEJJcTdOVVVoakV5ZmwyVzhIYi1MRHhER3ozS09pVFZGeHdWWkw2N215SHVoYTF1R1VHZ0p3?oc=5",
-          "pub": "Wed, 28 Oct 2026 07:05:02 GMT",
-          "source": "Yahoo Finance"
+          "title": "Zuckerberg Stock Deal, Meta Restructuring Hit With Challenge (2) - Bloomberg Law News",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbzRhY1NjSWVPZlI2eHBBdkdfN2JvblJESXFmRUZ3dE5JUkVxUjZZdzY1d2VFWE1YLTlEbFE4ck56Wk1jTTk3U2J1bzdfVmpuWHUzcVZmOElYYWh5M0U4eXBndUNhS2VtaGNEOHhMSTlSWUI1MjJrdDZKM3YtVWthNXlwM2ZzOHZMWmY2YnBOdEYyN0R0bkZQS3NB?oc=5",
+          "pub": "Tue, 27 Oct 2026 18:51:00 GMT",
+          "source": "Bloomberg Law News"
         }
       ]
     },
     {
       "symbol": "AVGO",
-      "price": 325.35,
+      "price": 324.43,
       "prev_close": 345.0,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -5.695652173913037,
-      "drawdown_pct": 34.272727272727266,
+      "day_change_pct": -5.962318840579709,
+      "drawdown_pct": 34.458585858585856,
       "name": "Broadcom",
       "news": [
         {
-          "title": "Prediction: This Will Be Broadcom's Stock Price by the End of 2027 - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQb2VJbThWN01WZTZsdUFURXpNUE1nRVh5TEE1MEt1OEJiVnYxZ1VnandDTEpJaFdld25XNkNEQkZTMGhnLWJ2c3cyU2hyVlZUWTZCM0llcmpDdkhTQ0VZYmtiUTJEcG5fSkxkRTU1MTJ0SndTSGNwdUVyZnNUT05XNEhwTjlxbmhZdVlYR0FSUkVmeGF2bkkyVEtVbWp4bndJVzl3?oc=5",
-          "pub": "Thu, 29 Oct 2026 19:18:00 GMT",
-          "source": "Yahoo Finance"
+          "title": "Broadcom, Nvidia, Boeing, GM, UPS, JetBlue, and More Stocks That Explain Today’s Market - Barron's",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBET2xGeDU1LTZXN3FENUloNjE1UEVnT2VOSmVheVNjQUtfUGoydXpjSkx6M2FMMWUxTFZIWWZCT2d5MFZ4OXJMbFNndVY3M0s1bW8wTml4UTVhNEZSVGZ2aUVjWlg?oc=5",
+          "pub": "Tue, 27 Oct 2026 20:38:00 GMT",
+          "source": "Barron's"
         },
         {
           "title": "Jim Cramer praises Broadcom and recommends buying another iconic stock - TheStreet",
@@ -103,29 +103,29 @@
           "source": "TheStreet"
         },
         {
-          "title": "Is Broadcom Stock Priced Right Against Its Peers? - Trefis",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMVZkMU5qbkxfa1dpOFJEcndGQkl6dlVpV2xKWUtHOVRfMllfbWpmaXRfZ1J0UGZ2TTRxQm5KQk52eFZiUXh2UDRuYkFPQnlCeS1aclo5MHdmN1pqUWJwN3BZckI0cG1LR1ZnRkVzeHRwVnNIMXZ4cHgxTmxQb1hnSmx1NmxTX2JNbGZITW5yMXRqLXVhQnhobmNraTIySEkwcWZsR05kV3VQUjVPMWc?oc=5",
-          "pub": "Fri, 30 Oct 2026 13:29:53 GMT",
-          "source": "Trefis"
+          "title": "Prediction: This Will Be Broadcom's Stock Price by the End of 2027 - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQb2VJbThWN01WZTZsdUFURXpNUE1nRVh5TEE1MEt1OEJiVnYxZ1VnandDTEpJaFdld25XNkNEQkZTMGhnLWJ2c3cyU2hyVlZUWTZCM0llcmpDdkhTQ0VZYmtiUTJEcG5fSkxkRTU1MTJ0SndTSGNwdUVyZnNUT05XNEhwTjlxbmhZdVlYR0FSUkVmeGF2bkkyVEtVbWp4bndJVzl3?oc=5",
+          "pub": "Thu, 29 Oct 2026 19:18:00 GMT",
+          "source": "Yahoo Finance"
         },
         {
-          "title": "Why is Broadcom stock sliding today? By Investing.com - Investing.com UK",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPd3BCWVBkYXI3OTlVVjUxTVE3OTZOUW1wR1E2T285MENqZXhqZ253RFEzeDEzSnFLWnFULUVqa2NQSDdNODRFa3ltdWs2cTlRZXE3dm9UU001d2wycFdEc0ZyVzJFQU5uRUZzQXpZMHJNeFJQb2dCSkVlUzZlWkl5VWplZlJkYWdCaTB6TzFsRGF6aTBGS1A5VU9JWUk?oc=5",
-          "pub": "Fri, 30 Oct 2026 14:52:00 GMT",
-          "source": "Investing.com UK"
+          "title": "Why is Broadcom stock sliding today? By Investing.com - Investing.com Nigeria",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxON0c5Tl8tV3RXZjhybHVLWE1CTmNpcVpSVFJpZmViZ00tWGNpUXRnV2ZaLWdkMWVabkNmLV9rVEtwTHFyc3dudVZ6N0tDRXRub3puU3JXNTMtVEpnRnRTcHFacVlEek5kc2VzNE9NSGxZaG1FZ25rWHdJSFB5NzBDem1lMU1nN2t3X1d0dzk5TjJqMktnV0ZlY3lzT3c?oc=5",
+          "pub": "Fri, 30 Oct 2026 15:13:17 GMT",
+          "source": "Investing.com Nigeria"
         }
       ]
     },
     {
       "symbol": "AMD",
-      "price": 501.698,
+      "price": 501.47,
       "prev_close": 566.4199829101562,
       "high_52w": 658.52001953125,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -11.4265006290257,
-      "drawdown_pct": 23.814313138555697,
+      "day_change_pct": -11.466753446171827,
+      "drawdown_pct": 23.848936231740055,
       "name": "AMD",
       "news": [
         {
@@ -141,7 +141,7 @@
           "source": "MarketWatch"
         },
         {
-          "title": "AMD stock falls as Intel's earnings flag PC slump and server supply squeeze - Quartz",
+          "title": "AMD stock falls after Intel Q3 earnings flag PC slump, supply limits - Quartz",
           "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE03WGhQN1lFOU5lR1ZLNWFYdmRmZjNKTjBrNW9DX1FZbkpaVDczTXYwUG91VDBVYkwxNVJROXhmNFk2UG9ST1UxRFo3b1VfbUNpcUF2NVJ0WXJnbFo3eUQzUE85QVdqMEZwY1NBZ0xVWTkwRzhhb3I0TA?oc=5",
           "pub": "Fri, 30 Oct 2026 13:36:23 GMT",
           "source": "Quartz"
@@ -156,16 +156,22 @@
     },
     {
       "symbol": "RKLB",
-      "price": 55.23,
+      "price": 54.54,
       "prev_close": 59.099998474121094,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -6.548220937460268,
-      "drawdown_pct": 63.42384105960266,
+      "day_change_pct": -7.715733657959131,
+      "drawdown_pct": 63.880794701986765,
       "name": "Rocket Lab",
       "news": [
+        {
+          "title": "Rocket Lab remains a buy despite a nearly one-y... - Pluang",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOX1k3TGc0TE9vWVdzVkZIYzRobGV0Q1pmN0d3VXVGT0VQRXZjckZuLXF5QTNHZTNEY3lVOGIxVnI2M2lBalVEZW1XYlkzTWNDZ2lSQXk0cUtTOThJLXNlSFlyR0dZTW1zSml4NTNyeVowX0k2SXhPZ0FHZVpQYVk1aWF6TFpDaFZzLUg1WEwzQ21HOHptaDF2WFRfbl93UmlpemdGVkd0NEhFVzlBNVE?oc=5",
+          "pub": "Fri, 30 Oct 2026 13:39:28 GMT",
+          "source": "Pluang"
+        },
         {
           "title": "Rocket Lab (RKLB) Stock Gets Fair Value Trim After Neutron Delay Raises Execution Risk - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNamo0bUlKNVBEVVJFTFVqREZZY21OUlFRMGh5eTRnSW1wMzRDT3c4NmZLakxwYzBaWDQ3Mkc3UlFCNUV0MW5ORG1QRndoMkZvZnRYMF9UYUZ3aEdlTVRia1dvWC1Cd0xNOXk5dUtGMnJNVWVtQmhTY3V1VVJHTUlqQW5OaG5mbnRGWkVDM251TUhpN05vZ1E?oc=5",
@@ -179,29 +185,23 @@
           "source": "The Motley Fool"
         },
         {
-          "title": "Price Prediction: Rocket Lab Stock Will Hit $100 on This Date - 24/7 Wall St.",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZW1HMkpHYkx1cnJ1WVVRNGFCQnA0Z1hFdEpSbllHcjBCai1NYnlQb3VCQ1cyVTZQRGxjSHhvX21ycmx2dElsTmpPNUVLMktWME9ZT0FFYVN1OE9rbG5HcWVXSHF3TWRqc05XcHcweFNwbmpGZUo3eXdlTHBkeDVmZm5UeXloNU82dWU1OTFKYkl5OGpEb1BuVlBSOEdSV0x2NEtWU3hR?oc=5",
-          "pub": "Fri, 30 Oct 2026 13:04:00 GMT",
-          "source": "24/7 Wall St."
-        },
-        {
-          "title": "Rocket Lab Stock Climbs 15% On A 5-Day Winning Streak - Trefis",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRXVGZU9qa2lielZHYTVmU0VNZ2ZQa0ZZZ1R0OEY4RVczS1BQZWZOUTlUUkdZSXN1VHBXQ1FOSkpMVjVqcVFRU3EzWUtwOFI2ZTQ5WkwtZjVoa3BxYklQcVhVd1FTYVRsTG5RUHVMYVBqTGNfa3BCLWJJaHVUS2hSOTZqWm11Y1dtdEN6T0x6MnI4VmRlWUZvTUNsc3NGR2lPY25GcklQRnlyZldUUnRuTlBBQQ?oc=5",
-          "pub": "Fri, 30 Oct 2026 08:30:47 GMT",
-          "source": "Trefis"
+          "title": "Rocket Lab Shares Rise After Hours as Neutron Advances - Rocket Lab (NASDAQ:RKLB) - Benzinga",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdlI1c0JncnVFbTVOUGxWRzN5MnVyZ3NTNXE2VXFQX2Rfa3NfS2xaY2VKQU9HUHdVOGVfdzhGZ092bkRJQU1hYnBOUG8wSmd2UTVldFBoTno1bzRCTU5wZVVhZDlLQjRSenl4b1AtbnhpZktFRmFaT0E3MktwXzVNanhUNkZob0o1RVQyZGtrWEJyUUE2N0x2RWNZb2NfbDRPSnFsR2NXV2FBUm11T01r?oc=5",
+          "pub": "Wed, 28 Oct 2026 05:48:01 GMT",
+          "source": "Benzinga"
         }
       ]
     },
     {
       "symbol": "IREN",
-      "price": 24.045,
+      "price": 23.665,
       "prev_close": 26.25,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": -8.399999999999993,
-      "drawdown_pct": 68.71991786019659,
+      "day_change_pct": -9.847619047619052,
+      "drawdown_pct": 69.21425893788947,
       "name": "IREN",
       "news": [
         {
@@ -209,12 +209,6 @@
           "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPOS1hcVhBOTlGOW55dG1keTI5WmV2YXVvMHNVemhSa0JQLTU0YUptTjUtMWl5VUVDd1VJZ0R2ZUZkR0M4eHEybE1tbl9ycldSaDA0QTRKVnIyaFlfUFRlcmM3VEY4Rmh3bmFHQ0FRZEJ2ZUFnMnZSVk16NFZ0NF9sWW15czEtOWdvN1Jpdzh0MjAyZ0VXdVU5WDhsOWRSanFXZkZFUEphWFpLT2pDVGRzZHlTTHlFOTRsY2hHWjMzSFduSjlJRFpqTkxlb0VRVmJLTHEzSmZENFZIQQ?oc=5",
           "pub": "Tue, 27 Oct 2026 13:45:00 GMT",
           "source": "24/7 Wall St."
-        },
-        {
-          "title": "Why Are CoreWeave, Nebius, and IREN Stocks Tumbling in Pre-Market Today, Oct. 29? - TipRanks",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMDVReW9aNUlpOC1NOWpmZy1CSjdCTWJfT0J1eUFINDBSdGtsZGNzSjBaZ0NXN2lNMTRQdXhPeklGTlVyTW5nYU5yS2g3NkVlaVlvYkVVbXFfZ2RMYi0tRG5abTBoXzNOUXJ1eWtJRUtGM00tYk5LSTR1ek9wWXB6NHlnb1hxTnFQc0drdzhoMC1sYkJUS2NDTXpKZXFsdjZ6eXh5amFGSXd0Zw?oc=5",
-          "pub": "Thu, 29 Oct 2026 09:44:42 GMT",
-          "source": "TipRanks"
         },
         {
           "title": "IREN Limited: A Strong Buy As AI Capacity Builds Toward Higher Future Earnings - Seeking Alpha",
@@ -227,6 +221,12 @@
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTmw4dlV3cl9aeDA3WWk0ZlAxYnJUS2l6ZS1GZ0ZmMzRtNjNRdjhlM3MtWkotd2I5V092YnBhd3V0MEcwVnJqWElNVldhd25JOWxQYTRQTmF4M09hemMxem5mUl9KelJDYUlaZ3IwaDlTTE8zcDFBZEhyTjh4MmM2V3dDbl90c29zN09TY1NvckxfUDZxcUM5RFdJVGw?oc=5",
           "pub": "Thu, 29 Oct 2026 13:00:30 GMT",
           "source": "Yahoo Finance"
+        },
+        {
+          "title": "Nebius vs. IREN: Which AI Infrastructure Stock is the Better Buy? - Zacks Investment Research",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMEFEWXFmU1dLSVB2RUNscDliR0dWa3NzTG1ucHpnM09neExqOXVrTEhacnRBcGRCcG9HczVFdWdydDZkRzRSaTdZR3hGQlRnNkEtX0pGeUtFbXhTR0dOWDRiYlBoQ0pxS2RjWmhCcGFyc0Z4TGFTLWV3dGh6Ri0zdDR1Z0VYTnBmRGxyb2xjSFdNYXZhVUtyVHI5U3ZjWU9kaXZudXJn?oc=5",
+          "pub": "Thu, 29 Oct 2026 13:16:06 GMT",
+          "source": "Zacks Investment Research"
         }
       ]
     },
@@ -293,8 +293,8 @@
           "source": "Investing.com"
         },
         {
-          "title": "INVISIO AB (publ) (IVSO) Q3 Revenue +40% YoY; Orders +18% - TradingView",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeVRXTVd4dUgzM0NrekV1MTFDemxBWEY0LWdTanhCUHIwZ2RHcTJVQXMzZFhDYjU1MFNGTXBNTFQ1dUJMcjZtTkxZajd5M2ZHaFQtMl9BMDdwUU8teWZfc2pRenh2OE5vV0xHdFcxRG1sTnFVN3hKOWJ1RGVlc0ZSMW1xSU1qTk5pd0xhVHVjZkUxTllZUnNqUGJ3bGstLWRjSEo1RTdYc1lGMlpqQXRZ?oc=5",
+          "title": "INVISIO Interim Report January–September 2026: Strong sales and order intake - TradingView",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQb3VNQlVYUmJsb0NGZGl4YTZGS19VM1J1REl4d1lwVldNUEl6c2RUX2E2S0M2Q3BFb1dEams4MlJkM0JLVkE0NWQyMWhRaXBZWnFNbGxhQVVscWROWS1rQm9WSUc5Wmt5NHVYZHdmSjRGSXcxQlgwNEkxUUwzc2hxWTF0V2dkSHJiUG9RX2w5YmpJdFJWR1VZbFVWZGczQ1I5VGN1ZHlKT1M5dzRrSFgtQ29SaXhnOUdDcnBmWndaeU1sOFdXRGI5NkJPMjJKZ3Zta1BQaXFKR2Q?oc=5",
           "pub": "Fri, 30 Oct 2026 10:00:00 GMT",
           "source": "TradingView"
         },
