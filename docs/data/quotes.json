@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-11-02T19:00:48.219252+00:00",
-  "updated_at_display": "2026-11-02 19:00 UTC",
+  "updated_at": "2026-11-02T19:30:38.067363+00:00",
+  "updated_at_display": "2026-11-02 19:30 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 205.35,
+      "price": 204.309,
       "prev_close": 204.63999938964844,
       "high_52w": 243.37,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 0.34695104205882427,
-      "drawdown_pct": 15.622303488515431,
+      "day_change_pct": -0.16174716117849214,
+      "drawdown_pct": 16.050047253153636,
       "name": "NVIDIA",
       "news": [
         {
@@ -21,9 +21,9 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "Nvidia Stock Rebounding but Its Stock Chart Is Really Ugly - Barron's",
+          "title": "Nvidia Stock Is Rebounding but Stock Chart Is Really Ugly - Barron's",
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTVM2cFd2cHpQRW5qUmlXUGhLMlBHTUc5aVgtSTNGZFNDcGZXM3N6aUR6ZVVCZ3ZUSkdwRi15d2lhOHJTWXAxc2N0RXJ6M0x3U3hBVk5yTktPcS12Rl85b3d0aUN5cVpSUEJaTFlWM2ItUloxcEExTHN1cU9ienBTak5DeDQ?oc=5",
-          "pub": "Mon, 02 Nov 2026 14:42:00 GMT",
+          "pub": "Mon, 02 Nov 2026 18:01:00 GMT",
           "source": "Barron's"
         },
         {
@@ -42,14 +42,14 @@
     },
     {
       "symbol": "META",
-      "price": 612.18,
+      "price": 611.515,
       "prev_close": 614.989990234375,
       "high_52w": 779.8200073242188,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -0.45691641798985255,
-      "drawdown_pct": 21.49726933775894,
+      "day_change_pct": -0.5650482592490135,
+      "drawdown_pct": 21.58254542631196,
       "name": "Meta Platforms",
       "news": [
         {
@@ -80,16 +80,22 @@
     },
     {
       "symbol": "AVGO",
-      "price": 326.479,
+      "price": 325.05,
       "prev_close": 326.0799865722656,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 0.12236673336771342,
-      "drawdown_pct": 34.04464646464647,
+      "day_change_pct": -0.31586930038018407,
+      "drawdown_pct": 34.333333333333336,
       "name": "Broadcom",
       "news": [
+        {
+          "title": "Why Are AMD, Nvidia, and Broadcom Stocks Rising in Premarket as Intel Slips, November 2? - TipRanks",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOa0M2UVdqSTlpaEVjYzEwa25nSnhUd1FWODNOSEF4RGRqTS03aEdTT1BaX1EwZGVWWjRRSm1hUW5DWFJOMVRpbWE5MGhfcEdvTWotbTNZdzY5aEZ1blRndWZnQW5iaEg5UjNjUGdMRUs1RXpNSXVoQ1AxNmpTaE5BRlpYSjhLVGx4R3pHb1R5VWczRVBrY2Fsd0lBNUlTb1lpUmtXOS1ydk4?oc=5",
+          "pub": "Mon, 02 Nov 2026 12:23:35 GMT",
+          "source": "TipRanks"
+        },
         {
           "title": "Broadcom’s Supply Bottlenecks – Not Demand – Continue to Offer Investors a Discount I Keep Buying - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMUxPalNKQXBxWG1wMVQ4anJOTjdocnFHM0R5NXdNRnd4V21vUkMwdFlHVkJXT2ZXZTRBYVJsRFlLTVp2bDFEbzZqNWpPTTZ5STZiZ0ZjOFM4TVpQaWFnQ1FlbDRXb3VubzdiZDRxOU92LWRKQ0pwZGtTNERHblRobkEyRzdiLTFnaFdDQnhzaXhXS2tCVzR0MndkWUZvMkk4X1FDQnNB?oc=5",
@@ -107,25 +113,19 @@
           "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1VU2NERDZhSkxKNDRNQkNJUldabHNCcVR2cE5ISjlOZ1I5bXppV2hrc3YwRW5adnpUWWFGblhqRl8zeXgyM2RCNWFTTktWamRtZ3JmbUN1M25GX2lWa3VtVm1Gb1YtSGNkWTJOMHl6VkxmMFBvc2NWcA?oc=5",
           "pub": "Mon, 02 Nov 2026 13:56:14 GMT",
           "source": "Seeking Alpha"
-        },
-        {
-          "title": "1 Big Winner and 1 Loser From the Upcoming Anthropic IPO - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPalBmUlRGLUptZlNmYWI0dDQxOGNUb3RValBoRzFRWFZNOHVDTkFZeTM5NWMwYklFTVp5TVdwZjFoZVpfN2RPbUI1M0xESE55TjdsXzl2NEVhNFFUSmVGS2ZOclp1cVZLV1YtNkd6cjluMUNwTFRLWWo5X1ZNQVkzRmd3Y3AtS3ZMWHdpa2Q4dTJ3WHpX?oc=5",
-          "pub": "Sat, 31 Oct 2026 23:45:00 GMT",
-          "source": "The Motley Fool"
         }
       ]
     },
     {
       "symbol": "AMD",
-      "price": 477.1,
+      "price": 473.625,
       "prev_close": 504.79998779296875,
       "high_52w": 658.52001953125,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -5.487319426071221,
-      "drawdown_pct": 27.54965895499867,
+      "day_change_pct": -6.175710884873159,
+      "drawdown_pct": 28.077357414716502,
       "name": "AMD",
       "news": [
         {
@@ -156,14 +156,14 @@
     },
     {
       "symbol": "RKLB",
-      "price": 51.705,
+      "price": 51.58,
       "prev_close": 54.72999954223633,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -5.527132409167795,
-      "drawdown_pct": 65.75827814569537,
+      "day_change_pct": -5.755526344935206,
+      "drawdown_pct": 65.84105960264901,
       "name": "Rocket Lab",
       "news": [
         {
@@ -194,14 +194,14 @@
     },
     {
       "symbol": "IREN",
-      "price": 22.485,
+      "price": 22.2,
       "prev_close": 23.950000762939453,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": -6.116913220338661,
-      "drawdown_pct": 70.74931807388315,
+      "day_change_pct": -7.306892305604549,
+      "drawdown_pct": 71.1200738821528,
       "name": "IREN",
       "news": [
         {
@@ -223,10 +223,10 @@
           "source": "TradingView"
         },
         {
-          "title": "B. Riley’s $64 Target Says IREN’s Selloff Went Too Far - TIKR.com",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNEhyNDZxWjU0VlNrbXFhY0doVURqOGlRT0wzN0RsZnpZRnNyZExWQl9uMGNjVGxpVU42UXZOaFcya0RsWkNpZmd5TlZVMElIa0cwYnZPQzFzRm1ROWZQQmhRUUlfREtJcUt5YnlnbmIwb0pNaWdwdGZEQzRvMGZ4blF4Yw?oc=5",
-          "pub": "Fri, 30 Oct 2026 20:55:24 GMT",
-          "source": "TIKR.com"
+          "title": "Why Is IREN Stock Falling on Friday? - Benzinga",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQM3RUZ3d3WGNMRGsxQXJ5ejVwdFZPXzkxaFlSNFBEckI3WklDQkRRbmZadFVIcTNiNlE3YlNTUThVc3V6cGhsVXVfTi1OXzB6NFZQV253a3o4cXRvY2tlUDdpellFRERRUjVQel9FZmYwcUgybzdyVGt1NXUxN2RBdU9BdExzbWNiTVp4RlBOMERZZkw2aHhqS25fbF83UXM?oc=5",
+          "pub": "Fri, 30 Oct 2026 17:52:33 GMT",
+          "source": "Benzinga"
         }
       ]
     },
