@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-11-04T15:30:40.191322+00:00",
-  "updated_at_display": "2026-11-04 15:30 UTC",
+  "updated_at": "2026-11-04T16:00:48.454251+00:00",
+  "updated_at_display": "2026-11-04 16:00 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 204.58,
+      "price": 202.748,
       "prev_close": 206.69000244140625,
       "high_52w": 243.37,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -1.0208536535309172,
-      "drawdown_pct": 15.938694169371734,
+      "day_change_pct": -1.9072051840164657,
+      "drawdown_pct": 16.691457451616884,
       "name": "NVIDIA",
       "news": [
         {
@@ -42,14 +42,14 @@
     },
     {
       "symbol": "META",
-      "price": 631.73,
+      "price": 635.127,
       "prev_close": 621.030029296875,
       "high_52w": 779.8200073242188,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 1.722939342440403,
-      "drawdown_pct": 18.990280569019653,
+      "day_change_pct": 2.2699338257580597,
+      "drawdown_pct": 18.55466722644128,
       "name": "Meta Platforms",
       "news": [
         {
@@ -80,20 +80,20 @@
     },
     {
       "symbol": "AVGO",
-      "price": 329.08,
+      "price": 325.33,
       "prev_close": 332.1300048828125,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -0.9183165742248034,
-      "drawdown_pct": 33.51919191919192,
+      "day_change_pct": -2.0473925218565556,
+      "drawdown_pct": 34.276767676767676,
       "name": "Broadcom",
       "news": [
         {
-          "title": "NVIDIA Rises 3% Despite AI CEO’s Warning on Chinese Chip Competition; AMD Climbs 5%, Broadcom Gains 3% - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNLTVQcU5XdnlpdndSb1VzQ1dKbllnTW9YWXAyc2dNdjhuWElXenRMa0xpcG1XbV9lVnJTaXktM1ZWM2FxVzV3eUxlLU5sWVJUX1g1MGdGUFpjVUZMVk9HcHpDcEVZNm9VREtQSzBNVFRfTUdpb25ncXhaNkJzWU8tN1lyUkViODJOQlJNWG5HQ3Z0eU5X?oc=5",
-          "pub": "Tue, 03 Nov 2026 18:48:52 GMT",
+          "title": "Buy the Dip or Wait? Three Scenarios That Could Shape Broadcom Stock Through 2028 - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZDlvczV0OU95UFRQc1IzY29kX0Zyem15cWVxUGpodFJBbW1BOGhVUWtvLThmejlPYlpOeFNxbUF5M1JBc081dnhndTl4dUxtT3hNU2s0by1URzY1Yjh4aGtQbTVsWWFMUUxObzN0aUtBZFM3bEVvUWhwb2lmbUFrSVhwRXUxbDhBcXFTdFR0d3p6T2VDem5ySA?oc=5",
+          "pub": "Wed, 04 Nov 2026 15:33:57 GMT",
           "source": "Yahoo Finance"
         },
         {
@@ -118,32 +118,20 @@
     },
     {
       "symbol": "AMD",
-      "price": 492.76,
+      "price": 483.51,
       "prev_close": 483.8999938964844,
       "high_52w": 658.52001953125,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 1.830958093669855,
-      "drawdown_pct": 25.17159913365153,
+      "day_change_pct": -0.0805939039891394,
+      "drawdown_pct": 26.576264098368075,
       "name": "AMD",
       "news": [
         {
-          "title": "AMD stock jumps 8% on earnings as data center revenue nearly doubles - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBfVXVMaFFzOXpSSmhDS2xlZWZLZDk0V2w5MHpTSnZ3d2c5bkMzRDhwbzhURWpMMVcwX3ZiME8ybmU4UHR1ekdtVlUwRTYxcTI0T1dadVhheUQ0LVVpWnRqYjdmeDkxMGJKQXBkNUtpaEVKZVlXNEhYRdIBfkFVX3lxTFAwT0pLTUtFX3FhLU4tWFFuU3JjMXF4NWxpWFNVZEoxeTdqMVc2d201ZHRMdXV4cEg4VGNnd0RDRmhKbnNYZndMa1hhMzZ3Y0lUdk82SUprYVVibVZQT19vR05WaGZKZlBzcDFLZWNzczZkb0pDN180UTZ5MTRuUQ?oc=5",
-          "pub": "Tue, 03 Nov 2026 21:17:55 GMT",
-          "source": "CNBC"
-        },
-        {
-          "title": "AMD’s stock jumps after earnings. Here’s what investors need to know. - MarketWatch",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1lVGU5NEVEWG1nRDNVVF8ySlVsZjFrbnRKMnJjb2U1N19hN2RYV0JwQWszcXBnd2JZaUROajNzRzk1TkVBUC10SXZqb1JsZjF5MC0xeWN4RDlMZS03Y3oxR0t2OHNaeC1SN2lURWFSanhvTWpyY0ZwZ3Zn?oc=5",
-          "pub": "Tue, 03 Nov 2026 23:53:00 GMT",
-          "source": "MarketWatch"
-        },
-        {
-          "title": "Stock market today: Dow, S&P 500, Nasdaq futures whipsaw after Democrats take control of House, Senate - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOVJpdWloYmdyVkpKX0E1LTQzNm5LMnlnYkQ3UktwbU5OUWJ2MEpEQUgxWEQ5bk1FQzhydGhaVmxsSG9hMGdFUjFiWTBGTzQzcHNnVWtZaE54YUlhTVZLc29yQnM4Mk9pVUJNaDl6eG9YNUhnamdjMmp4UFFEWUZUWEdUQlhndDdfa29KX2xJTlRJcGlnWG14TG9YeW5VZTFTdzM5Y19mclhEaWN5U3ZEZmprTG9wTjBr?oc=5",
-          "pub": "Wed, 04 Nov 2026 14:07:52 GMT",
+          "title": "AMD stock rises after Q3 earnings beat, as data center revenue climbs 97% - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPR2NPYWttRXRkSERHSVlBbkU1QzVTZEZCaW1lMHYwSEhFM3oxQnlBdTlodGNJeFpSM2E1UFZiUGdHVFRHUjNTQW95VmlYNy1jNDNDeWpNMnlOQjFhYkRuNVh3WVNrYU9zeGc0MHhGc0gzOFp0U2h3N3hqTC1BVVhMcGtZdUlMN285ckpaU2VFeUlRSU5LMnMteTctTVJSdGU5V2g3WWRTZ2VRa2JaOUVxNEFRQ0M3bVFSdmdSaDRCZ0FFYl81MzVkZlg0OA?oc=5",
+          "pub": "Tue, 03 Nov 2026 21:35:21 GMT",
           "source": "Yahoo Finance"
         },
         {
@@ -151,19 +139,31 @@
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVVlnWGltWWs0ZFlYUDdIMWFrQ2w4S0ZiSlhNVlBkYlprbUswYzBXZ1dWZ0VXYVJPV2dUVWhROG85V0laQVNZVGVXcENoTFVoa0stQkNmYWZ0VXVJUmFjQWJiZWJKSm1fLXBMTUZkRlFmekN5OGZpaVpTQi1RYTZlTXBJZWJwUlI1WFB6Nm9KLS1iSHdPZEViaVA2NGlTSnowc20wTFVLYk9CNFJvOUVmNWpZaENSaVJmWjAxMlNDblJvZw?oc=5",
           "pub": "Wed, 04 Nov 2026 14:14:00 GMT",
           "source": "Investing.com UK"
+        },
+        {
+          "title": "DA Davidson raises AMD stock price target to $600 on data center growth - Investing.com UK",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQOTNaV21HbTNSWDgxUTdJWHUyemptc3NjdUdhQkY1TEoyMUU0eEYzYWJvUW9sYnk3NzhaNGpPWkZ2ekFHTGJJUXlmR3JvV2d2MkprdlhZT1hHdGZ1aUdxaVlGMW9vZjVtazFXQUVMT0VGa2xjWlg2VXR4dGNyX3Q0T3Bwb0gwcVVIVnZRbXA3cjQ2UGtsY2dDQ3Z5eWxYM0lZcDZuR21qcUZ4ZURjRTMyY1N3WnNiNDVuVkdJYUppQ3l1NmdlX3doUkpKdw?oc=5",
+          "pub": "Wed, 04 Nov 2026 14:56:00 GMT",
+          "source": "Investing.com UK"
+        },
+        {
+          "title": "Stock Market Mostly Higher On Election Day, But Apple, Shopify Slide; AMD Jumps Late - Investor's Business Daily",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNWp4aG5EV1lESkNTbGR1eElCYVFlUmNELVBSZE5nUmxDenoxRzVzQnZDY3hRczFrdUNwa0pxZHZXT0ZTWWhmbzAtSWNYdEFNTnpMaWFyZWlpanlISHZ1cXpNXzJ6ci1OeUc0bWN5VHlvMmVnQzFVckVCV1ZvU2tEMXdLbkpfSVdGZ0p6aHBnSFRYaGtEcXctYkdPN2YwT08xa0tKbldNaVhtaVBkc2ZmZmd4RzJaajkxMjVDaQ?oc=5",
+          "pub": "Tue, 03 Nov 2026 22:56:00 GMT",
+          "source": "Investor's Business Daily"
         }
       ]
     },
     {
       "symbol": "RKLB",
-      "price": 53.0,
+      "price": 51.57,
       "prev_close": 54.43000030517578,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -2.627228177766153,
-      "drawdown_pct": 64.90066225165563,
+      "day_change_pct": -5.254455794856613,
+      "drawdown_pct": 65.8476821192053,
       "name": "Rocket Lab",
       "news": [
         {
@@ -185,23 +185,23 @@
           "source": "TipRanks"
         },
         {
-          "title": "RKLB’s Iridium Deal Draws Heat As Globalstar Echoes SpaceX Concerns — Rocket Lab Seeks Fast FCC Approval - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbklGMjZQSWNDa21yVFQ1RHQzMHJFZUhGNURuMkNjYmdCal8xRzJfcUxpQTV3bDZrRDZ6ZGQ2QUNuQjdyMWVjb2xKMXgzRkltRHdoaVRHWGVlZnhTb0FEcHJ1SldYMkJnWVlZZllJT3RYRjV5WUN0YXV1UGFob0padE9uT0xHSnhzckFCUHFlUGJ6RHZBTl9Yaw?oc=5",
-          "pub": "Tue, 03 Nov 2026 06:47:00 GMT",
-          "source": "Yahoo Finance"
+          "title": "Rocket Lab to Report Q3 Earnings: Should Investors Hold or Fold? - Zacks Investment Research",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMGszckJUWHpHSnN6XzVqVFZsUkdnNmFYTDZxYldhUHFDemFCNEZEN0NKOVdoWDdnTHJmR2ZJdDVQSHU3QUlzY3YweDBCT0otOHJSNFdoLVk0UWVkdDFPVHM1aXJXWklPVVU3LXBKRk1CWDJ3WFRDSW8wZ2hYMnoxZ21yeTNIa1VRTmNIX0pROFgtUC0yeU1VNHY2aWdTb1ZhMEtnQ3RB?oc=5",
+          "pub": "Wed, 04 Nov 2026 15:31:38 GMT",
+          "source": "Zacks Investment Research"
         }
       ]
     },
     {
       "symbol": "IREN",
-      "price": 22.08,
+      "price": 21.525,
       "prev_close": 24.459999084472656,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": -9.730168330151306,
-      "drawdown_pct": 71.27618159089792,
+      "day_change_pct": -11.999179044678753,
+      "drawdown_pct": 71.9981797438441,
       "name": "IREN",
       "news": [
         {
@@ -232,14 +232,14 @@
     },
     {
       "symbol": "MILDEF.ST",
-      "price": 253.0,
+      "price": 252.3,
       "prev_close": 256.8999938964844,
       "high_52w": 264.8,
       "currency": "SEK",
       "yahoo_name": "Mildef Group AB",
       "exchange": "Stockholm",
-      "day_change_pct": -1.518098088416399,
-      "drawdown_pct": 4.456193353474324,
+      "day_change_pct": -1.7905776589227522,
+      "drawdown_pct": 4.720543806646525,
       "name": "MilDef Group",
       "news": [
         {
@@ -270,14 +270,14 @@
     },
     {
       "symbol": "IVSO.ST",
-      "price": 212.4,
+      "price": 213.2,
       "prev_close": 213.39999389648438,
       "high_52w": 332.0,
       "currency": "SEK",
       "yahoo_name": "INVISIO AB",
       "exchange": "Stockholm",
-      "day_change_pct": -0.4686007146604907,
-      "drawdown_pct": 36.024096385542165,
+      "day_change_pct": -0.09371785482871146,
+      "drawdown_pct": 35.78313253012049,
       "name": "Invisio",
       "news": [
         {
@@ -308,14 +308,14 @@
     },
     {
       "symbol": "NORBT.OL",
-      "price": 164.1,
+      "price": 165.1,
       "prev_close": 163.6999969482422,
       "high_52w": 244.8000030517578,
       "currency": "NOK",
       "yahoo_name": "NORBIT",
       "exchange": "Oslo",
-      "day_change_pct": 0.24435128846354084,
-      "drawdown_pct": 32.96568711018173,
+      "day_change_pct": 0.8552248490269994,
+      "drawdown_pct": 32.55719038324805,
       "name": "Norbit ASA",
       "news": [
         {
