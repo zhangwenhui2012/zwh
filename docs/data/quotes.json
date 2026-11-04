@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-11-04T14:57:33.030824+00:00",
-  "updated_at_display": "2026-11-04 14:57 UTC",
+  "updated_at": "2026-11-04T15:00:48.870913+00:00",
+  "updated_at_display": "2026-11-04 15:00 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 204.14,
+      "price": 205.53,
       "prev_close": 206.69000244140625,
       "high_52w": 243.37,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -1.2337328420754914,
-      "drawdown_pct": 16.11948884414678,
+      "day_change_pct": -0.5612281328097103,
+      "drawdown_pct": 15.548342030652918,
       "name": "NVIDIA",
       "news": [
         {
@@ -42,14 +42,14 @@
     },
     {
       "symbol": "META",
-      "price": 630.547,
+      "price": 631.54,
       "prev_close": 621.030029296875,
       "high_52w": 779.8200073242188,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 1.5324493589947752,
-      "drawdown_pct": 19.141982242340294,
+      "day_change_pct": 1.6923450086663707,
+      "drawdown_pct": 19.014645165749094,
       "name": "Meta Platforms",
       "news": [
         {
@@ -80,14 +80,14 @@
     },
     {
       "symbol": "AVGO",
-      "price": 331.33,
+      "price": 332.71,
       "prev_close": 332.1300048828125,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -0.24087100564575206,
-      "drawdown_pct": 33.06464646464647,
+      "day_change_pct": 0.17462894308273136,
+      "drawdown_pct": 32.78585858585859,
       "name": "Broadcom",
       "news": [
         {
@@ -118,14 +118,14 @@
     },
     {
       "symbol": "AMD",
-      "price": 497.0,
+      "price": 500.845,
       "prev_close": 483.8999938964844,
       "high_52w": 658.52001953125,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 2.707172198542737,
-      "drawdown_pct": 24.527731084959836,
+      "day_change_pct": 3.5017578667588327,
+      "drawdown_pct": 23.943846026653333,
       "name": "AMD",
       "news": [
         {
@@ -156,14 +156,14 @@
     },
     {
       "symbol": "RKLB",
-      "price": 53.085,
+      "price": 53.24,
       "prev_close": 54.43000030517578,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -2.471064298428607,
-      "drawdown_pct": 64.84437086092714,
+      "day_change_pct": -2.1862948714013166,
+      "drawdown_pct": 64.74172185430463,
       "name": "Rocket Lab",
       "news": [
         {
@@ -194,14 +194,14 @@
     },
     {
       "symbol": "IREN",
-      "price": 22.195,
+      "price": 22.33,
       "prev_close": 24.459999084472656,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": -9.260012956870836,
-      "drawdown_pct": 71.12657837001719,
+      "day_change_pct": -8.70809143171552,
+      "drawdown_pct": 70.95095719767893,
       "name": "IREN",
       "news": [
         {
@@ -223,31 +223,25 @@
           "source": "TradingView"
         },
         {
-          "title": "Applied Digital Surges 9% as AI Data Center Stocks Rebound From Financing Jitters; IREN Jumps 9%, Nebius Climbs 7% - 24/7 Wall St.",
-          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNUXBfVXNJeU9idHFIOXVmcjdXVUhwenZSQWwxb05hN0FJYTkxOVZRUk80UVV2UnNOeVl1bHZVbU8xcFFrakQ3c0xaOXZCUTZteTVGN0FkeFl3N25WZ0dmVGtXcTU1eTFyS1U1NEF0Yl9pZ1Bya0VJTmk3Zm5sWW1wclRhdkRIbHUzMGN2WkZ2azlOa0lZRXMweS1mc3B2S0FwMW5HVUtyaG1nYTgxa2xDdWc4emo5NnNNb1B3Qk8ydUxHT1RLeE9NUkxxUHdnSlllaldrZklpc2dHU0FRZjZVVHhIeC1leHgw?oc=5",
-          "pub": "Tue, 03 Nov 2026 17:53:00 GMT",
-          "source": "24/7 Wall St."
+          "title": "Applied Digital vs. IREN: Which Technology Stock Is a Better Buy for 2027? - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQanhOcnNPVURyV2hwNDdvRUFEQlZESWFaZDZCVEIzSXY0V3k5blZLZ3VzdjVDcFpNSUt3M3QwYkRPaG1Gay02dGphaFFJQWVQQnVyNkRpZngyZ3dId3N3QmtnS2gwT0lQZl9mSmtjUFpELUMxUU5OMmhxRVdVTjhvU3lCeDlHM2w1OG5OSDdmYm5sX0FNWm9YYzBJVDFOMVBJSF83ZVUtaV80cjJfMy1udXpkMDZyNVRzdk16M0pXc1pfZw?oc=5",
+          "pub": "Mon, 02 Nov 2026 20:21:00 GMT",
+          "source": "The Motley Fool"
         }
       ]
     },
     {
       "symbol": "MILDEF.ST",
-      "price": 253.3,
+      "price": 252.5,
       "prev_close": 256.8999938964844,
       "high_52w": 264.8,
       "currency": "SEK",
       "yahoo_name": "Mildef Group AB",
       "exchange": "Stockholm",
-      "day_change_pct": -1.4013211296279555,
-      "drawdown_pct": 4.342900302114804,
+      "day_change_pct": -1.7127263530637975,
+      "drawdown_pct": 4.645015105740185,
       "name": "MilDef Group",
       "news": [
-        {
-          "title": "Mildef Group AB (8QA.SG) Seasonal returns chart - Yahoo Finance Singapore",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB4NHJId1VQcDM3T2VvX2x6STVRWUNaOFl0VjQ2OW1tZ0t6c3p2QTFFcDZHN1hsc1VaRlQ1VkJ5YkVYZjRuX3FCb0hlM3pzQmZFRndiWF9raU9Dc3Z1aTNVc1MzLWc?oc=5",
-          "pub": "Wed, 04 Nov 2026 07:10:27 GMT",
-          "source": "Yahoo Finance Singapore"
-        },
         {
           "title": "Making Battlefield Tech Fuels an 80% Rally for Swedish Stock - Bloomberg",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWFZjRE0wOVJoN0E4MHI1dUJOOHZySlIzcHRjbXA2LVlnOW9FbGx4VzktajJlaXJ1S0VhRm8zMUVSWjhVekY5RGxsaWR3WWRQZ2pFdjZOQzF0Ml9yb3FJS3FycTJjZExXMy1VcmpwOVdiQjdvaEhONlh2Y28yNDVKRENpRWVoel9nV1VJU2dYMUlybTZkUFlVZEIya3VETV9sTlJ4dEVPd0t5UDFJMU9Ec0ZvRE0?oc=5",
@@ -265,19 +259,25 @@
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1uSkVRQVNtMnlnOEhIb21LaFd0UE0xVngwYVBXamlRLWE5NXR0MFh0eUNZVm96QlF3UFF1VmdsZjVIbUVQNUI3cW9KX1ZTTlZfcmQ4R0I4RThOd2lWcU1BdHpZWGhOelBv?oc=5",
           "pub": "Mon, 02 Nov 2026 21:13:35 GMT",
           "source": "Yahoo Finance Singapore"
+        },
+        {
+          "title": "MilDef Group (OM:MILDEF) Stock Forecast & Analyst Predictions - Simply Wall St",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQV9TTFBVOUxkRUxRRFd6bWdhWEs4QThCZE9mVnJzMUZFY09QaWJqM0pjUHBjTkFCRTV5NWtlbDFoSl9CY2l1VUNfbkRvcm1pdmhRVjdCTXZBbzBPX2ZNbmRqNkhEQVRwMW92b1VmRnZicEM3MjdyWTZHd3pjQm5LSFZYbWpuSjZINDk4?oc=5",
+          "pub": "Fri, 23 Oct 2026 07:00:00 GMT",
+          "source": "Simply Wall St"
         }
       ]
     },
     {
       "symbol": "IVSO.ST",
-      "price": 212.8,
+      "price": 211.4,
       "prev_close": 213.39999389648438,
       "high_52w": 332.0,
       "currency": "SEK",
       "yahoo_name": "INVISIO AB",
       "exchange": "Stockholm",
-      "day_change_pct": -0.2811592847445944,
-      "drawdown_pct": 35.903614457831324,
+      "day_change_pct": -0.9372042894502247,
+      "drawdown_pct": 36.325301204819276,
       "name": "Invisio",
       "news": [
         {
@@ -308,14 +308,14 @@
     },
     {
       "symbol": "NORBT.OL",
-      "price": 164.5,
+      "price": 164.8,
       "prev_close": 163.6999969482422,
       "high_52w": 244.8000030517578,
       "currency": "NOK",
       "yahoo_name": "NORBIT",
       "exchange": "Oslo",
-      "day_change_pct": 0.48870071268892773,
-      "drawdown_pct": 32.80228841940826,
+      "day_change_pct": 0.6719627808579722,
+      "drawdown_pct": 32.67973940132814,
       "name": "Norbit ASA",
       "news": [
         {
