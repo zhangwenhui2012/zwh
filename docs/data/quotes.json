@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-11-04T00:54:01.226290+00:00",
-  "updated_at_display": "2026-11-04 00:54 UTC",
+  "updated_at": "2026-11-04T01:00:44.674109+00:00",
+  "updated_at_display": "2026-11-04 01:00 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
       "price": 206.69,
-      "prev_close": 202.05999755859375,
+      "prev_close": 204.63999938964844,
       "high_52w": 243.37,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 2.291399830420977,
+      "day_change_pct": 1.0017594881087837,
       "drawdown_pct": 15.071701524427827,
       "name": "NVIDIA",
       "news": [
@@ -19,12 +19,6 @@
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbGJJZXFlWmhxcWo4RHFDWXFyN1JkcER6LW11MkZNaUpqb09hLS1ycVEzcjFVUkdwbjFxdzRQaEVrdTlUa1NVNlZ4ZDJVMUpfVHQzdlVHdE1zRVptbm9CSVh1R2hqSHBUYy1HMGQyencySVZnWV82VVBlNlJ4eC1HYTZmMzBaX0JXSGw0NEpWNkt6eUY5ZkRfOTZmTUxuakxscGZuRU5nVVZLLXl3X3Bv?oc=5",
           "pub": "Mon, 02 Nov 2026 23:17:00 GMT",
           "source": "The Motley Fool"
-        },
-        {
-          "title": "Why Chip Stocks AMD, Nvidia, and Intel Are Rebounding in Premarket After Steep Losses, November 3 - TipRanks",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZGxPaHBJck5sei1NWnR3am1TZ0RZb1VjaXdvcUs3Ty1BNDNKcG5uVkluRGhJRkFGSFNOTHFmaEUwZkxQZi1LSjNqcklLYU93YXFNYWt6SmJucFNORHVlOHVWN2dZMFpTQXduMy1zTWhMUGJTY0JNSVBmTU9Mc3F6WE4tQmJDS1pnWmU5ekpoRkk5dEVnVEJkMFZRSE1HMmFUSkoxcjVvMndleUNlSHdKQWk1U1ZaUG1ab2xwNkZkVFhrR2F2YnlqbVJBTQ?oc=5",
-          "pub": "Tue, 03 Nov 2026 12:00:55 GMT",
-          "source": "TipRanks"
         },
         {
           "title": "Nvidia Stock Jumps and It's Set to Surpass Apple Again - Barron's",
@@ -37,18 +31,24 @@
           "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPU2poS3JuenplNTVFT0trdDVMN1RKR3VGOTZaSGZlVVRaU251eVlFZDlla1Y2N3NRbXdQREFLWlJiR21WSU5fR0VqbTdqbUoweUNjTEpaTVEyYjk4a3YzZ2plbUwyTUNsaUxRcERudGRacVdOaGkzbzNoNEVUclVjODZUOXlsUUFpOFoxY2VoN0Y0ZmdQREs5dXVrZmxfZ0doal81dGdzTy1LcGxWdjd0V0EyNmRndDhEWWZXM1UzMTJoYVppdUpPS29URkNOTnN3Uk0xUXlZMTQtcVhfa3JjLVBpZnV6VUdCQXl0UEVsWQ?oc=5",
           "pub": "Tue, 03 Nov 2026 08:43:00 GMT",
           "source": "WSJ"
+        },
+        {
+          "title": "Invesco QQQ (QQQ) Sells Apple and NVIDIA on Oct. 30 - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNajBlaFhRYTNBbG14S3VNODdYMnc1OXNKdE92X3IzLVluX2NtWUxMUG04Y1VzOHI4aEFVRFpuUnRxRmFxM085a3F0Mi1jOTc0U1pVREhjVGt0NndLT0hEdzN6dkNnUEZHLUhYQ2lzY2ZzOENXazBDSWtiUktiV0poRFRlVnY5NVE2MmFHOF9kRWpnNklwdEQ0?oc=5",
+          "pub": "Tue, 03 Nov 2026 11:04:22 GMT",
+          "source": "Yahoo Finance"
         }
       ]
     },
     {
       "symbol": "META",
       "price": 621.03,
-      "prev_close": 606.72998046875,
+      "prev_close": 614.989990234375,
       "high_52w": 779.8200073242188,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 2.3569001024478804,
+      "day_change_pct": 0.9821313942562061,
       "drawdown_pct": 20.36239206904576,
       "name": "Meta Platforms",
       "news": [
@@ -57,6 +57,12 @@
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTEpWRWszazhBX3BaNmN2eWE0TzZEdVFtZmdlamRQWnlLRUxOb3FZSXRHTlVKWnJYRlRWaGNOOGpobHZ5bjZrVTdZZVFRTXlRVmpiMzktUU93RzJ1LVcxV0lsdWg4UUhRVVgtVDhyMXBOeGZoTm91aGZRUktZWWcwNVNIT0gxQ3hraVMxSk92UUZyMEVWMm1r?oc=5",
           "pub": "Mon, 02 Nov 2026 10:06:40 GMT",
           "source": "Morningstar"
+        },
+        {
+          "title": "What Are Wall Street Analysts' Target Price for Meta Platforms Stock? - Barchart.com",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYmtUOURXZENzTi1wQjRHREwwczFiRUh5Y3dPYXdXaXJoSlp2S2xyS3FFX2p1cG55SG1GdHVPTkFLZ25IOTRnbGR0bEJ6YVIxZVpKTTc0QnNwZTJBV1pLVU9Ycm9QeDZTNmRxQ1NKS0EwQWtERFRNbDMzSVhyN0twdnlqWTFCQlp4b3lXWkY3N0RuQmFSWllmUVVVVmVCQkFEc3lKYTRpVmhaTm9CUU5wWQ?oc=5",
+          "pub": "Mon, 02 Nov 2026 12:10:52 GMT",
+          "source": "Barchart.com"
         },
         {
           "title": "Meta Platforms: Even With AI Growing Like The Cloud Giants, The Shares Are Overvalued - Seeking Alpha",
@@ -69,24 +75,18 @@
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQczByTk95VmVDbS1BMl9qQUdobDhqRVZVLTBiMGxNSFpuWmNzQkxtM0VrRmlQUWZIWVdIRmtLdi0wTmk0cTRTeE9xNS1iRll1Zm5aYzdFTUg4QUhybWFqZHMtdEdqOG1oZjhfWHRHa3JlT1V6RlVQQlNTU1otM05pd2MyQXZySXFmS25LWVEySlRoVGJzaExIYg?oc=5",
           "pub": "Mon, 02 Nov 2026 10:02:00 GMT",
           "source": "The Motley Fool"
-        },
-        {
-          "title": "Meta Platforms (NASDAQ:META) Stock Price Up 2.4% - Still a Buy? - MarketBeat",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSGJkbkQ4Y0FTektha3RFbUJMeWw2bEs4OWUtdjFFMDE2cjk5RW1GQTAzR0dmY2tqbENiODlnaFBLVGNjRGtxX3VRcGdtb0MyVzhVRDBINkkzYkFMR3NSNGFHWjdzME12Z2tWcUZOcmlCUUhMVWZ4bW5pTmM1M3ZiUFhzYS03OW0yMUV1TGRrTHJPV1RDWndDc255NGdPUVl4d0lyc0ZLejNlcmpOZ0c4S1BxN21VMTg?oc=5",
-          "pub": "Tue, 03 Nov 2026 22:41:09 GMT",
-          "source": "MarketBeat"
         }
       ]
     },
     {
       "symbol": "AVGO",
       "price": 332.13,
-      "prev_close": 322.2300109863281,
+      "prev_close": 326.0799865722656,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 3.0723361189631455,
+      "day_change_pct": 1.8553771089516315,
       "drawdown_pct": 32.903030303030306,
       "name": "Broadcom",
       "news": [
@@ -119,12 +119,12 @@
     {
       "symbol": "AMD",
       "price": 483.9,
-      "prev_close": 466.8399963378906,
+      "prev_close": 504.79998779296875,
       "high_52w": 658.52001953125,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 3.654357766244523,
+      "day_change_pct": -4.140251247696224,
       "drawdown_pct": 26.517040386342188,
       "name": "AMD",
       "news": [
@@ -157,12 +157,12 @@
     {
       "symbol": "RKLB",
       "price": 54.43,
-      "prev_close": 52.06999969482422,
+      "prev_close": 54.72999954223633,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 4.532360896883904,
+      "day_change_pct": -0.5481446094382154,
       "drawdown_pct": 63.953642384105954,
       "name": "Rocket Lab",
       "news": [
@@ -195,12 +195,12 @@
     {
       "symbol": "IREN",
       "price": 24.46,
-      "prev_close": 22.020000457763672,
+      "prev_close": 23.950000762939453,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": 11.080833294787919,
+      "day_change_pct": 2.1294330722933723,
       "drawdown_pct": 68.18004536745305,
       "name": "IREN",
       "news": [
@@ -211,9 +211,9 @@
           "source": "TipRanks"
         },
         {
-          "title": "Applied Digital Surges 9% as AI Data Center Stocks Rebound From Financing Jitters; IREN Jumps 9%, Nebius Climbs 7% - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQemkwVzN4c3hvRW4wZUdhOXlqY1QyQUxpdlFIQ20tWk1qOUlCajVmcDBsWmhJM0pabUJaVnJkZVROeU4tcXJjS0gtTGJ0RWVuRnZrYzNzXzRqOFdBTjJ5YVZuTW42cW5RZWtyVFJueURqOXJ1NEtZSVE2Wmp6ZFZBT1ZmOXFtcVNSdkMzblU4ay1YTkpkMEkw?oc=5",
-          "pub": "Tue, 03 Nov 2026 17:53:59 GMT",
+          "title": "Why Did RDDT, IREN, MBLY Stocks Tumble To 52-Week Lows Last Week? - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNa3hSUlJ2ZlVfWG1aN2ZNaExGQUYtT21laTNlbHZwWnV6NjZ5MnZDVmIwZFhzcWY5Z2x2T2VabkxWYS11YW9LQUJxR3d2cENtcTdkQmlPTnlfQzJJaHJUakNDVTg0RElQOWZZR3NCR0pSWGdyd2FfRnpWM3NVbGF5WUZwZEY5d2RSUkhVbFQ3Njk?oc=5",
+          "pub": "Mon, 02 Nov 2026 04:00:00 GMT",
           "source": "Yahoo Finance"
         },
         {
@@ -223,10 +223,10 @@
           "source": "TradingView"
         },
         {
-          "title": "Before You Buy IREN Stock, Consider This Funding Gap - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNnptSzZYR3NSQnFVejUtbmJibnZiVUVZY3FjS1dxTm5GTHJjSW9xNGdmY29ZRGhZSHhvQUo4aFhaQnFPWGFNWUxJVmhpUWtlUVZMVjI4aXRUN0Q0bFlkeExKakIzMmNCT1RKN3FzU0h1MUF3eDQ4cmdqNlZYZTBOc1RPa0dycXN6cGhKNFVybkV3TUllVWFSZ2RB?oc=5",
-          "pub": "Tue, 03 Nov 2026 22:36:02 GMT",
-          "source": "The Motley Fool"
+          "title": "Applied Digital Surges 9% as AI Data Center Stocks Rebound From Financing Jitters; IREN Jumps 9%, Nebius Climbs 7% - 24/7 Wall St.",
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNUXBfVXNJeU9idHFIOXVmcjdXVUhwenZSQWwxb05hN0FJYTkxOVZRUk80UVV2UnNOeVl1bHZVbU8xcFFrakQ3c0xaOXZCUTZteTVGN0FkeFl3N25WZ0dmVGtXcTU1eTFyS1U1NEF0Yl9pZ1Bya0VJTmk3Zm5sWW1wclRhdkRIbHUzMGN2WkZ2azlOa0lZRXMweS1mc3B2S0FwMW5HVUtyaG1nYTgxa2xDdWc4emo5NnNNb1B3Qk8ydUxHT1RLeE9NUkxxUHdnSlllaldrZklpc2dHU0FRZjZVVHhIeC1leHgw?oc=5",
+          "pub": "Tue, 03 Nov 2026 17:53:00 GMT",
+          "source": "24/7 Wall St."
         }
       ]
     },
