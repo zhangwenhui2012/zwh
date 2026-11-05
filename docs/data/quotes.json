@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-11-05T18:30:39.943802+00:00",
-  "updated_at_display": "2026-11-05 18:30 UTC",
+  "updated_at": "2026-11-05T19:00:45.864096+00:00",
+  "updated_at_display": "2026-11-05 19:00 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 183.08,
+      "price": 183.01,
       "prev_close": 200.1300048828125,
       "high_52w": 243.37,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -8.51946458143357,
-      "drawdown_pct": 24.77297941406089,
+      "day_change_pct": -8.554441845358093,
+      "drawdown_pct": 24.801742203229654,
       "name": "NVIDIA",
       "news": [
         {
@@ -21,42 +21,42 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "Options Traders May Not Be Giving Up on Nvidia -- WSJ - Moomoo",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZjNtVmxNMzI3SnJza3FPYVJnQzdaVWdZdWlmYUdUTWRDRmhPZGp1QVpwSE5GZHc3dHRjYWlhT2xqWVB3dVc5N05QUHdNV2lEVC1vamdROWFyZDAxX1RVWkw0eVFEY1BBdmtFTE1qUWdacG1mYy1BSEJaVGh3TXQxc3M4V1pJdVNfczFoZVhzQktFSzFDU3N3OVpB?oc=5",
-          "pub": "Thu, 05 Nov 2026 18:15:07 GMT",
-          "source": "Moomoo"
-        },
-        {
-          "title": "The AI Selloff Is Getting Worse. Nvidia, Dell and Data Center Stocks Are Plunging Hard. Is It Time to Buy the Dip? - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPNjRNOUNYd3lzU0g4SWkyTmpKRVZ5LUxDcUlDLTE4NHRpZl9KbXE5dlRNeEhrajNMY3NITWNIaDJ4eUQyRXRDUS01bUZXVVJGRFVRU19NeS04dFdUdTNoZHpzYm1NOHdUNlA3MXBKcG4ySHk2cWRldUExTkVRRzlUUVVRU1RMNnZwRl9kNlppa3YwanFTa3cwbXZYLW5yQWFjVW01NXRWUFRuaVM5WWNqdWo3clRLeTBHV04zMnpXSWZwSnc3RFcwQjdUZWY0c01hME9BVEpCQjBzZlE0alMwbjJlRWJkaXdW?oc=5",
-          "pub": "Thu, 05 Nov 2026 16:19:00 GMT",
-          "source": "The Motley Fool"
-        },
-        {
           "title": "US Tech Stocks Wipe Out $1.7 Trillion as Nvidia, AMD Sink - NVIDIA (NASDAQ:NVDA) - Benzinga",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVEtSSk90bnR0SzRoTHZrZnlvbW5YN2JEbjh2cThrRUF6bHpxemtNMXZRbVJKZDNkQWpnVUxULUNxamhIampHdWJEUkdnRzRaOXFxQm1KTTdVajlLZmxxTGc3NUJFY3lpNmptaGczckdHel9GdUc4RnB6UUt0bUNBdDduTVVRQXRwd1lxeHNaS3p0R1l5UjZyOVFHYmdfVjF5Qk9jS1pjamxLMGt6ZGNFeGFZUFEyWlE?oc=5",
           "pub": "Thu, 05 Nov 2026 16:47:29 GMT",
           "source": "Benzinga"
+        },
+        {
+          "title": "More drops for Nvidia and other AI chip stocks erase Wall Street's rally from the day before - LancasterOnline",
+          "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQN21PaEZ1SU5OMDNWNEwtVjVQSmFCVEV2SDZJNFFTOExJeFFDWVQ4OWczZzV6OXFuYi1rbnI2a3h6RlkwclMxdzhYTEFlSl9yUTAtQjlERnR0Z1FteUhDS2hmSC1aT0gtTFloOXphNF9TbXVDT3pwaWh6cnRaeTR5amluRFZwSmtycGdMVGVwTzdCMU9GNk15cF9YRjFUV1I4M0JfUUI0U01XaVlCeHNHUXU0M1VELV93cHlIcGxvYjhGWWEzMlZ4WlJsNHNLQU9BN2trOTJiU25aNm1NTEdSWV9FVk5iNkxyek1hVUwyOTJpT0FPTlBTWjlRYkxwcUZybDg5QTB3VkR5aFdL?oc=5",
+          "pub": "Thu, 05 Nov 2026 15:02:50 GMT",
+          "source": "LancasterOnline"
+        },
+        {
+          "title": "Nvidia Stocks Decline 1.35% as $108 Billion Guide Sets the Next Revenue Hurdle - GuruFocus",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQX3NzZEE2UURuTlZoaXdHc0lhLUZvNFNXMWlOVnhZamVUTjY1Z1hTZE9wQWgxZ1A1eEd5ZVJSZF9zcmUzV3Y4dWZBWHV1ZDVhdVZvTDVMc1VNdWpmOWc4b3J6MGsyRF8tN0dPYWxURm5MZVlveEtyV3Jfc2h4SU9ETWhpZWgzaVBnMU9FZko4TzRVUmpRYmxKR29zOWllZkpJNTFHX0x6cFR1M243S0lYSEx3YUs?oc=5",
+          "pub": "Thu, 05 Nov 2026 00:30:47 GMT",
+          "source": "GuruFocus"
         }
       ]
     },
     {
       "symbol": "META",
-      "price": 604.115,
+      "price": 603.585,
       "prev_close": 630.0,
       "high_52w": 779.8200073242188,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -4.1087301587301575,
-      "drawdown_pct": 22.531482351563653,
+      "day_change_pct": -4.192857142857137,
+      "drawdown_pct": 22.599446752966813,
       "name": "Meta Platforms",
       "news": [
         {
-          "title": "AMD Stock Is Up 170% in 2026. Could Meta Fuel Another Rally? - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaUhFQ1NQYnFyY3VsNjJ2OHBHTTB0TGFvWUs3cS1NQXhHZkFvVWVaQXBjZ3RYSHhEdlZ0TTRwMmZJdHh3R0szc3lQWF8wb0pvbGFPQklJQWFDN2VjUDdhSFNqZV80cU1MbzJOZnpVQ3ByQVdWUk10NG10Y0pGTmtMMENJSUdlUTdUVE9ITmZoeFM4ZW5qdUE5WkRibFpBUjVGa2c?oc=5",
-          "pub": "Thu, 05 Nov 2026 16:05:37 GMT",
-          "source": "The Motley Fool"
+          "title": "What Are Wall Street Analysts' Target Price for Meta Platforms Stock? - Barchart.com",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYmtUOURXZENzTi1wQjRHREwwczFiRUh5Y3dPYXdXaXJoSlp2S2xyS3FFX2p1cG55SG1GdHVPTkFLZ25IOTRnbGR0bEJ6YVIxZVpKTTc0QnNwZTJBV1pLVU9Ycm9QeDZTNmRxQ1NKS0EwQWtERFRNbDMzSVhyN0twdnlqWTFCQlp4b3lXWkY3N0RuQmFSWllmUVVVVmVCQkFEc3lKYTRpVmhaTm9CUU5wWQ?oc=5",
+          "pub": "Mon, 02 Nov 2026 12:10:52 GMT",
+          "source": "Barchart.com"
         },
         {
           "title": "Meta Platforms, Inc. $META Stock: Founders Financial Securities LLC Raises Position - MarketBeat",
@@ -65,10 +65,10 @@
           "source": "MarketBeat"
         },
         {
-          "title": "What Are Wall Street Analysts' Target Price for Meta Platforms Stock? - Barchart.com",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYmtUOURXZENzTi1wQjRHREwwczFiRUh5Y3dPYXdXaXJoSlp2S2xyS3FFX2p1cG55SG1GdHVPTkFLZ25IOTRnbGR0bEJ6YVIxZVpKTTc0QnNwZTJBV1pLVU9Ycm9QeDZTNmRxQ1NKS0EwQWtERFRNbDMzSVhyN0twdnlqWTFCQlp4b3lXWkY3N0RuQmFSWllmUVVVVmVCQkFEc3lKYTRpVmhaTm9CUU5wWQ?oc=5",
-          "pub": "Mon, 02 Nov 2026 12:10:52 GMT",
-          "source": "Barchart.com"
+          "title": "AMD Stock Is Up 170% in 2026. Could Meta Fuel Another Rally? - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaUhFQ1NQYnFyY3VsNjJ2OHBHTTB0TGFvWUs3cS1NQXhHZkFvVWVaQXBjZ3RYSHhEdlZ0TTRwMmZJdHh3R0szc3lQWF8wb0pvbGFPQklJQWFDN2VjUDdhSFNqZV80cU1MbzJOZnpVQ3ByQVdWUk10NG10Y0pGTmtMMENJSUdlUTdUVE9ITmZoeFM4ZW5qdUE5WkRibFpBUjVGa2c?oc=5",
+          "pub": "Thu, 05 Nov 2026 16:05:37 GMT",
+          "source": "The Motley Fool"
         },
         {
           "title": "Meta Platforms: Even With AI Growing Like The Cloud Giants, The Shares Are Overvalued - Seeking Alpha",
@@ -80,14 +80,14 @@
     },
     {
       "symbol": "AVGO",
-      "price": 297.95,
+      "price": 297.08,
       "prev_close": 325.4800109863281,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -8.458280096188316,
-      "drawdown_pct": 39.80808080808081,
+      "day_change_pct": -8.725577616968033,
+      "drawdown_pct": 39.98383838383839,
       "name": "Broadcom",
       "news": [
         {
@@ -118,14 +118,14 @@
     },
     {
       "symbol": "AMD",
-      "price": 414.97,
+      "price": 414.049,
       "prev_close": 488.7799987792969,
       "high_52w": 658.52001953125,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -15.100863162083874,
-      "drawdown_pct": 36.98445184773799,
+      "day_change_pct": -15.289291494319276,
+      "drawdown_pct": 37.12431092152221,
       "name": "AMD",
       "news": [
         {
@@ -156,14 +156,14 @@
     },
     {
       "symbol": "RKLB",
-      "price": 45.79,
+      "price": 45.46,
       "prev_close": 52.369998931884766,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -12.564443509810008,
-      "drawdown_pct": 69.67549668874172,
+      "day_change_pct": -13.194575277483356,
+      "drawdown_pct": 69.89403973509934,
       "name": "Rocket Lab",
       "news": [
         {
@@ -194,14 +194,14 @@
     },
     {
       "symbol": "IREN",
-      "price": 18.26,
+      "price": 18.04,
       "prev_close": 21.709999084472656,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": -15.89129078747935,
-      "drawdown_pct": 76.24561031928424,
+      "day_change_pct": -16.904648729798886,
+      "drawdown_pct": 76.53180778531696,
       "name": "IREN",
       "news": [
         {
