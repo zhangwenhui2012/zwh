@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-11-05T02:00:45.119105+00:00",
-  "updated_at_display": "2026-11-05 02:00 UTC",
+  "updated_at": "2026-11-05T02:30:36.288887+00:00",
+  "updated_at_display": "2026-11-05 02:30 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
       "price": 200.13,
-      "prev_close": 202.05999755859375,
+      "prev_close": 206.69000244140625,
       "high_52w": 243.37,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -0.9551606364016163,
+      "day_change_pct": -3.1738363558566047,
       "drawdown_pct": 17.767185766528335,
       "name": "NVIDIA",
       "news": [
@@ -43,12 +43,12 @@
     {
       "symbol": "META",
       "price": 630.0,
-      "prev_close": 606.72998046875,
+      "prev_close": 621.030029296875,
       "high_52w": 779.8200073242188,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 3.8353172383655663,
+      "day_change_pct": 1.4443698822874516,
       "drawdown_pct": 19.212126633977146,
       "name": "Meta Platforms",
       "news": [
@@ -81,12 +81,12 @@
     {
       "symbol": "AVGO",
       "price": 325.48,
-      "prev_close": 322.2300109863281,
+      "prev_close": 332.1300048828125,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 1.008592900370719,
+      "day_change_pct": -2.002229483951275,
       "drawdown_pct": 34.246464646464645,
       "name": "Broadcom",
       "news": [
@@ -119,20 +119,26 @@
     {
       "symbol": "AMD",
       "price": 488.78,
-      "prev_close": 466.8399963378906,
+      "prev_close": 483.8999938964844,
       "high_52w": 658.52001953125,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 4.699683796207889,
+      "day_change_pct": 1.0084740990014407,
       "drawdown_pct": 25.7759847076593,
       "name": "AMD",
       "news": [
         {
-          "title": "AMD stock rises after Q3 earnings beat, as data center revenue climbs 97% - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPR2NPYWttRXRkSERHSVlBbkU1QzVTZEZCaW1lMHYwSEhFM3oxQnlBdTlodGNJeFpSM2E1UFZiUGdHVFRHUjNTQW95VmlYNy1jNDNDeWpNMnlOQjFhYkRuNVh3WVNrYU9zeGc0MHhGc0gzOFp0U2h3N3hqTC1BVVhMcGtZdUlMN285ckpaU2VFeUlRSU5LMnMteTctTVJSdGU5V2g3WWRTZ2VRa2JaOUVxNEFRQ0M3bVFSdmdSaDRCZ0FFYl81MzVkZlg0OA?oc=5",
-          "pub": "Tue, 03 Nov 2026 21:35:21 GMT",
-          "source": "Yahoo Finance"
+          "title": "AMD's data center revenue nearly doubles in Q3 and CEO Su expects growth to accelerate - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBfVXVMaFFzOXpSSmhDS2xlZWZLZDk0V2w5MHpTSnZ3d2c5bkMzRDhwbzhURWpMMVcwX3ZiME8ybmU4UHR1ekdtVlUwRTYxcTI0T1dadVhheUQ0LVVpWnRqYjdmeDkxMGJKQXBkNUtpaEVKZVlXNEhYRdIBfkFVX3lxTFAwT0pLTUtFX3FhLU4tWFFuU3JjMXF4NWxpWFNVZEoxeTdqMVc2d201ZHRMdXV4cEg4VGNnd0RDRmhKbnNYZndMa1hhMzZ3Y0lUdk82SUprYVVibVZQT19vR05WaGZKZlBzcDFLZWNzczZkb0pDN180UTZ5MTRuUQ?oc=5",
+          "pub": "Tue, 03 Nov 2026 21:17:55 GMT",
+          "source": "CNBC"
+        },
+        {
+          "title": "AMD’s stock jumps after earnings. Here’s what investors need to know. - MarketWatch",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1lVGU5NEVEWG1nRDNVVF8ySlVsZjFrbnRKMnJjb2U1N19hN2RYV0JwQWszcXBnd2JZaUROajNzRzk1TkVBUC10SXZqb1JsZjF5MC0xeWN4RDlMZS03Y3oxR0t2OHNaeC1SN2lURWFSanhvTWpyY0ZwZ3Zn?oc=5",
+          "pub": "Tue, 03 Nov 2026 23:53:00 GMT",
+          "source": "MarketWatch"
         },
         {
           "title": "AMD's AI megadeals with OpenAI and Meta just cost it $1.1 billion: Chart of the Day - Yahoo Finance",
@@ -141,37 +147,25 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "Goldman Sachs’ $675 Target Says AMD’s Selloff Went Too Far - TIKR.com",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbDhyT0VfMURCOV9YSG9tQWp5UjdfZGF6WGlVbExrQmNZdDZEcHRyR0ZDcTd0WkJsZlp3NDEwYTdDSkdQaVRIeGc3alY0UUd5UEh2S1N0M1Q5c185cUVyR2RXNDFqYjRxZUpzV096Ykd6a0psTTJPQ09USmI5ZU90WTE3OWhrbUExemc?oc=5",
-          "pub": "Wed, 04 Nov 2026 20:48:45 GMT",
-          "source": "TIKR.com"
-        },
-        {
-          "title": "AMD Earnings: Strong Data Center Outlook Points to Upside for Stock - Morningstar",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaEkyb2htSzVuS3VET3VLa1NHd0dYOThyQ19XdU5yQm43VzZOS1VnMHctbjhLZWlPZTQ1dFktWk1zX0NYWnJzenJXVGpDcGFUanR4ZUR5Rnd1VENMMGRnRTd0SVBKTDVTQ0g4SE5ubDVpWmFPOHhDZEZ5RFV1aFdkQmtFUGF0SGdTX2YyYnlsMHlHZWNLMXY1YVJB?oc=5",
-          "pub": "Wed, 04 Nov 2026 10:27:21 GMT",
-          "source": "Morningstar"
+          "title": "AMD Posts Beat-And-Raise Report On Record AI Data-Center Sales - Investor's Business Daily",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1XUlpyMXlqcVpLcWt5MHZGLWJZd1FXVDlUTDlMTUhrMjVuOGNtMmhDUmFsang0MVN4RmRTR0o3TFk2Zndka1ZkWWp1QzViaEhkbmcxdXpZejRKWEV2enFDb3NZNmNzb3R5STEtclNmZk1DOUxQemZWQQ?oc=5",
+          "pub": "Tue, 03 Nov 2026 22:07:00 GMT",
+          "source": "Investor's Business Daily"
         }
       ]
     },
     {
       "symbol": "RKLB",
       "price": 52.37,
-      "prev_close": 52.06999969482422,
+      "prev_close": 54.43000030517578,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 0.5761480832226678,
+      "day_change_pct": -3.7846781069738435,
       "drawdown_pct": 65.31788079470199,
       "name": "Rocket Lab",
       "news": [
-        {
-          "title": "Rocket Lab Stock Price Forecast: What Options Traders and Financial Analysts Expect Ahead of Q3 Earnings - TipRanks",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNck52ZUQtbmRwRWd5LTBWZWpRdmRXMkhqeWhDRmFiLXI2SzVTbmVPbTVYM3JWZUxoX1BIWVdwZC0ySmJGem0ybXIweksyNGRJZHlTZkhabGRmUkxwY3o2aWh2LWFwN2piUnJzRnE4bWxNZkpnbFplWnhPZ1NGeGd4OUV0WHdCUmR0U25ndmc0QkFPNGJweWFqQ3Zod3M3c0RXWWNNcGRMNGZBeTgzbHJublM2ZWpQRmpZaW5xbUt2ZlRCZjd6N292cjRzSlZ6UQ?oc=5",
-          "pub": "Wed, 04 Nov 2026 14:06:32 GMT",
-          "source": "TipRanks"
-        },
         {
           "title": "Rocket Lab to Report Q3 Earnings: Should Investors Hold or Fold? - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQakRYVDV6bndGQU1aV0ZYOFlQRlF5WDNaOVMyZ0ZkLXBwMmYwd0ROTWVobGxYZ2JJVGh5ZndfQVpUWnlaZmNvRzM4Q0JTQVV5WFBoUWZfN3dXbDBCV05LNGR4Sng1TkVJM215cWRIVC1saGFtdjlRVm1ZbmhtUDlEQnN6dHpPdmVJMDZ6b21zX3FHYmZ2NWU4dnRB?oc=5",
@@ -185,22 +179,28 @@
           "source": "The Motley Fool"
         },
         {
-          "title": "RKLB’s Iridium Deal Draws Heat As Globalstar Echoes SpaceX Concerns — Rocket Lab Seeks Fast FCC Approval - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbklGMjZQSWNDa21yVFQ1RHQzMHJFZUhGNURuMkNjYmdCal8xRzJfcUxpQTV3bDZrRDZ6ZGQ2QUNuQjdyMWVjb2xKMXgzRkltRHdoaVRHWGVlZnhTb0FEcHJ1SldYMkJnWVlZZllJT3RYRjV5WUN0YXV1UGFob0padE9uT0xHSnhzckFCUHFlUGJ6RHZBTl9Yaw?oc=5",
-          "pub": "Tue, 03 Nov 2026 06:47:00 GMT",
-          "source": "Yahoo Finance"
+          "title": "Rocket Lab Stock Has Crashed Even Harder Before. Here's How Long the Last Comeback Took. - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRk44ZkFmamRHVVJuZUxyV2liX2I4N2NQdHI1djkwbUVNZnJySEgzVTNTaDNXV1lsSmhaaHJfdWZqZHRaWXRYX1ZMUXl1a3JXUVNpbGV0SU54am9UaXdZSGI2ZENYWlNQYXNPVVBtSUtrbTFnWlMzMkxmcWwtQkNDMkk0dmlQN2RuT21lR2NQSFhIWG01b3FtQlEyUmhYczFhb3BRbG1aRndqZFlkNnNYaHY1cEpfclgtajRCczVzVXpONVF4aHRaRA?oc=5",
+          "pub": "Wed, 04 Nov 2026 08:47:00 GMT",
+          "source": "The Motley Fool"
+        },
+        {
+          "title": "Price Prediction: Rocket Lab Stock Will Hit $100 on This Date - 24/7 Wall St.",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZW1HMkpHYkx1cnJ1WVVRNGFCQnA0Z1hFdEpSbllHcjBCai1NYnlQb3VCQ1cyVTZQRGxjSHhvX21ycmx2dElsTmpPNUVLMktWME9ZT0FFYVN1OE9rbG5HcWVXSHF3TWRqc05XcHcweFNwbmpGZUo3eXdlTHBkeDVmZm5UeXloNU82dWU1OTFKYkl5OGpEb1BuVlBSOEdSV0x2NEtWU3hR?oc=5",
+          "pub": "Fri, 30 Oct 2026 13:04:00 GMT",
+          "source": "24/7 Wall St."
         }
       ]
     },
     {
       "symbol": "IREN",
       "price": 21.71,
-      "prev_close": 22.020000457763672,
+      "prev_close": 24.459999084472656,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": -1.407813130423315,
+      "day_change_pct": -11.242842139836261,
       "drawdown_pct": 71.75751369286203,
       "name": "IREN",
       "news": [
