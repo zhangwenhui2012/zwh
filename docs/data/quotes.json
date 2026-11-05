@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-11-05T15:00:48.160350+00:00",
-  "updated_at_display": "2026-11-05 15:00 UTC",
+  "updated_at": "2026-11-05T15:02:02.513107+00:00",
+  "updated_at_display": "2026-11-05 15:02 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 190.34,
+      "price": 189.605,
       "prev_close": 200.1300048828125,
       "high_52w": 243.37,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -4.891822637262764,
-      "drawdown_pct": 21.789867280272833,
+      "day_change_pct": -5.259083908470146,
+      "drawdown_pct": 22.091876566544773,
       "name": "NVIDIA",
       "news": [
         {
@@ -42,14 +42,14 @@
     },
     {
       "symbol": "META",
-      "price": 607.485,
+      "price": 606.25,
       "prev_close": 630.0,
       "high_52w": 779.8200073242188,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -3.5738095238095213,
-      "drawdown_pct": 22.099331346415248,
+      "day_change_pct": -3.7698412698412698,
+      "drawdown_pct": 22.25770122515658,
       "name": "Meta Platforms",
       "news": [
         {
@@ -80,14 +80,14 @@
     },
     {
       "symbol": "AVGO",
-      "price": 309.71,
+      "price": 307.63,
       "prev_close": 325.4800109863281,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -4.8451549877176845,
-      "drawdown_pct": 37.43232323232324,
+      "day_change_pct": -5.484211129351942,
+      "drawdown_pct": 37.852525252525254,
       "name": "Broadcom",
       "news": [
         {
@@ -118,14 +118,14 @@
     },
     {
       "symbol": "AMD",
-      "price": 428.105,
+      "price": 425.41,
       "prev_close": 488.7799987792969,
       "high_52w": 658.52001953125,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -12.413560074231674,
-      "drawdown_pct": 34.9898275978405,
+      "day_change_pct": -12.96493288136998,
+      "drawdown_pct": 35.39907863350656,
       "name": "AMD",
       "news": [
         {
@@ -156,16 +156,22 @@
     },
     {
       "symbol": "RKLB",
-      "price": 47.35,
+      "price": 47.035,
       "prev_close": 52.369998931884766,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -9.585638789899622,
-      "drawdown_pct": 68.64238410596026,
+      "day_change_pct": -10.18712820449692,
+      "drawdown_pct": 68.85099337748345,
       "name": "Rocket Lab",
       "news": [
+        {
+          "title": "Rocket Lab Stock Price Forecast: What Options Traders and Financial Analysts Expect Ahead of Q3 Earnings - TipRanks",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNck52ZUQtbmRwRWd5LTBWZWpRdmRXMkhqeWhDRmFiLXI2SzVTbmVPbTVYM3JWZUxoX1BIWVdwZC0ySmJGem0ybXIweksyNGRJZHlTZkhabGRmUkxwY3o2aWh2LWFwN2piUnJzRnE4bWxNZkpnbFplWnhPZ1NGeGd4OUV0WHdCUmR0U25ndmc0QkFPNGJweWFqQ3Zod3M3c0RXWWNNcGRMNGZBeTgzbHJublM2ZWpQRmpZaW5xbUt2ZlRCZjd6N292cjRzSlZ6UQ?oc=5",
+          "pub": "Wed, 04 Nov 2026 14:06:32 GMT",
+          "source": "TipRanks"
+        },
         {
           "title": "Why Rocket Lab Stock Plunged 15% in October and Why Its Decline Might Be Short-Lived - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbVN5M0hnVkN1ZldLYzBLYmtrSzJyVEpLWEVnYWRQanplcFlHSEw3NmlaZkF1S2JTWUpyLWdyMHhodDUxcDlTdzFBVFkzbGVqSjF2MW1MSjBIUTVnellaeGVXanBsWmN0ekVsRmp5aVI4WFVSNllpU25nUU1fU2pfSDlTZWRUQ1hZTjRRQ2pSTUhwTTU1Yy12OQ?oc=5",
@@ -179,29 +185,23 @@
           "source": "Stocktwits"
         },
         {
-          "title": "Why Rocket Lab Stock Plunged 15% in October and Why Its Decline Might Be Short-Lived - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdHJQU1k1TWlfVjAyaFlRVWZUNEdsaGxUQ1l3Rk12M3dZaTJiWmw0U0xiQ1FHa3I1NUgySThmYUU4MGdNTGt0a2pVQVNLRnpUdEFiY0ttY3dBa29tSGJZUlRpSV94MkdDeUlFSUttaXc3Z1ZGa3BrOTNHZDNUZHJ5bXJjOF9CU1o5SzZxUUluRW5qVWN2SE4tQnctZFljdFk1THd6TV9Ea3Q5UnBYakRKWWhFeVRBaWZpMVVPazlPY0pZLVVl?oc=5",
-          "pub": "Thu, 05 Nov 2026 07:50:00 GMT",
-          "source": "The Motley Fool"
-        },
-        {
-          "title": "Rocket Lab Corporation (RKLB) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ZQUpJQVhWMXdheXZxN2syd1NGQkh3Zk1KVE9nVnVtY3N2WGZuV2FFWEo0ajVfbEhfUXViM1VqbEpxV29GOUtHNk1YOEh3cnpLZ3c?oc=5",
-          "pub": "Tue, 03 Nov 2026 12:48:37 GMT",
-          "source": "Yahoo! Finance Canada"
+          "title": "Rocket Lab Falls 4%, SpaceX Down 4% as Midterms Make Musk the “Biggest Loser” - TIKR.com",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeGVRQXlLQ1FHS3NJTVA1akpaVHVrelotaEhmaVJ6Q201bnd6c2REUU1ubkJOZkxnSDF1WGJnRWdWbVU3Zzl0XzIydUNfRkJqeFVlRmlBNkEzVHVhZHlES0YtSjdyWTdNWkE5dHFvWU95bG0wM05yZmNsOW94bVpVc3E1dXpPZnFrTTNXQkJuVi10YS1yUWNXaVpBOUxKZmVh?oc=5",
+          "pub": "Wed, 04 Nov 2026 21:45:00 GMT",
+          "source": "TIKR.com"
         }
       ]
     },
     {
       "symbol": "IREN",
-      "price": 19.269,
+      "price": 19.11,
       "prev_close": 21.709999084472656,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": -11.243662770204814,
-      "drawdown_pct": 74.93300466825237,
+      "day_change_pct": -11.97604419215392,
+      "drawdown_pct": 75.13984738233964,
       "name": "IREN",
       "news": [
         {
@@ -232,22 +232,16 @@
     },
     {
       "symbol": "MILDEF.ST",
-      "price": 248.5,
+      "price": 248.8,
       "prev_close": 251.0,
       "high_52w": 264.8,
       "currency": "SEK",
       "yahoo_name": "Mildef Group AB",
       "exchange": "Stockholm",
-      "day_change_pct": -0.9960159362549801,
-      "drawdown_pct": 6.155589123867074,
+      "day_change_pct": -0.876494023904378,
+      "drawdown_pct": 6.042296072507552,
       "name": "MilDef Group",
       "news": [
-        {
-          "title": "Mildef Group AB (CEUX:MILDEs) Stock PDF (Updated: 2026/11/05) - GuruFocus",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA3TWFxU0FHeXdYWlRZRkF1YW1HeEEzNzZCc0kzRnV1bTJFVENyRXFVWTVpbkM4WERJMkFiYW9GbnBOcEpVRXRtcWk2X3F5alJvYy0tWXI5Skg4T3ZrNUJ3?oc=5",
-          "pub": "Thu, 05 Nov 2026 07:12:10 GMT",
-          "source": "GuruFocus"
-        },
         {
           "title": "Mildef Group AB (8QA.SG) Seasonal returns chart - Yahoo Finance Singapore",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB4NHJId1VQcDM3T2VvX2x6STVRWUNaOFl0VjQ2OW1tZ0t6c3p2QTFFcDZHN1hsc1VaRlQ1VkJ5YkVYZjRuX3FCb0hlM3pzQmZFRndiWF9raU9Dc3Z1aTNVc1MzLWc?oc=5",
@@ -265,6 +259,12 @@
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5zV2pPMV9QMDktZlJ1N0NmNGtYYUlrQXNfU0VhYjhtMWpJdjc4ZUpaVTUzZ2QwN29ZcE9TMVZkVm1GRWpwTFdXSHh1UkJvd3lLSTg5NUJod3dRYWtpMGxr?oc=5",
           "pub": "Mon, 16 Feb 2026 08:00:00 GMT",
           "source": "TradingView"
+        },
+        {
+          "title": "MilDef Group (OM:MILDEF) Stock Forecast & Analyst Predictions - Simply Wall St",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQV9TTFBVOUxkRUxRRFd6bWdhWEs4QThCZE9mVnJzMUZFY09QaWJqM0pjUHBjTkFCRTV5NWtlbDFoSl9CY2l1VUNfbkRvcm1pdmhRVjdCTXZBbzBPX2ZNbmRqNkhEQVRwMW92b1VmRnZicEM3MjdyWTZHd3pjQm5LSFZYbWpuSjZINDk4?oc=5",
+          "pub": "Fri, 23 Oct 2026 07:00:00 GMT",
+          "source": "Simply Wall St"
         }
       ]
     },
