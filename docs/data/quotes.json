@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-11-05T17:30:39.614916+00:00",
-  "updated_at_display": "2026-11-05 17:30 UTC",
+  "updated_at": "2026-11-05T18:00:48.039544+00:00",
+  "updated_at_display": "2026-11-05 18:00 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 184.72,
+      "price": 182.175,
       "prev_close": 200.1300048828125,
       "high_52w": 243.37,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -7.699997255202155,
-      "drawdown_pct": 24.09910835353577,
+      "day_change_pct": -8.97167063645762,
+      "drawdown_pct": 25.14484118831409,
       "name": "NVIDIA",
       "news": [
         {
@@ -27,29 +27,29 @@
           "source": "The Motley Fool"
         },
         {
-          "title": "Nvidia Stock Is Now Down This Year - WSJ",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNR3RIQXJVQ0xkOG1mSmxJbTBKYXVHMDdyR2JkRlM5MVlGamVYQWZxcFJISkNQQzExSktvcG9wOUs0eTUwRVFwUG4tbzZ6Q09NMEJ1dlBzcGdTclBUTzZzV20yNzJfMnBwQ0NnbldKQU1JVmJjZi1qVFZibnVHbV91M3I0M1puMkxiVXJROXIxQ3BaU3RINnQ3RUFiajlEdGhuNElfVnZJQ0hxRnFoTjVNbmxwVDl5c2I1bjNLMXZucjFBdWhKeEd0RmstUTktM3RqOEZERHdOeUo?oc=5",
-          "pub": "Thu, 05 Nov 2026 16:13:47 GMT",
+          "title": "Options Traders May Not Be Giving Up on Nvidia - WSJ",
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOR1oxSGdIYXltemRUcEdiQmJqNEItdjRXM3dkN3pEVXp0cHBuRjIwZ2Q3VVdNb21jZHNLbVZBUWkyR0pqblc0Y3lib3NsN2gwZ0lrUld3N2s3VGZLYjZTaFpsSk1HR2hBZ2JJeWZPYTQ0WUtNZE43V2NXZU9WdlQxZGtFLUtBT3RfcFVqX2VaQVd4WlNRSGUzM3V3bHRtb21QaWpMZ0NuVGZzMzdoR0FzdEY2eENqeEt5SG0yS1E4RWlid2E4NmpPaE1xWFU4REJraDJrNEJVa0JMYUF3T0M5bWo1QzB6V2x1?oc=5",
+          "pub": "Thu, 05 Nov 2026 17:56:19 GMT",
           "source": "WSJ"
         },
         {
-          "title": "Nvidia Leads $930B Drop in 12 AI Stocks by 10:04 A.M. ET - FourWeekMBA",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNb2ZGS1UyYVd3MXRhaG95eENvZlNNbDV4U2hzZjFCTTJwbHFWWEJnTFc4UllIb0F6Q3RTck96c19xUzcxTlVZT2R4ZHFaa2JseGJfa3JuQW04Um1RSVpZeVVaZXZ6cktnVEZVRXllNDRDSjM1TExIbndYZGNMTG9ESFRHV2ZrWmkzYWc?oc=5",
-          "pub": "Thu, 05 Nov 2026 15:13:28 GMT",
-          "source": "FourWeekMBA"
+          "title": "US Tech Stocks Wipe Out $1.7 Trillion as Nvidia, AMD Sink - NVIDIA (NASDAQ:NVDA) - Benzinga",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVEtSSk90bnR0SzRoTHZrZnlvbW5YN2JEbjh2cThrRUF6bHpxemtNMXZRbVJKZDNkQWpnVUxULUNxamhIampHdWJEUkdnRzRaOXFxQm1KTTdVajlLZmxxTGc3NUJFY3lpNmptaGczckdHel9GdUc4RnB6UUt0bUNBdDduTVVRQXRwd1lxeHNaS3p0R1l5UjZyOVFHYmdfVjF5Qk9jS1pjamxLMGt6ZGNFeGFZUFEyWlE?oc=5",
+          "pub": "Thu, 05 Nov 2026 16:47:29 GMT",
+          "source": "Benzinga"
         }
       ]
     },
     {
       "symbol": "META",
-      "price": 606.685,
+      "price": 602.53,
       "prev_close": 630.0,
       "high_52w": 779.8200073242188,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -3.7007936507936594,
-      "drawdown_pct": 22.20191912211814,
+      "day_change_pct": -4.360317460317464,
+      "drawdown_pct": 22.734734382175002,
       "name": "Meta Platforms",
       "news": [
         {
@@ -80,14 +80,14 @@
     },
     {
       "symbol": "AVGO",
-      "price": 299.935,
+      "price": 295.94,
       "prev_close": 325.4800109863281,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -7.848411614869076,
-      "drawdown_pct": 39.40707070707071,
+      "day_change_pct": -9.075829540748344,
+      "drawdown_pct": 40.214141414141416,
       "name": "Broadcom",
       "news": [
         {
@@ -118,14 +118,14 @@
     },
     {
       "symbol": "AMD",
-      "price": 417.78,
+      "price": 412.1,
       "prev_close": 488.7799987792969,
       "high_52w": 658.52001953125,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -14.525962387294033,
-      "drawdown_pct": 36.55773740980789,
+      "day_change_pct": -15.68803939825714,
+      "drawdown_pct": 37.42027762597978,
       "name": "AMD",
       "news": [
         {
@@ -141,43 +141,31 @@
           "source": "Yahoo Finance"
         },
         {
+          "title": "AMD CEO Lisa Su sees AI becoming 'essential to every aspect of our lives' - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOT3BLQ3JIb1o1X2hwOFJpZkI1UWQtUUljQkhZazhYZ1FTdHlQMHFxcVh1RE1sek9oc0RVRzBXTHA2dUdLWlFGRGh2Mjh5cWZyS0ZPTXNiUVFWWjN2NGFxcE5Vcm1jei03VzNwVFRmSXl4ZFItbFE0T3JFYUdDZWs5WlNxTjZTQVdxbDM0SEpJOGltOEpodFYtNGpYZk5OQURsR1FWd3JLU05VQ1FCZ1k1dzBOcWRuaFM3dXBPV1FDNFNmMVlKMTNmdGx4aw?oc=5",
+          "pub": "Thu, 05 Nov 2026 17:28:25 GMT",
+          "source": "Yahoo Finance"
+        },
+        {
           "title": "Buy, Sell Or Hold AMD Stock? - Trefis",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdHEycEhqVmozNWhuUTlBTURwc1RBVk14cklZekZRZ25YOXNSUVpZTVdRNUVwLU1tYU9sNmRaY0psbmg2c2lKb0Rva3FEb2Q3YTVyVVFubkQteE5CNmJtbUdqejVSRWRvV1ZsblBqdkJIcmlfU3c4VlFmakZZeWVMcE5sLWhZNzRveUJTbEIzQQ?oc=5",
           "pub": "Thu, 05 Nov 2026 12:52:15 GMT",
           "source": "Trefis"
-        },
-        {
-          "title": "NVDA vs AMD: which stock has the better bounce setup - Investing.com",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOalZ0R1BLenJ3a21tQnpDZ0luNUhsNXBEN3V1aTRtU3k2QmFVdXE5a2hzXzNQcHhZTjNJQ0htWlAxWk5YZGNxR2M4Ni1EbUM1SEZ4dzEteVNQYmJoWTYzZU5zdnFfQWV2UUZLVlBYTU9zQ3BtQlo1QzhMeVhPaHQ0b09KZzRZRlNvelR2LW5PUk00cE1fVEt3UDZ5cmhmalRlS1ItREEtcWRSbV9MVl9GQVhNMA?oc=5",
-          "pub": "Thu, 05 Nov 2026 15:30:56 GMT",
-          "source": "Investing.com"
         }
       ]
     },
     {
       "symbol": "RKLB",
-      "price": 46.03,
+      "price": 45.26,
       "prev_close": 52.369998931884766,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -12.106165860593023,
-      "drawdown_pct": 69.51655629139073,
+      "day_change_pct": -13.576473318497511,
+      "drawdown_pct": 70.02649006622516,
       "name": "Rocket Lab",
       "news": [
-        {
-          "title": "Rocket Lab Stock Price Forecast: What Options Traders and Financial Analysts Expect Ahead of Q3 Earnings - TipRanks",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNck52ZUQtbmRwRWd5LTBWZWpRdmRXMkhqeWhDRmFiLXI2SzVTbmVPbTVYM3JWZUxoX1BIWVdwZC0ySmJGem0ybXIweksyNGRJZHlTZkhabGRmUkxwY3o2aWh2LWFwN2piUnJzRnE4bWxNZkpnbFplWnhPZ1NGeGd4OUV0WHdCUmR0U25ndmc0QkFPNGJweWFqQ3Zod3M3c0RXWWNNcGRMNGZBeTgzbHJublM2ZWpQRmpZaW5xbUt2ZlRCZjd6N292cjRzSlZ6UQ?oc=5",
-          "pub": "Wed, 04 Nov 2026 14:06:32 GMT",
-          "source": "TipRanks"
-        },
-        {
-          "title": "Better Space Stock: Rocket Lab vs. AST SpaceMobile (Hint: It Comes Down to Dilution) - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZm1kMjNyUndjbmVJWl90NlhjNjBvNkNockpkc2FnRy1lM0M1eF9vOVc3aDVzckJJQlhULVNKVGN4YTRKd3VWV0t0cDFJSmVHSkdaWFRycGkyWlV3Ulhpc0RoZTdBdExQMHhtVTZoX2lQNjd6amdyVEZjU0xVVF9RRFhXQzRCOGtrdl9ZQkpJbTd5ZWhzTFUxcTBB?oc=5",
-          "pub": "Thu, 05 Nov 2026 15:35:00 GMT",
-          "source": "Yahoo Finance"
-        },
         {
           "title": "Why Rocket Lab Stock Plunged 15% in October and Why Its Decline Might Be Short-Lived - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbVN5M0hnVkN1ZldLYzBLYmtrSzJyVEpLWEVnYWRQanplcFlHSEw3NmlaZkF1S2JTWUpyLWdyMHhodDUxcDlTdzFBVFkzbGVqSjF2MW1MSjBIUTVnellaeGVXanBsWmN0ekVsRmp5aVI4WFVSNllpU25nUU1fU2pfSDlTZWRUQ1hZTjRRQ2pSTUhwTTU1Yy12OQ?oc=5",
@@ -189,19 +177,31 @@
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNb1BHcVg4RzhKYzFEb2VSUjlzcm11SURoYm1obWlyRWJmLUUyWEFUN2ZWWnoxejRXOHowNFo2a1NmeXRPempvNTJoeVZCbXAyQ1BCeHJRNzF6UVA1M0dxQ0RKMVdNbzNRTFhhanEteFdtWDl0a2RpUjF5eVZibDJ6ajMwTVlqZ2hVbTN1alVpNmhJUUhMOV9vVg?oc=5",
           "pub": "Thu, 05 Nov 2026 14:00:00 GMT",
           "source": "The Motley Fool"
+        },
+        {
+          "title": "Rocket Lab Falls 4%, SpaceX Down 4% as Midterms Make Musk the “Biggest Loser” - TIKR.com",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeGVRQXlLQ1FHS3NJTVA1akpaVHVrelotaEhmaVJ6Q201bnd6c2REUU1ubkJOZkxnSDF1WGJnRWdWbVU3Zzl0XzIydUNfRkJqeFVlRmlBNkEzVHVhZHlES0YtSjdyWTdNWkE5dHFvWU95bG0wM05yZmNsOW94bVpVc3E1dXpPZnFrTTNXQkJuVi10YS1yUWNXaVpBOUxKZmVh?oc=5",
+          "pub": "Wed, 04 Nov 2026 21:45:00 GMT",
+          "source": "TIKR.com"
+        },
+        {
+          "title": "SpaceX vs. Rocket Lab: Which Space Stock Is the Better Buy Ahead of Key Catalysts? - TipRanks",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOV1lIZFZpaFBWSkt5VlJDNXhwaFU1aUF5NnpJbE5lNDhNbW5wel9YOE1wTmJsVDhkRkR6TnJJZ2ZwMzFrMG9rUjVmWGZ0YnJXMlk1RnFiaVZ1QmJtOUNKYTE1TWFQTFBxWkdyMEtNcDFkWDRKeHpVYUJjZjJZd0NoRld6MW1OUVBTSGRsVzEwOU9BZ1VhbEdXVGFXSVp4emhfUUJBY01CUkdtWjlPQkp6cQ?oc=5",
+          "pub": "Thu, 05 Nov 2026 14:25:39 GMT",
+          "source": "TipRanks"
         }
       ]
     },
     {
       "symbol": "IREN",
-      "price": 18.23,
+      "price": 18.065,
       "prev_close": 21.709999084472656,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": -16.02947596143202,
-      "drawdown_pct": 76.28463724647052,
+      "day_change_pct": -16.78949441817166,
+      "drawdown_pct": 76.49928534599508,
       "name": "IREN",
       "news": [
         {
@@ -211,22 +211,22 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "IREN stock plunges 18% as Microsoft raises concerns over data center delays - Investing.com Nigeria",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWGQ5T0ZyUUF4SWtUOG02N2JFMDVNOC1ucGU5LWRzSTRVU3pQWjNwNFpxbkh1UndwUEYwdDJMOWxtQ19nV1UxR2FHVm9iUFdSR05IZzg4Ym51T0t5d1VOMVRRTlpfUXpaZEVkS3pPZmZVbVlzZzYwckFTcjg5ZTl5d0dxaFhnN0JhaURIaW1uNThpOXYzU2ZYMkl3dXhHWm9WRzlLZ0NrNzI5cHVkZDRQbjN3WHhxbF92NGFFTjYwSjdlZGg4Ukh5ZThB?oc=5",
-          "pub": "Thu, 05 Nov 2026 15:54:46 GMT",
-          "source": "Investing.com Nigeria"
-        },
-        {
-          "title": "Trending Industry Today: IREN Ltd Leads Losses In Blockchain Stocks - Moomoo",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPM2lmN1BURGJXd3B3NzNDVTRMVFN4c2pRcTlsR2kwMTlKTHIxcWZGZ1JjcXcwdlN5QW5ReWZNekdmb040bk01V0JmeTV1Z0R4THBRdEh4ckZyanlsaEUzWkwtel9zTXhETTFNdmdiSDdxVm55Z0k1RmdVM29PV2wzakhURGNleEJmSlBnbFEyTHhkeGlLakh3cXpWdHpNVVk5dmlaeDVWQ21kRHVlaUk4?oc=5",
-          "pub": "Thu, 05 Nov 2026 15:40:01 GMT",
-          "source": "Moomoo"
+          "title": "IREN stock plunges 18% as Microsoft raises concerns over data center delays By Investing.com - Investing.com South Africa",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeTIyUWh4bUVvSVdqY2xzY3J5NmJGOEtEeEtydnFhUk9IZzV1RXRxdDJHY2R4S1JBbjk1Mm1ncEFnWkNUT1dhWDdaUXhuRl9HZ1RoSi1McnNkWmFLV0x6MDEzMmEzYlJLdGJYMDlsazNqX3pGbzVjMzJkTlBBUkVlY19fQUlTOGQ2QmZxdC1HWkZ2OXNGenBBbVVoTllRcWU5aThXbXA4ZzdEdkY1anVWMl9VZnpOaFhpV3VpNkViOTk1cmpxY3F5NkNn?oc=5",
+          "pub": "Thu, 05 Nov 2026 15:57:29 GMT",
+          "source": "Investing.com South Africa"
         },
         {
           "title": "US Futures Mixed After Rally On Wednesday — MU, TSLA, AAPL, MSFT, APP, NVDA, IREN In Focus - Stocktwits",
           "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOTlRsVXVtVDFHcndnT29WcW9XaFB5ZE9ESG5MLVZWM3hMRExKdUxGMWpvTHUxZ2hRTDNQWUN3T2FXOHZMeExkSVd4UU5sUkJiVlRTRFpYZDNsS1ZYcWUxSmdtWjVYTEFHcmR2QmppN1hQRjlQVzcyVHptU3pTVGpfTWhiejFlMHBod3JtMEVybFlIamwtTk1FOEhHQlNpcTUzY2lhcTRIUU5uYlNoNHB1czkxbVU1aFFKWWtxV1FnbzNWTnBmV0Yxcmp6eUFjVTFCVmFOMTF4TEFMR2prdHE0?oc=5",
           "pub": "Thu, 05 Nov 2026 10:11:18 GMT",
           "source": "Stocktwits"
+        },
+        {
+          "title": "Applied Digital vs. IREN: Which Technology Stock Is a Better Buy for 2027? - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQanhOcnNPVURyV2hwNDdvRUFEQlZESWFaZDZCVEIzSXY0V3k5blZLZ3VzdjVDcFpNSUt3M3QwYkRPaG1Gay02dGphaFFJQWVQQnVyNkRpZngyZ3dId3N3QmtnS2gwT0lQZl9mSmtjUFpELUMxUU5OMmhxRVdVTjhvU3lCeDlHM2w1OG5OSDdmYm5sX0FNWm9YYzBJVDFOMVBJSF83ZVUtaV80cjJfMy1udXpkMDZyNVRzdk16M0pXc1pfZw?oc=5",
+          "pub": "Mon, 02 Nov 2026 20:21:00 GMT",
+          "source": "The Motley Fool"
         }
       ]
     },
