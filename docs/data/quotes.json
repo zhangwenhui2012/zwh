@@ -1,57 +1,63 @@
 {
-  "updated_at": "2026-11-05T16:00:50.264139+00:00",
-  "updated_at_display": "2026-11-05 16:00 UTC",
+  "updated_at": "2026-11-05T16:30:39.522824+00:00",
+  "updated_at_display": "2026-11-05 16:30 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 183.12,
+      "price": 186.405,
       "prev_close": 200.1300048828125,
       "high_52w": 243.37,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -8.499477573476712,
-      "drawdown_pct": 24.75654353453589,
+      "day_change_pct": -6.858044545019258,
+      "drawdown_pct": 23.406746928545015,
       "name": "NVIDIA",
       "news": [
         {
-          "title": "Nvidia Stock Is Below $200. What History Suggests Is the Floor. - Barron's",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9EQVhFU0ZMU1p3Yk13SUJ2NjdNTk1JeWcwTnNsZjI2d3V3Mi0wZEZIUUYzbEo5dTN1V2UtMy1PblNYa1Y0MXhjQVQzYXN6OGlTOUUxQmRCMDc3dFZmZlhrSjl1Slh1Q1BDVE1yN015Nk51Zkpq?oc=5",
-          "pub": "Thu, 05 Nov 2026 15:35:00 GMT",
-          "source": "Barron's"
+          "title": "This Is the Number That Could Change Nvidia Stock’s Outlook for 2027 - 24/7 Wall St.",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMmFuRzBoLU1XbWdsTmNJdkdqR2NKOWNod1lYeG1GeHpXbFN2UUhRaTJMd2sxOWxheDlIZ2dIOTc1UkQtMURkY1NxeFVaTWdVcU5QTkJTbm9KR0wzbjdRdmhHdWZ1NDl0MkdjUVBjcjZhcTcwU2lPc0lLVUlFSjRzSVJaUGRfRGFtMWVCdGFlOTdsZDFzQWVRNlFNdXRUOUxFdUZtcDhZVjM2SGtIdW1Pcw?oc=5",
+          "pub": "Thu, 05 Nov 2026 15:33:00 GMT",
+          "source": "24/7 Wall St."
         },
         {
-          "title": "Here's What $10,000 Invested in SpaceX and Nvidia Could Be Worth by 2030 - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSE4wSFl6RV9ydGswcmZMdldKSFVQVW1PajBXQVRuQVczblpzNXZqdGI2SG9qejBnU3A5bzU3QWRBc2RmYXlwUHhfTm9PX3o2UzExTXNlY0Z0MDhNTWN2T3doQmRyNU95azBmQ2RzamVaZzJDRzdIX0hfMlA3X0dDS09VTlZqcGg4SzNnNUx3clR5SGdrUGJCLQ?oc=5",
-          "pub": "Thu, 05 Nov 2026 00:29:00 GMT",
-          "source": "The Motley Fool"
+          "title": "AMD Tumbles 13%, NVIDIA Slides 7% as AI Regulation Fears Hit Chip Stocks; Intel Sinks 8% - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdzNfN2w5ZVNDUjNHZUxyd0tWZG42ajdJbzg0NkU0NHN3UDN5NG5jWVZrUHhqd1JHMVhVMkpXQ2NDYjcxcDREQ0liOWJ4TEFySkpOV3lJSnJQZGtmeUJRX2dBMExXYU0zNFpnMGdhdllkVHlkcmgwTlFILXdfeTMtcjl4YThqSURBdExta09XQXhYb0x5Uldj?oc=5",
+          "pub": "Thu, 05 Nov 2026 15:46:01 GMT",
+          "source": "Yahoo Finance"
         },
         {
-          "title": "More drops for Nvidia and other AI chip stocks erase Wall Street’s rally from the day before - AP News",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcE43QWpUdHk2WE5qUmd4Z0hjYlBqQ3FGLUVoRlBTbmN4c1JJbWZpeUJmTXhpalZzaTNGMzVweE5wNDRJdnRSMzRENURHaGRIejdqbnVObV9KNEp6R0p0ZnAzT3Y5WGVYejV6VWc0dGZheFVWdG9IVDljNjMxVmVDVGpYZlpwN19nVzBibDdqVmRJOXV3Vk9YdFRiSQ?oc=5",
-          "pub": "Thu, 05 Nov 2026 15:02:00 GMT",
-          "source": "AP News"
+          "title": "AMD Tumbles 13%, NVIDIA Slides 7% as AI Regulation Fears Hit Chip Stocks; Intel Sinks 8% - 24/7 Wall St.",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZXpOcVdYWWIyd0ZyaldnY3QxMFJUUk14d3E0UmpWVzRwakhSOF9lOUE1azgtTmxRMm55V1JWZ24wZmhsNlVjWHBtZW1DNTJLMmFRNjd1YS0yaFJ1cUxQQVhkdU14V0Mzb1VjbFBreGpFS3FjYUdnXzd1NkVYUUlEY05uYWVJVEgxaGMzbDhzMU5rZWpmNkxqcjdBT0lLMy1kWVlhN1lhbjB2TDFEOGQ4SEJ3YXAxUnpuMi1kMy1RdkZzZVFicVE?oc=5",
+          "pub": "Thu, 05 Nov 2026 15:46:00 GMT",
+          "source": "24/7 Wall St."
         },
         {
-          "title": "5-star analyst resets Nvidia stock target after Intel crash - Yahoo Finance Singapore",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYUcwZk1keE5vcUlBWHlZMVpBNWxpdjZ5TEZyLUdYaWRzRzFyMjliWmhxSkQzWDhRS0lRMEF5Smg0WTlnV2M4WDlubmhidGlkaDczN0c5Zko5ajNIWm4tLWZ6bUJLOEJlcWllX3N4aUU4QW5OYUNmYkFIS2pmaENhYXBiSQ?oc=5",
-          "pub": "Thu, 05 Nov 2026 00:37:00 GMT",
-          "source": "Yahoo Finance Singapore"
+          "title": "Why Chip Stocks Nvidia, AMD, and Intel Are Sinking Today, Nov. 5 - TipRanks",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWm9OMjg1TndJMXctRkl5Y3F4QnFCYmxkU1ZaVVVlYWpZbXl3X29VTHBzZjNuczRyV1FKemlxTkNiaVFPd1Noa0k2c19hSFdWWVZkdVROR1BtWXp0N3dSYkdjUGVheXVVWDhyMHFlY2Z6UXBIQ2hvMzQtX2dRWk9ZWlQ3X3VCcDVNRU83TjFOc3ZuS3F4?oc=5",
+          "pub": "Thu, 05 Nov 2026 13:13:04 GMT",
+          "source": "TipRanks"
         }
       ]
     },
     {
       "symbol": "META",
-      "price": 593.51,
+      "price": 608.53,
       "prev_close": 630.0,
       "high_52w": 779.8200073242188,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -5.792063492063494,
-      "drawdown_pct": 23.89141155322504,
+      "day_change_pct": -3.4079365079365127,
+      "drawdown_pct": 21.965326064403357,
       "name": "Meta Platforms",
       "news": [
+        {
+          "title": "AMD Stock Is Up 170% in 2026. Could Meta Fuel Another Rally? - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaUhFQ1NQYnFyY3VsNjJ2OHBHTTB0TGFvWUs3cS1NQXhHZkFvVWVaQXBjZ3RYSHhEdlZ0TTRwMmZJdHh3R0szc3lQWF8wb0pvbGFPQklJQWFDN2VjUDdhSFNqZV80cU1MbzJOZnpVQ3ByQVdWUk10NG10Y0pGTmtMMENJSUdlUTdUVE9ITmZoeFM4ZW5qdUE5WkRibFpBUjVGa2c?oc=5",
+          "pub": "Thu, 05 Nov 2026 16:05:37 GMT",
+          "source": "The Motley Fool"
+        },
         {
           "title": "Meta Platforms: Even With AI Growing Like The Cloud Giants, The Shares Are Overvalued - Seeking Alpha",
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNS3NLUmtWVTMyZzRaaHVHYmFQc0xzOWphZmRoQld0SGpIcnkyY2ZTWHdHbXRkbHMzNzNUeHg5ZXZ3THV3dmU2c2daNHFmYmFnMDZXNDE3Q1NtNnNkZk9YTGZ0VGh2UEVwOUt4ZmpnT1BJU2hSV3R6RS05WlB1NFJoVFBtbnhiRnFNMUJuWXNsWW1IVFcwRXdGbW56QWpRTlJ3c2psX0VMMFRJejRfdnpkT1RBcXFnSUpSeG5fVG1ieldpUQ?oc=5",
@@ -69,33 +75,21 @@
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYmtUOURXZENzTi1wQjRHREwwczFiRUh5Y3dPYXdXaXJoSlp2S2xyS3FFX2p1cG55SG1GdHVPTkFLZ25IOTRnbGR0bEJ6YVIxZVpKTTc0QnNwZTJBV1pLVU9Ycm9QeDZTNmRxQ1NKS0EwQWtERFRNbDMzSVhyN0twdnlqWTFCQlp4b3lXWkY3N0RuQmFSWllmUVVVVmVCQkFEc3lKYTRpVmhaTm9CUU5wWQ?oc=5",
           "pub": "Mon, 02 Nov 2026 12:10:52 GMT",
           "source": "Barchart.com"
-        },
-        {
-          "title": "Down 18% From Its October High, Should You Buy the Dip on Meta Stock? - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQczByTk95VmVDbS1BMl9qQUdobDhqRVZVLTBiMGxNSFpuWmNzQkxtM0VrRmlQUWZIWVdIRmtLdi0wTmk0cTRTeE9xNS1iRll1Zm5aYzdFTUg4QUhybWFqZHMtdEdqOG1oZjhfWHRHa3JlT1V6RlVQQlNTU1otM05pd2MyQXZySXFmS25LWVEySlRoVGJzaExIYg?oc=5",
-          "pub": "Mon, 02 Nov 2026 10:02:00 GMT",
-          "source": "The Motley Fool"
         }
       ]
     },
     {
       "symbol": "AVGO",
-      "price": 294.55,
+      "price": 305.73,
       "prev_close": 325.4800109863281,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -9.502891096936622,
-      "drawdown_pct": 40.494949494949495,
+      "day_change_pct": -6.067964335652462,
+      "drawdown_pct": 38.236363636363635,
       "name": "Broadcom",
       "news": [
-        {
-          "title": "Broadcom Stock Could Be Approaching a Major Turning Point. Here’s the Price Target - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaS1EVUVRMEVUX0lIVy10VkNtTXllWWkyeVJEbXA0NUpfVEwzT0V3VHQ0YUhmTUVtQmpVSWhucXBXWDFYd050bXB0R1pqWDk1MXZCMHVuUHRuYzd5bGtYU1hVY2FHSVRFZVRiWHl5RHByRURiWEMzTmQ4ZkpoR0d3dU16c3hiN2dpcThDQ2s0bEhHTXNFTnlOeFJlcTNCWmdRVmgxNHpB?oc=5",
-          "pub": "Thu, 05 Nov 2026 13:03:07 GMT",
-          "source": "Yahoo Finance"
-        },
         {
           "title": "Butterfly Trade Helps Investors Find A Nugget In This Sagging Stock - Investor's Business Daily",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWlJDaTBCMnFYcW5URDI1X1VsQ2lpaVNhMkJ3MF9qZ2NOYkpZNnJreHF2YnFEYUQ5X3VRUUJkczNvejgyZHdQbXhNTkhKOFBORzVtY204WHcwX3dCU2F3YmotcXhPUnN1VUdKdWhUSlpRSGZwSzkzRjJTYXFGOW13NFRjalU4MTNLeC13REJTT2hVZw?oc=5",
@@ -103,9 +97,9 @@
           "source": "Investor's Business Daily"
         },
         {
-          "title": "Taiwan Semi or Broadcom: If I Could Only Own 1 for the Next 5 Years, It Would Be This - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVmRmcUtySDFqa3Zfak1Sc1dxbzFXYzlTd1UwX2p3ckVBQzB4VTlNQUtSMUd6Rk10eHU2Z0lhczFOeVNXLUtTVFhzU3BQc1labmRnQU0xREZ1TndBeWR1RUNqY2h4cjlLZkFRMUdybnBkTjhGYnE5UHFPM3YxTHd0cG40b3EycFNPc09haWk5RUNfc0Jnemxn?oc=5",
-          "pub": "Tue, 03 Nov 2026 16:00:00 GMT",
+          "title": "Is Broadcom Stock a Buy Now? - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB1RVRSbUJWNmkwNmZJTVpJYkhjbTZqZUw0dG0wNUZiQTFfSy1jcDZxZjhmRjdiNnJvdG1IVGNyOHZRUlR5SGdPalpJVWJxNFJqSWxYa2NUSzNPNGZLcEVpSFg3ZzlMbjJxN0NtbS1vVFZMMk1IWXJRNHlR?oc=5",
+          "pub": "Wed, 04 Nov 2026 18:00:00 GMT",
           "source": "The Motley Fool"
         },
         {
@@ -113,21 +107,33 @@
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaENfb3FqdXEwcWxLZERnSG8tS0FJTGVKVlAzT3VURlZic3JuLXJPZkdXLVdVOFJNaHFrSF9WLWpFMEJYazUtVnFqbTJDWHJoS0pfeVdrUnlTTEtZR2FDcXNudkVJa1ZVVGpGSkFnMm9yS3FMRGZhbzNpYXQ3cm1uMWhjNTFzT29kaGM1LUZha2NoQkxhWjVlMXF1Qm1xX3k1OTJ6YThYT0tDZVVSZlVmNUtEZlAxc0x6NTRucA?oc=5",
           "pub": "Wed, 04 Nov 2026 18:53:17 GMT",
           "source": "GuruFocus"
+        },
+        {
+          "title": "Broadcom: Great Company, Not A Great Price - Seeking Alpha",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeVBvVUIyejhFNVV2a3V1MTI0cFpDQmhITTQtYlZ5aFVHX2dWR2hwNjdSVlc0dkxvdndpVGZLZWtvazBYWDFOY1VqSnBDdWVZWDRXNUE4MzQxbTBoWUFoUzhzbzkxQTlHbVIzd0V3MlJKcy1GazlLY09MTFlTYU0ySTNCUm5qbGUy?oc=5",
+          "pub": "Tue, 03 Nov 2026 09:39:39 GMT",
+          "source": "Seeking Alpha"
         }
       ]
     },
     {
       "symbol": "AMD",
-      "price": 410.48,
+      "price": 428.82,
       "prev_close": 488.7799987792969,
       "high_52w": 658.52001953125,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -16.019476855609295,
-      "drawdown_pct": 37.666283814394994,
+      "day_change_pct": -12.267277492746006,
+      "drawdown_pct": 34.88125079245972,
       "name": "AMD",
       "news": [
+        {
+          "title": "AMD's data center revenue nearly doubles in Q3 and CEO Su expects growth to accelerate - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBfVXVMaFFzOXpSSmhDS2xlZWZLZDk0V2w5MHpTSnZ3d2c5bkMzRDhwbzhURWpMMVcwX3ZiME8ybmU4UHR1ekdtVlUwRTYxcTI0T1dadVhheUQ0LVVpWnRqYjdmeDkxMGJKQXBkNUtpaEVKZVlXNEhYRdIBfkFVX3lxTFAwT0pLTUtFX3FhLU4tWFFuU3JjMXF4NWxpWFNVZEoxeTdqMVc2d201ZHRMdXV4cEg4VGNnd0RDRmhKbnNYZndMa1hhMzZ3Y0lUdk82SUprYVVibVZQT19vR05WaGZKZlBzcDFLZWNzczZkb0pDN180UTZ5MTRuUQ?oc=5",
+          "pub": "Tue, 03 Nov 2026 21:17:55 GMT",
+          "source": "CNBC"
+        },
         {
           "title": "AMD stock rises after Q3 earnings beat, as data center revenue climbs 97% - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPR2NPYWttRXRkSERHSVlBbkU1QzVTZEZCaW1lMHYwSEhFM3oxQnlBdTlodGNJeFpSM2E1UFZiUGdHVFRHUjNTQW95VmlYNy1jNDNDeWpNMnlOQjFhYkRuNVh3WVNrYU9zeGc0MHhGc0gzOFp0U2h3N3hqTC1BVVhMcGtZdUlMN285ckpaU2VFeUlRSU5LMnMteTctTVJSdGU5V2g3WWRTZ2VRa2JaOUVxNEFRQ0M3bVFSdmdSaDRCZ0FFYl81MzVkZlg0OA?oc=5",
@@ -135,35 +141,29 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "AMD Tumbles 13%, NVIDIA Slides 7% as AI Regulation Fears Hit Chip Stocks; Intel Sinks 8% - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdzNfN2w5ZVNDUjNHZUxyd0tWZG42ajdJbzg0NkU0NHN3UDN5NG5jWVZrUHhqd1JHMVhVMkpXQ2NDYjcxcDREQ0liOWJ4TEFySkpOV3lJSnJQZGtmeUJRX2dBMExXYU0zNFpnMGdhdllkVHlkcmgwTlFILXdfeTMtcjl4YThqSURBdExta09XQXhYb0x5Uldj?oc=5",
-          "pub": "Thu, 05 Nov 2026 15:46:01 GMT",
-          "source": "Yahoo Finance"
+          "title": "Buy, Sell Or Hold AMD Stock? - Trefis",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdHEycEhqVmozNWhuUTlBTURwc1RBVk14cklZekZRZ25YOXNSUVpZTVdRNUVwLU1tYU9sNmRaY0psbmg2c2lKb0Rva3FEb2Q3YTVyVVFubkQteE5CNmJtbUdqejVSRWRvV1ZsblBqdkJIcmlfU3c4VlFmakZZeWVMcE5sLWhZNzRveUJTbEIzQQ?oc=5",
+          "pub": "Thu, 05 Nov 2026 12:52:15 GMT",
+          "source": "Trefis"
         },
         {
-          "title": "Qualcomm, Micron, Sandisk, and AMD stocks sink, leading chip sector lower - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQT1V3SHFuWkhMcHVRTGdVUUM1ODctZTZESFNFWXlVSUhkUHRoMUdwOXY2M2IzMG9kMHE2ZjJnMGV5S1dMUFNTNlpyemliSUNvSUdvSlJyanU2a2RoeVFULWt4UWRiSUx3V2NVY05WVnJCSUtOMUlkbUxHX01kRHZxRS1NTjgwS2VEZ3hUTWpxS3BRY3BKckNLN0V6ZVMzWjRuUmIyNE56N2FLcmwyUE9EWg?oc=5",
-          "pub": "Thu, 05 Nov 2026 14:42:04 GMT",
-          "source": "Yahoo Finance"
-        },
-        {
-          "title": "Goldman Sachs’ $675 Target Says AMD’s Selloff Went Too Far - TIKR.com",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbDhyT0VfMURCOV9YSG9tQWp5UjdfZGF6WGlVbExrQmNZdDZEcHRyR0ZDcTd0WkJsZlp3NDEwYTdDSkdQaVRIeGc3alY0UUd5UEh2S1N0M1Q5c185cUVyR2RXNDFqYjRxZUpzV096Ykd6a0psTTJPQ09USmI5ZU90WTE3OWhrbUExemc?oc=5",
-          "pub": "Wed, 04 Nov 2026 20:48:45 GMT",
-          "source": "TIKR.com"
+          "title": "NVDA vs AMD: which stock has the better bounce setup - Investing.com",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOalZ0R1BLenJ3a21tQnpDZ0luNUhsNXBEN3V1aTRtU3k2QmFVdXE5a2hzXzNQcHhZTjNJQ0htWlAxWk5YZGNxR2M4Ni1EbUM1SEZ4dzEteVNQYmJoWTYzZU5zdnFfQWV2UUZLVlBYTU9zQ3BtQlo1QzhMeVhPaHQ0b09KZzRZRlNvelR2LW5PUk00cE1fVEt3UDZ5cmhmalRlS1ItREEtcWRSbV9MVl9GQVhNMA?oc=5",
+          "pub": "Thu, 05 Nov 2026 15:30:56 GMT",
+          "source": "Investing.com"
         }
       ]
     },
     {
       "symbol": "RKLB",
-      "price": 44.37,
+      "price": 47.215,
       "prev_close": 52.369998931884766,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -15.275919601010488,
-      "drawdown_pct": 70.6158940397351,
+      "day_change_pct": -9.843419967584172,
+      "drawdown_pct": 68.7317880794702,
       "name": "Rocket Lab",
       "news": [
         {
@@ -173,35 +173,35 @@
           "source": "TipRanks"
         },
         {
+          "title": "Better Space Stock: Rocket Lab vs. AST SpaceMobile (Hint: It Comes Down to Dilution) - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZm1kMjNyUndjbmVJWl90NlhjNjBvNkNockpkc2FnRy1lM0M1eF9vOVc3aDVzckJJQlhULVNKVGN4YTRKd3VWV0t0cDFJSmVHSkdaWFRycGkyWlV3Ulhpc0RoZTdBdExQMHhtVTZoX2lQNjd6amdyVEZjU0xVVF9RRFhXQzRCOGtrdl9ZQkpJbTd5ZWhzTFUxcTBB?oc=5",
+          "pub": "Thu, 05 Nov 2026 15:35:00 GMT",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Why Rocket Lab Stock Plunged 15% in October and Why Its Decline Might Be Short-Lived - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbVN5M0hnVkN1ZldLYzBLYmtrSzJyVEpLWEVnYWRQanplcFlHSEw3NmlaZkF1S2JTWUpyLWdyMHhodDUxcDlTdzFBVFkzbGVqSjF2MW1MSjBIUTVnellaeGVXanBsWmN0ekVsRmp5aVI4WFVSNllpU25nUU1fU2pfSDlTZWRUQ1hZTjRRQ2pSTUhwTTU1Yy12OQ?oc=5",
+          "pub": "Thu, 05 Nov 2026 08:10:02 GMT",
+          "source": "Yahoo Finance"
+        },
+        {
           "title": "SpaceX vs. Rocket Lab vs. AST SpaceMobile: 3 Space Stocks Compared on the Only Numbers That Matter - The Motley Fool",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNb1BHcVg4RzhKYzFEb2VSUjlzcm11SURoYm1obWlyRWJmLUUyWEFUN2ZWWnoxejRXOHowNFo2a1NmeXRPempvNTJoeVZCbXAyQ1BCeHJRNzF6UVA1M0dxQ0RKMVdNbzNRTFhhanEteFdtWDl0a2RpUjF5eVZibDJ6ajMwTVlqZ2hVbTN1alVpNmhJUUhMOV9vVg?oc=5",
           "pub": "Thu, 05 Nov 2026 14:00:00 GMT",
           "source": "The Motley Fool"
-        },
-        {
-          "title": "Rocket Lab Falls 4%, SpaceX Down 4% as Midterms Make Musk the “Biggest Loser” - TIKR.com",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeGVRQXlLQ1FHS3NJTVA1akpaVHVrelotaEhmaVJ6Q201bnd6c2REUU1ubkJOZkxnSDF1WGJnRWdWbVU3Zzl0XzIydUNfRkJqeFVlRmlBNkEzVHVhZHlES0YtSjdyWTdNWkE5dHFvWU95bG0wM05yZmNsOW94bVpVc3E1dXpPZnFrTTNXQkJuVi10YS1yUWNXaVpBOUxKZmVh?oc=5",
-          "pub": "Wed, 04 Nov 2026 21:45:00 GMT",
-          "source": "TIKR.com"
-        },
-        {
-          "title": "RKLB’s Iridium Deal Draws Heat As Globalstar Echoes SpaceX Concerns — Rocket Lab Seeks Fast FCC Approval - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbklGMjZQSWNDa21yVFQ1RHQzMHJFZUhGNURuMkNjYmdCal8xRzJfcUxpQTV3bDZrRDZ6ZGQ2QUNuQjdyMWVjb2xKMXgzRkltRHdoaVRHWGVlZnhTb0FEcHJ1SldYMkJnWVlZZllJT3RYRjV5WUN0YXV1UGFob0padE9uT0xHSnhzckFCUHFlUGJ6RHZBTl9Yaw?oc=5",
-          "pub": "Tue, 03 Nov 2026 06:47:00 GMT",
-          "source": "Yahoo Finance"
         }
       ]
     },
     {
       "symbol": "IREN",
-      "price": 17.25,
+      "price": 18.659,
       "prev_close": 21.709999084472656,
       "high_52w": 76.87000274658203,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": -20.543524977219,
-      "drawdown_pct": 77.559516867889,
+      "day_change_pct": -14.05342797390895,
+      "drawdown_pct": 75.72655218770672,
       "name": "IREN",
       "news": [
         {
@@ -211,43 +211,37 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "IREN Sinks 9% After Report Links It to Microsoft’s AI Spending Delay; Nebius Tumbles 11%, CoreWeave Slides 7% - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNLTZxMUFOdFIwbXZKOVBWSldqVWdyYlFwT3VOV0VZNnA1c2QyT0o2QldFWTl4ZHg5dWFTUzI0TXdLc1J0anI2Q0djUWQtUXZMTy1OdG1MOUhjOWFGRzdRMVV0Q05PUWRCWEFPWnRFYlgxdzExTmhwT1RJV2JnUThZV1BYZ3JzQ3IwSGxtbWlHdlczcG8?oc=5",
-          "pub": "Thu, 05 Nov 2026 14:50:50 GMT",
-          "source": "Yahoo Finance"
-        },
-        {
           "title": "IREN stock plunges 18% as Microsoft raises concerns over data center delays - Investing.com Nigeria",
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWGQ5T0ZyUUF4SWtUOG02N2JFMDVNOC1ucGU5LWRzSTRVU3pQWjNwNFpxbkh1UndwUEYwdDJMOWxtQ19nV1UxR2FHVm9iUFdSR05IZzg4Ym51T0t5d1VOMVRRTlpfUXpaZEVkS3pPZmZVbVlzZzYwckFTcjg5ZTl5d0dxaFhnN0JhaURIaW1uNThpOXYzU2ZYMkl3dXhHWm9WRzlLZ0NrNzI5cHVkZDRQbjN3WHhxbF92NGFFTjYwSjdlZGg4Ukh5ZThB?oc=5",
           "pub": "Thu, 05 Nov 2026 15:54:46 GMT",
           "source": "Investing.com Nigeria"
         },
         {
-          "title": "Is IREN stock setup strong enough to trigger a post earnings rally? - Yahoo Finance Singapore",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQemN1SVRBVlhhbzVZMUluZHRJaTZMRnl0RUc3V2lDOFc0NDJ6LU5CYzNaTE5heXpiME1hRFc4SEJZVFFTNDBQU3gwWTlRM2NRNGZTXzFqdWJDaHIxRWc3ajJBOFdUS0dLdXY0RWFMM0tGQ1FUY3lySmpFZy1aVWwwWGNqR1Mwdw?oc=5",
-          "pub": "Thu, 05 Nov 2026 15:07:57 GMT",
-          "source": "Yahoo Finance Singapore"
+          "title": "Trending Industry Today: IREN Ltd Leads Losses In Blockchain Stocks - Moomoo",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPM2lmN1BURGJXd3B3NzNDVTRMVFN4c2pRcTlsR2kwMTlKTHIxcWZGZ1JjcXcwdlN5QW5ReWZNekdmb040bk01V0JmeTV1Z0R4THBRdEh4ckZyanlsaEUzWkwtel9zTXhETTFNdmdiSDdxVm55Z0k1RmdVM29PV2wzakhURGNleEJmSlBnbFEyTHhkeGlLakh3cXpWdHpNVVk5dmlaeDVWQ21kRHVlaUk4?oc=5",
+          "pub": "Thu, 05 Nov 2026 15:40:01 GMT",
+          "source": "Moomoo"
+        },
+        {
+          "title": "IREN Sinks 9% After Report Links It to Microsoft’s AI Spending Delay; Nebius Tumbles 11%, CoreWeave Slides 7% - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNLTZxMUFOdFIwbXZKOVBWSldqVWdyYlFwT3VOV0VZNnA1c2QyT0o2QldFWTl4ZHg5dWFTUzI0TXdLc1J0anI2Q0djUWQtUXZMTy1OdG1MOUhjOWFGRzdRMVV0Q05PUWRCWEFPWnRFYlgxdzExTmhwT1RJV2JnUThZV1BYZ3JzQ3IwSGxtbWlHdlczcG8?oc=5",
+          "pub": "Thu, 05 Nov 2026 14:50:50 GMT",
+          "source": "Yahoo Finance"
         }
       ]
     },
     {
       "symbol": "MILDEF.ST",
-      "price": 248.0,
+      "price": 249.4,
       "prev_close": 251.0,
       "high_52w": 264.8,
       "currency": "SEK",
       "yahoo_name": "Mildef Group AB",
       "exchange": "Stockholm",
-      "day_change_pct": -1.1952191235059761,
-      "drawdown_pct": 6.344410876132935,
+      "day_change_pct": -0.637450199203185,
+      "drawdown_pct": 5.8157099697885215,
       "name": "MilDef Group",
       "news": [
-        {
-          "title": "Mildef Group AB (CEUX:MILDEs) Stock PDF (Updated: 2026/11/05) - GuruFocus",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA3TWFxU0FHeXdYWlRZRkF1YW1HeEEzNzZCc0kzRnV1bTJFVENyRXFVWTVpbkM4WERJMkFiYW9GbnBOcEpVRXRtcWk2X3F5alJvYy0tWXI5Skg4T3ZrNUJ3?oc=5",
-          "pub": "Thu, 05 Nov 2026 07:12:10 GMT",
-          "source": "GuruFocus"
-        },
         {
           "title": "Mildef Group AB (8QA.SG) Seasonal returns chart - Yahoo Finance Singapore",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB4NHJId1VQcDM3T2VvX2x6STVRWUNaOFl0VjQ2OW1tZ0t6c3p2QTFFcDZHN1hsc1VaRlQ1VkJ5YkVYZjRuX3FCb0hlM3pzQmZFRndiWF9raU9Dc3Z1aTNVc1MzLWc?oc=5",
@@ -265,19 +259,25 @@
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5zV2pPMV9QMDktZlJ1N0NmNGtYYUlrQXNfU0VhYjhtMWpJdjc4ZUpaVTUzZ2QwN29ZcE9TMVZkVm1GRWpwTFdXSHh1UkJvd3lLSTg5NUJod3dRYWtpMGxr?oc=5",
           "pub": "Mon, 16 Feb 2026 08:00:00 GMT",
           "source": "TradingView"
+        },
+        {
+          "title": "MilDef Group (OM:MILDEF) Stock Forecast & Analyst Predictions - Simply Wall St",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQV9TTFBVOUxkRUxRRFd6bWdhWEs4QThCZE9mVnJzMUZFY09QaWJqM0pjUHBjTkFCRTV5NWtlbDFoSl9CY2l1VUNfbkRvcm1pdmhRVjdCTXZBbzBPX2ZNbmRqNkhEQVRwMW92b1VmRnZicEM3MjdyWTZHd3pjQm5LSFZYbWpuSjZINDk4?oc=5",
+          "pub": "Fri, 23 Oct 2026 07:00:00 GMT",
+          "source": "Simply Wall St"
         }
       ]
     },
     {
       "symbol": "IVSO.ST",
-      "price": 213.0,
+      "price": 212.0,
       "prev_close": 213.60000610351562,
       "high_52w": 332.0,
       "currency": "SEK",
       "yahoo_name": "INVISIO AB",
       "exchange": "Stockholm",
-      "day_change_pct": -0.28090172582900014,
-      "drawdown_pct": 35.8433734939759,
+      "day_change_pct": -0.7490665064589109,
+      "drawdown_pct": 36.144578313253014,
       "name": "Invisio",
       "news": [
         {
