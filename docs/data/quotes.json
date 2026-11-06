@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-11-06T18:00:48.174939+00:00",
-  "updated_at_display": "2026-11-06 18:00 UTC",
+  "updated_at": "2026-11-06T18:30:38.715912+00:00",
+  "updated_at_display": "2026-11-06 18:30 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 186.05,
+      "price": 186.295,
       "prev_close": 181.60000610351562,
       "high_52w": 243.37,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 2.450437085309238,
-      "drawdown_pct": 23.552615359329412,
+      "day_change_pct": 2.5853489750480088,
+      "drawdown_pct": 23.45194559723878,
       "name": "NVIDIA",
       "news": [
         {
@@ -42,14 +42,14 @@
     },
     {
       "symbol": "META",
-      "price": 617.0,
+      "price": 617.23,
       "prev_close": 605.0800170898438,
       "high_52w": 779.8200073242188,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 1.9699845596431822,
-      "drawdown_pct": 20.879177989149046,
+      "day_change_pct": 2.007996061180816,
+      "drawdown_pct": 20.849684003634465,
       "name": "Meta Platforms",
       "news": [
         {
@@ -80,20 +80,26 @@
     },
     {
       "symbol": "AVGO",
-      "price": 291.98,
+      "price": 290.585,
       "prev_close": 291.5299987792969,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 0.15435846142331894,
-      "drawdown_pct": 41.014141414141406,
+      "day_change_pct": -0.32415147094769753,
+      "drawdown_pct": 41.2959595959596,
       "name": "Broadcom",
       "news": [
         {
-          "title": "Cathie Wood Is Buying The Dip In Nvidia As She Adds $45.9 Million Of NVDA And Sells $119.7 Million Of Broadcom - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVmgwMG1nNDhvejFLdEVSS25ad0V2SjZnOG9HWmRndXhXWnpsUTZ1YXNpVGh1Q3VtbXlWcTdOajFybF9ZUEFNRktBd1FJc0dfd2ZLTnpwdENKeXhmczhMTnRyNkp2WHlfeW8xdzZDNVlxZ280d0k4QVZKZ2l6N1BNX1pFS2NYVnNhNEVJWF9nTzJ1TjVOaDFHenV3?oc=5",
-          "pub": "Fri, 06 Nov 2026 13:43:39 GMT",
+          "title": "Congressman Swaps One Chip Stock for Another: Here Are the Moves - Benzinga",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVDk2bmI4Ui1sRTVTcVdfY1JEVmVyODBqRjZ1YlFDYkJGQU9maHVyVGhvaWE4Z2JUal9ZSXlwb1JFUC16aWNIbXVwa1ZlRDNQYTdsczZSdjFvYVpBWGxmNEtDVS0wVG9JUmhKT2JwQUdNekk1VUJ5V0d5YnB3ZnhzVDBkYzYwYXJoMmNST3h4aGxtMFJLckRJRjZ6UWZvYi1iekxETmRpVldFQjdqU2tmUndHOXhYaVNl?oc=5",
+          "pub": "Fri, 06 Nov 2026 14:49:10 GMT",
+          "source": "Benzinga"
+        },
+        {
+          "title": "Broadcom Stock Has Had Only 2 Losing Years Since 2009. 2026 Is on Pace to Be the 3rd. - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb19GMEY2NjNxN3FxNTZJbnRMQ2ZjeG15cGxkUG9yS01qai1xc0g5amFUdW5ETlg2bDFTX1RqVmRFbWVJc01KSzl0OE05bVJoY21FM1IxZU96dlNzaksyTVBnVlJpd09panFjVlF5d1ZBamxVdXpzR0g0b0Jrd3hZeUpneVNZbzdEaGZ1Rkd2aXYtUmpD?oc=5",
+          "pub": "Fri, 06 Nov 2026 09:01:02 GMT",
           "source": "Yahoo Finance"
         },
         {
@@ -107,25 +113,19 @@
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZ0paUl94ZjZXWUo4V0s1ZzVRTFRNczBuNmo3Qk53WUpFSWt4bl81dy04ck12dl9UVWVrU1p0X1I2TklPYllXd2hqUnhyYXhqZ0hjYWhoOGUtRkZOUVVhQUZfNlNrYThuQVRnNmZyTGkxdW5WZGZzVm5WQmJvbWY1VGVvd29mT295Qm1lck1xNHZ1VjNwWWUyRg?oc=5",
           "pub": "Fri, 06 Nov 2026 07:09:00 GMT",
           "source": "The Motley Fool"
-        },
-        {
-          "title": "Butterfly Trade Helps Investors Find A Nugget In This Sagging Stock - Investor's Business Daily",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWlJDaTBCMnFYcW5URDI1X1VsQ2lpaVNhMkJ3MF9qZ2NOYkpZNnJreHF2YnFEYUQ5X3VRUUJkczNvejgyZHdQbXhNTkhKOFBORzVtY204WHcwX3dCU2F3YmotcXhPUnN1VUdKdWhUSlpRSGZwSzkzRjJTYXFGOW13NFRjalU4MTNLeC13REJTT2hVZw?oc=5",
-          "pub": "Wed, 04 Nov 2026 17:57:00 GMT",
-          "source": "Investor's Business Daily"
         }
       ]
     },
     {
       "symbol": "AMD",
-      "price": 436.15,
+      "price": 438.57,
       "prev_close": 404.3999938964844,
       "high_52w": 658.52001953125,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 7.8511391154082855,
-      "drawdown_pct": 33.76814871771677,
+      "day_change_pct": 8.449556532946493,
+      "drawdown_pct": 33.40065799181255,
       "name": "AMD",
       "news": [
         {
@@ -141,10 +141,10 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "AI meltdown: Nvidia and Qualcomm drop more than 9%, pushing Nasdaq to worst day since April 2025 - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUGR6VGxMQVNKdUF0R21NRjNRYzB1MlJMRzZFVVViM0tLZXpMM3BOc210T2FGZ0RMcEVWOTRXeGx3dHJNd2JlOHh4Z05BREdvSmVGdjdHWlptek45UEc1UGU1eDFYdVdRczVheTJCcE93S2E4d0dULWI0NUtVXzNiQtIBhgFBVV95cUxPU1pQS0l2NFdxYnpCWkV0d1lrSzFVQU45NVJWOEhlQTZfdTFoaVVwbUNsMXBNZVJ5aFAtMFRhbUhIZ0VNbG16YklqODNsekdieHY4M2ZGNzlXemtZTHYxOHYyM096QWVyVkllTFhjTHZUYmpWeEpMUEJBaHdTbXBTTkp2VG5TUQ?oc=5",
-          "pub": "Thu, 05 Nov 2026 15:18:46 GMT",
-          "source": "CNBC"
+          "title": "AMD Jumps 8%, Intel and NVIDIA Climb 5% as Chip Stocks Rebound From Worst Sell-Off Since 2020 - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMW1ORFRuT241UWRmRjRmYTlsWWFNV3dYUm9EMGU3dy1qdTVnRnRrODJOVnRZeFltam1icENSd1Z4UWlyRlhUT1dmQ2s3SGhkSTVSRmpmTFNBVDZPYlNic0VnRlo2UEpCVDlRV0pUUGxrcnJUcVlMbDZ0R3UxcHhLbmxWdDRXWGxLbVJpaDZaaFdvemc?oc=5",
+          "pub": "Fri, 06 Nov 2026 14:05:02 GMT",
+          "source": "Yahoo Finance"
         },
         {
           "title": "Nvidia, AMD and other chip stocks rebound. Is the ‘violent’ AI selloff over? - MarketWatch",
@@ -156,52 +156,52 @@
     },
     {
       "symbol": "RKLB",
-      "price": 50.762,
+      "price": 51.39,
       "prev_close": 45.9900016784668,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 10.376164704006793,
-      "drawdown_pct": 66.38278145695364,
+      "day_change_pct": 11.741678896397092,
+      "drawdown_pct": 65.96688741721854,
       "name": "Rocket Lab",
       "news": [
         {
-          "title": "Dear Rocket Lab Stock Fans, Mark Your Calendars for November 9 - Barchart.com",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaS1LUmRuS1VWSXdKUERyQkVSZm5MVC1hUUZkTHlERDdFdFZranpGSUVBMnp2V28wcnZiV25GdElxb3lReFJqc3Z2QWFGVVUzcmlxRXNySUVSUnY3RFVqaGN2cHVsN25LOFZvakZmZzVRelNibW9Vb1pOd2FTRjUtNWlwNENIV3pjWHVxcU11a1ljR1VCaDlDUTZVaUFXS1JpcHdLaHF2WE8?oc=5",
-          "pub": "Fri, 06 Nov 2026 14:48:00 GMT",
-          "source": "Barchart.com"
-        },
-        {
-          "title": "SpaceX Rises 4% as Tech Stocks Rebound From Post-Election Rout; AST SpaceMobile Sinks 8%, Rocket Lab Gains 2% - 24/7 Wall St.",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxONU9pZjFXbFhJZU11TU9ISm5Cb2M2SGFYYzdwQS03TUVlTXJBWWJQN0hQeDR5YkNRNmhkNHEybXJOMmhEZlhkbWo3cXhBNkxfZzduWFlyd1hDMWJWV0RIaHN0WG96OHhyV0cwOXRyeVdmYVlyTmw4eW5WNnBHeXpZWElCR1dDbGlqZW1TTmMta2tlYnY4ODJXLW9hck9hQjdGWnprTDg1WmxiMDRNY1k0bzNZdmVBcEpuZUcyVnFzSDdwdVVUaVRoSTdGRzU4WXduVk1qZFhfcEFlVWlPUzdnT1pn?oc=5",
-          "pub": "Fri, 06 Nov 2026 14:56:00 GMT",
-          "source": "24/7 Wall St."
-        },
-        {
-          "title": "Why Rocket Lab Stock Plunged 15% in October and Why Its Decline Might Be Short-Lived - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbVN5M0hnVkN1ZldLYzBLYmtrSzJyVEpLWEVnYWRQanplcFlHSEw3NmlaZkF1S2JTWUpyLWdyMHhodDUxcDlTdzFBVFkzbGVqSjF2MW1MSjBIUTVnellaeGVXanBsWmN0ekVsRmp5aVI4WFVSNllpU25nUU1fU2pfSDlTZWRUQ1hZTjRRQ2pSTUhwTTU1Yy12OQ?oc=5",
-          "pub": "Thu, 05 Nov 2026 08:10:02 GMT",
+          "title": "Rocket Lab Stock Slides As Neutron Delay Puts Focus On Earnings - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbGJHWU0wWUtYQ1JScEdOREh6Z0M3c0JlQ2lERkc5dEwxX2V6OW42QWhQZXJfZjRFV2lpNk1RWEJjVmlBYVd0UEd6Q0x1d1MzbFJBYjBuOUtVa1pqTklfTUpxUE42S3BVeS1KQjNpaG5DVS01TDFrbjRWQ2R4U3F4SXliU3o5V19KNEhvZlNmUU5xZEZtbFVob0FvcVI?oc=5",
+          "pub": "Fri, 06 Nov 2026 05:16:00 GMT",
           "source": "Yahoo Finance"
+        },
+        {
+          "title": "SpaceX vs. Rocket Lab vs. AST SpaceMobile: 3 Space Stocks Compared on the Only Numbers That Matter - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNb1BHcVg4RzhKYzFEb2VSUjlzcm11SURoYm1obWlyRWJmLUUyWEFUN2ZWWnoxejRXOHowNFo2a1NmeXRPempvNTJoeVZCbXAyQ1BCeHJRNzF6UVA1M0dxQ0RKMVdNbzNRTFhhanEteFdtWDl0a2RpUjF5eVZibDJ6ajMwTVlqZ2hVbTN1alVpNmhJUUhMOV9vVg?oc=5",
+          "pub": "Thu, 05 Nov 2026 14:00:00 GMT",
+          "source": "The Motley Fool"
         },
         {
           "title": "Rocket Lab Earnings Ahead: What Past Reactions Say About The Stock - Trefis",
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQU1FxSmJXMERvd1dYU2RzVjBEbklDdHl2ekpHdjlEOEs3SGdlZ0FnQnNIenJ6M1Q1Y1Q3M1JBNjFVUzgwaExYaHZWRTBxOFhOT1VHbERjak93N2Q0SmFzUzE1ZFJzWVA4QlNBYTVJbzB6bk84bTJXeVFfNDNkUF9kMkl0U1RJSzY1LTVBdUhmVWxnREJUVExVOTk5VnBwaXVOQnhEZzcxMWZqcnAyRThzV1VLVTFGamhseDlYcUdhSVk3UHVT?oc=5",
           "pub": "Fri, 06 Nov 2026 13:30:57 GMT",
           "source": "Trefis"
+        },
+        {
+          "title": "Why Rocket Lab Stock Plunged 15% in October and Why Its Decline Might Be Short-Lived - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbVN5M0hnVkN1ZldLYzBLYmtrSzJyVEpLWEVnYWRQanplcFlHSEw3NmlaZkF1S2JTWUpyLWdyMHhodDUxcDlTdzFBVFkzbGVqSjF2MW1MSjBIUTVnellaeGVXanBsWmN0ekVsRmp5aVI4WFVSNllpU25nUU1fU2pfSDlTZWRUQ1hZTjRRQ2pSTUhwTTU1Yy12OQ?oc=5",
+          "pub": "Thu, 05 Nov 2026 08:10:02 GMT",
+          "source": "Yahoo Finance"
         }
       ]
     },
     {
       "symbol": "IREN",
-      "price": 20.73,
+      "price": 20.95,
       "prev_close": 18.030000686645508,
       "high_52w": 75.79000091552734,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": 14.975037218685925,
-      "drawdown_pct": 72.6481069407759,
+      "day_change_pct": 16.195225746814764,
+      "drawdown_pct": 72.3578311823085,
       "name": "IREN",
       "news": [
         {
@@ -211,10 +211,10 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "IREN Says New AI Cloud Customers Are Prepaying 90% of the Chips - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObDUyeEswanFfWU5wU0xJZ0RQLTJUUmIwYVEwTDROOFVVcVRSajJzM0l2TExReERtYW9MMVF5Sk9tdFl4ZmRhNmVYRzhmOFF0QmtBaDk2U3F3LXQyTV9GLTZqcFZuaVZ6QnkxLXRTdEFyVTBOVVh0cmtBYldhV3FHYS1QQWVrbmViXzZyeXFuSzhmV3hjSEhr?oc=5",
-          "pub": "Fri, 06 Nov 2026 17:13:45 GMT",
-          "source": "Yahoo Finance"
+          "title": "Bitcoin Tumbles On ETF Flows, Liquidations. IREN Leads Miner Rebound Attempt. - Investor's Business Daily",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNTduUTZvOU5uSk5YVTE5cERublV3QTdCSkRnbUo4SEpQSW9Ea2lzenZ1Tk1UcFNlM2EzNWtlaG9MdFUwT0t6UzlNbTd0dlB6U3gzT1BPeUc4dzAxckxiMDdJZERydlRrSWQ3aXlYTzE1SEVYc2syUXhjemhGenFiN00wYjVoOTFSbllibnVkRHFYRkpCVkFMVE5qWTJKSkxrWDhaVXZLR2R6YWpRWkdsOVBLWnlQRGFoUFE?oc=5",
+          "pub": "Fri, 06 Nov 2026 16:20:00 GMT",
+          "source": "Investor's Business Daily"
         },
         {
           "title": "Why is IREN stock surging today? - Investing.com",
@@ -249,10 +249,10 @@
           "source": "GuruFocus"
         },
         {
-          "title": "Earnings To Watch: Mildef Group AB (OSTO:MILDEF) Q3 2026 -- GF Value Sees 18% Upside - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcGw1Tm1tRW8yenBhZWgxemlURXNLTUtjeUU1SXZlbi05d0tzZHRfUmdOcmlmUno0bWVqaHpnYmVvRU43bDJTQzdHMzZXOUFCVGE2azhGTjRlRS04VDhocnJCYlF3MDJESmw3YlIxNGQ5bU5sbW1xeDZPMGxKaXhZOEswRGxzMGhDcDBzTlFxRXlwTjFUSkgwMzhtYw?oc=5",
-          "pub": "Wed, 21 Oct 2026 07:00:00 GMT",
-          "source": "Yahoo Finance"
+          "title": "Mildef Group AB (8QA.SG) Seasonal returns chart - Yahoo Finance Singapore",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB4NHJId1VQcDM3T2VvX2x6STVRWUNaOFl0VjQ2OW1tZ0t6c3p2QTFFcDZHN1hsc1VaRlQ1VkJ5YkVYZjRuX3FCb0hlM3pzQmZFRndiWF9raU9Dc3Z1aTNVc1MzLWc?oc=5",
+          "pub": "Wed, 04 Nov 2026 07:10:27 GMT",
+          "source": "Yahoo Finance Singapore"
         },
         {
           "title": "Making Battlefield Tech Fuels an 80% Rally for Swedish Stock - Bloomberg",
