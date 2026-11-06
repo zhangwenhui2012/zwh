@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-11-06T14:41:50.476594+00:00",
-  "updated_at_display": "2026-11-06 14:41 UTC",
+  "updated_at": "2026-11-06T15:00:49.163165+00:00",
+  "updated_at_display": "2026-11-06 15:00 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 193.915,
+      "price": 193.435,
       "prev_close": 181.60000610351562,
       "high_52w": 243.37,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 6.781384076311416,
-      "drawdown_pct": 20.32091054772569,
+      "day_change_pct": 6.517066904578293,
+      "drawdown_pct": 20.518141102025723,
       "name": "NVIDIA",
       "news": [
         {
@@ -42,14 +42,14 @@
     },
     {
       "symbol": "META",
-      "price": 621.31,
+      "price": 617.25,
       "prev_close": 605.0800170898438,
       "high_52w": 779.8200073242188,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 2.6822870449787684,
-      "drawdown_pct": 20.326486347549753,
+      "day_change_pct": 2.0113014091406067,
+      "drawdown_pct": 20.847119309241894,
       "name": "Meta Platforms",
       "news": [
         {
@@ -59,35 +59,35 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "How Has Meta's Story Changed? - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQR0xTU1dtTFpQZ05pX3ZCVXp2SDRNQVFTNkFKaG95eFpxUXI4UDg3NGlJQnpWMGJqWFVTUnBlS0NCRjRCZVI5akVhRVpZbngySE1nQUhKYWNQQXBYLTdjcEtDUGJHNGtVMl83MGgxMWpaWWxwZk1ST05HZ0o2c3pWZW1KNTRFTGszRXVjcQ?oc=5",
-          "pub": "Fri, 06 Nov 2026 12:20:59 GMT",
-          "source": "Yahoo Finance"
-        },
-        {
           "title": "Stock-Split Watch: Is Meta Platforms Next? - The Motley Fool",
           "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMU1LTnl2SWZBc1ZNZGtuWEdFNE42SFVGR2RycEs3Qm1GWXIzRDBBNWw1X3plUGtVSzY3c25XRVJKOS1mRE5HTGgwNWJKQWxnQlNPNTMzR3VFMF9Gd0JlNkp3RGduMTFfMGxPQWRnTXZXN0RHdFAtd3d6VUxpdHdaWmluc2hwOGJrcHln?oc=5",
           "pub": "Fri, 06 Nov 2026 09:49:00 GMT",
           "source": "The Motley Fool"
         },
         {
-          "title": "Meta Platforms, Inc. (META) is Attracting Investor Attention: Here is What You Should Know - Yahoo! Finance Canada",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMnBnOXljSUJNR3FtalQwSGlBMTd6YXg4RWNMajBudUxNa1hJWlJ5WEFIWTVKVDhLS1ROaGJSUUJSQy1EaGFiLXNsdnR5NU9iTHZrQTFUS0Yydl9id2RrQlFiUjhtVE5XUXB0eXJMbXZ5emdGVUkzdnFNN29Ed3l0VW81TWxIUV9FektV?oc=5",
-          "pub": "Fri, 06 Nov 2026 13:00:04 GMT",
-          "source": "Yahoo! Finance Canada"
+          "title": "Meta Platforms Completes $15 Billion Senior Notes Offering - TipRanks",
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNd2Q1T1U5YVFsMVhaODJSSi1Ub0N6ckgydEQ2LURVUGt6WVZrRFozVUluSE1KQWRDOWZXSVMyU0FEWE1ZeGNpVlJocVZvaW1VakRvVnV2SXNmRkRwdDFpTWhfTHlCYl9pd2ZBX2VseXg4UDB0TUJwNW1jTmRmbDFtS25RMktuT3U4ZWNoQjFhQTJQeHIxSnFkNVZ6cFNEWjZjT01Cd3NvRTc1R1g4eDFKUWNFdHpseWg5V2ZqQ1NKSHBWZjdHbXFERU9FbUFGQmU3YW11aEYwQ1Ftc2ZqMVFmSVB6bkgxc2daSFJv?oc=5",
+          "pub": "Thu, 05 Nov 2026 23:06:12 GMT",
+          "source": "TipRanks"
+        },
+        {
+          "title": "Meta Platforms: Record Ad Growth, But There's A Costly Catch (NASDAQ:META) - Seeking Alpha",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOV0NjcEN4WWM2LXBockRnR1pQSEdsVnVOWTJQOVZ4eUFoWFlmNzVZb3dXRFlJODVQWjRfak83RlYzeFg2Zk83MzZlbHZoYlhSdS1NR1BST2JQUkl4TDZYaHVqQlRYOFlfYVRKbGNmZzVUMEZGY3FreC1DeHEyc05tY3NreV9FalV6YVAtMHhlaWI4X0JyaHhSNGx1dm10Tjg?oc=5",
+          "pub": "Fri, 06 Nov 2026 10:25:44 GMT",
+          "source": "Seeking Alpha"
         }
       ]
     },
     {
       "symbol": "AVGO",
-      "price": 305.055,
+      "price": 304.63,
       "prev_close": 291.5299987792969,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 4.639317146549385,
-      "drawdown_pct": 38.37272727272727,
+      "day_change_pct": 4.493534550665742,
+      "drawdown_pct": 38.458585858585856,
       "name": "Broadcom",
       "news": [
         {
@@ -118,14 +118,14 @@
     },
     {
       "symbol": "AMD",
-      "price": 451.675,
+      "price": 456.97,
       "prev_close": 404.3999938964844,
       "high_52w": 658.52001953125,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 11.690159944863101,
-      "drawdown_pct": 31.410589412070895,
+      "day_change_pct": 12.999507145633679,
+      "drawdown_pct": 30.606513629565583,
       "name": "AMD",
       "news": [
         {
@@ -147,29 +147,29 @@
           "source": "Trefis"
         },
         {
-          "title": "Nvidia, AMD, and Micron stocks lead chip sector higher following worst sell-off since 2020 - Yahoo Finance Singapore",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMmVsMTJicFU2WTVMc2hlaXplekl1RlRvX0JxRWZ3SFNSM2d0TXVfSXpSV2VsZ3NBRV9SX2g4ZmMtZTZCQV8zcFp1UF96RFc3Q3VaQnk2aGhsVXhfdktMOHZSNzBKUGFyZ20xQ0JFVU05V0NHZ2Z6ekh2a19xbGxjOHJsVFRpcGdJdl9sZHVkWXNNSU5zTjZXRk5xb2t1MFU?oc=5",
-          "pub": "Fri, 06 Nov 2026 13:43:36 GMT",
-          "source": "Yahoo Finance Singapore"
+          "title": "AMD Jumps 8%, Intel and NVIDIA Climb 5% as Chip Stocks Rebound From Worst Sell-Off Since 2020 - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMW1ORFRuT241UWRmRjRmYTlsWWFNV3dYUm9EMGU3dy1qdTVnRnRrODJOVnRZeFltam1icENSd1Z4UWlyRlhUT1dmQ2s3SGhkSTVSRmpmTFNBVDZPYlNic0VnRlo2UEpCVDlRV0pUUGxrcnJUcVlMbDZ0R3UxcHhLbmxWdDRXWGxLbVJpaDZaaFdvemc?oc=5",
+          "pub": "Fri, 06 Nov 2026 14:05:02 GMT",
+          "source": "Yahoo Finance"
         }
       ]
     },
     {
       "symbol": "RKLB",
-      "price": 48.64,
+      "price": 49.515,
       "prev_close": 45.9900016784668,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 5.762118340547859,
-      "drawdown_pct": 67.78807947019867,
+      "day_change_pct": 7.664705790136252,
+      "drawdown_pct": 67.20860927152317,
       "name": "Rocket Lab",
       "news": [
         {
-          "title": "Why Rocket Lab Stock Plunged 15% in October and Why Its Decline Might Be Short-Lived - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbVN5M0hnVkN1ZldLYzBLYmtrSzJyVEpLWEVnYWRQanplcFlHSEw3NmlaZkF1S2JTWUpyLWdyMHhodDUxcDlTdzFBVFkzbGVqSjF2MW1MSjBIUTVnellaeGVXanBsWmN0ekVsRmp5aVI4WFVSNllpU25nUU1fU2pfSDlTZWRUQ1hZTjRRQ2pSTUhwTTU1Yy12OQ?oc=5",
-          "pub": "Thu, 05 Nov 2026 08:10:02 GMT",
+          "title": "Rocket Lab Stock Slides As Neutron Delay Puts Focus On Earnings - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbGJHWU0wWUtYQ1JScEdOREh6Z0M3c0JlQ2lERkc5dEwxX2V6OW42QWhQZXJfZjRFV2lpNk1RWEJjVmlBYVd0UEd6Q0x1d1MzbFJBYjBuOUtVa1pqTklfTUpxUE42S3BVeS1KQjNpaG5DVS01TDFrbjRWQ2R4U3F4SXliU3o5V19KNEhvZlNmUU5xZEZtbFVob0FvcVI?oc=5",
+          "pub": "Fri, 06 Nov 2026 05:16:00 GMT",
           "source": "Yahoo Finance"
         },
         {
@@ -185,23 +185,23 @@
           "source": "The Motley Fool"
         },
         {
-          "title": "Rocket Lab Earnings Ahead: What Past Reactions Say About The Stock - Trefis",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQU1FxSmJXMERvd1dYU2RzVjBEbklDdHl2ekpHdjlEOEs3SGdlZ0FnQnNIenJ6M1Q1Y1Q3M1JBNjFVUzgwaExYaHZWRTBxOFhOT1VHbERjak93N2Q0SmFzUzE1ZFJzWVA4QlNBYTVJbzB6bk84bTJXeVFfNDNkUF9kMkl0U1RJSzY1LTVBdUhmVWxnREJUVExVOTk5VnBwaXVOQnhEZzcxMWZqcnAyRThzV1VLVTFGamhseDlYcUdhSVk3UHVT?oc=5",
-          "pub": "Fri, 06 Nov 2026 13:30:57 GMT",
-          "source": "Trefis"
+          "title": "Rocket Lab Stock Pulls Out of a Nosedive Friday: What's Going On? - Benzinga",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcVRzVjNkak1sMWZsc204eUN4WVhzRHlmMFZybnRER0Yzc0tDd25ldGplb19WQmlRdDdVZVhieUdmQkk2eGtEOHZadDRtOW5iQlZ4TmZ4ZkRXSk5URFBIdlpUc01xc3JwSVdtVENRbFNRVm5WQUdMcU16Q0x5VGxRc3pJczNKLXFTclFFZV9ud2F0YzFJRF93V25DNmtOekpiZURrelZCWl9QcHJDS2JZaHpfUmR3blg2OFA4MlQtWGw?oc=5",
+          "pub": "Fri, 06 Nov 2026 12:50:38 GMT",
+          "source": "Benzinga"
         }
       ]
     },
     {
       "symbol": "IREN",
-      "price": 21.443,
+      "price": 21.607,
       "prev_close": 18.030000686645508,
       "high_52w": 75.79000091552734,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": 18.929557312121677,
-      "drawdown_pct": 71.70734959628837,
+      "day_change_pct": 19.839152396726803,
+      "drawdown_pct": 71.49096221270356,
       "name": "IREN",
       "news": [
         {
@@ -232,14 +232,14 @@
     },
     {
       "symbol": "MILDEF.ST",
-      "price": 241.9,
+      "price": 243.6,
       "prev_close": 249.39999389648438,
       "high_52w": 264.8,
       "currency": "SEK",
       "yahoo_name": "Mildef Group AB",
       "exchange": "Stockholm",
-      "day_change_pct": -3.00721494788701,
-      "drawdown_pct": 8.648036253776436,
+      "day_change_pct": -2.3255790049825418,
+      "drawdown_pct": 8.006042296072513,
       "name": "MilDef Group",
       "news": [
         {
@@ -270,14 +270,14 @@
     },
     {
       "symbol": "IVSO.ST",
-      "price": 213.4,
+      "price": 214.4,
       "prev_close": 212.0,
       "high_52w": 332.0,
       "currency": "SEK",
       "yahoo_name": "INVISIO AB",
       "exchange": "Stockholm",
-      "day_change_pct": 0.6603773584905688,
-      "drawdown_pct": 35.722891566265055,
+      "day_change_pct": 1.1320754716981158,
+      "drawdown_pct": 35.42168674698795,
       "name": "Invisio",
       "news": [
         {
@@ -308,14 +308,14 @@
     },
     {
       "symbol": "NORBT.OL",
-      "price": 160.2,
+      "price": 161.5,
       "prev_close": 161.1999969482422,
       "high_52w": 244.8000030517578,
       "currency": "NOK",
       "yahoo_name": "NORBIT",
       "exchange": "Oslo",
-      "day_change_pct": -0.6203455131350134,
-      "drawdown_pct": 34.55882434522312,
+      "day_change_pct": 0.18610611503555857,
+      "drawdown_pct": 34.027778600209324,
       "name": "Norbit ASA",
       "news": [
         {
