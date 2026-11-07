@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-11-07T01:30:36.509897+00:00",
-  "updated_at_display": "2026-11-07 01:30 UTC",
+  "updated_at": "2026-11-07T02:00:43.686476+00:00",
+  "updated_at_display": "2026-11-07 02:00 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
       "price": 186.64,
-      "prev_close": 200.1300048828125,
+      "prev_close": 181.60000610351562,
       "high_52w": 243.37,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -6.74062087327269,
+      "day_change_pct": 2.7753269422311937,
       "drawdown_pct": 23.310186136335627,
       "name": "NVIDIA",
       "news": [
@@ -81,12 +81,12 @@
     {
       "symbol": "AVGO",
       "price": 293.69,
-      "prev_close": 325.4800109863281,
+      "prev_close": 291.5299987792969,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -9.767116232420022,
+      "day_change_pct": 0.7409190236845417,
       "drawdown_pct": 40.66868686868687,
       "name": "Broadcom",
       "news": [
@@ -119,12 +119,12 @@
     {
       "symbol": "AMD",
       "price": 449.04,
-      "prev_close": 488.7799987792969,
+      "prev_close": 404.3999938964844,
       "high_52w": 658.52001953125,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -8.130447006535757,
+      "day_change_pct": 11.038577343535346,
       "drawdown_pct": 31.810729107425278,
       "name": "AMD",
       "news": [
@@ -185,10 +185,10 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "Ahead of Rocket Lab Earnings, Here's What Barchart Data Says Comes Next for RKLB Stock - Barchart.com",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUGtwMklPTmZuZHM2Y3VyQUlxNFNVTGFTVnJYd3lxRktzM2tmamZOUG1WWWliQVdGdGFHYU5YRzRKaENmeUc3aWpreW1RV3k2NDd5R0RON2Z3MDB1TU5iLUFka2pRbGRkcDNGQzZZNUpYQUR0dE5ZWjNMTDBsbkpJX1VsMV9Zb1NJanhwRG9SSEZXU0tCTTBxOEl3MEFIaUJZVmVXaWFfNzBPdmxqR3YzSlQwbzZSZk95VmxzM1hUZjJrZG1ZeDFZMw?oc=5",
-          "pub": "Fri, 06 Nov 2026 18:35:44 GMT",
-          "source": "Barchart.com"
+          "title": "Why Rocket Lab Stock Dropped Today - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNLWR2ZXpzNmI0aV9seEpfVlR2c2FzdlNObUxsbDhxSi1ONW5qT1pXeTUyaVRyaU9SQkE0QUtuWlp3eWNhcHNRc00yU3dKcFBISWMyYWNsd2c4V2tnVXlVNW9NWENXbXJXSlVUQXhONzlDZVpiR1ZmSlRDWUpNLWNBU0NZOA?oc=5",
+          "pub": "Thu, 05 Nov 2026 22:11:00 GMT",
+          "source": "The Motley Fool"
         }
       ]
     },
@@ -211,10 +211,10 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "The rapid cooldown in the oversold rebound of AI \"neo-cloud\" stocks! CoreWeave briefly turned from gains to losses, while IREN’s advance was halved. - 富途牛牛",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOUtWV3pPOUZhVXYwMWt2RTlsTS1jNE1JU2l4SEtYSzJtczhCZmk3Tm1zZHlUNmFZR0VRM0V2cEJlMjBubzBxdE9hTmZxdlJKOU5makt5ZTBxeE9iSWhyMm5hQXV2WmpoUnd2ZE1xelpSVVRBOE5xUGFKY1d5V1RWZlVvd09MVWlJcjVNYWdXaFRkRURGakdqaE0yRQ?oc=5",
-          "pub": "Fri, 06 Nov 2026 21:31:41 GMT",
-          "source": "富途牛牛"
+          "title": "IREN Ltd. (IREN) Cuts Net Losses by 61%, Shares Climb 20% - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOR01EUEQzTDhpWnh0NUVHdmFkbUo0YlpPX2g1QlZvdWUtMjN2MUxfUmRicER2RmRIUzZjek50cDVEZTNic2x1ZU9MVU1SMEd1TTFyOGdvSnE1el9ObmxYMlBNTms2OGc5ZTF2NlZoQ3VvZm1BV05YZTdvRm45ZDdiMWNXTzhaY3JPYy1DZHJfYXE?oc=5",
+          "pub": "Sat, 07 Nov 2026 01:54:31 GMT",
+          "source": "Yahoo Finance"
         },
         {
           "title": "Cloudflare Soars 20%, IREN Surges 15% as Earnings Beats Spark AI Cloud Rebound; CoreWeave Jumps 10% - Yahoo Finance",
