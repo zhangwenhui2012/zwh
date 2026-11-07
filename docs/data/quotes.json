@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-07T02:30:36.061216+00:00",
-  "updated_at_display": "2026-11-07 02:30 UTC",
+  "updated_at": "2026-11-07T03:00:46.024740+00:00",
+  "updated_at_display": "2026-11-07 03:00 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
@@ -15,10 +15,10 @@
       "name": "NVIDIA",
       "news": [
         {
-          "title": "Jim Cramer Says Nvidia Should Buy Shares on Thursday’s 8% Drop: ‘If the Cheapest Asset is Your Stock, You - Benzinga",
-          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQWkRuMV9oblB1b3REbi14WWxUeXFPN1ZXUFQ1VkJVQ2FMRHhpQV95QXBYMEhId1VvZ20zVWh4WmZNOWkwbGd4YXphbGVfdW4zcExXSGY3eWZYanI3Q2FJRXNzT2pRdThVUk45dUlTUUR4RkdBbEs4ZjU0QUFRb09nRnZRQVN6STkzOTZXbExza0hEdW1jMDJObkx3RlpaZVRwN2JRWllyMWt6Z2dtS2NtS3BTVXBaTWZUV0dvYkU0RnV4Rl9jem04NTFGMUxGMDY5NVVzT0R5TVlPTE16NDRCRmFLTDZsaE1qZHQ3M3BQUXpHbjNweExHVDRmY0RJZF9meW9uTDh3?oc=5",
-          "pub": "Thu, 05 Nov 2026 18:42:08 GMT",
-          "source": "Benzinga"
+          "title": "Nvidia Stock Is Below $200. What History Suggests Is the Floor. - Barron's",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9EQVhFU0ZMU1p3Yk13SUJ2NjdNTk1JeWcwTnNsZjI2d3V3Mi0wZEZIUUYzbEo5dTN1V2UtMy1PblNYa1Y0MXhjQVQzYXN6OGlTOUUxQmRCMDc3dFZmZlhrSjl1Slh1Q1BDVE1yN015Nk51Zkpq?oc=5",
+          "pub": "Thu, 05 Nov 2026 21:26:00 GMT",
+          "source": "Barron's"
         },
         {
           "title": "Cathie Wood Makes $437 Million In Trades. Adds Nvidia, SpaceX; Offloads Broadcom - Investor's Business Daily",
@@ -43,12 +43,12 @@
     {
       "symbol": "META",
       "price": 610.15,
-      "prev_close": 630.0,
+      "prev_close": 605.0800170898438,
       "high_52w": 779.8200073242188,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -3.1507936507936547,
+      "day_change_pct": 0.8379028834137525,
       "drawdown_pct": 21.757585818605012,
       "name": "Meta Platforms",
       "news": [
@@ -141,28 +141,28 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "AI meltdown: Nvidia and Qualcomm drop more than 9%, pushing Nasdaq to worst day since April 2025 - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUGR6VGxMQVNKdUF0R21NRjNRYzB1MlJMRzZFVVViM0tLZXpMM3BOc210T2FGZ0RMcEVWOTRXeGx3dHJNd2JlOHh4Z05BREdvSmVGdjdHWlptek45UEc1UGU1eDFYdVdRczVheTJCcE93S2E4d0dULWI0NUtVXzNiQg?oc=5",
-          "pub": "Thu, 05 Nov 2026 15:18:46 GMT",
-          "source": "CNBC"
-        },
-        {
           "title": "Cathie Wood Just Sold AMD Stock and Bought This AI Chip Stock Instead - The Motley Fool",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQV0xtQkJITndvRUR4ZjBEYVBib0E0dTFGUzV0OXVHU2FLaThRVHpXX0pVSGlETUlNd1lDNzNLSFUxekdEeHFrRHNIUC1VR0syMEh4SWRBWGpLdm1pVG5CazdiYzViemVFMEs0WUlhZUxmSllNbDJvOURxSGQ2azFOZmFEajRCRnpFdXpxWFV4dF9taFd2LXZaTg?oc=5",
           "pub": "Thu, 05 Nov 2026 23:00:00 GMT",
           "source": "The Motley Fool"
+        },
+        {
+          "title": "AMD: I’m Buying The AI Selloff, But Not This Stock (NASDAQ:AMD) - Seeking Alpha",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWXMyZXpwMXR4TnJPY2RMVUVZSWtwUzVTVnVsUXhMemZDb1M2UGxDRTBVdUIzMC1LVVVVUzB2dWtpREJXMDNXbVR3MnlDMXVyMkpadTF4OEpPUDRlWEJjMVgxeFJEd2FQb1Q0TTZiRWhIMGtYZHhUVGNsc0NTNXg1c0pQa2kxRG1kLXhvLWloei1zQQ?oc=5",
+          "pub": "Fri, 06 Nov 2026 23:08:48 GMT",
+          "source": "Seeking Alpha"
         }
       ]
     },
     {
       "symbol": "RKLB",
       "price": 53.07,
-      "prev_close": 52.369998931884766,
+      "prev_close": 45.9900016784668,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 1.336645183105109,
+      "day_change_pct": 15.3946467996068,
       "drawdown_pct": 64.8543046357616,
       "name": "Rocket Lab",
       "news": [
@@ -195,12 +195,12 @@
     {
       "symbol": "IREN",
       "price": 21.64,
-      "prev_close": 21.709999084472656,
+      "prev_close": 18.030000686645508,
       "high_52w": 70.70700073242188,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": -0.3224278554793683,
+      "day_change_pct": 20.02218067594614,
       "drawdown_pct": 69.39482685470885,
       "name": "IREN",
       "news": [
