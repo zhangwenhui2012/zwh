@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-11-07T00:30:36.973040+00:00",
-  "updated_at_display": "2026-11-07 00:30 UTC",
+  "updated_at": "2026-11-07T01:00:44.211379+00:00",
+  "updated_at_display": "2026-11-07 01:00 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
       "price": 186.64,
-      "prev_close": 181.60000610351562,
+      "prev_close": 200.1300048828125,
       "high_52w": 243.37,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 2.7753269422311937,
+      "day_change_pct": -6.74062087327269,
       "drawdown_pct": 23.310186136335627,
       "name": "NVIDIA",
       "news": [
@@ -43,12 +43,12 @@
     {
       "symbol": "META",
       "price": 610.15,
-      "prev_close": 605.0800170898438,
+      "prev_close": 630.0,
       "high_52w": 779.8200073242188,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 0.8379028834137525,
+      "day_change_pct": -3.1507936507936547,
       "drawdown_pct": 21.757585818605012,
       "name": "Meta Platforms",
       "news": [
@@ -81,12 +81,12 @@
     {
       "symbol": "AVGO",
       "price": 293.69,
-      "prev_close": 291.5299987792969,
+      "prev_close": 325.4800109863281,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 0.7409190236845417,
+      "day_change_pct": -9.767116232420022,
       "drawdown_pct": 40.66868686868687,
       "name": "Broadcom",
       "news": [
@@ -119,12 +119,12 @@
     {
       "symbol": "AMD",
       "price": 449.04,
-      "prev_close": 404.3999938964844,
+      "prev_close": 488.7799987792969,
       "high_52w": 658.52001953125,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 11.038577343535346,
+      "day_change_pct": -8.130447006535757,
       "drawdown_pct": 31.810729107425278,
       "name": "AMD",
       "news": [
@@ -135,9 +135,9 @@
           "source": "MarketWatch"
         },
         {
-          "title": "AMD stock rises after Q3 earnings beat, as data center revenue climbs 97% - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPR2NPYWttRXRkSERHSVlBbkU1QzVTZEZCaW1lMHYwSEhFM3oxQnlBdTlodGNJeFpSM2E1UFZiUGdHVFRHUjNTQW95VmlYNy1jNDNDeWpNMnlOQjFhYkRuNVh3WVNrYU9zeGc0MHhGc0gzOFp0U2h3N3hqTC1BVVhMcGtZdUlMN285ckpaU2VFeUlRSU5LMnMteTctTVJSdGU5V2g3WWRTZ2VRa2JaOUVxNEFRQ0M3bVFSdmdSaDRCZ0FFYl81MzVkZlg0OA?oc=5",
-          "pub": "Tue, 03 Nov 2026 21:35:21 GMT",
+          "title": "Is AMD Stock a Buy as AI Revenue Soars? - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZ1BRVVl5YXNYM2pXOTk3RHBERUxTNFNCN0lTNUMxcHBWSGF3TjUzSDVra3UzZTdLOEQ5a19uZkxGblMwZjhLUjJoWGJuWjQwaFJBX3FJQXQ5OHAxSDVsd1ZMUXgxWGJBUnJJaUtTLU5oc2x5RC1LNGFzU19TRnJkWjNkZTJVZEF4Z25RTldGNFgzZlk?oc=5",
+          "pub": "Thu, 05 Nov 2026 20:39:00 GMT",
           "source": "Yahoo Finance"
         },
         {
@@ -157,12 +157,12 @@
     {
       "symbol": "RKLB",
       "price": 53.07,
-      "prev_close": 45.9900016784668,
+      "prev_close": 52.369998931884766,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 15.3946467996068,
+      "day_change_pct": 1.336645183105109,
       "drawdown_pct": 64.8543046357616,
       "name": "Rocket Lab",
       "news": [
@@ -195,12 +195,12 @@
     {
       "symbol": "IREN",
       "price": 21.64,
-      "prev_close": 18.030000686645508,
+      "prev_close": 21.709999084472656,
       "high_52w": 70.70700073242188,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": 20.02218067594614,
+      "day_change_pct": -0.3224278554793683,
       "drawdown_pct": 69.39482685470885,
       "name": "IREN",
       "news": [
@@ -217,10 +217,10 @@
           "source": "富途牛牛"
         },
         {
-          "title": "Cloudflare Soars 20%, IREN Surges 15% as Earnings Beats Spark AI Cloud Rebound; CoreWeave Jumps 10% - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOb29yVXZqa2NBZDUzMV9BR01TOUV0Z3BRYmJHUGh3VjdIWnZYdnBsMEdXcnpVaXhWbk5LSFRlQUVIeU5qcFJ0ZGtCWUtsTUZTc1Zrc1Vpem83OTB4dExFNzhEVXBXVElBdERSVnBkWGlZNXJ5NjJmMEU0Nmt1YUFYVVd4dktBaTdKQmF4bmo5MW1kbVdWWEVaSTNMNHg?oc=5",
-          "pub": "Fri, 06 Nov 2026 14:06:46 GMT",
-          "source": "Yahoo Finance"
+          "title": "Cloudflare Soars 20%, IREN Surges 15% as Earnings Beats Spark AI Cloud Rebound; CoreWeave Jumps 10% - 24/7 Wall St.",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUzYxLUFBT3lub001Rm45RHJGbXIxd2k3MUx3S1pqTUlkTUJaV3l2SVRKb0ZVNzQzeGxLcWRLa1lBS1JpUElicFFlaEVvc0sySVo4YTZxOUNRTG54N1FFMEJsYWlPOV95V2FZTk5hMmxLOFUxYmFyMXhkdGNOOFNvQWktSGIyMGp1ZmZzSktQb2FhancxTTNENEdkMHVsYzI0bVhHdW1uNVdBbk8xcFpfWE15TnJ0T0tNaXE0bjJzWWZ4OGh4Y0IydWJua1pUQUtMZW56Qw?oc=5",
+          "pub": "Fri, 06 Nov 2026 14:06:00 GMT",
+          "source": "24/7 Wall St."
         },
         {
           "title": "Stock Market Today, Nov. 6: Iren Soars 20% on Strong AI Cloud Revenue Growth - The Motley Fool",
