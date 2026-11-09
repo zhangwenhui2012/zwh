@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-11-09T16:58:39.144750+00:00",
-  "updated_at_display": "2026-11-09 16:58 UTC",
+  "updated_at": "2026-11-09T17:00:50.421444+00:00",
+  "updated_at_display": "2026-11-09 17:00 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 176.56,
+      "price": 176.19,
       "prev_close": 186.63999938964844,
       "high_52w": 243.37,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -5.40077122943213,
-      "drawdown_pct": 27.452027776636395,
+      "day_change_pct": -5.5990138361670105,
+      "drawdown_pct": 27.60405966224268,
       "name": "NVIDIA",
       "news": [
         {
@@ -27,29 +27,29 @@
           "source": "The New York Times"
         },
         {
+          "title": "Stocks making the biggest moves in early trading: Nvidia, AMD, Eli Lilly, cruise lines — Live updates - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBETjEzVzFLTXhVVm5IMDQ2YS1uRTV6UWFtblVkY2xhZ3BzclA5dFJ5WFJkbklySl9ZMDZQZXRGWE5ZV0FJXzN4X0xpdU9yUFotUllSTk1UTVpscU5MeDM0RzFFQ1RYcHVkbjk4TWlnSGozT0NpaXRCbw?oc=5",
+          "pub": "Mon, 09 Nov 2026 15:59:00 GMT",
+          "source": "CNBC"
+        },
+        {
           "title": "Stock Market Today: Dow jumps 900 points, S&P 500 and Nasdaq surge after last week’s selloff; Nvidia stock falls as Jensen Huang probe launched: live updates - MarketWatch",
           "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTFg5Q2xEWDJCeTk2QjVmSDFkNm10T0tfUDJEM29Lci1JZzR0clR1YmpVeFRESVowdlhRTTNCM1RlSkR6bXVyVkpJVUF0VTFRMWtPTzlEdE40SV9iWUQ5UU0zVktyS2stLUstZ2pZeUo1ZFhNUmtDVDRZVG1JUm5TVTc2c2laRUNta1pSNmVTZnR4RldMNFlYM2xzeFZSRG1wM0tiRkNQbWZESDgxUU0yRGhsOUl0OFA1NWVUeFVWYkN1U01EVGwzMlpZS2l2RmN6MU4w?oc=5",
           "pub": "Mon, 09 Nov 2026 16:18:00 GMT",
           "source": "MarketWatch"
-        },
-        {
-          "title": "Nvidia Lost Its Top Spot to Apple. What Does History Tell Us About No. 1 Stocks? - Morningstar",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOa0RhSko5emVETURINnZjQW90Z01aVGl6bURJSEFmaGQ5OWtZbkpnbkUzMG1sWW5aSWZWME1WVmNIMU9NalFVVzR1TGhhcnBtZ3Vlc1BUNlFMOWd4dTNuMW9WU3ZRb2lKbUU3bWJEX2o3M01aalNwdjdrNTY3TW9RUFBqMy1kX2JCenRvZ2hnOWJQRWVxbVRtWUVLdUFVaE1STF9kaXQ5VURlUnJlZThGRDJNSEVUQXpQblE?oc=5",
-          "pub": "Mon, 09 Nov 2026 10:08:40 GMT",
-          "source": "Morningstar"
         }
       ]
     },
     {
       "symbol": "META",
-      "price": 641.985,
+      "price": 641.685,
       "prev_close": 610.1500244140625,
       "high_52w": 779.8200073242188,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 5.217565240042264,
-      "drawdown_pct": 17.67523351922828,
+      "day_change_pct": 5.168397004690941,
+      "drawdown_pct": 17.71370393511687,
       "name": "Meta Platforms",
       "news": [
         {
@@ -65,29 +65,29 @@
           "source": "Barchart.com"
         },
         {
+          "title": "Should You Buy Meta Platforms Before Its Stock Split? - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVXJPbUx6X3JPTjRSYkZ3RjNvLWJ3OG5qQThGV1l4ZnFMZEY0Ny16R19va3kxV1hYVFdzM2hGYzZlc1RqRk54TlNUYjRoM1hKdm9mdHZXMFFhUUxheGpqU0x5VUE3X2JPLU1VN2IyREN2dGhzTWRLNGsyRUVxTldDYTlkaENZRVBUSjFZTUQyNWoyUzNrbldIbg?oc=5",
+          "pub": "Sun, 08 Nov 2026 20:32:00 GMT",
+          "source": "The Motley Fool"
+        },
+        {
           "title": "Meta Platforms, Inc. $META Stock Sold by AIA Group Ltd - MarketBeat",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUkhhYVVFbTF2VnVXcHh1UllNaWs1djhVZmFwR19IeGIxSnB0bm1rRE5oVmxMandIY3lzUFpOX29zV1NtRExRWFJPTW5hREdwWW00WG5FUlZTX1VWYzBQUHUxU0J0WFItTUdvT09halhQRzlMLVFRdkRRbVRmOEt3WDJPbngzRGFORjM3U0RvVks2MXlMdnRnR2dlZzJ2b3N3Y09XeFo3TEhoNExScHRqNmVB?oc=5",
           "pub": "Mon, 09 Nov 2026 08:46:07 GMT",
           "source": "MarketBeat"
-        },
-        {
-          "title": "Meta Stock Rallies over 4% on Plans to Use AI to Age-Check Teens on Instagram - TipRanks",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNemQ1NF85TFFtYVJuZ25OTWV5bXVHSkp1cVJaU3F0WjNua21Fc0E4eTdFeU9uRW1FTWdMcm84RlhPNUxOSVYyaHo4R2hBUDAteHQxUWlsZkZKb0JJSDh2dXZMT3d4dGZDUWN2TmN5bW5teFlsMnhIZTlOQUZvYV9odWU0b21vVmEwdldBTmlOUWNZejlhX01Fdkp4eVFaWElU?oc=5",
-          "pub": "Mon, 09 Nov 2026 15:33:44 GMT",
-          "source": "TipRanks"
         }
       ]
     },
     {
       "symbol": "AVGO",
-      "price": 318.31,
+      "price": 318.095,
       "prev_close": 293.69000244140625,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 8.382987964837401,
-      "drawdown_pct": 35.6949494949495,
+      "day_change_pct": 8.309781523279053,
+      "drawdown_pct": 35.73838383838383,
       "name": "Broadcom",
       "news": [
         {
@@ -118,14 +118,14 @@
     },
     {
       "symbol": "AMD",
-      "price": 499.16,
+      "price": 498.825,
       "prev_close": 449.0400085449219,
       "high_52w": 658.52001953125,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 11.16158705267443,
-      "drawdown_pct": 24.19972283373954,
+      "day_change_pct": 11.08698345530555,
+      "drawdown_pct": 24.250594483813064,
       "name": "AMD",
       "news": [
         {
@@ -141,29 +141,29 @@
           "source": "Barron's"
         },
         {
-          "title": "Stocks to Watch: Nvidia, AMD, Skydance - WSJ",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZjhNRTI5NDVDbHdGT1RlalM1RXozeGJYUXZxQUFSUDBSbndGQmQwZlRQdTU0NzhjUmk3NW4xZ2M3MFY5VWUyWUhGOWM2aXB1aUx2Zm1YQWlYcl9HdzhySjctc2JySUZxYTNXYVdOeXVwZWlBcGR4RnJuNVFCbHlvQXd4VEUtNUVkZVZWOFdnWkFsbmJ3WVlkOEJoWm5EOF94d2hpa256UjdsaFdBa1d0SDhfR2ZTamxsSzdjbVpreE1xOW1iUzVJT25yaVJEcm9BUXU3c1lIcjBzaE0?oc=5",
-          "pub": "Mon, 09 Nov 2026 09:15:00 GMT",
-          "source": "WSJ"
+          "title": "Not AMD. Not Intel. This Is the Artificial Intelligence (AI) Chip Stock Nvidia Should Fear Most. - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRnJabUV1dGNwV04yN1AtWTN4bVhYZVhvVjl6d0hhZWp5ZEhaTVczNGdoLXV5dnJRZ2ExUmFldmNvRnhwM0FpUDJzdVJLSVF3TDIwQkFOb3RxVTVtZkVRUHZ5eVV0NmU1WlFmbF9BNW1yUE9Dd2pqQWktSENMTHBVdmJPQWFPU0k4TjBEQ2tBdHoxVVhsd1RJ?oc=5",
+          "pub": "Mon, 09 Nov 2026 12:20:00 GMT",
+          "source": "Yahoo Finance"
         },
         {
-          "title": "AMD, AVGO, INTC, MU: Chip Stocks Inch Higher As Investors Look Past Midterms-Led Selloff, Nvidia Controversy - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOa3R5aS1PeTV0Mm1Wc1lTeVAtWVQ3ZGI2ZFFiTDJ5WFNNNllvOUVfa1JHWHMwYXB5MzVfWTJ2aGlGVnBUZUhTSVE2X3hablZoX0MtZExqZ2pjYjBMeWZjT3NISC05eWprZGUySjIxS2VYOHQ2RUlDTHdMU1JWc0RPTGhJbVROVldyWkZwdkRYMA?oc=5",
-          "pub": "Mon, 09 Nov 2026 03:34:00 GMT",
-          "source": "Yahoo Finance"
+          "title": "Nvidia Stock Could Shed Up to $225 Billion Over Jensen Huang Probe, But Rival AMD's Rally Shows It's Not an AI Demand Problem - Barchart.com",
+          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNbUsxcXAzd2FHOGUtRU0zcDJxay05NTItVE5NTjRvZTRsQnFmYS1GeHdDNl93T0h2My1EbkROZE5BaHV3WkdXNXh2alRJYTBld0ZYejRIRDI0ZF9lYVNRZ20tQUtlSG5PV256ei1ic25qZGZVYVFad2pzSi05akgtd01JVmNTRzYySFY4R0VjbEwxM3RmMjVUTG52cThJdGlJSUNQSG5GR2R4YnVfQnBQSEk5X0FWWG12SXpRVWVMNm8xSERaVDQzbldaZ2F1OHpPd19fQm1JY3V1V3VVWEZVX0p2Z01vODdMb2xha25Ha0VwYVQwM3hwRUEtbw?oc=5",
+          "pub": "Mon, 09 Nov 2026 14:27:59 GMT",
+          "source": "Barchart.com"
         }
       ]
     },
     {
       "symbol": "RKLB",
-      "price": 59.05,
+      "price": 58.94,
       "prev_close": 53.06999969482422,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 11.268137063432079,
-      "drawdown_pct": 60.894039735099334,
+      "day_change_pct": 11.060863649766075,
+      "drawdown_pct": 60.966887417218544,
       "name": "Rocket Lab",
       "news": [
         {
@@ -194,14 +194,14 @@
     },
     {
       "symbol": "IREN",
-      "price": 21.915,
+      "price": 21.975,
       "prev_close": 21.639999389648438,
       "high_52w": 70.70700073242188,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": 1.2707976807204027,
-      "drawdown_pct": 69.00589789838006,
+      "day_change_pct": 1.5480620138640693,
+      "drawdown_pct": 68.92104067154467,
       "name": "IREN",
       "news": [
         {
