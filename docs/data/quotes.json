@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-09T08:00:44.182621+00:00",
-  "updated_at_display": "2026-11-09 08:00 UTC",
+  "updated_at": "2026-11-09T08:30:36.401188+00:00",
+  "updated_at_display": "2026-11-09 08:30 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
@@ -33,9 +33,9 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "Nvidia's out-of-hour shares fall as firm probes CEO Jensen Huang - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcUVlREFfdFVvdmk1OXFEamNOcFVZTGJFX1gxZkhjYjhXNTFnZkJqUmpLLTliVmRCZUNtRGdHSDZ2cVBvRXlLdldZSG1rVmFfMFk5M1dKNnBnVnNnUzZ1NmVSNkRWakkyNktBZmhGbzJwYkh5YTZBekVPY3pyUU9lTXY1WGt4TkhLcHVPTldJb1k3MGVPdzBLcTIyVzNuRUpyRGt5cDJpMV91QzdjcWFtQy1MekMwU3lkRlNXUFNn?oc=5",
-          "pub": "Mon, 09 Nov 2026 02:27:00 GMT",
+          "title": "Nvidia falls about 3% in after-hours and perpetual futures trade - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQb0pTclA4c2pDZlE3NXExNGt0dU9JUDRTaU80SVhfU1FzV2pmSzhYZG9rdzdPaGZSRHV3LXEtaDAwX0ttREhYUGwtalVma1ktTlBCSUdzLUJETkhFVm5ETDVrNVF6OGswVE5EempEc01PSXlrbWRtUERvWDlwVk5KMnlmRmlNNDRYRS1ubHB2bl9oRXp6WFg1cGFYVVdzSnBaNE53?oc=5",
+          "pub": "Mon, 09 Nov 2026 03:00:00 GMT",
           "source": "Reuters"
         }
       ]
@@ -109,10 +109,10 @@
           "source": "Seeking Alpha"
         },
         {
-          "title": "Cathie Wood’s ARK sells Broadcom stock, buys Nvidia and SpaceX - Investing.com",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPV2hnS0MyeG9uZHdkUE9NWksxOHpYeFlFQVZPZS1PcVF5c1ZUaExRdmd6Q1VUY2x2aGZydkUzOWlUbFlQN0VQb29VTEp5QzV4QmVyNVIxbWZ1ai1LNVRXXzlYU0xVQ3pPeTBlOXB0elMwXzYwcmtBMXdKbHFqdEJMMDdIQXhCdjFPcEExc2JlVjc5NWdHWkhMT0dUc2ZSZ1NZZWV4Zkh3bkU2aWt6UVFPQjd0TjNXR1Bt?oc=5",
-          "pub": "Fri, 06 Nov 2026 01:11:07 GMT",
-          "source": "Investing.com"
+          "title": "AMD or Nvidia: Which AI Chip Stock Would I Buy With $1,000 Today? - The Globe and Mail",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTFVWY2NYNDEyVHZSV0N6TEQ3NnY0czZKaE11ZU12UDUxazB6UmZjUFdiY01sZFdyUVBYSmVka1Nodkpfd3IwdEMxUm5uOTl6R0wwejc5cHFMUEM3TEN6NFBXcWRlRmp3VTNBVmxNdHBFTmQyUk50emFsaHkzLXVvUXo1bmhxelE0dUxTWVZiTEFLU3dYRURLdENwN0g1VnVmdFpKS3JqcFFlSjNSVzNaSWFLbGxMZlU4R0NDU0JlbHVacmNGMFpWWDFVYjk2ZkdmRFVabVF3WTFlMzFldm14UVhLZw?oc=5",
+          "pub": "Sun, 08 Nov 2026 23:23:10 GMT",
+          "source": "The Globe and Mail"
         }
       ]
     },
@@ -232,16 +232,22 @@
     },
     {
       "symbol": "MILDEF.ST",
-      "price": 243.4,
+      "price": 246.2,
       "prev_close": 243.3000030517578,
       "high_52w": 264.8,
       "currency": "SEK",
       "yahoo_name": "Mildef Group AB",
       "exchange": "Stockholm",
-      "day_change_pct": 0.04110026592187119,
-      "drawdown_pct": 8.081570996978854,
+      "day_change_pct": 1.1919428326621322,
+      "drawdown_pct": 7.024169184290038,
       "name": "MilDef Group",
       "news": [
+        {
+          "title": "Mildef Group AB (CEUX:MILDEs) Stock PDF (Updated: 2026/11/05) - GuruFocus",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA3TWFxU0FHeXdYWlRZRkF1YW1HeEEzNzZCc0kzRnV1bTJFVENyRXFVWTVpbkM4WERJMkFiYW9GbnBOcEpVRXRtcWk2X3F5alJvYy0tWXI5Skg4T3ZrNUJ3?oc=5",
+          "pub": "Thu, 05 Nov 2026 07:12:10 GMT",
+          "source": "GuruFocus"
+        },
         {
           "title": "Making Battlefield Tech Fuels an 80% Rally for Swedish Stock - Bloomberg.com",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWFZjRE0wOVJoN0E4MHI1dUJOOHZySlIzcHRjbXA2LVlnOW9FbGx4VzktajJlaXJ1S0VhRm8zMUVSWjhVekY5RGxsaWR3WWRQZ2pFdjZOQzF0Ml9yb3FJS3FycTJjZExXMy1VcmpwOVdiQjdvaEhONlh2Y28yNDVKRENpRWVoel9nV1VJU2dYMUlybTZkUFlVZEIya3VETV9sTlJ4dEVPd0t5UDFJMU9Ec0ZvRE0?oc=5",
@@ -259,25 +265,19 @@
           "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9hWW9rMkp5VFlIZmlhT1RWd3k5bVQyVTVlLXktUHJfNm43Qld6bURaV0wwTDN1ZmJwZ0c2c2FPNV8wRVYyaVRRNndDaUZOeHdPQTkwS1doZUdWQ180N051Ym91OXZxYW9YRklxUFRIcVFJOFJxbXFVSEl2dWg?oc=5",
           "pub": "Thu, 25 Jun 2026 11:58:03 GMT",
           "source": "TradingView"
-        },
-        {
-          "title": "MilDef Group (OM:MILDEF) Stock Forecast & Analyst Predictions - Simply Wall St",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQV9TTFBVOUxkRUxRRFd6bWdhWEs4QThCZE9mVnJzMUZFY09QaWJqM0pjUHBjTkFCRTV5NWtlbDFoSl9CY2l1VUNfbkRvcm1pdmhRVjdCTXZBbzBPX2ZNbmRqNkhEQVRwMW92b1VmRnZicEM3MjdyWTZHd3pjQm5LSFZYbWpuSjZINDk4?oc=5",
-          "pub": "Fri, 23 Oct 2026 07:00:00 GMT",
-          "source": "Simply Wall St"
         }
       ]
     },
     {
       "symbol": "IVSO.ST",
-      "price": 213.0,
+      "price": 213.8,
       "prev_close": 213.0,
       "high_52w": 332.0,
       "currency": "SEK",
       "yahoo_name": "INVISIO AB",
       "exchange": "Stockholm",
-      "day_change_pct": 0.0,
-      "drawdown_pct": 35.8433734939759,
+      "day_change_pct": 0.3755868544600992,
+      "drawdown_pct": 35.602409638554214,
       "name": "Invisio",
       "news": [
         {
@@ -308,14 +308,14 @@
     },
     {
       "symbol": "NORBT.OL",
-      "price": 161.5,
-      "prev_close": 161.1999969482422,
+      "price": 162.1,
+      "prev_close": 161.5,
       "high_52w": 244.8000030517578,
       "currency": "NOK",
       "yahoo_name": "NORBIT",
       "exchange": "Oslo",
-      "day_change_pct": 0.18610611503555857,
-      "drawdown_pct": 34.027778600209324,
+      "day_change_pct": 0.37151702786377355,
+      "drawdown_pct": 33.78268056404911,
       "name": "Norbit ASA",
       "news": [
         {
