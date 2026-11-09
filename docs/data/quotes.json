@@ -1,19 +1,25 @@
 {
-  "updated_at": "2026-11-09T14:30:38.864471+00:00",
-  "updated_at_display": "2026-11-09 14:30 UTC",
+  "updated_at": "2026-11-09T15:00:50.107049+00:00",
+  "updated_at_display": "2026-11-09 15:00 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 173.285,
+      "price": 178.025,
       "prev_close": 186.63999938964844,
       "high_52w": 243.37,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -7.1554861944503125,
-      "drawdown_pct": 28.79771541274603,
+      "day_change_pct": -4.615837664927812,
+      "drawdown_pct": 26.85006368903316,
       "name": "NVIDIA",
       "news": [
+        {
+          "title": "Stock market today: Dow, S&P 500, Nasdaq rise with Nvidia stock, AI trade in focus - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdG53R1lmOWxNelNURjQwQjh1a25leVVnRjdkU2lrX2VDemx5VDlJdk56Y24zeXE3dzVOdGtETjlEblo1UGNxdkRXQkR6UXZrT3VVU0pNamhlM0RpMldLdXhxSEdEUnF1WXo0MVZLLW4zb28wclBSdE5ZWmJ6aWVnelpVWUxjcTZLZ1pKNGhpNUVCREExWnJJV3JDMzVFQUF0V0hud2ZYSUJnTVVRV0diNFdpanlSZw?oc=5",
+          "pub": "Mon, 09 Nov 2026 14:40:17 GMT",
+          "source": "Yahoo Finance"
+        },
         {
           "title": "Nvidia stock sinks 5% as chipmaker investigates CEO Jensen Huang's relationship with alleged Chinese spy - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxObWVFY2cxQURmMnJ2aWFxSlRfeFJzeGJDOEhxbjVqUWVpMU96Mm4wcFNBVG5BaVdBZUIwYnN3WXNsWEZld000V1ZrMl9SR0pVZFB0a21rTUV1U3NJajhTUTN6bjBmVmtIQmhtRWxyV1dyemhvcDFrT1J5TmItcGJyVmt6VGY0VW9nZVBVZ2RIalNEOUhKRGRybVgtdzBPMkpzRTBicXpTaGw3c29vUXhiR21hVmVlWk10NzgySGJwbV9MSWpLeXVpT2hJT1FqU05XTXlZMGQwS285QlhudnBJdkhrMGlRbVJsX0h5alBn?oc=5",
@@ -21,16 +27,10 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "Google’s chip business is on a faster track than Nvidia’s own AI boom - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcEtvbWZHX2VIU2pyd2J6ZWNvZkJQcEZOcHI1b2RLNGpkY2FVRktTU205RHNKMlhrYkVvQzl6YXp1Xzd2RmNpZFpzd0d6eHNrUlhVdGRIVW4xc1U1LThnVG5wZTRwNmZrcGV3U25wN2dyNjZsX290Ri1KOGg4emVpVTR0WlctWW8zR3doN0ZLU0NYLVo1R0p4bnRtaVV5UlhlLXlMTE1JemRfRnIxeTJYREttTDFXcHV5ekpJREJlaEphQQ?oc=5",
-          "pub": "Mon, 09 Nov 2026 13:54:47 GMT",
-          "source": "Yahoo Finance"
-        },
-        {
-          "title": "Nvidia Stock Slumps 5% Premarket As Company Investigates Jensen Huang’s Relationship With Alleged Chinese Spy - Forbes",
-          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZXBPOFFYTjQ3UG1JT3RoUlN4SGVNMlp2ZWNNTTBQQWFxZ2ZNOERDMkpYd2lVQlJZVU9oNk9yaklTRmFUWHVkS0F2UVB6Sloyam55Y0FPRHcwb1FrR1laNEJqbWhKdWNQaURNdnBEdEVWRVJJcU1YSUZlYlBjZnZEdU9mOTBjSUtUY1VLd3lZdm1pWkIyTmcxZTMtLVhqSjlrVW9lMzYwYUNMMzc2b0Q4WnpxcEZxczVPWHNBanV1N2h3aWVRTVRaLVVhY1NtOC13UW1xY0tHUGdZdVZWQUZJZHpHSnJGUQ?oc=5",
-          "pub": "Mon, 09 Nov 2026 14:17:03 GMT",
-          "source": "Forbes"
+          "title": "Dow gains 600 points, S&P 500 and Nasdaq climb after last week’s selloff; Nvidia stock falls as Jensen Huang probe launched: live updates - MarketWatch",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTFg5Q2xEWDJCeTk2QjVmSDFkNm10T0tfUDJEM29Lci1JZzR0clR1YmpVeFRESVowdlhRTTNCM1RlSkR6bXVyVkpJVUF0VTFRMWtPTzlEdE40SV9iWUQ5UU0zVktyS2stLUstZ2pZeUo1ZFhNUmtDVDRZVG1JUm5TVTc2c2laRUNta1pSNmVTZnR4RldMNFlYM2xzeFZSRG1wM0tiRkNQbWZESDgxUU0yRGhsOUl0OFA1NWVUeFVWYkN1U01EVGwzMlpZS2l2RmN6MU4w?oc=5",
+          "pub": "Mon, 09 Nov 2026 14:47:00 GMT",
+          "source": "MarketWatch"
         },
         {
           "title": "Stock Market Today: Dow Rallies As Oil Prices Slide; Nvidia Stock Dives On CEO Huang Probe (Live Coverage) - Investor's Business Daily",
@@ -42,27 +42,27 @@
     },
     {
       "symbol": "META",
-      "price": 630.08,
+      "price": 639.11,
       "prev_close": 610.1500244140625,
       "high_52w": 779.8200073242188,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 3.2664057671843305,
-      "drawdown_pct": 19.20186785640685,
+      "day_change_pct": 4.746369651258848,
+      "drawdown_pct": 18.043908338160527,
       "name": "Meta Platforms",
       "news": [
-        {
-          "title": "JPMorgan drops Alphabet from focus list, adds Meta on AI advertising gains - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPckw3MWpvTm1BeDN2UnlnYUc3WlBXOVVvRlU0RzItcUNhQjlhN1RVVG1OV2ZrcmNqOHN4bmJZMjRvMDhFemZRbk1mOUQ5VDhQSHRGdnY3c3hYWklpMW1NY0M5VV9BUVAyczlRaWZjVG5tRGlOb1FaVEhfMkN5NXgydmhwcGFkbGJZdFVuVlhwSHY3eG9qRGM2V1ktZ3A2aGty?oc=5",
-          "pub": "Mon, 09 Nov 2026 13:59:01 GMT",
-          "source": "Yahoo Finance"
-        },
         {
           "title": "As Meta Platforms Buys Conductor, Here’s How to Play META Stock - Barchart.com",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVUpIUGFQYkEyTllPRTVzMEViaGc3RkZHdG53VnNnZDJVUzhTVG02TDUtanlVODNIVzQxRXpqTXJ2MTdZVnhjZERLcDNxU015ZUVaOWdPSHFONnZYeXN0aE1qS3VvdXdRc1gtZW9OSHVqWXFzYlU3NVJLYjBkemM1MWx1ZUh5VU5yODRpUmZHMWVfcDlxVDJwMXhmX05hUmx6NlM3dFRSQ3o?oc=5",
           "pub": "Sun, 08 Nov 2026 18:15:02 GMT",
           "source": "Barchart.com"
+        },
+        {
+          "title": "Should You Buy Meta Platforms Before Its Stock Split? - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeGliT3JmRml6TmRJN3VpZDRFU1RmSk55aWxZWlNVenV3U2o2UndNZTNJZEQ2QTB1Y2VfVXpxcHk4WUszOTdFRWNwVXh5eXRLaVZ1aHB6U2x0UG9ES1QxWDZMeUF5VlNPRjRScFlJOVpIbVc5YkhmVVFKRzR4cll3NE95MWR2MVl4MWZueWdBUzRlbGpnZUlKeDFQdw?oc=5",
+          "pub": "Sun, 08 Nov 2026 20:52:00 GMT",
+          "source": "Yahoo Finance"
         },
         {
           "title": "Meta Platforms, Inc. $META Stock Sold by AIA Group Ltd - MarketBeat",
@@ -71,25 +71,37 @@
           "source": "MarketBeat"
         },
         {
-          "title": "Should You Buy Meta Platforms Before Its Stock Split? - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeGliT3JmRml6TmRJN3VpZDRFU1RmSk55aWxZWlNVenV3U2o2UndNZTNJZEQ2QTB1Y2VfVXpxcHk4WUszOTdFRWNwVXh5eXRLaVZ1aHB6U2x0UG9ES1QxWDZMeUF5VlNPRjRScFlJOVpIbVc5YkhmVVFKRzR4cll3NE95MWR2MVl4MWZueWdBUzRlbGpnZUlKeDFQdw?oc=5",
-          "pub": "Sun, 08 Nov 2026 20:52:00 GMT",
+          "title": "Meta Stock Dips Towards $600 But Don’t Load Up Just Yet - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5IV0M4bnduUzdZYjg0UjlTLS1CWkF2QlhvdUtlSkxmbWFfeDFzVjhPWTRBdWU5Y2lfU3Eta0N6d0VoNXVIeV9fdlpMQzZlWm5RZHo4UjluLVhrRkxkRWF5VlZDMTFKcVEtRzhQLW5LWlFIYlMxWFRnUnY3WWluQQ?oc=5",
+          "pub": "Sun, 08 Nov 2026 14:31:25 GMT",
           "source": "Yahoo Finance"
         }
       ]
     },
     {
       "symbol": "AVGO",
-      "price": 305.62,
+      "price": 314.29,
       "prev_close": 293.69000244140625,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 4.062105437509366,
-      "drawdown_pct": 38.25858585858586,
+      "day_change_pct": 7.0141977552346715,
+      "drawdown_pct": 36.5070707070707,
       "name": "Broadcom",
       "news": [
+        {
+          "title": "Broadcom executive claims he was fired to prevent $5 million stock vesting - CTech",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9tdUV5aDRuRnYzTHVuNDJJTU00ZHBkNkUzSm1qN2pBck9yNDVkQktyUW5ta012Z0I0WFJueGwtTHQ2WUNHSjJ3YzY2bmV1ZnZBS3lwYUFRdE1XdGxTT1A0RW0yUmZEVHc?oc=5",
+          "pub": "Mon, 09 Nov 2026 12:51:00 GMT",
+          "source": "CTech"
+        },
+        {
+          "title": "Cathie Wood's Ark Invest buys $96M of SpaceX, adds to Nvidia and AMD; trims Broadcom - TradingView",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZTBWSWo3UXFuZEcyQkwxb0RuSTBzQklOVWV2WlRrTWFoRDZlTjhReHN1d1cybkNWT3h4RWQtamNBdXFkb1plZVJoN3dJbWVKTGFrZFozZmNyb2pUQVhmV09fRTZ1TVJMX2FzQ3JCN1lFaGU3eENNRkZ5YlZOeVhGcWd3U19kYktQaVRfQzhsaGVrX3hSOVdhM2d3alNQdkdJdEo5WU1fTHl1LUVUQjBMR1FHOTRMZmJVS1Vhd243U3BEVWQ5SGRLZi1XVTNYcmx4bGlydERTNVVkOUgw?oc=5",
+          "pub": "Mon, 09 Nov 2026 12:05:49 GMT",
+          "source": "TradingView"
+        },
         {
           "title": "Not AMD. Not Intel. This Is the Artificial Intelligence (AI) Chip Stock Nvidia Should Fear Most. - The Motley Fool",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTl9nX2QzRVlCTVJEUF9iVXpva3ZYZU9Ial9aY3M3TkJvd3dUMnpMS2hMUW5ZZmVLZjlReTFGblJGTUYwRE9LMlc2MGZaZW5ySUdyQ2Z4aWRCR0JXaERqQ1FfY2NvdThjMlV3ekFoMktXTkNXY0RSVnd1cU9MZmhHYXVubFpkZ3JRNHhLb0R0ZmFSRE1xbmxrVA?oc=5",
@@ -101,31 +113,19 @@
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWUZXVFRpejZxb29BNzg4RWJWSkpCOF9hTHR0QWppTUtRTHpUbTNBM2IzUVViblRwdDdtVlpraV91UENkVk9Sdm1DR0pFdW5uMHp6MHhBVHVmQlY5VHdNUFk3Sm5BZ1BxdGdwbm0xa3VocWctNDlSOVNnMFctX3Q3VVBkak5hT003Q01FMXhITjFPVHhPTnJIZFdB?oc=5",
           "pub": "Sun, 08 Nov 2026 09:07:03 GMT",
           "source": "Yahoo Finance"
-        },
-        {
-          "title": "Cathie Wood's Ark Invest buys $96M of SpaceX, adds to Nvidia and AMD; trims Broadcom - TradingView",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZTBWSWo3UXFuZEcyQkwxb0RuSTBzQklOVWV2WlRrTWFoRDZlTjhReHN1d1cybkNWT3h4RWQtamNBdXFkb1plZVJoN3dJbWVKTGFrZFozZmNyb2pUQVhmV09fRTZ1TVJMX2FzQ3JCN1lFaGU3eENNRkZ5YlZOeVhGcWd3U19kYktQaVRfQzhsaGVrX3hSOVdhM2d3alNQdkdJdEo5WU1fTHl1LUVUQjBMR1FHOTRMZmJVS1Vhd243U3BEVWQ5SGRLZi1XVTNYcmx4bGlydERTNVVkOUgw?oc=5",
-          "pub": "Mon, 09 Nov 2026 12:05:49 GMT",
-          "source": "TradingView"
-        },
-        {
-          "title": "Broadcom: The Midterm Selloff Is A Gift (NASDAQ:AVGO) - Seeking Alpha",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZGt1dlp1WVRKU1VKNXJENnR0eWQ2RXM3N3ZhLU5YT214NV9XRmEzQVM0SFNjTjFoTURrVFU0TEVkcnFORHNqU2RIbUtVZEpRdC1hTlFJSTQ3LVZBaHlDRVZZUWNhQ0c5RTkxTW1UaU5RUFV0N0ZsVnZmQlRJdFJzRXp6aGhzdw?oc=5",
-          "pub": "Fri, 06 Nov 2026 17:41:00 GMT",
-          "source": "Seeking Alpha"
         }
       ]
     },
     {
       "symbol": "AMD",
-      "price": 471.78,
+      "price": 486.16,
       "prev_close": 449.0400085449219,
       "high_52w": 658.52001953125,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 5.064134825929034,
-      "drawdown_pct": 28.35753112930051,
+      "day_change_pct": 8.266522080151056,
+      "drawdown_pct": 26.17384656793576,
       "name": "AMD",
       "news": [
         {
@@ -135,10 +135,10 @@
           "source": "CNBC"
         },
         {
-          "title": "Not AMD. Not Intel. This Is the Artificial Intelligence (AI) Chip Stock Nvidia Should Fear Most. - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRnJabUV1dGNwV04yN1AtWTN4bVhYZVhvVjl6d0hhZWp5ZEhaTVczNGdoLXV5dnJRZ2ExUmFldmNvRnhwM0FpUDJzdVJLSVF3TDIwQkFOb3RxVTVtZkVRUHZ5eVV0NmU1WlFmbF9BNW1yUE9Dd2pqQWktSENMTHBVdmJPQWFPU0k4TjBEQ2tBdHoxVVhsd1RJ?oc=5",
-          "pub": "Mon, 09 Nov 2026 12:20:00 GMT",
-          "source": "Yahoo Finance"
+          "title": "AMD Stock Could Jump 34%. No, It’s Got Nothing to Do With the Nvidia Turmoil. - Barron's",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbzRFN0hDSWhxMU1KTVJhRXZ5ejlrUWtjXzlLT1IxR1lMQ0RONGxTN1dQUENXSlktYTZVN0Y1X2toSUdGcHJyS244anFDd3dRU05sZVc1Vm95cmt4VXlES2dJTTY4Y2NDcXZ2VlphR2NjZ08zTkw2ODRRYWNOTEdoT19YX3NXbmNvXzRPeEFR?oc=5",
+          "pub": "Mon, 09 Nov 2026 13:12:00 GMT",
+          "source": "Barron's"
         },
         {
           "title": "AMD or Nvidia: Which AI Chip Stock Would I Buy With $1,000 Today? - The Motley Fool",
@@ -156,14 +156,14 @@
     },
     {
       "symbol": "RKLB",
-      "price": 54.32,
+      "price": 56.07,
       "prev_close": 53.06999969482422,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 2.355380275793917,
-      "drawdown_pct": 64.02649006622518,
+      "day_change_pct": 5.6529118568439785,
+      "drawdown_pct": 62.867549668874176,
       "name": "Rocket Lab",
       "news": [
         {
@@ -194,14 +194,14 @@
     },
     {
       "symbol": "IREN",
-      "price": 21.49,
+      "price": 20.97,
       "prev_close": 21.639999389648438,
       "high_52w": 70.70700073242188,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": -0.6931580123804982,
-      "drawdown_pct": 69.60696992179727,
+      "day_change_pct": -3.096115566292183,
+      "drawdown_pct": 70.34239922103718,
       "name": "IREN",
       "news": [
         {
@@ -232,14 +232,14 @@
     },
     {
       "symbol": "MILDEF.ST",
-      "price": 252.7,
+      "price": 253.8,
       "prev_close": 243.3000030517578,
       "high_52w": 264.8,
       "currency": "SEK",
       "yahoo_name": "Mildef Group AB",
       "exchange": "Stockholm",
-      "day_change_pct": 3.863541648309183,
-      "drawdown_pct": 4.569486404833845,
+      "day_change_pct": 4.315658370957155,
+      "drawdown_pct": 4.1540785498489425,
       "name": "MilDef Group",
       "news": [
         {
@@ -270,14 +270,14 @@
     },
     {
       "symbol": "IVSO.ST",
-      "price": 215.6,
+      "price": 216.4,
       "prev_close": 213.0,
       "high_52w": 332.0,
       "currency": "SEK",
       "yahoo_name": "INVISIO AB",
       "exchange": "Stockholm",
-      "day_change_pct": 1.2206572769953026,
-      "drawdown_pct": 35.06024096385542,
+      "day_change_pct": 1.5962441314554017,
+      "drawdown_pct": 34.81927710843373,
       "name": "Invisio",
       "news": [
         {
@@ -308,14 +308,14 @@
     },
     {
       "symbol": "NORBT.OL",
-      "price": 166.8,
+      "price": 167.2,
       "prev_close": 161.5,
       "high_52w": 244.8000030517578,
       "currency": "NOK",
       "yahoo_name": "NORBIT",
       "exchange": "Oslo",
-      "day_change_pct": 3.281733746130038,
-      "drawdown_pct": 31.86274594746077,
+      "day_change_pct": 3.529411764705875,
+      "drawdown_pct": 31.699347256687304,
       "name": "Norbit ASA",
       "news": [
         {
