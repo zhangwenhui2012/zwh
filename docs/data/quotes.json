@@ -1,30 +1,24 @@
 {
-  "updated_at": "2026-11-10T00:33:06.028768+00:00",
-  "updated_at_display": "2026-11-10 00:33 UTC",
+  "updated_at": "2026-11-10T01:00:48.728028+00:00",
+  "updated_at_display": "2026-11-10 01:00 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
       "price": 178.67,
-      "prev_close": 186.63999938964844,
+      "prev_close": 181.60000610351562,
       "high_52w": 243.37,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -4.2702525802143185,
+      "day_change_pct": -1.6134394300876154,
       "drawdown_pct": 26.585035131692493,
       "name": "NVIDIA",
       "news": [
         {
-          "title": "Nvidia’s Stock Price Drops After Investigation Into CEO Jensen Huang - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTzFYLWFQR0pubVFMTlN3dGwzNnBmUktlNU9ZeUJBeWlLb3JBWWhucjVrUEhmQ0gwOGIxTGUtX0djWWI0R1gzOWs0UTktZUpod0xycmNjbl9PYTJJVVJXN2EzNm5YaWQ5bU80UkpIWVVnd3QwbVdtQmFOcHV6YTdlOU1PeXhHSm9VM08ySA?oc=5",
-          "pub": "Mon, 09 Nov 2026 21:23:34 GMT",
-          "source": "The New York Times"
-        },
-        {
-          "title": "Stock Market Today: Dow Pushes 1000 Points Higher, Nvidia Stock Slides Over Jensen Huang Affair Probe - WSJ",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSV9fWHdCZGw4OGdCbVpVMVJreGluVnp1TVhmT1JkemQ0RGdWQTZfNFNuODhETWJUQUt6NTVlUlRGY0NwNkRXOVd6VFlLSWFlTERpMEJWODJraHlyX3ZtRnFpSjUtVzhmOVVKNkRfS0RPZ3l4WHBnWEdwTTRRaVVDdmM3TEhxR0k?oc=5",
-          "pub": "Mon, 09 Nov 2026 23:00:00 GMT",
-          "source": "WSJ"
+          "title": "Nvidia stock falls 4% as scrutiny turns to Jensen Huang’s affair with alleged Chinese spy - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcndzRG1jRHQ5c25nX1RuQVVNeXJUXzNnemotNFRpWGhwUGNCN3hmV2VkMndSVkl4V1hIMmhUMDhjWTJFa1BYckVYM1BkX0ZMMEQ2WmFxRGRhYXFtNzVJQUEtNW9PaUhfekFYM1RWeG0xbldSZlcwVldGZXVXVjNvcDdNN2dReWFqM3c?oc=5",
+          "pub": "Mon, 09 Nov 2026 09:05:48 GMT",
+          "source": "CNBC"
         },
         {
           "title": "Stock market today: Nasdaq surges despite Nvidia stock slide, Dow and S&P 500 rally as AI tech trade rises - Yahoo Finance",
@@ -33,22 +27,28 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "Stock Market Today: Dow logs 1,100-point gain, S&P 500 and Nasdaq surge after last week’s selloff; Nvidia stock drops as CEO probe launched: live updates - MarketWatch",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTFg5Q2xEWDJCeTk2QjVmSDFkNm10T0tfUDJEM29Lci1JZzR0clR1YmpVeFRESVowdlhRTTNCM1RlSkR6bXVyVkpJVUF0VTFRMWtPTzlEdE40SV9iWUQ5UU0zVktyS2stLUstZ2pZeUo1ZFhNUmtDVDRZVG1JUm5TVTc2c2laRUNta1pSNmVTZnR4RldMNFlYM2xzeFZSRG1wM0tiRkNQbWZESDgxUU0yRGhsOUl0OFA1NWVUeFVWYkN1U01EVGwzMlpZS2l2RmN6MU4w?oc=5",
+          "title": "Stock Market Today: Dow Pushes 1000 Points Higher, Nvidia Stock Slides Over Jensen Huang Affair Probe - WSJ",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSV9fWHdCZGw4OGdCbVpVMVJreGluVnp1TVhmT1JkemQ0RGdWQTZfNFNuODhETWJUQUt6NTVlUlRGY0NwNkRXOVd6VFlLSWFlTERpMEJWODJraHlyX3ZtRnFpSjUtVzhmOVVKNkRfS0RPZ3l4WHBnWEdwTTRRaVVDdmM3TEhxR0k?oc=5",
           "pub": "Mon, 09 Nov 2026 23:00:00 GMT",
-          "source": "MarketWatch"
+          "source": "WSJ"
+        },
+        {
+          "title": "Dow surges 1,100 points, Nasdaq climbs more than 2% as tech rebounds from last week’s tumult: Live updates - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5FVDc3UlZHcHBOWVJmWWs2YWxla3J5NkpsVmNlTERMM2lQNm1MdlRteDEyeUFGcGFKVHEzV0JGalFMZXlvV3o2R3dmb2dGWUh5WlpMOWxiYkdlb1c1RzB4WlNhQzRoTF9qM3lfaUlKeUhqQUFtWkdj?oc=5",
+          "pub": "Mon, 09 Nov 2026 23:23:45 GMT",
+          "source": "CNBC"
         }
       ]
     },
     {
       "symbol": "META",
       "price": 641.37,
-      "prev_close": 610.1500244140625,
+      "prev_close": 605.0800170898438,
       "high_52w": 779.8200073242188,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 5.116770357572071,
+      "day_change_pct": 5.997551048652104,
       "drawdown_pct": 17.754097871799875,
       "name": "Meta Platforms",
       "news": [
@@ -59,15 +59,9 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "As Meta Platforms Buys Conductor, Here’s How to Play META Stock - Barchart.com",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVUpIUGFQYkEyTllPRTVzMEViaGc3RkZHdG53VnNnZDJVUzhTVG02TDUtanlVODNIVzQxRXpqTXJ2MTdZVnhjZERLcDNxU015ZUVaOWdPSHFONnZYeXN0aE1qS3VvdXdRc1gtZW9OSHVqWXFzYlU3NVJLYjBkemM1MWx1ZUh5VU5yODRpUmZHMWVfcDlxVDJwMXhmX05hUmx6NlM3dFRSQ3o?oc=5",
-          "pub": "Sun, 08 Nov 2026 18:15:02 GMT",
-          "source": "Barchart.com"
-        },
-        {
-          "title": "Meta Platforms Stock: Is it a Steal of a Deal at $650? - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNakxvaEdiTzR5M0tqcm5KeE1mVDFYUTVuZlhCdzl6MHdXV0tiek90QU1qZHBxdktxWjNIaHNoRDhPNTVrN0F5OGx1VUtiTWhObkJRcl9pVXFDbzFsT2cxcTRwaHBKZF93cEgzM0JHd3VkVVpIZ0theFMxdEJIY2FvQ0xtSlQyNTMwNmlMRzVKYS0yRjZVMkR6cGln?oc=5",
-          "pub": "Mon, 09 Nov 2026 20:38:00 GMT",
+          "title": "Better Stock Split to Buy: Meta Platforms vs. Sandisk - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcnQ5anhkMFVrUURqQmdUVlpVby01N01JNkx2UEtMNFNxQkMyTkMzZjQ5eTMtelhoRGg0VldvVW9ES3kyeHcyMFJZOVpWNHJkRjJ2eXhwYWhPOEN4aFdBSHRIWXZjcDlXaEZGWS0zRTdCSllCcm52VkRyVUViNjNpY1JaMXhobEVMWVZEalJWd2xwREhpM2l3dQ?oc=5",
+          "pub": "Sat, 07 Nov 2026 05:00:00 GMT",
           "source": "The Motley Fool"
         },
         {
@@ -75,32 +69,32 @@
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORVVHQ3NjN3pmQ1dDdFlUZUduN1poVHNVRTdwakFhSnhRU1NLQWY5NldGNWVzZTVmTlNEckdHSGFuZTduaEt5LUNlZG9IeW1KS3V6NjZGQzNyWHNnQnJSMFJFOE5BT05MNXBPYTkxWHNKdEZmX05hRGFZMGpWRkhRX19WUW9hYWZ0U056bUVhY3kxYzZBTDZNMlFvUFdtN3FLV2JDeTBKbkpYVW8?oc=5",
           "pub": "Mon, 09 Nov 2026 17:41:25 GMT",
           "source": "Benzinga"
+        },
+        {
+          "title": "Meta Platforms, Inc. $META Stock Sold by AIA Group Ltd - MarketBeat",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUkhhYVVFbTF2VnVXcHh1UllNaWs1djhVZmFwR19IeGIxSnB0bm1rRE5oVmxMandIY3lzUFpOX29zV1NtRExRWFJPTW5hREdwWW00WG5FUlZTX1VWYzBQUHUxU0J0WFItTUdvT09halhQRzlMLVFRdkRRbVRmOEt3WDJPbngzRGFORjM3U0RvVks2MXlMdnRnR2dlZzJ2b3N3Y09XeFo3TEhoNExScHRqNmVB?oc=5",
+          "pub": "Mon, 09 Nov 2026 08:46:07 GMT",
+          "source": "MarketBeat"
         }
       ]
     },
     {
       "symbol": "AVGO",
       "price": 319.48,
-      "prev_close": 293.69000244140625,
+      "prev_close": 291.5299987792969,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 8.781367204945663,
+      "day_change_pct": 9.58734995977643,
       "drawdown_pct": 35.458585858585856,
       "name": "Broadcom",
       "news": [
         {
-          "title": "Broadcom Stock Has Lost Nearly 40% From Its Record. I'd Buy It Now. - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdUVhSFBQaFczNnBiUHdKOUp3RG9MbF9LY1FReEsxY2tWclVGUTNEYjNVeVpLSzBiRGFhSVRBbjlFYjZka2tFTWhIVlMtQ2h4NDk0Qy1UcjlVdkJiVTQtaDZIVFdSTUdzVXVfam1USF9JOTZXemRMS2ppTUpoMjd3QVVXcTZoYTJKMlFndzMyeUdpSm1WYTlxS2tTUUc3cXY1ckdKVnRxemRRZE0?oc=5",
-          "pub": "Sun, 08 Nov 2026 15:23:00 GMT",
-          "source": "The Motley Fool"
-        },
-        {
-          "title": "The Real Winner of Google’s $135 Billion Chip Forecast: Broadcom - TIKR.com",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcTRqbERrbUhpcDhYRVpXUWxpOUhwOFZZV1pTcjExdGt3LVNpY0Y1TC1fZ0htc3hNOHpoRTE2cXJneXVCT0dqRjhibXo0MjNLX1dFMEtwOWRXNUFvQkZwUlVpVTJDMzZXbWdHWjRIZktVMUQwdERielFiRENnS2w4WlFEb3VWYy10Q08xMGl3Smo?oc=5",
-          "pub": "Mon, 09 Nov 2026 23:15:00 GMT",
-          "source": "TIKR.com"
+          "title": "Broadcom Stock Is Down Over 25% in 3 Months. How to Play the Selloff Here. - Barchart.com",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQak5kSHdPdkI1dDI3VURaMFZrMEp5S0dTRldoUmZSTkpCOEtWTjVwNDBhVGgwOS1JWDhjUThTUGg5RE1hRFh5WklEVEJPeFRLdjBlX2tjY3pRTndzUzJqLXA0V2JWVG52emJNbFBMWWg3NnloLVNleWt0VDBGMW9WSk1DdExfc3kwOTNTOGs3M0lNaHBrNHhMeFhLazJrdVkwSDdqTGd5NVh6OTh1NDRhdjJzanZ5dw?oc=5",
+          "pub": "Mon, 09 Nov 2026 19:53:19 GMT",
+          "source": "Barchart.com"
         },
         {
           "title": "Broadcom executive claims he was fired to prevent $5 million stock vesting - CTech",
@@ -113,33 +107,27 @@
           "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZTBWSWo3UXFuZEcyQkwxb0RuSTBzQklOVWV2WlRrTWFoRDZlTjhReHN1d1cybkNWT3h4RWQtamNBdXFkb1plZVJoN3dJbWVKTGFrZFozZmNyb2pUQVhmV09fRTZ1TVJMX2FzQ3JCN1lFaGU3eENNRkZ5YlZOeVhGcWd3U19kYktQaVRfQzhsaGVrX3hSOVdhM2d3alNQdkdJdEo5WU1fTHl1LUVUQjBMR1FHOTRMZmJVS1Vhd243U3BEVWQ5SGRLZi1XVTNYcmx4bGlydERTNVVkOUgw?oc=5",
           "pub": "Mon, 09 Nov 2026 12:05:49 GMT",
           "source": "TradingView"
+        },
+        {
+          "title": "The Real Winner of Google’s $135 Billion Chip Forecast: Broadcom - TIKR.com",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcTRqbERrbUhpcDhYRVpXUWxpOUhwOFZZV1pTcjExdGt3LVNpY0Y1TC1fZ0htc3hNOHpoRTE2cXJneXVCT0dqRjhibXo0MjNLX1dFMEtwOWRXNUFvQkZwUlVpVTJDMzZXbWdHWjRIZktVMUQwdERielFiRENnS2w4WlFEb3VWYy10Q08xMGl3Smo?oc=5",
+          "pub": "Mon, 09 Nov 2026 23:19:19 GMT",
+          "source": "TIKR.com"
         }
       ]
     },
     {
       "symbol": "AMD",
       "price": 508.58,
-      "prev_close": 449.0400085449219,
+      "prev_close": 404.3999938964844,
       "high_52w": 658.52001953125,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 13.259395671225974,
+      "day_change_pct": 25.761624054371996,
       "drawdown_pct": 22.76924240480659,
       "name": "AMD",
       "news": [
-        {
-          "title": "AMD Stock Rises On Google Cloud Deal, Wall Street Upgrade - Investor's Business Daily",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNc0pob1FQZVItVXBmSHRhb1kzQkg0T3ZaR1FlT3hqQ3NEUEpPUDZoN19qTHRHZ1R4UHN2dUI3MEg4OVRITGNxc3V3WjRNZTJpQndZbm1SY2J1Wm1SRGZWRVRkQm5HaGZhWlBhbG15dHdYaWc5cUdYZjN5QjBjWk5kVlhDZ0N6WlJzbEdfWUU3QU1FaFhraTVUNzBORFVhOVRG?oc=5",
-          "pub": "Mon, 09 Nov 2026 21:39:00 GMT",
-          "source": "Investor's Business Daily"
-        },
-        {
-          "title": "AMD Stock Could Jump 34%. No, It’s Got Nothing to Do With the Nvidia Turmoil. - Barron's",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbzRFN0hDSWhxMU1KTVJhRXZ5ejlrUWtjXzlLT1IxR1lMQ0RONGxTN1dQUENXSlktYTZVN0Y1X2toSUdGcHJyS244anFDd3dRU05sZVc1Vm95cmt4VXlES2dJTTY4Y2NDcXZ2VlphR2NjZ08zTkw2ODRRYWNOTEdoT19YX3NXbmNvXzRPeEFR?oc=5",
-          "pub": "Mon, 09 Nov 2026 18:02:00 GMT",
-          "source": "Barron's"
-        },
         {
           "title": "AMD shares are primed for a comeback, says Oppenheimer - CNBC",
           "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1CYmI5cjRwNEFyb0VzcTdZb3Fic0Jkck9Cd1RLNURuYVdTWEpDSzktSER6TjBCNlplV3VyRkc1NmZnOThHYnBoZTRibUYwWkNkbktuUGE5d2JLM2pQNW9VdnJ5Rl92WjZ5Z0dobmdTLWdySUFSUDl1REVKdw?oc=5",
@@ -147,30 +135,42 @@
           "source": "CNBC"
         },
         {
+          "title": "AMD Stock Rises On Google Cloud Deal, Wall Street Upgrade - Investor's Business Daily",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNc0pob1FQZVItVXBmSHRhb1kzQkg0T3ZaR1FlT3hqQ3NEUEpPUDZoN19qTHRHZ1R4UHN2dUI3MEg4OVRITGNxc3V3WjRNZTJpQndZbm1SY2J1Wm1SRGZWRVRkQm5HaGZhWlBhbG15dHdYaWc5cUdYZjN5QjBjWk5kVlhDZ0N6WlJzbEdfWUU3QU1FaFhraTVUNzBORFVhOVRG?oc=5",
+          "pub": "Mon, 09 Nov 2026 21:39:00 GMT",
+          "source": "Investor's Business Daily"
+        },
+        {
           "title": "Lisa Su Expects 80% Revenue Growth in 2027. AMD Stock Is Still a Strong Buy, But It Demands Flawless Execution. - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWHFtTlVvRHlWRkhUR19QaTZFZkFjWWdCTkZZemJHRUxMZ2tFZXhTbENFS2l1Nm5zMkx0NHF1WTBlQ2R6Y2hrSDdJSE95TTZrTVFQSnF2bDBrU2dwYnR1QkUzMFlLVFRWQjVBQmZjTDZvTUI4MVlqZGNLQ0R2WkxEOXcyUHpEdHNhd3daejFmMzZ3YVFT?oc=5",
           "pub": "Sun, 08 Nov 2026 14:26:11 GMT",
           "source": "Yahoo Finance"
+        },
+        {
+          "title": "AMD Stock Could Jump 34%. No, It’s Got Nothing to Do With the Nvidia Turmoil. - Barron's",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbzRFN0hDSWhxMU1KTVJhRXZ5ejlrUWtjXzlLT1IxR1lMQ0RONGxTN1dQUENXSlktYTZVN0Y1X2toSUdGcHJyS244anFDd3dRU05sZVc1Vm95cmt4VXlES2dJTTY4Y2NDcXZ2VlphR2NjZ08zTkw2ODRRYWNOTEdoT19YX3NXbmNvXzRPeEFR?oc=5",
+          "pub": "Mon, 09 Nov 2026 18:02:00 GMT",
+          "source": "Barron's"
         }
       ]
     },
     {
       "symbol": "RKLB",
       "price": 58.86,
-      "prev_close": 53.06999969482422,
+      "prev_close": 45.9900016784668,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 10.910119348918075,
+      "day_change_pct": 27.984339751740272,
       "drawdown_pct": 61.019867549668874,
       "name": "Rocket Lab",
       "news": [
         {
-          "title": "Rocket Lab Earnings Loom: Here’s What Investors Need to Know - Benzinga",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOHExQ0Y0bU1WT0I5bHhWSG5MTEVaUFMwS0ItSDJNLUxSWDBaUzdzMWNjb0lSZk1SMEpYa0s5bVpiZFlrN3dUUDVTZ0w2YXI2cDVYTTM5ZjhCRmZNV2Q1TGJlcl92Z0h6ZzdYR3dPR3lKMWRMcmlxNmlLZTByZ0ROUVkzQ0JGUnVpSElGR0hUbXd3dU5YSjAwbm1rUVZmOVlnMGNBVFVHUDRuWVJBQUJ4cnJERTR2Qm5XeERV?oc=5",
-          "pub": "Mon, 09 Nov 2026 14:32:03 GMT",
-          "source": "Benzinga"
+          "title": "Rocket Lab Reports Monday With Neutron Pushed to 2027 and Its CFO Selling $17 Million of Stock - TIKR.com",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPOGd5bExmTERCdVpXMUdjT2hidHdyRVVFTEVVMU5HMUkzY2tuanR1eEpCckJ2N2ZhZ3BzRG15SDgtOFd0SHJhMHU2cDB5X0duMjhyR08xblEzZExXMmxiTzJtQ0FiaWx4alNzdFBhU3NlYVFfUUttNTNBNGV2NHp5TUxObDdiMzJ4MUNIWllWQUFuaTROd3hnQjVUQ0VVREg5UENVS25QWW55eWJLVFlaQlF5Q29DOV9fNFpZOA?oc=5",
+          "pub": "Sun, 08 Nov 2026 18:20:30 GMT",
+          "source": "TIKR.com"
         },
         {
           "title": "Billionaires Are Loading Up on Space Stocks: Does Rocket Lab (RKLB) Make the Cut? - Yahoo Finance",
@@ -185,22 +185,22 @@
           "source": "Benzinga"
         },
         {
-          "title": "Rocket Lab Q3 2026: Record Backlog Jumps 52% as Revenue Surges 73% - 24/7 Wall St.",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSGZzMTg5WnFtNWdYUzBtVF8wYm9WMU9URnl6S3NMZFhEa0J0d0Y0M3FBdEtlRHlhNGk0TnE0SlRyQmFTdS1RbGVSM2V2WVkyVDVib3BqZ0VGcnNmUmtyaHk3TUtnam02M2QxZVZhWDRuSjJYLUZ3dVc3cUpEUmZhQmZXY090ZlR6SF9jd2xjeGc?oc=5",
-          "pub": "Mon, 09 Nov 2026 21:06:21 GMT",
-          "source": "24/7 Wall St."
+          "title": "Rocket Lab (RKLB) stock price forecast: Record $3.6 bn backlog and Q3 earnings reshape 2027 outlook - Beinsure",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTGtfQ3BrZlN1a1hCbFVtNHJVX2Q1OEhMOHpfYTd0eHJVWlFWVWNmOS1POGFfcVpWNTZRcFRWYlRkSmcycGUtalNrTkdsTHg5cV8wOVl3MHpXWE4wNjRuamlLOXRDME9mUG00NGhuYVg3YlRGZU5TVGgwXzB4N0cxdzR0bFNBRkJYWlotZ0pR?oc=5",
+          "pub": "Mon, 09 Nov 2026 22:11:42 GMT",
+          "source": "Beinsure"
         }
       ]
     },
     {
       "symbol": "IREN",
       "price": 21.41,
-      "prev_close": 21.639999389648438,
+      "prev_close": 18.030000686645508,
       "high_52w": 70.70700073242188,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": -1.062843789905365,
+      "day_change_pct": 18.746529032902345,
       "drawdown_pct": 69.72011289091111,
       "name": "IREN",
       "news": [
