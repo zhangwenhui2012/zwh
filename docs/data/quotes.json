@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-10T08:00:49.609518+00:00",
-  "updated_at_display": "2026-11-10 08:00 UTC",
+  "updated_at": "2026-11-10T08:30:39.516074+00:00",
+  "updated_at_display": "2026-11-10 08:30 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
@@ -21,10 +21,10 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "The Chinese internet is trying to figure out who lost the most in the fallout of Jensen Huang's affair - Business Insider",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYTZzbVBxNnFEZG9sX3lqQURqN25PektYdkZFVkVJeDlhdXNhaTZoeGlMWGppeXVMcDdxWGtGa2pReXA3UE95dDc1bXJpUXNONUl3aUU1ZFBnSnBYZ1V5OWNyUThnM2lMSWVReVBMamtwNnFCY19iVEFfMmpSNmh4WklNcUQxRWlvX1NsTXhxYjRlOFpnOUE?oc=5",
-          "pub": "Tue, 10 Nov 2026 06:15:05 GMT",
-          "source": "Business Insider"
+          "title": "AMD Stock Clocks Best Day In 6 Months — But Michael Burry Won’t Touch The Nvidia Headline Trade - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQzVGZHFrUzZYRzREWUJ6eUZJcFBkaVZ1OElTLWswTC1QWU5OLV83X1hfQWFiaXRBWWJob1liZFZaR2otS3VESFNjbXRuNU4tMUprdjZZdXZVYmd2ZW5LWnZ1NmJ6TGNneUo3amJ2NWJzcVJXbHBtdW8wbUpuVTMwYUwwQk5YU19HYU5Ha2Zadzh0QVZG?oc=5",
+          "pub": "Tue, 10 Nov 2026 05:59:00 GMT",
+          "source": "Yahoo Finance"
         },
         {
           "title": "Nvidia shares sink while stock market surges - NBC News",
@@ -109,10 +109,10 @@
           "source": "Yahoo! Finance Canada"
         },
         {
-          "title": "What Just Happened To Broadcom Stock? - Trefis",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZW1UU253cTRjVENEYkprYlktVnkzZ1BybzNwSkVzSllzREp0MjlaRWs3cDF2U1VES0xmcUNxeVoxQ2NTNjBCT2xWSHctU0Zjci1ic2otV2RjNnE1X25lMUcyT01GZ1JhRW1tWTdwdWFaenNSYTlwbks5bF9Md1JYc3Y0cGZrTF9ibW04b1BwRUNZcG1FbUpYV0U4Q3hKQQ?oc=5",
-          "pub": "Fri, 06 Nov 2026 13:20:28 GMT",
-          "source": "Trefis"
+          "title": "Prediction: November Will Be a Huge Month for Broadcom - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZ0paUl94ZjZXWUo4V0s1ZzVRTFRNczBuNmo3Qk53WUpFSWt4bl81dy04ck12dl9UVWVrU1p0X1I2TklPYllXd2hqUnhyYXhqZ0hjYWhoOGUtRkZOUVVhQUZfNlNrYThuQVRnNmZyTGkxdW5WZGZzVm5WQmJvbWY1VGVvd29mT295Qm1lck1xNHZ1VjNwWWUyRg?oc=5",
+          "pub": "Fri, 06 Nov 2026 07:09:00 GMT",
+          "source": "The Motley Fool"
         }
       ]
     },
@@ -232,14 +232,14 @@
     },
     {
       "symbol": "MILDEF.ST",
-      "price": 257.9,
+      "price": 258.5,
       "prev_close": 243.3000030517578,
       "high_52w": 264.8,
       "currency": "SEK",
       "yahoo_name": "Mildef Group AB",
       "exchange": "Stockholm",
-      "day_change_pct": 6.000820700826819,
-      "drawdown_pct": 2.605740181268895,
+      "day_change_pct": 6.2474298222711715,
+      "drawdown_pct": 2.379154078549853,
       "name": "MilDef Group",
       "news": [
         {
@@ -270,14 +270,14 @@
     },
     {
       "symbol": "IVSO.ST",
-      "price": 219.6,
+      "price": 222.2,
       "prev_close": 213.0,
       "high_52w": 332.0,
       "currency": "SEK",
       "yahoo_name": "INVISIO AB",
       "exchange": "Stockholm",
-      "day_change_pct": 3.098591549295772,
-      "drawdown_pct": 33.855421686746986,
+      "day_change_pct": 4.319248826291075,
+      "drawdown_pct": 33.07228915662651,
       "name": "Invisio",
       "news": [
         {
@@ -308,14 +308,14 @@
     },
     {
       "symbol": "NORBT.OL",
-      "price": 167.6,
-      "prev_close": 161.1999969482422,
+      "price": 169.4,
+      "prev_close": 161.5,
       "high_52w": 244.8000030517578,
       "currency": "NOK",
       "yahoo_name": "NORBIT",
       "exchange": "Oslo",
-      "day_change_pct": 3.9702252933743596,
-      "drawdown_pct": 31.535948565913824,
+      "day_change_pct": 4.891640866873068,
+      "drawdown_pct": 30.80065445743318,
       "name": "Norbit ASA",
       "news": [
         {
