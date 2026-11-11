@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-11T08:30:36.652445+00:00",
-  "updated_at_display": "2026-11-11 08:30 UTC",
+  "updated_at": "2026-11-11T09:00:47.056686+00:00",
+  "updated_at_display": "2026-11-11 09:00 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
@@ -173,10 +173,10 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "Rocket Lab falls after earnings, and other early market movers - MarketWatch",
-          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPdllkUnVmblRjcjhYbUE1UlR5R25hTlRzelY1YXgycEpNeVBFZk44Ylc1UDVzR3FiR0pSVk5raGFpbG1Sc0pvUk5iVG04SE11MUk0Y2MtR3RmNU5WWk9fU0pnbFowQ2xXRVg4aFo0cjZocEF1UlZ3Tmt0QnFrMlVjb3NzQWZjUDNhQmVJZVdKTHdQZWFiTE5lcHJyb1JtQkpOd2NJZTRVV2Nqd25Mb3NsU3c5djlrNG9XVV9NYVBhQ3BlUDhELUVoSnd3ZE95dGZwWUNJRlpyUnVMdjhrbWxob1VyYkhKUXpEVHp6Tm5tNExEckpEdFUxWEhTZkhHVUw2QTBkQ2Z0TURVWUw5ZUZxX0FkS2c5RjZMenF6bnpxWDVNVHpKMXB1NWs2Q0hTMFZaZEhsNFFJS2JwTUU1NHdTcWI3U2REUQ?oc=5",
-          "pub": "Tue, 10 Nov 2026 10:55:00 GMT",
-          "source": "MarketWatch"
+          "title": "Rocket Lab's Record Quarter Sends Shares into Orbit - The Globe and Mail",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOclZvOFNhWTJ6NHI1amRmMVpIQjhTZHFDa1lFQXVodmZqekNwUXEyWUNjcy0wdkpSYVFRZHJQWnEzWDdNdFZwektKRFg0b3Jlc2JNbE1qSFc5ZFkzZGxGM2ZWS0tkUUdGa1ppMktsdmhOd1JhTUFwbjBwZm5ITUtmY3VlU2tNamVBMmM0NG5Lb1Q2VjY5Xy1ERDVZTFZYNXFpRHdFaVUtWnl2T3FCMW5RUjN2WlNVV0pnOHpJcnhBQUR2N0lZcDAtUG5uSjNTb1NJaWMyQg?oc=5",
+          "pub": "Wed, 11 Nov 2026 08:50:35 GMT",
+          "source": "The Globe and Mail"
         },
         {
           "title": "Rocket Lab (RKLB) Stock Rallies As Q3 Results Stir Growth And Loss Debate - Yahoo Finance",
@@ -232,14 +232,14 @@
     },
     {
       "symbol": "MILDEF.ST",
-      "price": 256.1,
-      "prev_close": 256.0,
-      "high_52w": 264.8,
+      "price": 251.9,
+      "prev_close": 258.70001220703125,
+      "high_52w": 266.6000061035156,
       "currency": "SEK",
       "yahoo_name": "Mildef Group AB",
       "exchange": "Stockholm",
-      "day_change_pct": 0.03906250000000888,
-      "drawdown_pct": 3.2854984894259776,
+      "day_change_pct": -2.6285318462178355,
+      "drawdown_pct": 5.513880632773838,
       "name": "MilDef Group",
       "news": [
         {
@@ -270,14 +270,14 @@
     },
     {
       "symbol": "IVSO.ST",
-      "price": 216.2,
-      "prev_close": 216.8000030517578,
+      "price": 216.0,
+      "prev_close": 218.60000610351562,
       "high_52w": 332.0,
       "currency": "SEK",
       "yahoo_name": "INVISIO AB",
       "exchange": "Stockholm",
-      "day_change_pct": -0.2767541712693528,
-      "drawdown_pct": 34.87951807228916,
+      "day_change_pct": -1.1893897671184972,
+      "drawdown_pct": 34.93975903614458,
       "name": "Invisio",
       "news": [
         {
@@ -308,14 +308,14 @@
     },
     {
       "symbol": "NORBT.OL",
-      "price": 170.7,
-      "prev_close": 167.60000610351562,
+      "price": 170.0,
+      "prev_close": 168.8000030517578,
       "high_52w": 244.8000030517578,
       "currency": "NOK",
       "yahoo_name": "NORBIT",
       "exchange": "Oslo",
-      "day_change_pct": 1.8496382956989268,
-      "drawdown_pct": 30.269608712419394,
+      "day_change_pct": 0.7108986531678213,
+      "drawdown_pct": 30.55555642127297,
       "name": "Norbit ASA",
       "news": [
         {
