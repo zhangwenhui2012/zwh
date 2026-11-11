@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-11T09:00:47.056686+00:00",
-  "updated_at_display": "2026-11-11 09:00 UTC",
+  "updated_at": "2026-11-11T09:30:35.946251+00:00",
+  "updated_at_display": "2026-11-11 09:30 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
@@ -21,6 +21,12 @@
           "source": "Yahoo Finance"
         },
         {
+          "title": "£5,000 invested in Nvidia stock 7 days ago is now worth… - Yahoo Finance UK",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdUxzNlctbFlEVjdqZU1HaDFNaDZYcVgzakgyWTBHNXZXYl8xNTV0bEF4X2h6YWhYVUh0bmhfM1ljdk0zeEZqbzRGWDRRRmF2cjVKbzZXWnBPaHUyRmpsaUt3RnZlN21XMEVldTZCV1doSVZOYW1pQ2VnbVJVRzhNNFBn?oc=5",
+          "pub": "Wed, 11 Nov 2026 07:07:00 GMT",
+          "source": "Yahoo Finance UK"
+        },
+        {
           "title": "Analysts Are Cutting Price Targets on Nvidia Stock. Here's Why. - Barchart.com",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYlFURnllR2NCM2xWb1drY29VY29CZm1EOWdCQUEwUTJrMHprRElrMU5ucFZmUmdKWFNGNTBYbHBxUG1QdlJ4bENXaVBOVFVJdEdxTm5UODQ5d0xvMjdvdExTUVhOWElVTkJWakNMakdUMjNBRDdJLWJ4MExaSTJkWXBEbEFzd29VOHVFYVVUc2pESVhVa0hoREtDT3ZCVGlNVUJQWG1Ualo?oc=5",
           "pub": "Tue, 10 Nov 2026 20:00:42 GMT",
@@ -31,12 +37,6 @@
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNM1EwT3BDVXVxdlpLd182dV80azR6M2lrMHJFZlg4TElPMlpLeDVLSVFQaGk5WkVGLXZNVkNNMzJXSWtBTzRRVVFDZG84T1lRQ1pvX3d1ZkRERGZibkdaWXc3bHVjNWkxbE1SNDBnWUlEMWNRVFB3VENwQWlIWmV3d0FxSWNsanNwVE5aV0hxQ2xTbnIyblRMc0t1T3lZTzdIWE0zN01EV3BSNThSRkhobnp3?oc=5",
           "pub": "Tue, 10 Nov 2026 23:12:16 GMT",
           "source": "Morningstar"
-        },
-        {
-          "title": "Nvidia stock falls after investigation into CEO, bucking market rally - CNN",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE50WjBIUUkwd0ZNMkFYTzZjQjRnOFZoc2lPTFVORzZtU0ZwOV9SNldqdUxPZ0NsUEFLZ3lDdzh3RV9ZTWZ4ek9KaWR4aENKVEFtdFIybjhqUkxvTHRFYWFocVgta1ZKRWJYYTFIZ1JpaE5uTVBfNzMzb3VkUC1iUQ?oc=5",
-          "pub": "Mon, 09 Nov 2026 14:37:49 GMT",
-          "source": "CNN"
         }
       ]
     },
@@ -71,10 +71,10 @@
           "source": "MarketBeat"
         },
         {
-          "title": "Meta: Muse Celebrations Are Over, Reality Kicks In (Rating Upgrade) (NASDAQ:META) - Seeking Alpha",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxONF9UeW9LbEd2ckN2SEh2M08wa2NqemZhOUVHa2JHM0xnRTRTN2hBYnM0YmFaaEkzaHdjTnVqX2JCZmd0b2Fyc1h5VW91c0R2SVBkcjhGVTB3UGZYN29GRXlUM2NxMy1qeDM1R3VMMGFPZ2pZY3VfU2hxZ0NCbTF0aVBzS3F4RUw5UDd6bm1Zby02eUxGTlZadUxqTEZzdw?oc=5",
-          "pub": "Tue, 10 Nov 2026 10:15:00 GMT",
-          "source": "Seeking Alpha"
+          "title": "As Meta Platforms Buys Conductor, Here’s How to Play META Stock - Barchart.com",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVUpIUGFQYkEyTllPRTVzMEViaGc3RkZHdG53VnNnZDJVUzhTVG02TDUtanlVODNIVzQxRXpqTXJ2MTdZVnhjZERLcDNxU015ZUVaOWdPSHFONnZYeXN0aE1qS3VvdXdRc1gtZW9OSHVqWXFzYlU3NVJLYjBkemM1MWx1ZUh5VU5yODRpUmZHMWVfcDlxVDJwMXhmX05hUmx6NlM3dFRSQ3o?oc=5",
+          "pub": "Sun, 08 Nov 2026 18:15:02 GMT",
+          "source": "Barchart.com"
         }
       ]
     },
@@ -205,43 +205,49 @@
       "name": "IREN",
       "news": [
         {
-          "title": "IREN's $4B Revenue Goal Delayed: Is the Stock Losing Its Appeal? - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZEJJUFFNRVV2YjJZOEdtOV9KS093MDktajMwLTlmTXhhencxckpReXpyeF9HSGxNWlJTazJqbHVKY1otRDl3eGMtaGVaUmRsR0V1X3AzWmNhWTMwbU1BV1dyN08wR3VxQndpWktMVG4zTEM0UjBFQUdxUExKOWZlNmlndFI0YS1nWVE3T1IxenFHSU5yeV84bHhB?oc=5",
-          "pub": "Mon, 09 Nov 2026 15:21:00 GMT",
-          "source": "Yahoo Finance"
-        },
-        {
           "title": "CRWV Stock Climbs 8% After-Hours As $132B Revenue Backlog Reinforces AI Compute Demand: NBIS, IREN Tick Higher - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQV3ZNcmw5TW5GaWRad2toeHJIZEtMRDBDanFFaGppZkRXUWJweW1Td243WDVaeWRzNFJfR2dqZ1VhX2NLX1BwQjlWZUV1eWFwSTZQMnNpNXFhanQyUGlGWUpGN3RaQ2RvQXZ6eWpaLTNPejZRYVN0di1CRW1RUzNaMWRKQzlhZk9pMzJ3LXlvNEM5bUtm?oc=5",
           "pub": "Tue, 10 Nov 2026 22:09:40 GMT",
           "source": "Yahoo Finance"
         },
         {
-          "title": "IREN Stock Falls Even as JPMorgan Goes Bullish - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZy1wM0d5TGFHNTBnYzlGWkZURFZVNV9EVEpkRFZVd25PU1BOMzJ1eGlFWVByVVo5RlhfZTBTN1ZiVTBVTjE3Z0dIQ1A4REZhZ1A4T3dwTGxxb2hwaUhzRkNXY1Y1TEljWDFwcHpJQ29zZy11RXpHdkJFXzV0TU5rTHhJSURVOUNsbC1GalZvcXRON0NfcjhPUHFtWQ?oc=5",
-          "pub": "Tue, 10 Nov 2026 22:44:57 GMT",
+          "title": "Massive News for CoreWeave, Nebius, IREN, and Applied Digital Stock Investors - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPT0YzdUhxSC1uNk5YN0Y1QnFLYTFaOTRwUW5jd1pyb3JQektQVkJ4RlNHQjhjdGNFY2pJTzNJUkVRam10OERUcFFMbTlkdkVWZHlRN04yQ1hVbHdRd1hDUUlnalM4QlBINVJEb2JGR1JyMGhGeHFDMmNQc1I3dTkxal80ZkQ2RXVPYThtV0dqNXJsRlZPYlhOak9lQnBtUmtoT255alNpUUtoSUQ4cERMNkZXOWdFV0FC?oc=5",
+          "pub": "Tue, 10 Nov 2026 12:30:00 GMT",
+          "source": "The Motley Fool"
+        },
+        {
+          "title": "IREN's $4B Revenue Goal Delayed: Is the Stock Losing Its Appeal? - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZEJJUFFNRVV2YjJZOEdtOV9KS093MDktajMwLTlmTXhhencxckpReXpyeF9HSGxNWlJTazJqbHVKY1otRDl3eGMtaGVaUmRsR0V1X3AzWmNhWTMwbU1BV1dyN08wR3VxQndpWktMVG4zTEM0UjBFQUdxUExKOWZlNmlndFI0YS1nWVE3T1IxenFHSU5yeV84bHhB?oc=5",
+          "pub": "Mon, 09 Nov 2026 15:21:00 GMT",
           "source": "Yahoo Finance"
         },
         {
-          "title": "Why is IREN stock sliding today? - Investing.com",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbmkyNEdvblpRQm5aTUxLTTBjZU9oOHUtbUlSSUdFRW01S3RRakdjOVFfNUJJdEZEb3REazdDd1VEVGw0bU9ieDlTdjBVQXpkQm5kZDAwYXdKaXhiYnJacFRhTFJzZkVRbU01ODZJdnFJell3U1BGb0pVUW1Dclk3Nm8xQWl3MnVjcmM2bk93VXpETVA3V0Z1Yw?oc=5",
-          "pub": "Tue, 10 Nov 2026 16:31:49 GMT",
-          "source": "Investing.com"
+          "title": "IREN, CoreWeave and Nebius Stocks Are Down Today as AI Debt Fears and Nvidia CEO Controversy Mount — What Wall Street Sees Next - TipRanks",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPWnhKMFl0bFpSTng3Y2p5Q2w1ZUdIZTZaeGJ6WkZtVC11UHN6bFE0SlM2QlFOWTNoUkhrM0NBMlFIYTVXQTNqOVFIRUtDYUI3LVFrNndtWF9mekt0eFNXNkV0UG5JTDgydnpQNDdUN3pLUUNzMmVqS3BDakx4cnFwOXdjak90ckw4anpVMm12ZkttZkJ1bWRzS0Z0Q1Y3WkRhX05zeHJLX1plNERWYWNwazZCX2xPQzFGQXFDTk5HZEJKVUpwbG1wY2pyRlo5NnNEbEpETmRGV3hib1JYdEl4ZDhSUzVfQ1E?oc=5",
+          "pub": "Mon, 09 Nov 2026 13:00:29 GMT",
+          "source": "TipRanks"
         }
       ]
     },
     {
       "symbol": "MILDEF.ST",
-      "price": 251.9,
+      "price": 249.7,
       "prev_close": 258.70001220703125,
       "high_52w": 266.6000061035156,
       "currency": "SEK",
       "yahoo_name": "Mildef Group AB",
       "exchange": "Stockholm",
-      "day_change_pct": -2.6285318462178355,
-      "drawdown_pct": 5.513880632773838,
+      "day_change_pct": -3.478937681622053,
+      "drawdown_pct": 6.339086915457043,
       "name": "MilDef Group",
       "news": [
+        {
+          "title": "Mildef Group AB (8QA.HA) latest stock news and headlines - Yahoo Finance Australia",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBSZjdBdlBXYWlqM0dvMWZJb2FjcFZhTEJoMUk5M1d5VWNSMWNCQ2RVcWVNTWFZZThHMG9tSzhtdGZJa3hqZlZUbzNrQVcwYUhBY191endQRzBoQm8?oc=5",
+          "pub": "Tue, 10 Nov 2026 22:26:53 GMT",
+          "source": "Yahoo Finance Australia"
+        },
         {
           "title": "Mildef Group AB (CEUX:MILDEs) Stock PDF (Updated: 2026/11/05) - GuruFocus",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA3TWFxU0FHeXdYWlRZRkF1YW1HeEEzNzZCc0kzRnV1bTJFVENyRXFVWTVpbkM4WERJMkFiYW9GbnBOcEpVRXRtcWk2X3F5alJvYy0tWXI5Skg4T3ZrNUJ3?oc=5",
@@ -255,12 +261,6 @@
           "source": "Bloomberg.com"
         },
         {
-          "title": "Earnings To Watch: Mildef Group AB (OSTO:MILDEF) Q3 2026 -- GF Value Sees 18% Upside - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcGw1Tm1tRW8yenBhZWgxemlURXNLTUtjeUU1SXZlbi05d0tzZHRfUmdOcmlmUno0bWVqaHpnYmVvRU43bDJTQzdHMzZXOUFCVGE2azhGTjRlRS04VDhocnJCYlF3MDJESmw3YlIxNGQ5bU5sbW1xeDZPMGxKaXhZOEswRGxzMGhDcDBzTlFxRXlwTjFUSkgwMzhtYw?oc=5",
-          "pub": "Wed, 21 Oct 2026 07:00:00 GMT",
-          "source": "Yahoo Finance"
-        },
-        {
           "title": "MILDEF Forecast — Price Target — Prediction for 2027 - TradingView",
           "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9hWW9rMkp5VFlIZmlhT1RWd3k5bVQyVTVlLXktUHJfNm43Qld6bURaV0wwTDN1ZmJwZ0c2c2FPNV8wRVYyaVRRNndDaUZOeHdPQTkwS1doZUdWQ180N051Ym91OXZxYW9YRklxUFRIcVFJOFJxbXFVSEl2dWg?oc=5",
           "pub": "Thu, 25 Jun 2026 11:58:03 GMT",
@@ -270,14 +270,14 @@
     },
     {
       "symbol": "IVSO.ST",
-      "price": 216.0,
+      "price": 211.0,
       "prev_close": 218.60000610351562,
       "high_52w": 332.0,
       "currency": "SEK",
       "yahoo_name": "INVISIO AB",
       "exchange": "Stockholm",
-      "day_change_pct": -1.1893897671184972,
-      "drawdown_pct": 34.93975903614458,
+      "day_change_pct": -3.4766724113981615,
+      "drawdown_pct": 36.44578313253012,
       "name": "Invisio",
       "news": [
         {
@@ -308,14 +308,14 @@
     },
     {
       "symbol": "NORBT.OL",
-      "price": 170.0,
+      "price": 168.8,
       "prev_close": 168.8000030517578,
       "high_52w": 244.8000030517578,
       "currency": "NOK",
       "yahoo_name": "NORBIT",
       "exchange": "Oslo",
-      "day_change_pct": 0.7108986531678213,
-      "drawdown_pct": 30.55555642127297,
+      "day_change_pct": -1.8079133566102958e-06,
+      "drawdown_pct": 31.045752493593394,
       "name": "Norbit ASA",
       "news": [
         {
