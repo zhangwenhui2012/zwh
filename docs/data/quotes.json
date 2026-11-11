@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-11-11T00:30:35.825236+00:00",
-  "updated_at_display": "2026-11-11 00:30 UTC",
+  "updated_at": "2026-11-11T01:00:45.309679+00:00",
+  "updated_at_display": "2026-11-11 01:00 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
       "price": 168.89,
-      "prev_close": 178.6699981689453,
+      "prev_close": 186.63999938964844,
       "high_52w": 243.37,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -5.473777505553918,
+      "day_change_pct": -9.510286887963264,
       "drawdown_pct": 30.603607675555743,
       "name": "NVIDIA",
       "news": [
@@ -19,12 +19,6 @@
           "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQc0MwV3BSdEl1N0dEckdJQUhVMk1sc3BLYm1zWHJxYk92YjhkU081aGhiUl9hbUlfOGF0Y3d0ekFuWVI2UzdIUzZ5TklTMi1NT3V0VDJuZUZxRGVld3ZHQ2ZQSlJidWNuU2NKa19qR2YtOVFpTkNLb1RjZ2x4RHpCYmNhaXVZTWV0aFFYUnJycTl2OEk0OGRBckRVZXJPaHhrc0lkNURZOHlkVDJRbndaQUhxRmJaQ2p3NWZ4cGdIajE5djh1QWxMcnpteGlGSW1tZG1wLS1wMA?oc=5",
           "pub": "Tue, 10 Nov 2026 11:42:42 GMT",
           "source": "Yahoo Finance"
-        },
-        {
-          "title": "Jim Cramer: Wall Street is focusing too much on what could go wrong instead of right - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZXEtNjBGQmkySUh6d3RIZlo0M3lpY2txS25RcW00YURRZnlpWWJ5UWJlRU8wbE1vNERBUUFZMDhad253YUw4NTl6Smt2ODVDZFVOOEtzLVlKTHIxa2hZbEJiYXZMOEFmN3hwcUFqWm40UkRfdk9Vd29qS1FEdE85UElxTQ?oc=5",
-          "pub": "Tue, 10 Nov 2026 23:41:43 GMT",
-          "source": "CNBC"
         },
         {
           "title": "Nvidia stock falls after investigation into CEO, bucking market rally - CNN",
@@ -37,18 +31,24 @@
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYlFURnllR2NCM2xWb1drY29VY29CZm1EOWdCQUEwUTJrMHprRElrMU5ucFZmUmdKWFNGNTBYbHBxUG1QdlJ4bENXaVBOVFVJdEdxTm5UODQ5d0xvMjdvdExTUVhOWElVTkJWakNMakdUMjNBRDdJLWJ4MExaSTJkWXBEbEFzd29VOHVFYVVUc2pESVhVa0hoREtDT3ZCVGlNVUJQWG1Ualo?oc=5",
           "pub": "Tue, 10 Nov 2026 20:00:42 GMT",
           "source": "Barchart.com"
+        },
+        {
+          "title": "Nvidia’s Sell-Off Is Accelerating. What’s Next for the Stock? - Investopedia",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZUJ3Y1RzVzBwZU1Vck1lcTFLRjRrVEtZa3d1aFNid1pyS214cktXeG5fMEFxeG9UcEVjZUhqMEJ4enBKNGNLZDRKTFJoaGNGLUI0cnZTRUlYVGR2RFZieXlIcmowdzY1T3dhY1VfaU0xbVBnNGRhYUJ6aGJsMUVQOXF6M3dCVi1hNlA4MHdkX2FDSF80bEJDbmZBMTUxT244UTBZMzBR?oc=5",
+          "pub": "Tue, 10 Nov 2026 20:25:02 GMT",
+          "source": "Investopedia"
         }
       ]
     },
     {
       "symbol": "META",
       "price": 641.39,
-      "prev_close": 641.3699951171875,
+      "prev_close": 610.1500244140625,
       "high_52w": 779.8200073242188,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 0.0031190861694163252,
+      "day_change_pct": 5.120048239928822,
       "drawdown_pct": 17.751533177407307,
       "name": "Meta Platforms",
       "news": [
@@ -81,15 +81,21 @@
     {
       "symbol": "AVGO",
       "price": 331.98,
-      "prev_close": 319.4800109863281,
+      "prev_close": 293.69000244140625,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 3.9126044146176078,
+      "day_change_pct": 13.037555667640731,
       "drawdown_pct": 32.93333333333333,
       "name": "Broadcom",
       "news": [
+        {
+          "title": "NVIDIA Falls 4% as Board Probe of Jensen Huang Weighs on Shares; AMD and Broadcom Gain 3% - 24/7 Wall St.",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQb2s1ekxJVnk0YTFNZ3lIU3VXUk5ScGNGSzVtU2tZRWZkWUdEVVlWV3BDZGdPMy1GZG0tdjdpSUg2bXJReWtrNzkwdWNVM2ZuTEpoMDFURlRyYWRseXI5SGJtakZseVVxekdoRGlidGp3cTlkUEp3MndZSnFVcHp6YWJmaTg1NGQ3SU9YcVFpbEZoWmZrREpZYnNYR2tWMGJQT0syYUlnWGJHcUt4NDdfX24xVHFTc3Q3YjhxSFFwNUswOWFxbU44V053?oc=5",
+          "pub": "Tue, 10 Nov 2026 14:56:00 GMT",
+          "source": "24/7 Wall St."
+        },
         {
           "title": "Goldman Sachs calls chip stocks 'oversold.' Here are the names it says to buy. - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNT0pnN29CUTRORHVwTUNRSFY1dndZcjM1cGRqOWRVbVEwYm1UelIxUXE3VHNDbjhoU25kMmNKdHBXWVdjOVc0YXVubnNSV2lKUWdRdXNaM1JrbkdZaVVaLVUxd3gyeXI2WkhSR2FEU1BBV0FydDh5dm1ic2dOYUkzRmtiNl9xYnFlbm00RzdTbjZoaTZCM0RpcDY5a2lXRGhTR1FIWnZNLU5WTGx1dkRaaUNRVmQwUk5Ga3dabVVWTE1fNHBLaVFDcmx4dw?oc=5",
@@ -105,34 +111,28 @@
         {
           "title": "Cramer's Stop Trading: Broadcom - CNBC",
           "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1kSmpxNElaSmNNM0o0VFpseERYWTRxVTVWZjhTdWdDOTI4VTBxRi1yc3VzcFNmYXlPU2U2bmlQUHhPT0hSdTBpdVNHSll0dU93Q1QzWEdKaEdwNENrWHNGeXdkejlYSHptSlZ5VmZCRmk2UHM3cjBUelBmdjA?oc=5",
-          "pub": "Tue, 10 Nov 2026 14:39:48 GMT",
+          "pub": "Tue, 10 Nov 2026 15:00:00 GMT",
           "source": "CNBC"
-        },
-        {
-          "title": "NVIDIA Falls 4% as Board Probe of Jensen Huang Weighs on Shares; AMD and Broadcom Gain 3% - 24/7 Wall St.",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQb2s1ekxJVnk0YTFNZ3lIU3VXUk5ScGNGSzVtU2tZRWZkWUdEVVlWV3BDZGdPMy1GZG0tdjdpSUg2bXJReWtrNzkwdWNVM2ZuTEpoMDFURlRyYWRseXI5SGJtakZseVVxekdoRGlidGp3cTlkUEp3MndZSnFVcHp6YWJmaTg1NGQ3SU9YcVFpbEZoWmZrREpZYnNYR2tWMGJQT0syYUlnWGJHcUt4NDdfX24xVHFTc3Q3YjhxSFFwNUswOWFxbU44V053?oc=5",
-          "pub": "Tue, 10 Nov 2026 14:56:00 GMT",
-          "source": "24/7 Wall St."
         }
       ]
     },
     {
       "symbol": "AMD",
       "price": 515.21,
-      "prev_close": 508.5799865722656,
+      "prev_close": 449.0400085449219,
       "high_52w": 658.52001953125,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 1.303632388765328,
+      "day_change_pct": 14.735878807212904,
       "drawdown_pct": 21.76243930036651,
       "name": "AMD",
       "news": [
         {
-          "title": "AMD shares are primed for a comeback, says Oppenheimer - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1CYmI5cjRwNEFyb0VzcTdZb3Fic0Jkck9Cd1RLNURuYVdTWEpDSzktSER6TjBCNlplV3VyRkc1NmZnOThHYnBoZTRibUYwWkNkbktuUGE5d2JLM2pQNW9VdnJ5Rl92WjZ5Z0dobmdTLWdySUFSUDl1REVKdw?oc=5",
-          "pub": "Mon, 09 Nov 2026 11:54:06 GMT",
-          "source": "CNBC"
+          "title": "AMD Stock Rises On Google Cloud Deal, Wall Street Upgrade - Investor's Business Daily",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNc0pob1FQZVItVXBmSHRhb1kzQkg0T3ZaR1FlT3hqQ3NEUEpPUDZoN19qTHRHZ1R4UHN2dUI3MEg4OVRITGNxc3V3WjRNZTJpQndZbm1SY2J1Wm1SRGZWRVRkQm5HaGZhWlBhbG15dHdYaWc5cUdYZjN5QjBjWk5kVlhDZ0N6WlJzbEdfWUU3QU1FaFhraTVUNzBORFVhOVRG?oc=5",
+          "pub": "Mon, 09 Nov 2026 21:39:00 GMT",
+          "source": "Investor's Business Daily"
         },
         {
           "title": "NVIDIA Falls 4% as Board Probe of Jensen Huang Weighs on Shares; AMD and Broadcom Gain 3% - 24/7 Wall St.",
@@ -141,36 +141,36 @@
           "source": "24/7 Wall St."
         },
         {
-          "title": "2 Reasons AMD Can Still Outperform by 2030 - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeDBRMW5CZ1I2RDExWWZVUTJRWGViRWdrNmFUeDlzcWtZYTlMenp2anpBdzEzYTE1aXdiVHJ1aXFWZGNGS3FjbmRtaHVPUW9DcF9CaEhBSG9fTU9USWI4Qk5acGtGcEk4LWctTFpsTWdsdXF0OTZHMDRLQUZLZGpjdk5LX3hlU0ZrVW5fdk5kOEo1LVJPcTIxVWZLMA?oc=5",
-          "pub": "Tue, 10 Nov 2026 23:33:02 GMT",
+          "title": "Goldman Sachs calls chip stocks 'oversold.' Here are the names it says to buy. - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNT0pnN29CUTRORHVwTUNRSFY1dndZcjM1cGRqOWRVbVEwYm1UelIxUXE3VHNDbjhoU25kMmNKdHBXWVdjOVc0YXVubnNSV2lKUWdRdXNaM1JrbkdZaVVaLVUxd3gyeXI2WkhSR2FEU1BBV0FydDh5dm1ic2dOYUkzRmtiNl9xYnFlbm00RzdTbjZoaTZCM0RpcDY5a2lXRGhTR1FIWnZNLU5WTGx1dkRaaUNRVmQwUk5Ga3dabVVWTE1fNHBLaVFDcmx4dw?oc=5",
+          "pub": "Tue, 10 Nov 2026 16:53:14 GMT",
           "source": "Yahoo Finance"
         },
         {
-          "title": "Oppenheimer Just Set a Whopping $600 Target on AMD Stock. Here's Why. - Barchart.com",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNLWlQYjJ2bUk0WTdqNkRKN29EZ2o1d3NkQTBUbmktOVdTamZGeWU5WHpLcmxCT0Z1UzdaOF8zbU8tVmNsN2FURTNYdndhUi0wNm1hM1dXd1ZBc1ZxV0tySVRfd0dKWTg3bmk1T245Z2E2Y05yaEU2U21QMGNMamM4dk44ZFA0Y2sxVjRTVDhhcEx0UlZCa25QQkdZQVY5S2ZyVUxlUXJxemxFaGlJQ3lz?oc=5",
-          "pub": "Tue, 10 Nov 2026 17:56:30 GMT",
-          "source": "Barchart.com"
+          "title": "AMD's Stock Fades as Investors Weigh Whether Nvidia's Turmoil Will Mean Lasting Wins - 富途牛牛",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaUZDQ3VHNU1YV2Q5MU5NLXFUYTloblM5bEV0UjVGQWluMVZNVXRMamJ0N0NEby1zQnkwOFJPTkVvODlEZUVtNGdrU3F4UF9lY3BVRDdOdktaT3BKdm80eTZ5ZUtKSDQ2TG9tYlpIRWszZFNVaEZvYzBwcjN4UW55dkJHQW5LTEhnRk5SZ284RkhOY3lrc2k2N202Wmc?oc=5",
+          "pub": "Tue, 10 Nov 2026 19:34:08 GMT",
+          "source": "富途牛牛"
         }
       ]
     },
     {
       "symbol": "RKLB",
       "price": 62.71,
-      "prev_close": 58.86000061035156,
+      "prev_close": 53.06999969482422,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 6.540943509557742,
+      "day_change_pct": 18.164688827228215,
       "drawdown_pct": 58.47019867549669,
       "name": "Rocket Lab",
       "news": [
         {
-          "title": "Rocket Lab Rebounds After Mixed Q3 Report, Analysts Say Neutron Timing Is Key - Investor's Business Daily",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNHpUaEVkUC01ak5YUnBPTV84VThhTmN3NkhwZDlaekt1LVRvTFRMUjRzSnZGTm53UHRBdzlBZTQwVDNGWURFU18wWWlyYmg0YlllV01NUC1lc1BlZTF4Y0xRbldjcjh6VUc0M0lzMHdLc2g2SXVHVWE2S0ZUYzZvSmhIYzZCZUpMUU9QSmFtTUF1ZjJXMTRNa2lJWVdoMERhdjNVeXZ3?oc=5",
-          "pub": "Tue, 10 Nov 2026 21:44:00 GMT",
-          "source": "Investor's Business Daily"
+          "title": "Rocket Lab slumps on earnings miss despite revenue beat - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMng3ZWZDMlV6WlpHX3lKM2ZXUmJwWUlCeEFvOXYzMXNVLVBmaHY2eGc5YWpxZnlGQndIanJJNHByX3B4TENoNFZnQ1ROU1A0SWxUMkJ0WURfcmNEdEVuOS1aTWcwU0oyU3U4V1BsdFoxdmNLREw1R1BGTnJGYkxIck1n?oc=5",
+          "pub": "Mon, 09 Nov 2026 22:24:57 GMT",
+          "source": "Yahoo Finance"
         },
         {
           "title": "Rocket Lab (RKLB) Stock Rallies As Q3 Results Stir Growth And Loss Debate - Yahoo Finance",
@@ -179,28 +179,28 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "Rocket Lab and The Trade Desk Are 2 Beaten-Down Stocks to Buy Before 2027 - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNaFdWNS1TOEZGbFhRSVhxVGo2ODRmTU5DcWZVV05sbXVDbDJXaUVUbTlvenlLV1dmLVVTRHhfSlZvcms5dU5SVnFJTzBqRV95MXFaVmlHTExacmV4NlVtdkFLRjZ0dUdtSWdPR1pJMzJfdm9vZGFJY2JlS3dtNF9kZnFpTkRxdk9OWVl1SWpQcnNBa1VKaHpDVzY4MTR4ZWdoOWkwRkp5bHRldzJjWk5qeWI3R1N3czg?oc=5",
-          "pub": "Tue, 10 Nov 2026 19:47:00 GMT",
-          "source": "The Motley Fool"
-        },
-        {
           "title": "Rocket Lab stock slips after revenue beat couldn't offset wider-than-expected loss - Quartz",
           "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5OUjl3VEVqTkVhcHlxU0NTcHl0T2ZrMGJncTZtVldaTHlnTWVfQkNaVXloOVFRSkNnSWM4ZEVoM0xWdXphRjZoR0daeW1rTWk2eW5IMWZFMTlqbG9ENWpldEgxMFpqNEt4cHIzQnlpTTNlT05WWHdJ?oc=5",
           "pub": "Tue, 10 Nov 2026 14:33:23 GMT",
           "source": "Quartz"
+        },
+        {
+          "title": "Rocket Lab Stock Up On Record Revenue, Bear Notes - Schaeffer's Investment Research",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaDExR1ZBcjZNbmE0VWRORlNQbmlRWi1sNG5xUWpjX2lIS1d1MjlRS3hDUkFEcjRRaFIxOTZPaUM0ZnhvZmJaX2E2TU85SkhRWm5vanZEUEowUUtsMWMwWEJBSHkwUzlPdkI2TWRmaXdQWHMwcC1lM0RORThPZlIzZWpUOUhnOUhqNV9GTlMzWE9JdFNueXFoUEpHOXp2b3NUTVhYSE9uWDhocTg?oc=5",
+          "pub": "Tue, 10 Nov 2026 15:37:42 GMT",
+          "source": "Schaeffer's Investment Research"
         }
       ]
     },
     {
       "symbol": "IREN",
       "price": 19.73,
-      "prev_close": 21.40999984741211,
+      "prev_close": 21.639999389648438,
       "high_52w": 70.70700073242188,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": -7.846799903714971,
+      "day_change_pct": -8.826245117927737,
       "drawdown_pct": 72.09611524230154,
       "name": "IREN",
       "news": [
