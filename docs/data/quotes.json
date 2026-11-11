@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-11-11T17:00:53.915452+00:00",
-  "updated_at_display": "2026-11-11 17:00 UTC",
+  "updated_at": "2026-11-11T17:30:38.374256+00:00",
+  "updated_at_display": "2026-11-11 17:30 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 176.7099,
+      "price": 176.275,
       "prev_close": 168.88999938964844,
       "high_52w": 243.37,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 4.630173863823734,
-      "drawdown_pct": 27.390434318116448,
+      "day_change_pct": 4.372668978056855,
+      "drawdown_pct": 27.569133418252044,
       "name": "NVIDIA",
       "news": [
         {
@@ -21,35 +21,35 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "Wall Street is cooling on Jensen Huang's Nvidia — but history says don't give up on the stock just yet - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPcVFOR2J3MVVxbW16U3BQWHZaMzVwUGRMTkY4SUxxbXFvUDFvSldIRk5VMXUwVUE5QUdnbXBMbUVORHVESk5YUVZmUlo2NHZqc1pIUFAwazZnR2xyc0Nvcjl4WnVWX05xQXYzYzRlbnRBX0ZOX0loZ3ptR3NKS2lwN3AxYmNwdFo4Y0UyeFo2R214WUU3VU9OSjdrNGFzekxNSzlPRzNLRW83M3lRbGxpbERCWk5iTHpzOWpKZWloaGJJNjFEa1RqMm1LZ0Jab1lfVW5QME1fY3owdlpCQUxNcF9ETklWeDNfVi1laVNMN2E?oc=5",
-          "pub": "Wed, 11 Nov 2026 15:53:45 GMT",
-          "source": "Yahoo Finance"
+          "title": "Nvidia shares rebound as Jensen Huang faces scrutiny ahead of earnings - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNalRRWWRUS0VHb2Q4Y0dhNFdWY1BzTWlqWG8yOXBwZVJtRlFOck5iZlMzcmJlTHZnRkNaZ0hNUXBrTkptb0xqU3RBSUo5V09ERzlxb095YmRmRHNZaFVYVVhUY0ZxN1E4Q0twdFhLTzA0N0lDTnpXUGl3Szc2eHVUcw?oc=5",
+          "pub": "Wed, 11 Nov 2026 10:03:29 GMT",
+          "source": "CNBC"
+        },
+        {
+          "title": "Teradyne Stock Jumps. Jefferies Sees a $2 Billion Nvidia Opportunity. - Barron's",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNXzgtMGRIazV0X0Vlb2NTRmZCUHZNb2tEU2s5c0tINVJHcEZET2JXXzBiVVdRNDRGdjZNUVNTaG9jYUJxVmhVSlNVSENjRldsMWN5VnQ5THhlR1Jnd3N6MmJJZ1Uyc1RBSDBlaXVGQS0zNEJob2pLcUdfbU1nU0liZjN3?oc=5",
+          "pub": "Wed, 11 Nov 2026 17:14:00 GMT",
+          "source": "Barron's"
         },
         {
           "title": "Nvidia stock rebounds as scrutiny into Huang mounts - The Hill",
           "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9zclVPRXQyaHdmenNtcVpyeTZlcFVPWHRiYXZzb0o3RzVqQm5XQXg3Zm1nWGZQSjhHR3pVSFFlTzNIN2tiZE43akhfbVFPMGNCNkZLRkdfWExoanRMbjdxcFJBQmtUOGt0c1R1Y2Itb2NYZ3hyaXR0atIBfkFVX3lxTE4yeXJtOHVVa05xMUdxZGthaF9obE5lM3FHS0ZwdkFVQXdqQXJKRXY1eGxEeUZiQkVyVDEyNnlPU3ZTeVdWb2k3eUtvZDZROEo4WUVSY2Rrc1ZrTVV0dklfb2NscFpnYk9OMkpHdkRma3EyUjgtYTZCaktmcjlldw?oc=5",
           "pub": "Wed, 11 Nov 2026 16:28:00 GMT",
           "source": "The Hill"
-        },
-        {
-          "title": "Nvidia gets a rare stock downgrade from Wall Street on Jensen Huang pressures - Business Insider",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSUVZRjM0RGdJbW5aYS14Zmp0UUNQS1BmS3RIc21RcU92VS1ob1VtMTZMeS1GQ1VDZ0FyeEZEQ3hBcDVWQ2NTdmhRak1aR2dJV2NFWHNlSERNaHZDUXowU2ZQSHVUTmVvMjJQNXA4czV1Vm10T0drTGFudnRvY1pIb01NQTFLVV95bEN2UlVjdlViNUY0di1jUHVONUdLZkl0?oc=5",
-          "pub": "Wed, 11 Nov 2026 16:50:00 GMT",
-          "source": "Business Insider"
         }
       ]
     },
     {
       "symbol": "META",
-      "price": 641.35,
+      "price": 641.95,
       "prev_close": 641.3900146484375,
       "high_52w": 779.8200073242188,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -0.0062387389144825285,
-      "drawdown_pct": 17.756662566192443,
+      "day_change_pct": 0.08730808693201873,
+      "drawdown_pct": 17.679721734415278,
       "name": "Meta Platforms",
       "news": [
         {
@@ -71,23 +71,23 @@
           "source": "Benzinga"
         },
         {
-          "title": "Meta Stock: Paying 20x Earnings For Advertising, Getting AI For Free (NASDAQ:META) - Seeking Alpha",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPb1lLRXdyTUpxWHBJMldsQlViRUVpcTcyUUF1Z08yWXVhc1M1bjZ5LXpycVBUWUNNNXdMd2FTdWJqU3o3a0ozUlJwTkR2VE1tVmh0dDE2T3ZsZFlpRUJLbzQxbTZSMmZQZzBHSWk5SWdoc3RsNXVMajliMFBWLXRwLVJoRVFIcmJJTklQa2xPbzRWV0s0OC1tanRRcTI3eEFqVWs0?oc=5",
-          "pub": "Wed, 11 Nov 2026 10:05:15 GMT",
-          "source": "Seeking Alpha"
+          "title": "As Meta Platforms Buys Conductor, Here’s How to Play META Stock - Barchart.com",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVUpIUGFQYkEyTllPRTVzMEViaGc3RkZHdG53VnNnZDJVUzhTVG02TDUtanlVODNIVzQxRXpqTXJ2MTdZVnhjZERLcDNxU015ZUVaOWdPSHFONnZYeXN0aE1qS3VvdXdRc1gtZW9OSHVqWXFzYlU3NVJLYjBkemM1MWx1ZUh5VU5yODRpUmZHMWVfcDlxVDJwMXhmX05hUmx6NlM3dFRSQ3o?oc=5",
+          "pub": "Sun, 08 Nov 2026 18:15:02 GMT",
+          "source": "Barchart.com"
         }
       ]
     },
     {
       "symbol": "AVGO",
-      "price": 354.795,
+      "price": 355.48,
       "prev_close": 331.9800109863281,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 6.872398415159845,
-      "drawdown_pct": 28.324242424242417,
+      "day_change_pct": 7.078736139520066,
+      "drawdown_pct": 28.185858585858583,
       "name": "Broadcom",
       "news": [
         {
@@ -97,35 +97,35 @@
           "source": "Benzinga"
         },
         {
-          "title": "NVIDIA Falls 4% as Board Probe of Jensen Huang Weighs on Shares; AMD and Broadcom Gain 3% - 24/7 Wall St.",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQb2s1ekxJVnk0YTFNZ3lIU3VXUk5ScGNGSzVtU2tZRWZkWUdEVVlWV3BDZGdPMy1GZG0tdjdpSUg2bXJReWtrNzkwdWNVM2ZuTEpoMDFURlRyYWRseXI5SGJtakZseVVxekdoRGlidGp3cTlkUEp3MndZSnFVcHp6YWJmaTg1NGQ3SU9YcVFpbEZoWmZrREpZYnNYR2tWMGJQT0syYUlnWGJHcUt4NDdfX24xVHFTc3Q3YjhxSFFwNUswOWFxbU44V053?oc=5",
-          "pub": "Tue, 10 Nov 2026 14:56:00 GMT",
-          "source": "24/7 Wall St."
-        },
-        {
           "title": "NVIDIA Rises 4% Despite Baird Downgrade and Huang Uncertainty; AMD Climbs 5%, Broadcom Gains 4% - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQjhGXzk1WWc5R3RyWExVNld2MWNZY1hKLTFyTDVuTnRobDFXUktfVDYzTTBHNVpMMDEzT1p3bXN6YUlmb0hYSTNVRDNVSmE2dTF6WS1iLWFPOVdSdG1GMjE1LTE3MnBUNlZueHRrdnVzbEtlUWplSks4a2JFLWV3TGhiWDhhN2tSbm84MENGNzhFcnNYZzJvdQ?oc=5",
           "pub": "Wed, 11 Nov 2026 14:05:16 GMT",
           "source": "Yahoo Finance"
         },
         {
-          "title": "Goldman Sees Anthropic Revenue at “$685B by 2030.” Broadcom Is Tied to $161 Billion in Lease Deals - TIKR.com",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOc0xnQWY2eC1COTRiQlh6d0VPdVVwQ05SeWJfZzNXM2RtbHBLaU8zMkFJaXc5ZFpHcXBzb29ZMVRURjFZak5XcEhOaGVOU2dCMnM0a2VkS18tTTlKUVlzZm9md1JLbFFyeVBLVUtOM0h6a05xU1M3ZkJDdE1jclZUajkzZGRVNVVhb3FJMXVIWVJVLUJ5M1RnYnkzcG5IZlNxZnh3YzFKbWtZa1BwSFZaYkQtbkN2M1BSdk1TVw?oc=5",
-          "pub": "Wed, 11 Nov 2026 13:46:06 GMT",
-          "source": "TIKR.com"
+          "title": "Broadcom Stocks Climb 5.18% as Goldman Calls Chips Oversold and Anthropic Stake Lands - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZXhzdG1Id0VPOVc0Ynk1SnE1Qkk3Y3dJWXp5U0FWZkQzT3ZkX0dqQVpGSUVVSHJHcl9UQ25iZ1Y3elIydWpXYl9fRlZjTjBLS3hTOVQyZldjVmxDWVFWWEQybDBQcFNjaXZoOWRyWmNEb1hTN3BMaEUtLUFGMVpSc1RLNFJJeHA2MlNSU19RMVk0WTE0OHc?oc=5",
+          "pub": "Wed, 11 Nov 2026 16:59:20 GMT",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Cramer's Stop Trading: Broadcom - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1kSmpxNElaSmNNM0o0VFpseERYWTRxVTVWZjhTdWdDOTI4VTBxRi1yc3VzcFNmYXlPU2U2bmlQUHhPT0hSdTBpdVNHSll0dU93Q1QzWEdKaEdwNENrWHNGeXdkejlYSHptSlZ5VmZCRmk2UHM3cjBUelBmdjA?oc=5",
+          "pub": "Wed, 11 Nov 2026 11:30:57 GMT",
+          "source": "CNBC"
         }
       ]
     },
     {
       "symbol": "AMD",
-      "price": 556.28,
+      "price": 556.905,
       "prev_close": 515.2100219726562,
       "high_52w": 658.52001953125,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 7.971502159467588,
-      "drawdown_pct": 15.525726857025072,
+      "day_change_pct": 8.092811911480362,
+      "drawdown_pct": 15.430817062111792,
       "name": "AMD",
       "news": [
         {
@@ -147,23 +147,23 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "AMD shares are primed for a comeback, says Oppenheimer - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1CYmI5cjRwNEFyb0VzcTdZb3Fic0Jkck9Cd1RLNURuYVdTWEpDSzktSER6TjBCNlplV3VyRkc1NmZnOThHYnBoZTRibUYwWkNkbktuUGE5d2JLM2pQNW9VdnJ5Rl92WjZ5Z0dobmdTLWdySUFSUDl1REVKdw?oc=5",
-          "pub": "Mon, 09 Nov 2026 11:54:06 GMT",
-          "source": "CNBC"
+          "title": "Why is Advanced Micro Devices stock surging today? By Investing.com - Investing.com UK",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWFh1ZGFjQnVNNmVISlJjb2R5MjFkY0dmaXhGWmpBVkN4Q25xQkh4ZUtQdmk5REV1TzlmSUNwV1pYYWxQdmx0WDRBa1RWWkRXU01EUDZZX1hsV190YVZfUTBnZ1gyOXdfck5zbW50TXFoTFBILWpfc1pzOFE3UVdTOEhNMnoxUy1OWGxoZ0dpaWNCc2t4Um5DR2VIV2FtLVl2VUxDdWNTWWlhbldXSlgw?oc=5",
+          "pub": "Wed, 11 Nov 2026 15:52:00 GMT",
+          "source": "Investing.com UK"
         }
       ]
     },
     {
       "symbol": "RKLB",
-      "price": 67.61,
+      "price": 67.08,
       "prev_close": 62.709999084472656,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 7.813747388078994,
-      "drawdown_pct": 55.2251655629139,
+      "day_change_pct": 6.968587114218884,
+      "drawdown_pct": 55.57615894039735,
       "name": "Rocket Lab",
       "news": [
         {
@@ -173,9 +173,9 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "RKLB Vs. SPCX: Which Space Stock Has More Upside As Rocket Lab’s Iridium Deal Deepens Spectrum Feud? - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTHJvcGxVWDE2SUJpOU94SEJpS1NDOVlFdDg3Vk1PN1hwVkUwaTkyTDNmZ1h4M2tUa3NneDRZXzRCS3htc1Z2M2ZHX2FnRlQ2UEZGcjdNX0dUVmZFa1RteXFMSWx3dGNmRHFNblZHbkFyRUZkWFR3UXg2Sk9Ydl9UOURpRFFxZ2lYQ0c4dWVoTmRmNUk?oc=5",
-          "pub": "Wed, 11 Nov 2026 04:47:06 GMT",
+          "title": "Cathie Wood Just Bought $3.4 Million of This Surging Space Stock - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPc0JDalVia2xNRjlqaVVXM3JqYzAwcV9tRXJlQ2M1WGJNeHFoU2VtWWpOZU85dXpCaWNlRjhkRklnTmhrSFd1M201ZDVFdWFpR3AtVDJ5NTFySWlCUEVKdndpQTRIWHlMcjF2SERkc0E4SVlva1J6NHpFZk55RXJ5Ynpwd0szODU0c29XZEQ5LVZVUTRt?oc=5",
+          "pub": "Wed, 11 Nov 2026 11:13:22 GMT",
           "source": "Yahoo Finance"
         },
         {
@@ -194,33 +194,33 @@
     },
     {
       "symbol": "IREN",
-      "price": 21.31,
+      "price": 21.15,
       "prev_close": 19.729999542236328,
       "high_52w": 70.70700073242188,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": 8.008111983892032,
-      "drawdown_pct": 69.86154160230339,
+      "day_change_pct": 7.197164169841224,
+      "drawdown_pct": 70.08782754053105,
       "name": "IREN",
       "news": [
         {
-          "title": "IREN Stock Falls Even as JPMorgan Goes Bullish - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZy1wM0d5TGFHNTBnYzlGWkZURFZVNV9EVEpkRFZVd25PU1BOMzJ1eGlFWVByVVo5RlhfZTBTN1ZiVTBVTjE3Z0dIQ1A4REZhZ1A4T3dwTGxxb2hwaUhzRkNXY1Y1TEljWDFwcHpJQ29zZy11RXpHdkJFXzV0TU5rTHhJSURVOUNsbC1GalZvcXRON0NfcjhPUHFtWQ?oc=5",
-          "pub": "Tue, 10 Nov 2026 22:44:57 GMT",
+          "title": "Applied Digital Rallies 8% as CoreWeave’s Results Revive the AI Data Center Trade; Cipher Digital Jumps 10%, IREN Surges 9% - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSGF4aV9BQ1pPLTFLTC01X2c0U1BwQnpYWXJzZ0k5bkl1UTFwU3hkVHRGNzVBNFN1Qk96R2RBNE1KWWEySjdlNW5PRFdWVXUzcUw0OTRMTzV0R0xFangwS1dYR3liSWZFdHZlWTd3Vk8welJHdkJ0TGdoSlJEbEt5R3MxRDk1ZGdUbWFERGRuR2ptZjB2clNsSzU1VnFvamI3?oc=5",
+          "pub": "Wed, 11 Nov 2026 16:56:16 GMT",
           "source": "Yahoo Finance"
-        },
-        {
-          "title": "Massive News for CoreWeave, Nebius, IREN, and Applied Digital Stock Investors - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPT0YzdUhxSC1uNk5YN0Y1QnFLYTFaOTRwUW5jd1pyb3JQektQVkJ4RlNHQjhjdGNFY2pJTzNJUkVRam10OERUcFFMbTlkdkVWZHlRN04yQ1hVbHdRd1hDUUlnalM4QlBINVJEb2JGR1JyMGhGeHFDMmNQc1I3dTkxal80ZkQ2RXVPYThtV0dqNXJsRlZPYlhOak9lQnBtUmtoT255alNpUUtoSUQ4cERMNkZXOWdFV0FC?oc=5",
-          "pub": "Tue, 10 Nov 2026 12:30:00 GMT",
-          "source": "The Motley Fool"
         },
         {
           "title": "IREN: This Is A Great Time To Go All-In (NASDAQ:IREN) - Seeking Alpha",
           "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOUZkay1sZ2RFQUFJRUU4Tmc5c3Z0V3J1S3d0NXNkQkRRRUEtVVRDVFVpYnQzbmRiZW9wY1pjX194NUFaeHBqNXRzbkVydnpSREhZY011VVZTaUU0UkdDZDVqREtFNzh3YzZfRG90RkhIUFpPMW1ORFJhcVI4dHR0NzUyZThGZw?oc=5",
           "pub": "Mon, 09 Nov 2026 19:38:49 GMT",
           "source": "Seeking Alpha"
+        },
+        {
+          "title": "Massive News for CoreWeave, Nebius, IREN, and Applied Digital Stock Investors - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPT0YzdUhxSC1uNk5YN0Y1QnFLYTFaOTRwUW5jd1pyb3JQektQVkJ4RlNHQjhjdGNFY2pJTzNJUkVRam10OERUcFFMbTlkdkVWZHlRN04yQ1hVbHdRd1hDUUlnalM4QlBINVJEb2JGR1JyMGhGeHFDMmNQc1I3dTkxal80ZkQ2RXVPYThtV0dqNXJsRlZPYlhOak9lQnBtUmtoT255alNpUUtoSUQ4cERMNkZXOWdFV0FC?oc=5",
+          "pub": "Tue, 10 Nov 2026 12:30:00 GMT",
+          "source": "The Motley Fool"
         },
         {
           "title": "IREN Sinks 10% as Analyst Target Cuts Pile Up After Microsoft Delay; Cipher Digital Falls 6%, TeraWulf Slides 2% - 24/7 Wall St.",
