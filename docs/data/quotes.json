@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-12T08:30:37.913584+00:00",
-  "updated_at_display": "2026-11-12 08:30 UTC",
+  "updated_at": "2026-11-12T09:00:43.679350+00:00",
+  "updated_at_display": "2026-11-12 09:00 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
@@ -21,10 +21,10 @@
           "source": "Barron's"
         },
         {
-          "title": "Nvidia's stock dives as chipmaker's board weighs move to oust CEO Jensen Huang - CBS News",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQV0ppMjd4Z0pxWkJVRnlaSXNZWUd6Nmd3TC0tWEVLYmp1Z3hmWVFhY2VnRS1Da0U5eXJTdnhtRHNkdTR4bFlDc21UTzctUTNodll1NlJITU81WG1jSVNmV1FVVllJZGlJcWVaSl9LS1A4N3FZeGZ6THVPbTZCOWRaSUFyMzJoaTdZNEh0Vmt3eTd0Zw?oc=5",
-          "pub": "Wed, 11 Nov 2026 23:20:00 GMT",
-          "source": "CBS News"
+          "title": "Why Nvidia Stock Rose Despite Calls for CEO Jensen Huang to Step Down - Barron's",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1UZzI1WVJLZk1fSkxrcWZvOHhNRm5YTWp6bkxqOFN0ZjBTVkJBd2w2dG92eXY5U21SZUdYLU1vQjFRcHpyNkpmTTRYSUdFeWNVZVJmaVpGdWFqNzJhYWtPYzZ2U1lrQWZDZ3BMdFZXTUFKR2hRbURCbEln?oc=5",
+          "pub": "Wed, 11 Nov 2026 21:35:00 GMT",
+          "source": "Barron's"
         },
         {
           "title": "Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him - The New York Times",
@@ -232,26 +232,26 @@
     },
     {
       "symbol": "MILDEF.ST",
-      "price": 241.3,
-      "prev_close": 258.70001220703125,
+      "price": 236.2,
+      "prev_close": 243.10000610351562,
       "high_52w": 266.6000061035156,
       "currency": "SEK",
       "yahoo_name": "Mildef Group AB",
       "exchange": "Stockholm",
-      "day_change_pct": -6.725941780438123,
-      "drawdown_pct": 9.489874540247428,
+      "day_change_pct": -2.838340571895136,
+      "drawdown_pct": 11.40285274101303,
       "name": "MilDef Group",
       "news": [
+        {
+          "title": "Mildef Group AB (8QA.HA) latest stock news and headlines - Yahoo Finance UK",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9yOVhiajNoZFFSb0xER2RmOGJ4R2RoTGRHVlhvQm00TndBNEh1THhnUnZJOENTYUpLdG1JOHE4dEhFYnpsVEVJWF9PaXRPMjExczRwRlVFTFFWRzg?oc=5",
+          "pub": "Tue, 10 Nov 2026 23:21:58 GMT",
+          "source": "Yahoo Finance UK"
+        },
         {
           "title": "Mildef Group AB (8QA.HA) latest stock news and headlines - Yahoo Finance Australia",
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBSZjdBdlBXYWlqM0dvMWZJb2FjcFZhTEJoMUk5M1d5VWNSMWNCQ2RVcWVNTWFZZThHMG9tSzhtdGZJa3hqZlZUbzNrQVcwYUhBY191endQRzBoQm8?oc=5",
           "pub": "Tue, 10 Nov 2026 22:26:53 GMT",
-          "source": "Yahoo Finance Australia"
-        },
-        {
-          "title": "Mildef Group AB (8QA.HA) interactive stock chart - Yahoo Finance Australia",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5CaHhFczBHc3FwcG4yaVpHbmZIYmhPcklNLWVHYkZpWlFMSG9aQ1hoTUZScU1pWXNUVG9OQ2RoaktDUEtIYi1ncm5NSl9rSE1lVGsxRVpLS1dCSDhn?oc=5",
-          "pub": "Tue, 10 Nov 2026 23:24:34 GMT",
           "source": "Yahoo Finance Australia"
         },
         {
@@ -270,14 +270,14 @@
     },
     {
       "symbol": "IVSO.ST",
-      "price": 207.2,
-      "prev_close": 218.60000610351562,
+      "price": 206.0,
+      "prev_close": 208.60000610351562,
       "high_52w": 332.0,
       "currency": "SEK",
       "yahoo_name": "INVISIO AB",
       "exchange": "Stockholm",
-      "day_change_pct": -5.215007221050712,
-      "drawdown_pct": 37.59036144578314,
+      "day_change_pct": -1.2464074915824301,
+      "drawdown_pct": 37.95180722891566,
       "name": "Invisio",
       "news": [
         {
@@ -308,14 +308,14 @@
     },
     {
       "symbol": "NORBT.OL",
-      "price": 178.2,
-      "prev_close": 168.8000030517578,
+      "price": 178.5,
+      "prev_close": 163.6999969482422,
       "high_52w": 244.8000030517578,
       "currency": "NOK",
       "yahoo_name": "NORBIT",
       "exchange": "Oslo",
-      "day_change_pct": 5.568718470555909,
-      "drawdown_pct": 27.20588326041673,
+      "day_change_pct": 9.040930560577348,
+      "drawdown_pct": 27.08333424233662,
       "name": "Norbit ASA",
       "news": [
         {
@@ -337,10 +337,10 @@
           "source": "TradingView"
         },
         {
-          "title": "NORBIT Q3 2026 slides: revenue surges 34% on defense, tolling wins - Investing.com UK",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQb2R0YUVOTm9hbUpUbmp5cDJheTY1WUdaVkYxQWpVVndLNGNjUVJXNmg4TGZnYU10akdXdlRpSnlydlZWYnp0WHhkUS03dllhbmVVSEtfNVRiTk1KOXRaUHN2c3JxWkMzbGFJOHpKUTBYU3BUS294YkNJdHJJN1JBQnpwZFBWSThHWm9mcjBWTW9qVlBiU3VMa1VLUzhwQmcwR2hWVnhwYXJQdHVEWmJMbXp0b1Q5eE43NFI2aVpxVElIQQ?oc=5",
-          "pub": "Thu, 12 Nov 2026 08:22:00 GMT",
-          "source": "Investing.com UK"
+          "title": "NORBIT Q3 2026 slides: revenue surges 34% on defense, tolling wins - Investing.com Canada",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdkpuQkN5SzdhZUtZVWlINUc2U3ltN1dUT0JSVElSU3l2U0kxNnpzRHpiQXJ2djI3cHZtR2M1NEwzUVdkdzNBX0dZWmg3QVhUZXc0d3hPQ1dEd05SX2NjVzM1Y2hqSV85bGdxUl9jcnBQb2pyaVZGcm1qRm1Denl5Q0NFLXBCR2ctN1pRNFpqRmFOU3Y1b0JWU0FSWXFJTUdXZEdKcEFpSzctd0Q3Z25fRUs4TzcyeUxlZHBMTk9qbEJTZw?oc=5",
+          "pub": "Thu, 12 Nov 2026 08:34:23 GMT",
+          "source": "Investing.com Canada"
         }
       ]
     }
