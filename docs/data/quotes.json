@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-11-12T20:00:44.181338+00:00",
-  "updated_at_display": "2026-11-12 20:00 UTC",
+  "updated_at": "2026-11-12T20:30:37.237419+00:00",
+  "updated_at_display": "2026-11-12 20:30 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 164.348,
+      "price": 163.76,
       "prev_close": 173.72999572753906,
       "high_52w": 243.37,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -5.4003315249330015,
-      "drawdown_pct": 32.46990179561983,
+      "day_change_pct": -5.73878775843351,
+      "drawdown_pct": 32.71150922463739,
       "name": "NVIDIA",
       "news": [
         {
@@ -27,29 +27,29 @@
           "source": "WSJ"
         },
         {
-          "title": "Nvidia stock pares morning losses after CEO Jensen Huang announces resignation - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVFBOVnFZT1F2M3oteUktWm1qb29oLW5DLW9MZ2pBRzhEenlNZWFERC1NRXJlSV9saDN5MmNRZzdzQm0xQ0hWSzVpSktBSy00aDZlUTcyQzd2Vmlia1F1UTlEdE11anNMVE10RDNEVlc4cUlMcW5CRlpxaWFEbDh2Mg?oc=5",
-          "pub": "Thu, 12 Nov 2026 09:02:10 GMT",
-          "source": "CNBC"
+          "title": "Nvidia live updates: Following Jensen Huang's resignation as CEO, allegations of a third affair emerge - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNUjN6ZHpwVTN4R3loaDYzLThpNnhsUmY5NGoxLWJIaG5WSWlSNE5iVi1OS0RxNnpZNUFDLWhXWUY0TDZ3UUlpYThqWFc3SlhRV185N2RGNmFpYjlGWUg5TUVWNzhEUkF6TVdxbGVLN3VGc19xZHM4QjQ4eWkwZUxGaXB6LXBydzloUHpySXpWZ0NVSHh4VWtuSWtidnBJNEZYem96el9VOXVVZmVvWGVQNEJlb1RKdkVqWUNhY2hyT2VuZjZIdWd4TVNhT1VhY0NRWWV0VHVsZjlwS3pGdkxLLUJJS0JtNDJxaFVzNQ?oc=5",
+          "pub": "Thu, 12 Nov 2026 19:57:54 GMT",
+          "source": "Yahoo Finance"
         },
         {
-          "title": "Nvidia's stock sinks after CEO Jensen Huang’s resignation — live updates - MarketWatch",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZ0pLZEJtbkdwOG9XNncyYy0tX3VTcmx0VVdGeDZURkhHU3ozS2kwOG1QOUt3cXo1NmZpdi1fdDhBc1lWVkRSaUZpaS05WS1WVkpDSXNOVk5lVGpad3RNRlQ2QzZId3pBUVVodElrNC16MlZYQzJ2c0J6QlVvTHIxVEN3?oc=5",
-          "pub": "Thu, 12 Nov 2026 19:35:00 GMT",
-          "source": "MarketWatch"
+          "title": "Wall Street shakes following swings for Nvidia and oil prices but recovers most of its early losses - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVFFiZmRWVmxZNDlVRnR1NHVQNkprRUhWMnNLMHFLWC1qdGljTm9ON2Z3U2FuXzNUcjRwRmNqMFZVemE4TVA1RVhRdl9paUtyMXJoYWhHbVl5d1FfNWZIZTVVU0IwcDQ0eHlnWGxxWEFhZjdkVko1a1hwY25XWE9uc3Q0MkIyaHpCWkNuZk05SGs1ck5DTFV4ZktQNWo?oc=5",
+          "pub": "Thu, 12 Nov 2026 20:17:00 GMT",
+          "source": "AP News"
         }
       ]
     },
     {
       "symbol": "META",
-      "price": 621.846,
+      "price": 621.11,
       "prev_close": 628.77001953125,
       "high_52w": 779.8200073242188,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -1.101200648277072,
-      "drawdown_pct": 20.25775253782881,
+      "day_change_pct": -1.218254575331145,
+      "drawdown_pct": 20.352133291475464,
       "name": "Meta Platforms",
       "news": [
         {
@@ -80,14 +80,14 @@
     },
     {
       "symbol": "AVGO",
-      "price": 363.68,
+      "price": 361.35,
       "prev_close": 345.2200012207031,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 5.3473143832982,
-      "drawdown_pct": 26.52929292929293,
+      "day_change_pct": 4.672382458218231,
+      "drawdown_pct": 26.999999999999996,
       "name": "Broadcom",
       "news": [
         {
@@ -97,35 +97,35 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "What Does The Anthropic IPO Mean For Broadcom Stock? - Trefis",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObE9Hcm5TWkh4aUExY0lHX3lHc01ER2hueDJGcXFaOXlxaTU0eW00OWdTUm51UWpNNUlRXzN5bGNsZ3NBQVVhNVlaMEVfbHVnRlVLWGxpZElSVjVPX3lHcXQ3Y2ZYTWxXZWtNVGt4SXhMYVlhR1MxNmJsT05TSFFfc2RGUDBIY1dkOUtua01JUVZ5Q0dvajVxTm9rYXZfVU1ZalRTeVg4UWdhdVhVSUczeDVB?oc=5",
-          "pub": "Thu, 12 Nov 2026 11:25:22 GMT",
-          "source": "Trefis"
+          "title": "AMD and Broadcom Stock Get a Boost From Nvidia’s Loss - Barron's",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMGJPR1pTTlRRSUZBTFNIZTZCd1JYRHltdEx2N2F3OVpvRzRDbFZ2UWlhR01SLWZadTlKNnRjbi1sQU5RazZKaDdReWZmdHhqOEVuemFRTlQ3dWk5SUt2RnMtTU1CcTlDbGctMWZGLUhNREtPNXNnZXNNRUJwQkpMQTVB?oc=5",
+          "pub": "Thu, 12 Nov 2026 18:02:00 GMT",
+          "source": "Barron's"
         },
         {
-          "title": "Should You Buy Broadcom Stock Instead of Qualcomm Stock? - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOUNzSWdORFlDVmNZMmhOa3JDMERYRURseUJZME4yd0o3UE1LYV95SEd0ZFlfVC1tVVBoalltX3JqRi1UYTAtWk4wR3lXNFBlMGNFcVF2RXVwOUkydExaYlgwOWZJQXFHTjJQX1FVWXQyMllUUWh1aTNMWkxoMmN5cjBpQnlsblZ5MnVGeDh1ZlEwSThMVlYwMy1LRUlJWmc?oc=5",
-          "pub": "Thu, 12 Nov 2026 12:05:00 GMT",
-          "source": "The Motley Fool"
+          "title": "Why Broadcom Stock Rallied Thursday Morning - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOFZWQmJnUkNJZ2I2SWZuR0VEZlRwMTR1dHl5N2hkSEpXSFJFMkc0QTZHOHJtSjVnMTVlNjJMY0pZbGZaaXJIajlZRGQ2RlB5eFR1VEF6RWlXX2ZPTVJxVUtveEpNR044Vm1qVm4xaXdWYkZPck85YVFJMXVGTG1nZnRFNm56cVEtcDVRVnhoa2VJcFJIMkZsaDBadEp5MU05cWc?oc=5",
+          "pub": "Thu, 12 Nov 2026 20:07:32 GMT",
+          "source": "Yahoo Finance"
         },
         {
-          "title": "Jensen Huang Just Resigned From Nvidia. If You Have $5,000, These Are the 3 Tech Stocks to Buy - 24/7 Wall St.",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdWlPa2h0eS1BMjZfb2x3QVhJZ1RfbVFxMGxBelN0UlFoRXhMb2dDM2d2eHZKLWV4bHJqal9ZeWJvaUwyUy1xcE94VzBGNmN2SDA2Tnc3Zm5NSlhqQjNtTGkxZnVxeGFRYXN4eHgzRXZGcm5TSHhoSUs2QlBSbGVrZ19CUmZmQV9GSkh5WTQwXzNGWEpkcTNLUXFYeUo4Q1NpcF9VcHJXUWkxRnBIWVFrR0VBbDYzemxsclBwUE9IS3hzSUIwZkQzdlpR?oc=5",
-          "pub": "Thu, 12 Nov 2026 15:17:00 GMT",
-          "source": "24/7 Wall St."
+          "title": "Stocks to Watch: Nvidia, Broadcom, Micron - WSJ",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPa2RadVFZalFKMm1jUnlVR3puTnlqUV83V3d0YnN0RkFfN01fUUJQVG5MSHhvdnBPOHo2NllGUTlHdkpIbVYxcVlTTS1QRzZsdDFwemVscHA1WGtKdGZqQWhaUTAyT0RNSXBOVVZYVnQxSHNUbzdjWWtWdnFlRjF2ajFNb3FMRzRCbTJJOGU5M0xXVTFRcHlTbWd0YV8tN2FQSnFqSS1IYWFtZlhkU1FndnVybkc3RndfMjd6aHgxU3hzQUhaN1dKWDFnd2VXMkNBakpDOXhmUUtkTDFSRXc?oc=5",
+          "pub": "Thu, 12 Nov 2026 11:21:42 GMT",
+          "source": "WSJ"
         }
       ]
     },
     {
       "symbol": "AMD",
-      "price": 585.75,
+      "price": 582.255,
       "prev_close": 552.9000244140625,
       "high_52w": 658.52001953125,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 5.941395213492776,
-      "drawdown_pct": 11.050540207274095,
+      "day_change_pct": 5.309273700439157,
+      "drawdown_pct": 11.581275780429156,
       "name": "AMD",
       "news": [
         {
@@ -141,29 +141,29 @@
           "source": "Investor's Business Daily"
         },
         {
-          "title": "Why AMD Shares Are Surging and What a $10,000 Investment in the Stock Could Be Worth in 3 Years - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxObzh5UGl4cjhpRTFJdGJCa3h6NlFER25XZE9FeXVrRFA2dW9QZ3B1MkZBN0NEYTU4d2lJRmF2Q1FobHJuVDZlbzJJT2dGQjJOT0M2STF1NDNhaElxS1JQSURMMFFBVXlRdFhwNDJJVFEzNUhibnRTcjA4c0F6WGNSbUZ5bEJNUnp0dnd1YmdzUUxSbDY4Y1JJNXB6ZUw3amQ0WklsVWtTbEJwQUFjd1A0Ukc5ZU5qZ1l4cHhBSjF0RzBPRnZldXhDUkNlZzRMQ0I1Rkp3azlPOA?oc=5",
-          "pub": "Thu, 12 Nov 2026 18:04:00 GMT",
-          "source": "The Motley Fool"
+          "title": "‘No family dinners’: AMD boss Lisa Su is Jensen Huang’s cousin — with Nvidia on the ropes, is this her time to shine? - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYlRDZkI0b0dBUUxRcXluM0R5eHdJdGp5Z1hkSmRtYU5TZnFUZ1djUFpoaEx2TndXczlrcGFWQy12RWRBR1A3NjJyRHNfbzRLNEZDUDRpVXdEMldrdHZrb216ZEZHOWtKcU5xZmctYWk4b0pWSmJEa2xsX196VDh5QnZiTk9QZi1Yd3R0MVE3VHlSSFc3a0E?oc=5",
+          "pub": "Thu, 12 Nov 2026 13:45:00 GMT",
+          "source": "Yahoo Finance"
         },
         {
-          "title": "AMD Stock Rallies as Jensen Huang Leaves Nvidia - Advanced Micro Devices (NASDAQ:AMD) - Benzinga",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcmxESl9XeVB0ZHFqWVpNX0RyZlhIMDV2aE1EQ043SUN1MVpQUFpvRzB3MGRNUFZENEhwUmpjOXZMVlZudTNMSGpLWVpoRmhVTl9fU3JYM0tpSFdxa0xZTHdzcWNHdWlFbi13cnREVC1TN3lyM2VJcDI0QlRaSDExbFdxU0pqNkc5RlVXR1lPMXFXTFpPMzhWZjk0dmxmSkxfRFZuY28zYzIxUk1NcnpNbHluVGxXcmVF?oc=5",
-          "pub": "Thu, 12 Nov 2026 15:22:25 GMT",
-          "source": "Benzinga"
+          "title": "AMD upgraded because it will benefit from Nvidia's 'leadership vacuum' - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbVhXYllGX18xWDVaQV84dXBzeDRMYU9XRFJhYXpHa3Y1blVUVnZkTUlTZ2Z3dlk3ZDhXaHZJX3VLaXQ3bGtlOG43cWRjR2F3WVVxaE9nMUpZTlhvNl9TTl94TVBSMFJ2c3ZoQjU2MHhtOC1aMVZxeXlkdjYzbjh6aDNnaUlydDJlMk9HdnNBNGVNVUppU3J6cmRWVndKNkZVWEdtN1dLZw?oc=5",
+          "pub": "Thu, 12 Nov 2026 13:56:56 GMT",
+          "source": "CNBC"
         }
       ]
     },
     {
       "symbol": "RKLB",
-      "price": 64.77,
+      "price": 64.51,
       "prev_close": 66.1500015258789,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -2.0861700590271828,
-      "drawdown_pct": 57.105960264900666,
+      "day_change_pct": -2.4792161572926146,
+      "drawdown_pct": 57.27814569536424,
       "name": "Rocket Lab",
       "news": [
         {
@@ -194,14 +194,14 @@
     },
     {
       "symbol": "IREN",
-      "price": 19.13,
+      "price": 18.99,
       "prev_close": 20.84000015258789,
       "high_52w": 70.70700073242188,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": -8.20537495233917,
-      "drawdown_pct": 72.94468751065529,
+      "day_change_pct": -8.877159976211233,
+      "drawdown_pct": 73.14268770660449,
       "name": "IREN",
       "news": [
         {
@@ -325,10 +325,10 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "Earnings call transcript: Norbit Q3 2026 revenue jumps 34% as stock rises 8% - Investing.com",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOU1JXV0QwZDc0UEx2ck9hd0dZZmNvSWppWFd6QlBudDMtU1dvcjFxTnRFbTNqZ3JraGFrUksxNjluWE8tOWg4bk9EYTdRNDR6dkxKVVBKUHFFazA4SmRBVVNiVkNJYjBRMUxTcUcxTUtzd0Zja2tWSnYxTlp3Y2ZUNGhrNkNxeEktcmozU0h4c1lyUzltdGRSYlQ1V0tMWGEtMUctUHRidUdDTlB3SUFiYmVjMmpqZ2t0TUJTNTBkQmtCQ2dPOW96RQ?oc=5",
-          "pub": "Thu, 12 Nov 2026 08:27:59 GMT",
-          "source": "Investing.com"
+          "title": "Earnings call transcript: Norbit Q3 2026 revenue jumps 34% as stock rises 8% - Investing.com UK",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOYTRndFR3YkpURzBxWHpZWXFwbUp5SGlzU0NuWm92a3RFM1ZMU21zTzJ6aWRUQUVCUlpBVmJmemRHT3RFbzJ2dnAtTURISmZ5TGlNRzdGUTlYVGt0cnNPSml2V1N3VkVJd3c4M29zeU9LOHN5d0swV0hNWVNBQThWQW1Wd1NCZkh1b0FTQzc4Xy10dkNvS2ZzYU1qVVFMVlp5Rk9xaWdsbHRyU1VmcVpJZE1jNmdBQjhLQ1Z1WHd6M21ZYzNvdkRXbnhDZnhIYXc?oc=5",
+          "pub": "Thu, 12 Nov 2026 08:10:00 GMT",
+          "source": "Investing.com UK"
         },
         {
           "title": "NORBT Forecast — Price Target — Prediction for 2027 - TradingView",
@@ -337,10 +337,10 @@
           "source": "TradingView"
         },
         {
-          "title": "NORBIT - Shares of NORBIT ASA trading ex-dividend of NOK 5.00 today - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPR1kwRWtEbUplNkg3VWl5VmUtazlTZFpsb1U3MzdnLWpNNEVoUDY4b0tzOE9aUnpiTFZremRyMjJYVUc2YWVOVjdrRHdjS0x6SVBQYzE5dXZFOVBlTFJOeF9NTk1MQm9kRW1IZF8wR0tDLWs1NENKNzR2SGczR181S2NnYlY4a3lyb3RJUkt0a21MN2JCMy00M2VqV0JQdw?oc=5",
-          "pub": "Wed, 20 May 2026 07:00:00 GMT",
-          "source": "Yahoo Finance"
+          "title": "NORBIT Q3 2026 slides: revenue surges 34% on defense, tolling wins - Investing.com Canada",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdkpuQkN5SzdhZUtZVWlINUc2U3ltN1dUT0JSVElSU3l2U0kxNnpzRHpiQXJ2djI3cHZtR2M1NEwzUVdkdzNBX0dZWmg3QVhUZXc0d3hPQ1dEd05SX2NjVzM1Y2hqSV85bGdxUl9jcnBQb2pyaVZGcm1qRm1Denl5Q0NFLXBCR2ctN1pRNFpqRmFOU3Y1b0JWU0FSWXFJTUdXZEdKcEFpSzctd0Q3Z25fRUs4TzcyeUxlZHBMTk9qbEJTZw?oc=5",
+          "pub": "Thu, 12 Nov 2026 09:09:34 GMT",
+          "source": "Investing.com Canada"
         }
       ]
     }
