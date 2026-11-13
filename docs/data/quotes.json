@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-11-13T14:00:43.684657+00:00",
-  "updated_at_display": "2026-11-13 14:00 UTC",
+  "updated_at": "2026-11-13T14:30:38.576139+00:00",
+  "updated_at_display": "2026-11-13 14:30 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 166.19,
-      "prev_close": 173.72999572753906,
+      "price": 170.0,
+      "prev_close": 166.19000244140625,
       "high_52w": 243.37,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -4.340065568967174,
-      "drawdown_pct": 31.713029543493448,
+      "day_change_pct": 2.292555209472991,
+      "drawdown_pct": 30.147512018736904,
       "name": "NVIDIA",
       "news": [
         {
@@ -29,27 +29,27 @@
         {
           "title": "Stocks making the biggest moves premarket: Microsoft, Nvidia, Cerebras & more - CNBC",
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONGpzZlFyYTRrZm9kc1N2dFNQd0tfV2g3YXhpSDBqdlRnREpDcGVxQlpDc0hraVZQc251RjltY3JOTlRaU2p4MHdFZlpsVTNKUUJDX05UX1VseGlBekZROUVZRmFtUU9jQ0duM3pneE5wYVZ2bFA2eFVKam5HWDA2Qks4QzPSAYoBQVVfeXFMTUdRRVhGQ2IxWXE4ZHlzT0o0N05faGJaSFRJM1BOVW5kY2FZbEJ5c05jY2RSY0dmNTVKY2RSWENCdXVmcDNxcEttTjkzemNNUmNxZERDaThrTDZxMm9IeE1PcHR0cUFmMU9KYl9oelZkQlJGWW5BM1FkR3ZEa1RHQ3poTUlBUXlpNk13?oc=5",
-          "pub": "Fri, 13 Nov 2026 12:22:00 GMT",
+          "pub": "Fri, 13 Nov 2026 12:49:00 GMT",
           "source": "CNBC"
         },
         {
-          "title": "OK who just made $200mn shorting Nvidia ahead of Jensxit? - Financial Times",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5oY3E0Rmw1YmVIX0RQTnBVRndDZDJTOVI4NVBRR2ljeURhS1FrZl9hbS1iOTQxOTVueVI4dG8waE5xZE1uMHc0VFJETzRTMXJfZnE2bEREeU93cGp6MW15SE0zeWlpMG5JaDRUTmlKMkc?oc=5",
-          "pub": "Fri, 13 Nov 2026 11:29:14 GMT",
-          "source": "Financial Times"
+          "title": "Stock Market Today: Nvidia Set to Recoup Some Losses After Huang's Exit — Live Updates - WSJ",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOG9vVjRkb0hxUE1ybFptSEtacTBMTjBOOFBETTU3TkJ1YlVvbkoxN1BnR3hmRDZHZzdZZURNY0pwZTFCb1pzRXFaQzJMZnB0ZGxXRF9SODZxOXZ0SktNUDBNX1BFOUcxaDlPcGlIeGM1M2Z6VkN3V1g3YnN3QmFHQlJYaFRtLTA?oc=5",
+          "pub": "Fri, 13 Nov 2026 13:43:00 GMT",
+          "source": "WSJ"
         }
       ]
     },
     {
       "symbol": "META",
-      "price": 623.61,
-      "prev_close": 628.77001953125,
+      "price": 625.75,
+      "prev_close": 623.6099853515625,
       "high_52w": 779.8200073242188,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -0.820652920935511,
-      "drawdown_pct": 20.031546492403944,
+      "day_change_pct": 0.3431655519805473,
+      "drawdown_pct": 19.757124192398727,
       "name": "Meta Platforms",
       "news": [
         {
@@ -80,14 +80,14 @@
     },
     {
       "symbol": "AVGO",
-      "price": 364.36,
-      "prev_close": 345.2200012207031,
+      "price": 355.675,
+      "prev_close": 364.3599853515625,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 5.544290224094075,
-      "drawdown_pct": 26.39191919191919,
+      "day_change_pct": -2.38362764867897,
+      "drawdown_pct": 28.146464646464644,
       "name": "Broadcom",
       "news": [
         {
@@ -118,14 +118,14 @@
     },
     {
       "symbol": "AMD",
-      "price": 585.3,
-      "prev_close": 552.9000244140625,
+      "price": 567.9,
+      "prev_close": 585.2999877929688,
       "high_52w": 658.52001953125,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 5.86000617747728,
-      "drawdown_pct": 11.118875259611663,
+      "day_change_pct": -2.9728324202739373,
+      "drawdown_pct": 13.761163949997371,
       "name": "AMD",
       "news": [
         {
@@ -156,28 +156,16 @@
     },
     {
       "symbol": "RKLB",
-      "price": 64.07,
-      "prev_close": 66.1500015258789,
+      "price": 63.89,
+      "prev_close": 64.06999969482422,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -3.1443710928187723,
-      "drawdown_pct": 57.56953642384106,
+      "day_change_pct": -0.28094224392318695,
+      "drawdown_pct": 57.688741721854306,
       "name": "Rocket Lab",
       "news": [
-        {
-          "title": "‘Before It Even Flies,’ Says Top Investor About Rocket Lab Stock - TipRanks",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbWM1T3JnbmEwNXNWSklDZnVRblNIMzZmWnRVN0tJMlRCVGRSZjNFNVpfRW5PUFJuOW9pdDNLRFgtODJvNl90UkVuRDFDYlNQU2x1X1NQdGhoamJYOFl0QkwtZFBzY1NFbzdqNjliZmRGTzFLR1RfTW1zbDRWQzctVTdLb2hzRHlqMFJubTl3OFFnaHE4SmFzOUZLNWd1UXJ1?oc=5",
-          "pub": "Thu, 12 Nov 2026 15:16:37 GMT",
-          "source": "TipRanks"
-        },
-        {
-          "title": "What Has Sent Rocket Lab Stock Lower Since May? - Trefis",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQlNwX1YwMXpfYjlJNU50UWx1c3ZuVDdNQjNpNkstMXhCekhBQ01UbURhUXY0NWZRa0JOZ1poaWpkdVFSdTZ0LVQtT25wV2ktalJ5VnFIclNaRkx1ZlByYTNJaFc5X3lnZ1hMaEx6Z3p4UEk4X25XMzdRMTlnbkVPNXQ2cWk4Z2EySU8zWlF2UnpvSmlha2RBWDYxdC01dWg2SzJ2aURYZktqcVU?oc=5",
-          "pub": "Fri, 13 Nov 2026 10:50:27 GMT",
-          "source": "Trefis"
-        },
         {
           "title": "The Honeymoon Is Over Between Rocket Lab and Its Investors - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeWRTYnhCU214TVJUcWEtNUVISkdsUF9tb25XUEgtbjNRQ04wbzBDS3dTSFhpZTNYUTJJVHFiSmNZTXJvbzQ1N0VfUUZVM2VVUFc5N2dCVllod0pZcW1zRE5VaHg4NUVMa2VLNmhBQl81dWdwcURtWWNTcEJ6b05haUQySld4ckpseks3cGVTTTJOcUtOcFhBaW5IWndHOVU?oc=5",
@@ -189,19 +177,31 @@
           "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPdllkUnVmblRjcjhYbUE1UlR5R25hTlRzelY1YXgycEpNeVBFZk44Ylc1UDVzR3FiR0pSVk5raGFpbG1Sc0pvUk5iVG04SE11MUk0Y2MtR3RmNU5WWk9fU0pnbFowQ2xXRVg4aFo0cjZocEF1UlZ3Tmt0QnFrMlVjb3NzQWZjUDNhQmVJZVdKTHdQZWFiTE5lcHJyb1JtQkpOd2NJZTRVV2Nqd25Mb3NsU3c5djlrNG9XVV9NYVBhQ3BlUDhELUVoSnd3ZE95dGZwWUNJRlpyUnVMdjhrbWxob1VyYkhKUXpEVHp6Tm5tNExEckpEdFUxWEhTZkhHVUw2QTBkQ2Z0TURVWUw5ZUZxX0FkS2c5RjZMenF6bnpxWDVNVHpKMXB1NWs2Q0hTMFZaZEhsNFFJS2JwTUU1NHdTcWI3U2REUQ?oc=5",
           "pub": "Tue, 10 Nov 2026 10:55:00 GMT",
           "source": "MarketWatch"
+        },
+        {
+          "title": "What Has Sent Rocket Lab Stock Lower Since May? - Trefis",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQlNwX1YwMXpfYjlJNU50UWx1c3ZuVDdNQjNpNkstMXhCekhBQ01UbURhUXY0NWZRa0JOZ1poaWpkdVFSdTZ0LVQtT25wV2ktalJ5VnFIclNaRkx1ZlByYTNJaFc5X3lnZ1hMaEx6Z3p4UEk4X25XMzdRMTlnbkVPNXQ2cWk4Z2EySU8zWlF2UnpvSmlha2RBWDYxdC01dWg2SzJ2aURYZktqcVU?oc=5",
+          "pub": "Fri, 13 Nov 2026 10:50:27 GMT",
+          "source": "Trefis"
+        },
+        {
+          "title": "Rocket Lab Backlog Went to the Moon. The Stock Is Down Anyway. - Barron's",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4zTEhHLWx5TWVEM3pBUEJTNkpCbEJSR3ppeVpmVTUwaTNlRHlZa0kzeGVteGxUTmoxRWNhdHJjQnlBcDF0TExBWEpBMFdwRDhaRmpnVU5LSUdSUm54dFlxbkFmejRpRzZ2YWtwT25NdGtpSXpOVXNjYnlGa0JlUQ?oc=5",
+          "pub": "Tue, 10 Nov 2026 12:33:00 GMT",
+          "source": "Barron's"
         }
       ]
     },
     {
       "symbol": "IREN",
-      "price": 19.48,
-      "prev_close": 20.84000015258789,
+      "price": 19.06,
+      "prev_close": 19.479999542236328,
       "high_52w": 70.70700073242188,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": -6.525912392659013,
-      "drawdown_pct": 72.44968702078226,
+      "day_change_pct": -2.156055195615846,
+      "drawdown_pct": 73.04368760862988,
       "name": "IREN",
       "news": [
         {
@@ -232,16 +232,22 @@
     },
     {
       "symbol": "MILDEF.ST",
-      "price": 243.3,
+      "price": 244.1,
       "prev_close": 238.89999389648438,
       "high_52w": 266.6000061035156,
       "currency": "SEK",
       "yahoo_name": "Mildef Group AB",
       "exchange": "Stockholm",
-      "day_change_pct": 1.8417774030677305,
-      "drawdown_pct": 8.739687010535429,
+      "day_change_pct": 2.1766455572907164,
+      "drawdown_pct": 8.439611998650635,
       "name": "MilDef Group",
       "news": [
+        {
+          "title": "MilDef Group AB (publ) (MILDES.XC) Stock Major Holders - Yahoo Finance - Yahoo! Finance Canada",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1CLVdPQ2d4QjFtci1LRUpUVVg0am83dFZ1YnlLZGk3aDBicHQxdHlDSjBNa2tZTXNmSzJib2J6LU1IS3VCcTZrWXA1RlFkZFJNaFhiY3RDUFpsRU5zT0R4cVY0cw?oc=5",
+          "pub": "Thu, 12 Nov 2026 20:05:58 GMT",
+          "source": "Yahoo! Finance Canada"
+        },
         {
           "title": "Mildef Group AB (8QA.HA) interactive stock chart - Yahoo Finance UK",
           "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE55cmZIbENTeHVzU1RWTnM5clVveEVjOXl3SG54bE5welYzM3RKRzN2QXc4ZktRc3l3c3RlZUdReFNGR0oxVlpBemZQWXAzOWc0MGpwOGh1dkl6TWw0?oc=5",
@@ -259,25 +265,19 @@
           "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9hWW9rMkp5VFlIZmlhT1RWd3k5bVQyVTVlLXktUHJfNm43Qld6bURaV0wwTDN1ZmJwZ0c2c2FPNV8wRVYyaVRRNndDaUZOeHdPQTkwS1doZUdWQ180N051Ym91OXZxYW9YRklxUFRIcVFJOFJxbXFVSEl2dWg?oc=5",
           "pub": "Thu, 25 Jun 2026 11:58:03 GMT",
           "source": "TradingView"
-        },
-        {
-          "title": "Mildef Group AB (8QA.HA) latest stock news and headlines - Yahoo Finance Australia",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBSZjdBdlBXYWlqM0dvMWZJb2FjcFZhTEJoMUk5M1d5VWNSMWNCQ2RVcWVNTWFZZThHMG9tSzhtdGZJa3hqZlZUbzNrQVcwYUhBY191endQRzBoQm8?oc=5",
-          "pub": "Tue, 10 Nov 2026 22:26:53 GMT",
-          "source": "Yahoo Finance Australia"
         }
       ]
     },
     {
       "symbol": "IVSO.ST",
-      "price": 205.4,
+      "price": 206.6,
       "prev_close": 205.0,
       "high_52w": 332.0,
       "currency": "SEK",
       "yahoo_name": "INVISIO AB",
       "exchange": "Stockholm",
-      "day_change_pct": 0.19512195121951498,
-      "drawdown_pct": 38.13253012048193,
+      "day_change_pct": 0.780487804878046,
+      "drawdown_pct": 37.7710843373494,
       "name": "Invisio",
       "news": [
         {
@@ -308,14 +308,14 @@
     },
     {
       "symbol": "NORBT.OL",
-      "price": 181.0,
+      "price": 181.5,
       "prev_close": 186.8000030517578,
       "high_52w": 244.8000030517578,
       "currency": "NOK",
       "yahoo_name": "NORBIT",
       "exchange": "Oslo",
-      "day_change_pct": -3.1049266365112267,
-      "drawdown_pct": 26.062092425002398,
+      "day_change_pct": -2.8372606879933016,
+      "drawdown_pct": 25.857844061535555,
       "name": "Norbit ASA",
       "news": [
         {
