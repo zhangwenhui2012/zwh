@@ -1,24 +1,24 @@
 {
-  "updated_at": "2026-11-13T20:00:45.271837+00:00",
-  "updated_at_display": "2026-11-13 20:00 UTC",
+  "updated_at": "2026-11-13T20:30:36.095883+00:00",
+  "updated_at_display": "2026-11-13 20:30 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 162.805,
+      "price": 162.341,
       "prev_close": 166.19000244140625,
       "high_52w": 243.37,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -2.0368267595396996,
-      "drawdown_pct": 33.103915848296836,
+      "day_change_pct": -2.3160252631702605,
+      "drawdown_pct": 33.29457205078686,
       "name": "NVIDIA",
       "news": [
         {
-          "title": "Nvidia stock closes down over 4% after CEO Jensen Huang announces resignation - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVFBOVnFZT1F2M3oteUktWm1qb29oLW5DLW9MZ2pBRzhEenlNZWFERC1NRXJlSV9saDN5MmNRZzdzQm0xQ0hWSzVpSktBSy00aDZlUTcyQzd2Vmlia1F1UTlEdE11anNMVE10RDNEVlc4cUlMcW5CRlpxaWFEbDh2Mg?oc=5",
-          "pub": "Thu, 12 Nov 2026 09:02:10 GMT",
-          "source": "CNBC"
+          "title": "Nvidia live updates: Following Jensen Huang's resignation as CEO, allegations of a third affair emerge - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNUjN6ZHpwVTN4R3loaDYzLThpNnhsUmY5NGoxLWJIaG5WSWlSNE5iVi1OS0RxNnpZNUFDLWhXWUY0TDZ3UUlpYThqWFc3SlhRV185N2RGNmFpYjlGWUg5TUVWNzhEUkF6TVdxbGVLN3VGc19xZHM4QjQ4eWkwZUxGaXB6LXBydzloUHpySXpWZ0NVSHh4VWtuSWtidnBJNEZYem96el9VOXVVZmVvWGVQNEJlb1RKdkVqWUNhY2hyT2VuZjZIdWd4TVNhT1VhY0NRWWV0VHVsZjlwS3pGdkxLLUJJS0JtNDJxaFVzNQ?oc=5",
+          "pub": "Fri, 13 Nov 2026 19:00:08 GMT",
+          "source": "Yahoo Finance"
         },
         {
           "title": "Stock Market Today: Dow, S&P 500 and Nasdaq fall as tech stocks struggle after Nvidia turmoil, but the U.S. equities market remains on track for weekly gain — live updates - MarketWatch",
@@ -27,29 +27,29 @@
           "source": "MarketWatch"
         },
         {
-          "title": "Bulls vs. Bears on Nvidia Stock - WSJ",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOOUpvRUNXLWQxdHRuUEhNRzJMbE5PV1dyTFFFYjdhSFRLTFNxeDdTWS1FbDB0cllCWXBoU2FtbnZOdUlPcUVrU09FMnFnYU03bGR6RTk1X0pPdmdrODM4RjhDZk5pMXkySE8weEtJVjJXNy0wMVFEbkN5MU04ejhaZXR3NlBBTjJmc0NXLUwycjdlcG9YZXBFWTJESUZabWtYRHoxV1VfbXR3dGxMb0U1aHJxeW1CSU1MYlRnZUpuOE44Y1VyQmFhcGluYnlvZVdhTzZv?oc=5",
-          "pub": "Fri, 13 Nov 2026 18:56:00 GMT",
-          "source": "WSJ"
+          "title": "Nvidia stock sinks 4% in fallout from Jensen Huang resignation - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeHRJRmZaWDY1TDNwelllbWd6OUZiV1NzaEllNG9aekhVYVVGWWhOREZuczlHQzJEZXFoeUotM2wwOW5ZTEJTOWlkb2JqSV82U2hmU01GeVhzYVlmZDZVYVFMZFo4UTNBenhOa0N4ejd0bkczZ0Nsa0I5YThHbk9iVGFkWlHSAYoBQVVfeXFMTlpCeWpuYTJhM2NHaUxJc2dkRlVSQUZ4TWxuUjh1QU1NOFE0WjJ2QUVlc0E1VWhjLUZZeGJGdEw1emRmWHM1aUNXSDdjWGRXMUhGLXJXMEpqaWlZSjUzTmY3b3lVTWhSTENiV0M0WjNZeGJTREpab09JczdLejZRTzh3SGNZWGxGVUZB?oc=5",
+          "pub": "Fri, 13 Nov 2026 09:06:38 GMT",
+          "source": "CNBC"
         },
         {
-          "title": "Nvidia Eyes Worst Week Since Trump Tariff Selloff as Huang Exits - Bloomberg.com",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWkFiR1ZfWkFHNzNXWC1PaTF5UmxoWHFBd1lQTFpKM19Yajc2QURDR1k3MjJaazZOWk5ieE5jWWdqU2J6dVlPX0Y0bW9oSEs0Skl0c2lsTTJDdkVsd1NrdU1NSHZwUzYwS2tRcWV0UXJtbG0ySUVkOTZYaFI5cjFBLWo4Y1JaUmxQTkVvblRWaEk4WGZTZ2YzUWxybEdUUS1hTzZIbW1SSDB1TWtqUDdmWl9ScGhKUQ?oc=5",
-          "pub": "Fri, 13 Nov 2026 18:24:41 GMT",
-          "source": "Bloomberg.com"
+          "title": "Trump bought up Nvidia stock as he decided on policy that would benefit chipmaker - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUjdQaTlJR1k0ZFc4N1pIVG5LRUJmZkFIemZ3U3g3ZWJXTk1ybnNIYjFacm5zUXhLaXpHMGxxOE40TU1BdDkxb09RZnNIV3ZNeU94bUlYakVEc1ItTHZaSWpkbHpBN1hHTkl0bEhwX1d3ckZQN190ZGZIZlJaV2g5U1VzQWlnNEZpWHctQnlvVThmUQ?oc=5",
+          "pub": "Fri, 13 Nov 2026 19:11:00 GMT",
+          "source": "The Guardian"
         }
       ]
     },
     {
       "symbol": "META",
-      "price": 641.04,
+      "price": 641.86,
       "prev_close": 623.6099853515625,
       "high_52w": 779.8200073242188,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 2.7950185304700064,
-      "drawdown_pct": 17.79641532927732,
+      "day_change_pct": 2.9265109727434844,
+      "drawdown_pct": 17.691262859181855,
       "name": "Meta Platforms",
       "news": [
         {
@@ -80,14 +80,14 @@
     },
     {
       "symbol": "AVGO",
-      "price": 345.89,
+      "price": 345.5,
       "prev_close": 364.3599853515625,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -5.069158550366406,
-      "drawdown_pct": 30.123232323232322,
+      "day_change_pct": -5.176195551046841,
+      "drawdown_pct": 30.2020202020202,
       "name": "Broadcom",
       "news": [
         {
@@ -118,14 +118,14 @@
     },
     {
       "symbol": "AMD",
-      "price": 532.811,
+      "price": 532.14,
       "prev_close": 585.2999877929688,
       "high_52w": 658.52001953125,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -8.967877821233618,
-      "drawdown_pct": 19.089627619936685,
+      "day_change_pct": -9.082519887523459,
+      "drawdown_pct": 19.191522775755594,
       "name": "AMD",
       "news": [
         {
@@ -147,23 +147,23 @@
           "source": "The Globe and Mail"
         },
         {
-          "title": "Why Advanced Micro Devices Stock Is Down Today - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVEFLanBoU3haWmJMX3Y5aVNYcVdjSnI2LTJPYlNFTUFoMGdxQnB0UFpKV2pmalBMd1ZNSS1kZTVBSzBWQXJhY2Y2TjJYbFcydE5LODRqX3BXRWJ3RmstN0YzTFZVS2Y0OWM3OVhwNWtJWWhLRkJmZHdTdFA4Tl8yVU90cEg0YUhMN19KUHlHa05oNWRRUmVTSzVjN1N3Zw?oc=5",
-          "pub": "Fri, 13 Nov 2026 18:45:02 GMT",
-          "source": "Yahoo Finance"
+          "title": "AMD 2027 Revenue Projected to Grow Over 80%, Stock May Challenge $700 in Next 12 Months - TradingKey",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZk5kcll2M3Bjbl9ManVvMlh0cHluSEtVQ0lBbzY1dkk3bWEzaFJ4VDloa0EyRmZyMk5hQ0YwTTloaDN3OVFBSzlEUndFN3BnMEpJT3RrTFpjY29rTW9XNGRZaE52NVI1a2dPSXFWd2hwWng1dFYySWZIQ3dyT0pidW5pZmlRMmJEQmJkdnpQbS16WmlhZmVsSGR3YkJBNkRUUUtCa2N5YzZHSm9OdWUweWVrWlo?oc=5",
+          "pub": "Fri, 13 Nov 2026 20:06:43 GMT",
+          "source": "TradingKey"
         }
       ]
     },
     {
       "symbol": "RKLB",
-      "price": 61.505,
+      "price": 61.525,
       "prev_close": 64.06999969482422,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -4.003433287094936,
-      "drawdown_pct": 59.2682119205298,
+      "day_change_pct": -3.9722174292905663,
+      "drawdown_pct": 59.25496688741722,
       "name": "Rocket Lab",
       "news": [
         {
@@ -194,16 +194,22 @@
     },
     {
       "symbol": "IREN",
-      "price": 17.865,
+      "price": 17.9,
       "prev_close": 19.479999542236328,
       "high_52w": 70.70700073242188,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": -8.290552259689251,
-      "drawdown_pct": 74.73376070976772,
+      "day_change_pct": -8.110880797561578,
+      "drawdown_pct": 74.68426066078042,
       "name": "IREN",
       "news": [
+        {
+          "title": "IREN Stock Falls Even as JPMorgan Goes Bullish - TipRanks",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVXhUZVVET3E1SElfQkdPYXI0OXFDUFZxc2ozZElJMk1QVENZWlY2Y3paUlk4YUNlZkUtNWpOQVdzSEpUM3RpUV9RdG5QcmVhTTAyU1gtSUs2WVBWOEJtY19WVGdEbWh6X3plSF9vTVdPdlZ2SUhmdDhqQmt2LUE1SE53?oc=5",
+          "pub": "Tue, 10 Nov 2026 14:44:57 GMT",
+          "source": "TipRanks"
+        },
         {
           "title": "Zacks Investment Ideas feature highlights: Nebius, CoreWeave, IREN and NVIDIA - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOb1ZyYnFtaWZyMS1KdENRbnk5c0hYUk5rT040ZnUzOVJfNmFEOVdLbmNhVWI2VXdXZTlCVE1vOEYzVklMdDZzMEh3a2tSNXV0aWpkX21FNVhRT3l4TUE0T2VFZU9XeW1uUHJuX1prRnh1T2JNY0ZOeXMxNlFnOXhJdWh2MGhqR0Z6dEhVYmpGNW1yNEk5dlA1OTB0TWoxMU5qdFVGQmE0ZUIyQQ?oc=5",
@@ -211,22 +217,16 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "IREN: A Liquidity Crisis Is Brewing (NASDAQ:IREN) - Seeking Alpha",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQW5pQVdCWlFvZmtYeWdhUURPdzNUQU1qMEZNTEg2WlpSWHk4aVBkNDNPUzRPbzRGYldmQ3BOcWJZVXA5VlVEZGM5Ti1KYTZCekF2RVBHSEhiNFBNdGVCNTl0cWxBanQyazRTaHd1OUVILUZpNFo5ck9IeWFuTVFLXw?oc=5",
-          "pub": "Thu, 12 Nov 2026 21:22:37 GMT",
-          "source": "Seeking Alpha"
+          "title": "IREN Stock Falls Even as JPMorgan Goes Bullish - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZy1wM0d5TGFHNTBnYzlGWkZURFZVNV9EVEpkRFZVd25PU1BOMzJ1eGlFWVByVVo5RlhfZTBTN1ZiVTBVTjE3Z0dIQ1A4REZhZ1A4T3dwTGxxb2hwaUhzRkNXY1Y1TEljWDFwcHpJQ29zZy11RXpHdkJFXzV0TU5rTHhJSURVOUNsbC1GalZvcXRON0NfcjhPUHFtWQ?oc=5",
+          "pub": "Tue, 10 Nov 2026 22:44:57 GMT",
+          "source": "Yahoo Finance"
         },
         {
           "title": "CRWV vs IREN vs NBIS: Which Neocloud Stock To Bet On After Q3 Reports Allay Durability Fears - TradingView",
           "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPZHhOdURnbHAxOF92TTFuSnRLLVBPZnI2R294UmljM2hoOWFhOE42OE51MGcwYkVFTmtRU3dFTWtsN1dQTzZlbVBFY3o2X1RLV1M1dFpwQzVZaTYyOVU0SGZ4Sjc2WXBXNzNDUUpZSjNqYVBzZ1NCazBSODk3T25uX3ZCZkUyQVZsc245cTlfcGt0eDVFNEpMUzg0WG1rNzhrTWNRUHYtQzZYa3ZIYTQ1TXlIN3h3LXNRNGZQS2xxVGxiaUtfQnVoelZEX2JWNV9KbVVqd2Q3T2ZwZXVNYkh3NEJmajFGWEE?oc=5",
           "pub": "Fri, 13 Nov 2026 08:33:40 GMT",
           "source": "TradingView"
-        },
-        {
-          "title": "IREN Stock: Buy or Sell? - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1YU25EeEo4NTBCSXZzV2hmbkJQQ0tnOERMUlRKTUlqclpIb3hqeTQzNUlHbGxDVzE1QkVrb2JrQldJMEpLZGE4NHZQMTBXS0VkWmVscGpkdHJndWRfNDJwamlBMjlEQ3JkOC1oQ19jNmh2cUk?oc=5",
-          "pub": "Fri, 13 Nov 2026 12:00:00 GMT",
-          "source": "The Motley Fool"
         }
       ]
     },
