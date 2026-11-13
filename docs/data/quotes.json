@@ -1,24 +1,24 @@
 {
-  "updated_at": "2026-11-13T02:30:35.894961+00:00",
-  "updated_at_display": "2026-11-13 02:30 UTC",
+  "updated_at": "2026-11-13T03:00:45.601315+00:00",
+  "updated_at_display": "2026-11-13 03:00 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
       "price": 166.19,
-      "prev_close": 168.88999938964844,
+      "prev_close": 173.72999572753906,
       "high_52w": 243.37,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -1.5986733373236826,
+      "day_change_pct": -4.340065568967174,
       "drawdown_pct": 31.713029543493448,
       "name": "NVIDIA",
       "news": [
         {
-          "title": "Nvidia CEO Jensen Huang Resigns—and the Stock Is Falling - Barron's",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTmY5c05oNmptS3d1Z1B6aUtOaEkwMGxxbjBkendjRzNqU2lrclhPNlkxWEdlU2c5NnhUVVQ4a09vSVFOX3ZhNnNpUy1VeHo3aFlHdlAzZVdSLXQyWml3VE0xMnNNUnU5T2NCM2pHNjE2end6NjlRNVBYbkxKOGZOSTR3MU1aYk9IaWtMLQ?oc=5",
-          "pub": "Thu, 12 Nov 2026 21:55:00 GMT",
-          "source": "Barron's"
+          "title": "Nvidia live updates: Following Jensen Huang's resignation as CEO, allegations of a third affair emerge - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNUjN6ZHpwVTN4R3loaDYzLThpNnhsUmY5NGoxLWJIaG5WSWlSNE5iVi1OS0RxNnpZNUFDLWhXWUY0TDZ3UUlpYThqWFc3SlhRV185N2RGNmFpYjlGWUg5TUVWNzhEUkF6TVdxbGVLN3VGc19xZHM4QjQ4eWkwZUxGaXB6LXBydzloUHpySXpWZ0NVSHh4VWtuSWtidnBJNEZYem96el9VOXVVZmVvWGVQNEJlb1RKdkVqWUNhY2hyT2VuZjZIdWd4TVNhT1VhY0NRWWV0VHVsZjlwS3pGdkxLLUJJS0JtNDJxaFVzNQ?oc=5",
+          "pub": "Thu, 12 Nov 2026 23:30:33 GMT",
+          "source": "Yahoo Finance"
         },
         {
           "title": "Nvidia's stock falls after CEO Jensen Huang’s resignation — live updates - MarketWatch",
@@ -33,22 +33,22 @@
           "source": "The New York Times"
         },
         {
-          "title": "NVIDIA Announces CEO Transition - NVIDIA Newsroom",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ZNXBiTEpIYWNHT2hlMWVfSXJ1UWd6eEVKUW1URllFTkpERzVyRWpBOEgyaU90Sk5KVm9VZXRseUlXSEswU1JSNHhzeVhRN2lxQXRUbVk1cTBLZXRjSHFNWTNQRWNXb2FrQno3TzNzQTg2UXA1?oc=5",
-          "pub": "Thu, 12 Nov 2026 13:56:53 GMT",
-          "source": "NVIDIA Newsroom"
+          "title": "Jensen Huang Has Been Ousted as Nvidia CEO - WSJ",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxON2VaZ01EcWdXc1ZGb3plNUNMM294WGZlT0tTbWw2SFNPOHZ3ZERtQlR6RkhLRWF2cHExRnNfWGZINm1NWVoxVjRSUDRTVXRFb1RaRGcyMXFUdEd0LWtlME5SVHJETVdzOHR6eHhyNXJLVXF6cldFbnhHMXcydFMzTGhzVnhWN2RQX2d0X1N4QVZvdUU?oc=5",
+          "pub": "Thu, 12 Nov 2026 16:06:16 GMT",
+          "source": "WSJ"
         }
       ]
     },
     {
       "symbol": "META",
       "price": 623.61,
-      "prev_close": 641.3900146484375,
+      "prev_close": 628.77001953125,
       "high_52w": 779.8200073242188,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -2.7721065564425995,
+      "day_change_pct": -0.820652920935511,
       "drawdown_pct": 20.031546492403944,
       "name": "Meta Platforms",
       "news": [
@@ -81,12 +81,12 @@
     {
       "symbol": "AVGO",
       "price": 364.36,
-      "prev_close": 331.9800109863281,
+      "prev_close": 345.2200012207031,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 9.753595982321173,
+      "day_change_pct": 5.544290224094075,
       "drawdown_pct": 26.39191919191919,
       "name": "Broadcom",
       "news": [
@@ -105,7 +105,7 @@
         {
           "title": "Stocks to Watch Recap: Nvidia, Broadcom, Micron - WSJ",
           "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPa2RadVFZalFKMm1jUnlVR3puTnlqUV83V3d0YnN0RkFfN01fUUJQVG5MSHhvdnBPOHo2NllGUTlHdkpIbVYxcVlTTS1QRzZsdDFwemVscHA1WGtKdGZqQWhaUTAyT0RNSXBOVVZYVnQxSHNUbzdjWWtWdnFlRjF2ajFNb3FMRzRCbTJJOGU5M0xXVTFRcHlTbWd0YV8tN2FQSnFqSS1IYWFtZlhkU1FndnVybkc3RndfMjd6aHgxU3hzQUhaN1dKWDFnd2VXMkNBakpDOXhmUUtkTDFSRXc?oc=5",
-          "pub": "Thu, 12 Nov 2026 17:30:00 GMT",
+          "pub": "Fri, 13 Nov 2026 00:00:00 GMT",
           "source": "WSJ"
         },
         {
@@ -119,12 +119,12 @@
     {
       "symbol": "AMD",
       "price": 585.3,
-      "prev_close": 515.2100219726562,
+      "prev_close": 552.9000244140625,
       "high_52w": 658.52001953125,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 13.604156564924816,
+      "day_change_pct": 5.86000617747728,
       "drawdown_pct": 11.118875259611663,
       "name": "AMD",
       "news": [
@@ -157,12 +157,12 @@
     {
       "symbol": "RKLB",
       "price": 64.07,
-      "prev_close": 62.709999084472656,
+      "prev_close": 66.1500015258789,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 2.1687146155039265,
+      "day_change_pct": -3.1443710928187723,
       "drawdown_pct": 57.56953642384106,
       "name": "Rocket Lab",
       "news": [
@@ -195,12 +195,12 @@
     {
       "symbol": "IREN",
       "price": 19.48,
-      "prev_close": 19.729999542236328,
+      "prev_close": 20.84000015258789,
       "high_52w": 70.70700073242188,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": -1.2671036393140793,
+      "day_change_pct": -6.525912392659013,
       "drawdown_pct": 72.44968702078226,
       "name": "IREN",
       "news": [
