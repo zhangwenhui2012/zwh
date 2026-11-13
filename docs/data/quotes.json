@@ -1,63 +1,57 @@
 {
-  "updated_at": "2026-11-13T14:59:16.355438+00:00",
-  "updated_at_display": "2026-11-13 14:59 UTC",
+  "updated_at": "2026-11-13T15:00:47.392613+00:00",
+  "updated_at_display": "2026-11-13 15:00 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 162.295,
+      "price": 161.78,
       "prev_close": 166.19000244140625,
       "high_52w": 243.37,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -2.3437044251681307,
-      "drawdown_pct": 33.313473312240625,
+      "day_change_pct": -2.6535906953615256,
+      "drawdown_pct": 33.525085261125035,
       "name": "NVIDIA",
       "news": [
         {
-          "title": "Nvidia's stock falls after CEO Jensen Huang’s resignation — live updates - MarketWatch",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZ0pLZEJtbkdwOG9XNncyYy0tX3VTcmx0VVdGeDZURkhHU3ozS2kwOG1QOUt3cXo1NmZpdi1fdDhBc1lWVkRSaUZpaS05WS1WVkpDSXNOVk5lVGpad3RNRlQ2QzZId3pBUVVodElrNC16MlZYQzJ2c0J6QlVvTHIxVEN3?oc=5",
-          "pub": "Thu, 12 Nov 2026 23:22:00 GMT",
-          "source": "MarketWatch"
-        },
-        {
-          "title": "Nvidia live updates: Following Jensen Huang's resignation as CEO, allegations of a third affair emerge - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNUjN6ZHpwVTN4R3loaDYzLThpNnhsUmY5NGoxLWJIaG5WSWlSNE5iVi1OS0RxNnpZNUFDLWhXWUY0TDZ3UUlpYThqWFc3SlhRV185N2RGNmFpYjlGWUg5TUVWNzhEUkF6TVdxbGVLN3VGc19xZHM4QjQ4eWkwZUxGaXB6LXBydzloUHpySXpWZ0NVSHh4VWtuSWtidnBJNEZYem96el9VOXVVZmVvWGVQNEJlb1RKdkVqWUNhY2hyT2VuZjZIdWd4TVNhT1VhY0NRWWV0VHVsZjlwS3pGdkxLLUJJS0JtNDJxaFVzNQ?oc=5",
-          "pub": "Thu, 12 Nov 2026 19:57:54 GMT",
-          "source": "Yahoo Finance"
-        },
-        {
-          "title": "Stock market today: S&P 500, Nasdaq turn lower as wholesale inflation rises, Nvidia stock falls - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORHNBdWVhWllRY0IzSV9JUGtmWVdfQk5EaGVSVVNNXzVtUWtITW1xRUhYRDA3SVdSbWFaWjExbkI0VXA1ZjVuWXNWWkI2M3hUTVpxeUxvekxyZmhLOGdBMFZXdktzTWdvT0tOdnVIenp6UFQtdWt5bkJtNWlMSGpGdDZ2WEZmbTlidlQ2QVhSREdGdXNDb0F0ZzNJUGNSejZwSXE4Y2NCdHRHQWxKNkZrTWNQbUtVYXFGU3k4Tw?oc=5",
-          "pub": "Fri, 13 Nov 2026 14:45:25 GMT",
-          "source": "Yahoo Finance"
-        },
-        {
-          "title": "Stocks making the biggest moves premarket: Microsoft, Nvidia, Cerebras & more - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONGpzZlFyYTRrZm9kc1N2dFNQd0tfV2g3YXhpSDBqdlRnREpDcGVxQlpDc0hraVZQc251RjltY3JOTlRaU2p4MHdFZlpsVTNKUUJDX05UX1VseGlBekZROUVZRmFtUU9jQ0duM3pneE5wYVZ2bFA2eFVKam5HWDA2Qks4QzPSAYoBQVVfeXFMTUdRRVhGQ2IxWXE4ZHlzT0o0N05faGJaSFRJM1BOVW5kY2FZbEJ5c05jY2RSY0dmNTVKY2RSWENCdXVmcDNxcEttTjkzemNNUmNxZERDaThrTDZxMm9IeE1PcHR0cUFmMU9KYl9oelZkQlJGWW5BM1FkR3ZEa1RHQ3poTUlBUXlpNk13?oc=5",
-          "pub": "Fri, 13 Nov 2026 14:56:00 GMT",
+          "title": "Jensen Huang is out and Nvidia stock is down—what market pros say about buying dips - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOTJmZlRTVHVyUF90NHVJamJqSFhyd3NpaHE0RnJzSWZWXzFPTW05QTdVWDY0RzRwdXcxeUlpekotZE4xZUlyOU5kVTFHUE1zY1c2alNKR2xZdXBCY3R0SnJmQVNWZ2EtM05sS0lCb3ZiYmtqNWZhX0ZROVoyWGFjZE5PeUFQVmhKb2lIR0ZsVEEwNFZl0gGaAUFVX3lxTE5Gd0tMcDdNMUxmX3ZIV0I2SkhJTlNCTk5VLVJnWVBwMFl1Nm5qQTlodVJEUWpqUTljM3ZDVU5Db3ZnTEhEWFBJZm9HcE1sRHIzeDdfbWpxT0lsNnNSYXdFb2hKR2tsMkVuTmVQUGU1UnppaEllV0VWZ1FsZkFBM1dqeU9jUjY4aXJLNjhTSjViR0psNUlwcmE5TlE?oc=5",
+          "pub": "Thu, 12 Nov 2026 19:34:31 GMT",
           "source": "CNBC"
+        },
+        {
+          "title": "Stocks set for best week since early August despite Nvidia turmoil - Quartz",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1xeENYczNDTjlON0MxVENPeHdZbVhoMVRqN0s5emMtQXNBMkVoVE5FVE5NNGJ1VnRMT20tbGttYU1kUkVvMzdOdVNlaWJDTVVESGZpaVhlRnR5WDAybTUzREgzeEp5WUJkZG1UU1Fza1NsdFNiUWUw?oc=5",
+          "pub": "Fri, 13 Nov 2026 14:11:56 GMT",
+          "source": "Quartz"
+        },
+        {
+          "title": "Billionaires Back Jensen Huang—KoGuan Cuts Nvidia Investment Plans, Musk Pays Tribute - Forbes",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOWVlfR2haUERjbHRfT0swV2otVEw3QmhEVlVobkpKU1FhclpCX1Yxa0g5Z0ZZUGUydnVmaVphLVhVLTM5d1UwZk84Zmp4YWNPTGo2bmIwWGxnMVRYOXk4b00xMlFxZXM5TUxIWHZHZHJyYTNBUjZUTXRxZE94QjR6NEd0NFp6Z0pNbVJ1VjR6a2s0YzM2djU5eHB3RkM2aV9hMm1DSml0VXo4Vjk4TS1mVy1ZS09FUFl2akJ4dC1oMjFkaDFIVmp0SXNVek41ZHViNzBCY0tUUWlzVWMtcExhVjdUbUtTUTJFTGpJUHJUV2c?oc=5",
+          "pub": "Fri, 13 Nov 2026 12:09:09 GMT",
+          "source": "Forbes"
+        },
+        {
+          "title": "OK who just made $200mn shorting Nvidia ahead of Jensxit? - Financial Times",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5oY3E0Rmw1YmVIX0RQTnBVRndDZDJTOVI4NVBRR2ljeURhS1FrZl9hbS1iOTQxOTVueVI4dG8waE5xZE1uMHc0VFJETzRTMXJfZnE2bEREeU93cGp6MW15SE0zeWlpMG5JaDRUTmlKMkc?oc=5",
+          "pub": "Fri, 13 Nov 2026 11:29:14 GMT",
+          "source": "Financial Times"
         }
       ]
     },
     {
       "symbol": "META",
-      "price": 634.665,
+      "price": 633.03,
       "prev_close": 623.6099853515625,
       "high_52w": 779.8200073242188,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 1.772744970112234,
-      "drawdown_pct": 18.613911666909694,
+      "day_change_pct": 1.5105618687498892,
+      "drawdown_pct": 18.82357543350247,
       "name": "Meta Platforms",
       "news": [
-        {
-          "title": "As Meta Platforms Continues To Weaken, A Bearish Trade May Be In Order - Investor's Business Daily",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeXYtc0wwTWRuR29fdGRXZE83a0JHb3Y2Q2Y4b3NPOXVZSjM3TEc5VzJhTkFBN1dHekhaUm9XOWdrbWl2OUx5eWRraVVIWm02YjhQV2M3MWpLbk5ld1c5TG1rRGE5Sm1Td0dMWFQ0b2dMYVp2Wko5SmxEMGEtSDFJWldKXzFEV3hjOTNtQkVFeVRpSjEzOFE?oc=5",
-          "pub": "Fri, 13 Nov 2026 14:34:00 GMT",
-          "source": "Investor's Business Daily"
-        },
         {
           "title": "55 ETFs Add to Meta Platforms (META) on Nov. 11 - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZkc4MEpkMmtxWldrMnI5ZUdHVjMyb1ZBU3duZklHdnBQekw0VnYzR0hoZWRMV3EtOUdScmpzd2E1ZEYxcjNfR3NKNWR6R3JzZWJtWE5SbG4ydTcxSzZRN3lXMmFHV01JaU1SSDNXVF8yRnM3U1VJS2RQYllEd0p3cGNTWV9jc3JTcjRpQkVla0ZLMUd3V1E?oc=5",
@@ -65,29 +59,35 @@
           "source": "Yahoo Finance"
         },
         {
+          "title": "As Meta Platforms Continues To Weaken, A Bearish Trade May Be In Order - Investor's Business Daily",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeXYtc0wwTWRuR29fdGRXZE83a0JHb3Y2Q2Y4b3NPOXVZSjM3TEc5VzJhTkFBN1dHekhaUm9XOWdrbWl2OUx5eWRraVVIWm02YjhQV2M3MWpLbk5ld1c5TG1rRGE5Sm1Td0dMWFQ0b2dMYVp2Wko5SmxEMGEtSDFJWldKXzFEV3hjOTNtQkVFeVRpSjEzOFE?oc=5",
+          "pub": "Fri, 13 Nov 2026 14:34:00 GMT",
+          "source": "Investor's Business Daily"
+        },
+        {
+          "title": "Meta Platforms: Scoop Up This Big Tech Deal Now (NASDAQ:META) - Seeking Alpha",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQc2ctb1hBbS1YVjRXS1pBTm9XV214MlhtUDM0STJSVVZWNnBjT2Rud3gxV0dabUxEZUpyRURsbjJjc0ZwYmxSY1dna3NoT0p6S0RZamR0d1lnNVdNQy1OMjhrSVRkWGZxMXUzcTducG55cHFMTGtGMVBha2oyNUozelhFSUJEaEpacjBFMUd5b3Q?oc=5",
+          "pub": "Thu, 12 Nov 2026 11:30:36 GMT",
+          "source": "Seeking Alpha"
+        },
+        {
           "title": "Meta Platforms, Inc. $META Stock Sold by Balentine LLC - MarketBeat",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZ0Q1Smd1TTl5WWlITDQ5dW13OFB6REFDekpoSXNDSGZHNElRY3E2Zk1ESGkxS2ZhaU42cTRicUJpQUJZd1hxYm9UcXVXU2JDM0IyZ0VZVkFBb2duZk94YmNObGsxbUhlNzJPdFF0b2xYem5IZzQwTERuV3YyeVJPNVBmb3lRa1FuY2QwZERZME4yY3hfdElYYzQzNl9qLXh6MFliZDJxVmlmeVJTbzFkZGpR?oc=5",
           "pub": "Fri, 13 Nov 2026 08:32:33 GMT",
           "source": "MarketBeat"
-        },
-        {
-          "title": "What To Expect Out of Meta By The End of 2026 With an Announced January Stock Split - 24/7 Wall St.",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMmthUjhJbXlFYm9uQWJxYzR2QlpoaHJESEJaWmV2MHF3YnhjRVhLVTBoWEFETHE5X2hnVkRJMlZQSUVtTzYzN2tIclQ2bVRGWW91ekxreXduQWRZYThIc05tQjBOeXhNSnNiRkJSdlMwMDktclpOQlc0LVI3WmpMREVCWFlOLVdaNGoxdTVWcW5IMHNCc0pyVVFRVlVFa3FyM2RScmxXSXVUenIzbmxJVVpKZG9kNnJFZlZwS2pPeUdrd3BEblE?oc=5",
-          "pub": "Wed, 11 Nov 2026 15:45:00 GMT",
-          "source": "24/7 Wall St."
         }
       ]
     },
     {
       "symbol": "AVGO",
-      "price": 344.93,
+      "price": 344.42,
       "prev_close": 364.3599853515625,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -5.33263424434902,
-      "drawdown_pct": 30.317171717171714,
+      "day_change_pct": -5.4726057067772835,
+      "drawdown_pct": 30.42020202020202,
       "name": "Broadcom",
       "news": [
         {
@@ -118,14 +118,14 @@
     },
     {
       "symbol": "AMD",
-      "price": 540.39,
+      "price": 537.79,
       "prev_close": 585.2999877929688,
       "high_52w": 658.52001953125,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -7.672986285599281,
-      "drawdown_pct": 17.938713482900297,
+      "day_change_pct": -8.117202935902663,
+      "drawdown_pct": 18.333538229739545,
       "name": "AMD",
       "news": [
         {
@@ -156,14 +156,14 @@
     },
     {
       "symbol": "RKLB",
-      "price": 60.74,
+      "price": 60.59,
       "prev_close": 64.06999969482422,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -5.197439848112291,
-      "drawdown_pct": 59.774834437086085,
+      "day_change_pct": -5.431558781645102,
+      "drawdown_pct": 59.87417218543046,
       "name": "Rocket Lab",
       "news": [
         {
@@ -194,14 +194,14 @@
     },
     {
       "symbol": "IREN",
-      "price": 17.92,
+      "price": 17.865,
       "prev_close": 19.479999542236328,
       "high_52w": 70.70700073242188,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": -8.008211390631462,
-      "drawdown_pct": 74.65597491850197,
+      "day_change_pct": -8.290552259689251,
+      "drawdown_pct": 74.73376070976772,
       "name": "IREN",
       "news": [
         {
@@ -232,14 +232,14 @@
     },
     {
       "symbol": "MILDEF.ST",
-      "price": 243.4,
+      "price": 243.5,
       "prev_close": 238.89999389648438,
       "high_52w": 266.6000061035156,
       "currency": "SEK",
       "yahoo_name": "Mildef Group AB",
       "exchange": "Stockholm",
-      "day_change_pct": 1.883635922345602,
-      "drawdown_pct": 8.70217763404983,
+      "day_change_pct": 1.9254944416234738,
+      "drawdown_pct": 8.664668257564232,
       "name": "MilDef Group",
       "news": [
         {
@@ -308,14 +308,14 @@
     },
     {
       "symbol": "NORBT.OL",
-      "price": 181.3,
+      "price": 181.0,
       "prev_close": 186.8000030517578,
       "high_52w": 244.8000030517578,
       "currency": "NOK",
       "yahoo_name": "NORBIT",
       "exchange": "Oslo",
-      "day_change_pct": -2.9443270674004656,
-      "drawdown_pct": 25.93954340692229,
+      "day_change_pct": -3.1049266365112267,
+      "drawdown_pct": 26.062092425002398,
       "name": "Norbit ASA",
       "news": [
         {
