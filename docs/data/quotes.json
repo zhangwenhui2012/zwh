@@ -1,30 +1,30 @@
 {
-  "updated_at": "2026-11-13T00:30:36.435476+00:00",
-  "updated_at_display": "2026-11-13 00:30 UTC",
+  "updated_at": "2026-11-13T01:00:42.304667+00:00",
+  "updated_at_display": "2026-11-13 01:00 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
       "price": 166.19,
-      "prev_close": 173.72999572753906,
+      "prev_close": 168.88999938964844,
       "high_52w": 243.37,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -4.340065568967174,
+      "day_change_pct": -1.5986733373236826,
       "drawdown_pct": 31.713029543493448,
       "name": "NVIDIA",
       "news": [
         {
-          "title": "Nvidia live updates: Trump calls Huang saga a 'horrible thing' and 'so sad to see' - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBQLXdpNk1zM3AtTjV1OFB4d0xkbXhnQkhIYUtYVWRxalR2dVJLZ0d6ajJDdS1Nb05ycVZnNnkxbGkzLXF4WVB1NnVlREtiVWdBOE9vbFRERGh2NGxjUGt0T01CbjVrZEUzZjB3UVhacUlZYnBxMURYV2pmQXBMd9IBgwFBVV95cUxQRGpRX1ZWVEtRV19IaDNsX3RYT0pXaFJtOXhSWFRpd0w4NDdpTGpMQ0FvdjBkTXJ3alI3b2Q1NkFjWTYxck91LS1fY1hwdXAybnRMOU13dVNfT2Y3Q2FScVkwbXVnbE9UUUFyY1pQRmVObjVnQWhOZW56SmJwWnBIb1hnbw?oc=5",
-          "pub": "Thu, 12 Nov 2026 23:49:00 GMT",
-          "source": "CNBC"
+          "title": "Nvidia live updates: Following Jensen Huang's resignation as CEO, allegations of a third affair emerge - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNUjN6ZHpwVTN4R3loaDYzLThpNnhsUmY5NGoxLWJIaG5WSWlSNE5iVi1OS0RxNnpZNUFDLWhXWUY0TDZ3UUlpYThqWFc3SlhRV185N2RGNmFpYjlGWUg5TUVWNzhEUkF6TVdxbGVLN3VGc19xZHM4QjQ4eWkwZUxGaXB6LXBydzloUHpySXpWZ0NVSHh4VWtuSWtidnBJNEZYem96el9VOXVVZmVvWGVQNEJlb1RKdkVqWUNhY2hyT2VuZjZIdWd4TVNhT1VhY0NRWWV0VHVsZjlwS3pGdkxLLUJJS0JtNDJxaFVzNQ?oc=5",
+          "pub": "Thu, 12 Nov 2026 19:55:35 GMT",
+          "source": "Yahoo Finance"
         },
         {
-          "title": "Nvidia's stock falls after CEO Jensen Huang’s resignation — live updates - MarketWatch",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZ0pLZEJtbkdwOG9XNncyYy0tX3VTcmx0VVdGeDZURkhHU3ozS2kwOG1QOUt3cXo1NmZpdi1fdDhBc1lWVkRSaUZpaS05WS1WVkpDSXNOVk5lVGpad3RNRlQ2QzZId3pBUVVodElrNC16MlZYQzJ2c0J6QlVvTHIxVEN3?oc=5",
-          "pub": "Thu, 12 Nov 2026 23:22:00 GMT",
-          "source": "MarketWatch"
+          "title": "Nvidia Stock Shock Puts These AI Infrastructure Chip Shares In Focus - Yahoo! Finance Canada",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSGJwaGlFaHdoRlkyak8zUFBjSmhrVVJxQnIzOGt0N0tsNThnUlM2NGYySmJxVFp5Tnh1ZDdJckhPQTI3ZC1nSDhYeGFjamdhUWN4ZC1KREI3bEt6dloyMVEzS1VEaDQ2OE03ZklZbXJYMTVuUGxLSFV2YkZ6cTh1Uw?oc=5",
+          "pub": "Fri, 13 Nov 2026 00:20:00 GMT",
+          "source": "Yahoo! Finance Canada"
         },
         {
           "title": "Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him - The New York Times",
@@ -43,12 +43,12 @@
     {
       "symbol": "META",
       "price": 623.61,
-      "prev_close": 628.77001953125,
+      "prev_close": 641.3900146484375,
       "high_52w": 779.8200073242188,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -0.820652920935511,
+      "day_change_pct": -2.7721065564425995,
       "drawdown_pct": 20.031546492403944,
       "name": "Meta Platforms",
       "news": [
@@ -81,12 +81,12 @@
     {
       "symbol": "AVGO",
       "price": 364.36,
-      "prev_close": 345.2200012207031,
+      "prev_close": 331.9800109863281,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 5.544290224094075,
+      "day_change_pct": 9.753595982321173,
       "drawdown_pct": 26.39191919191919,
       "name": "Broadcom",
       "news": [
@@ -119,12 +119,12 @@
     {
       "symbol": "AMD",
       "price": 585.3,
-      "prev_close": 552.9000244140625,
+      "prev_close": 515.2100219726562,
       "high_52w": 658.52001953125,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 5.86000617747728,
+      "day_change_pct": 13.604156564924816,
       "drawdown_pct": 11.118875259611663,
       "name": "AMD",
       "news": [
@@ -141,9 +141,9 @@
           "source": "TipRanks"
         },
         {
-          "title": "Lisa Su Just Delivered Fantastic News for AMD Investors - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPT2R4dElOVkdNdkU0X3NMQ19nbHVUM1FfNnVnYWRfSGhUY3FWaW0wVFlaQWZlVXVkYU05UWpfekozZWxZaDYzdHc5XzdFdTVmaF9KRklKRHh0UE9mLXhKbXVKQkZsMWo2OGtxai13a0RUaU1MR3hrb1RIUEd2TUc4Mlc1QTZuVmMwaXdZX1dxMUdlaG8tS0hNbUhiNV9JQQ?oc=5",
-          "pub": "Wed, 11 Nov 2026 21:46:00 GMT",
+          "title": "Why Advanced Micro Devices Stock Popped Today - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMWRENGltcGVObDltYWVFeE1hN3NRdXZTNG5LQ29zTHlhQV9WRGsyTWI2SE92VjlFcl9pZkdjQzhSVjl4dFBfNVRWakIycmgxU0hqSGlyNVhtZzlyS2FNa2EyVDljamk1Nk9GbjhZWGI3TjROamJ1WWJSVFNFWjI1MWZqazBFd3NvM0VJU2k4ZTUxaV9XYXNRcVlNYVJ3Zw?oc=5",
+          "pub": "Wed, 11 Nov 2026 17:54:22 GMT",
           "source": "Yahoo Finance"
         },
         {
@@ -157,12 +157,12 @@
     {
       "symbol": "RKLB",
       "price": 64.07,
-      "prev_close": 66.1500015258789,
+      "prev_close": 62.709999084472656,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -3.1443710928187723,
+      "day_change_pct": 2.1687146155039265,
       "drawdown_pct": 57.56953642384106,
       "name": "Rocket Lab",
       "news": [
@@ -171,6 +171,12 @@
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNLXd3MHVuX1FWaGpzd0tSZzlhalN1bC0wZGsyWDJ5dmVzMGFyS1R0U2wweWd6ZUZPcS13bWZKOFRsWGFvU0VQOEMzY002Nnh0OEpKaUVzM1NGSVMtdGRhdGNjOEpvMk9sV1YwQUJxRk04MWtfd3JpQXBkYzlCbjJ1SGpSbnpsSmhKdVIwSkhHeVcyU0NxeDhNVGN3?oc=5",
           "pub": "Thu, 12 Nov 2026 15:49:29 GMT",
           "source": "Trefis"
+        },
+        {
+          "title": "Berenberg Raises Rocket Lab Stock (RKLB) Price Target. What’s Driving the Optimism? - TipRanks",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMHUtSk9LNjFHT1hqdzlOT1FPT0ozekFsNXRzcUZZSTVDaWZfREZuM1NIaXp0NnlxRWJ0ejU4Q2ZnWTh6VU5Ta1AyVkpOeS1FT1NJOTNzQVlDR2lkb1BxdXF3anRNYjh3ajFqV0N5ZHhKWjR0X2s2TzkwOEVDbVJ1Q29jZUVfcWFSRnY0MzFUSmZBY2JWTW1zaENSOVZLUHp4My0xVWRwUGdBN0ln?oc=5",
+          "pub": "Thu, 12 Nov 2026 18:22:23 GMT",
+          "source": "TipRanks"
         },
         {
           "title": "Rocket Lab Backlog Went to the Moon. The Stock Is Down Anyway. - Barron's",
@@ -183,24 +189,18 @@
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOakxSUzRjZVpXMEJ5SlRNQ3ItR0pYTTh3aXY5dFRzRkNnRkp0RmZMdDdTUXhFQmZ1dlpZWXhkX3UwSGc2VUJfdlFNWFdKTkNPOFVBWGw4WmVhRXJUOTJHWGljTEZPbUpiLTVYM0JacnpRLUVEejJtekR6ZHQwb19WTDRWaVJnVF9jZnc3VnBDVThWc1ZlWVhPdmZ3?oc=5",
           "pub": "Thu, 12 Nov 2026 18:31:57 GMT",
           "source": "Yahoo Finance"
-        },
-        {
-          "title": "Rocket Lab Stock Surges 50% Despite Wall Street Cuts - Rocket Lab (NASDAQ:RKLB) - Benzinga",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaG5pZ0JjNWx2OFVzN1N0QTZvd1h1UHctdzRETmlHVGZJX093WTBfbW1GMHQ3eFpnMjgwcGhKOEwwSVoxMGhYSjE1eXJNZFdiWEVjU1RWbHZ2ajFDVXFfeUJWdXBUT0s3NkJFeHRWLWotX0EzYWdKb0JtblduVlZ2UzJ5YmpOSjNMTmlDNXJlbzRNbHpadlBuQ3lWQXNCRlU?oc=5",
-          "pub": "Thu, 12 Nov 2026 17:55:58 GMT",
-          "source": "Benzinga"
         }
       ]
     },
     {
       "symbol": "IREN",
       "price": 19.48,
-      "prev_close": 20.84000015258789,
+      "prev_close": 19.729999542236328,
       "high_52w": 70.70700073242188,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": -6.525912392659013,
+      "day_change_pct": -1.2671036393140793,
       "drawdown_pct": 72.44968702078226,
       "name": "IREN",
       "news": [
