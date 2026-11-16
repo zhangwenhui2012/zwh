@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-16T07:30:36.443473+00:00",
-  "updated_at_display": "2026-11-16 07:30 UTC",
+  "updated_at": "2026-11-16T08:00:43.964474+00:00",
+  "updated_at_display": "2026-11-16 08:00 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
@@ -21,6 +21,12 @@
           "source": "Yahoo Finance"
         },
         {
+          "title": "Jensen Huang leaves Nvidia with a $132 billion stake — here's when he can sell and why investors may not know when he does: Chart of the Day - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxNVjJKRThIRnJiTkxmT2NTMlJKbjhMWXhOSlhVcWRDUFNwYXRwUUlwRzJYZ1lJWFpqOVk0RUFqTFRtdmY3cVNscUxMRDVyVFFnLUxfdFoxX29KeW1iODB1d0cwVlVObjlIU3RvaUdDMFpJUzd5OXhfZUZCWkhKZkFRMEl6M3o2S2tIbkVVdngzVE5wcDR2d0Q4eWFqVXZScGlPQmFTTTNsdExXNWNDZXlXdF9UQ3ZfX3lweU1aMU9FOWthV1pYNEJabUNvb0Fna2dnM000dUdJbEFTOWU4UHhtZTExU1VqSi00V2EzUWwyemk3R3FlN3pEeWo1Uy1nU0V5ODhSMlh0SG1pMXpZS2FYLUJ1V1FtLTZDSnFOS3RB?oc=5",
+          "pub": "Sun, 15 Nov 2026 13:07:32 GMT",
+          "source": "Yahoo Finance"
+        },
+        {
           "title": "Nvidia Fallout, Anthropic Listing Squeeze Asian Chip Stocks Anew - Bloomberg.com",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYmRRVXFPS1V5SllmWC10cU9wblRCS1BaOGxBaXZLZ29PclFjZkZnQWd6T010SUFhSVdBQ0ZYLWw5Qno2TDhzSDE4RHBlUUVoaU9DZEdYSmphMjdUUFFiR1JrVmhsSUhkZmNfSkgwQzhXQkFlRWMwU1NIX0VHNUZSZFNrcFhxZWRjTDFSWmItemxuSE8zbXp1ZFBnV0JKVC11ekZoSnhPTzZhZFlPdEttb2V3WjA?oc=5",
           "pub": "Mon, 16 Nov 2026 06:51:00 GMT",
@@ -31,12 +37,6 @@
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRFNsUFVMbG9uamlXY1BYLXA4X25meGVsMk1NM0lwODd5bXNYMWRudmJZODFTOFVxQkJUbkgtNnJZMDhIcnRNYl83bFVNTVFCb3pGaUhNY2U4V1JnNHRmT3pheElXWnpuZWZSV0t4ZFFLNFpMZ21OVVdCU2JtS0NTXzVPdFpmYmwtMnZBd2dVQlcxRHVLWFBDNlRKXzU5bGxx?oc=5",
           "pub": "Mon, 16 Nov 2026 06:44:00 GMT",
           "source": "Business Insider"
-        },
-        {
-          "title": "Stocks decline in Asia as concerns over the Nvidia fallout persist - KSAT",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOWh0UmxrODJzdENkS1ZfakFjaFpBUlN0V2ZHNFJYNGVhODk5UllCcGhzT2E0OHJhRnI5dko5TUtTMnNOMVVocEtrNlZCbUZUZTVLV3E4Ty1fUkpRZWJSUEVpN0NjN0Z3eGNpa0g0aFpXS2U3YjNwOERmdHpPczZXdjVtVXNEUlZxWTN2U3VmUTdRVTlseENkSE1jYmtNTHVSbWRUT3lvaTF1NWRp?oc=5",
-          "pub": "Mon, 16 Nov 2026 07:10:17 GMT",
-          "source": "KSAT"
         }
       ]
     },
@@ -232,14 +232,14 @@
     },
     {
       "symbol": "MILDEF.ST",
-      "price": 241.6,
-      "prev_close": 238.89999389648438,
+      "price": 243.4,
+      "prev_close": 241.60000610351562,
       "high_52w": 266.6000061035156,
       "currency": "SEK",
       "yahoo_name": "Mildef Group AB",
       "exchange": "Stockholm",
-      "day_change_pct": 1.1301825753438632,
-      "drawdown_pct": 9.377346410790633,
+      "day_change_pct": 0.7450305674715744,
+      "drawdown_pct": 8.70217763404983,
       "name": "MilDef Group",
       "news": [
         {
@@ -271,12 +271,12 @@
     {
       "symbol": "IVSO.ST",
       "price": 206.0,
-      "prev_close": 205.0,
+      "prev_close": 206.0,
       "high_52w": 332.0,
       "currency": "SEK",
       "yahoo_name": "INVISIO AB",
       "exchange": "Stockholm",
-      "day_change_pct": 0.4878048780487805,
+      "day_change_pct": 0.0,
       "drawdown_pct": 37.95180722891566,
       "name": "Invisio",
       "news": [
