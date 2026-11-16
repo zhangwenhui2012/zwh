@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-11-16T16:30:38.891404+00:00",
-  "updated_at_display": "2026-11-16 16:30 UTC",
+  "updated_at": "2026-11-16T16:37:12.381599+00:00",
+  "updated_at_display": "2026-11-16 16:37 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 159.92,
+      "price": 159.54,
       "prev_close": 162.85000610351562,
       "high_52w": 243.37,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -1.7992053998777124,
-      "drawdown_pct": 34.28935365903769,
+      "day_change_pct": -2.0325489588324777,
+      "drawdown_pct": 34.445494514525215,
       "name": "NVIDIA",
       "news": [
         {
@@ -42,14 +42,14 @@
     },
     {
       "symbol": "META",
-      "price": 631.0,
+      "price": 630.225,
       "prev_close": 641.6900024414062,
       "high_52w": 779.8200073242188,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -1.665913821430056,
-      "drawdown_pct": 19.083891914348534,
+      "day_change_pct": -1.7866886499378047,
+      "drawdown_pct": 19.183273822060706,
       "name": "Meta Platforms",
       "news": [
         {
@@ -80,14 +80,14 @@
     },
     {
       "symbol": "AVGO",
-      "price": 336.6,
+      "price": 336.28,
       "prev_close": 347.010009765625,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -2.9999162769558234,
-      "drawdown_pct": 31.999999999999996,
+      "day_change_pct": -3.0921326370015128,
+      "drawdown_pct": 32.064646464646465,
       "name": "Broadcom",
       "news": [
         {
@@ -118,14 +118,14 @@
     },
     {
       "symbol": "AMD",
-      "price": 513.95,
+      "price": 512.19,
       "prev_close": 534.0599975585938,
       "high_52w": 658.52001953125,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -3.7654940737978344,
-      "drawdown_pct": 21.95377744691168,
+      "day_change_pct": -4.095045062084856,
+      "drawdown_pct": 22.221043429387475,
       "name": "AMD",
       "news": [
         {
@@ -156,14 +156,14 @@
     },
     {
       "symbol": "RKLB",
-      "price": 59.47,
+      "price": 59.184,
       "prev_close": 61.529998779296875,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -3.3479584270526725,
-      "drawdown_pct": 60.615894039735096,
+      "day_change_pct": -3.8127723481870777,
+      "drawdown_pct": 60.805298013245036,
       "name": "Rocket Lab",
       "news": [
         {
@@ -194,14 +194,14 @@
     },
     {
       "symbol": "IREN",
-      "price": 16.449,
+      "price": 16.505,
       "prev_close": 18.170000076293945,
       "high_52w": 70.70700073242188,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": -9.471656956894018,
-      "drawdown_pct": 76.73639126308252,
+      "day_change_pct": -9.163456627973494,
+      "drawdown_pct": 76.65719118470284,
       "name": "IREN",
       "news": [
         {
