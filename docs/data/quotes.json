@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-16T23:30:36.466454+00:00",
-  "updated_at_display": "2026-11-16 23:30 UTC",
+  "updated_at": "2026-11-17T00:00:47.955511+00:00",
+  "updated_at_display": "2026-11-17 00:00 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
@@ -13,7 +13,32 @@
       "day_change_pct": -4.120359749480404,
       "drawdown_pct": 35.84254427415048,
       "name": "NVIDIA",
-      "news": []
+      "news": [
+        {
+          "title": "Nvidia live updates: Interim CEO Kress prepares for Q3 earnings, with Huang reportedly planning comeback - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNdXFsd2l6azZDWWJyWDItT0hudzBhMUloOWF4V3FMV1ZlTUhsODg4d0RoY1ZuaXNJeExyWFNjallKQ2wzcW13ektmSzdwTjFYeUxrUkp2T3lPTG5raHY4Q0FEcWhnTmxCLXVYd2hwU05UOXdKcXFobjhRZFpXS3VqQmhsS0pGMFhQY1ZzMW9LS3ZvNGU4bTlJVDdXSTRWYkljem1mSUp0ekNsWWREb0R6OGZnYnM1YzBJTWlFTU1vZG1ubjV5Q2lkZTE2M3JrSWRQam0wb20zZ0Jad1Vud2FaX1Q4NjlncDRIbHQ2Mk5tYjM?oc=5",
+          "pub": "Mon, 16 Nov 2026 22:21:41 GMT",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Trump’s stake in Nvidia grew to as much as $62 million before scandal broke out - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPalJ6aGJjaVBRcGpoZmx6WmJ2RFloSnFJdDJWMmlTOG5qS2ZTTTdVTUZhenF6eXoxNEtHRHhJNHFDb1NKNEhGOGY3UjV2dVI2eHdiZmVnb1BEWVdXRTY1NjRFbm0xdUJnQzY5QlZTWnZuQ2FKQ1VqeExkSWtDR21qQkpNcVhFRll0VnN2eGNjMm5uWTJLSEkzTENCVmRyVG5rWGppSnBDcC1ldlZFanpsOXhQblFkSjZU?oc=5",
+          "pub": "Mon, 16 Nov 2026 18:00:00 GMT",
+          "source": "The Washington Post"
+        },
+        {
+          "title": "Trump’s accounts traded up to $97.5 million in Nvidia as Huang gained White House access - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRTBVdnBsa3dsRmN0X3c2YjR4REozem9ZUW5UcGx4WEdMTS1qYUhjbjNRU3J5UE81VjhPR0Q4cUV1UFBVSlUzSEtwTW5saFh0QTE3ZkJkZXF1V013cDFMaTNXRThwT2lBdkF0aVdxZXlIRXc4cFR4WXJjOTNMZUJZMtIBhgFBVV95cUxQMGFndkM3RUMtUkFEVDRPZmZmTHZVdXlVbl9GQ1RWY3dsMUhSVzE5SjNGcVJOLUVJb2szbmNudy1oZUVScGhoQklaUzdPV0hpTmZvYktWUFpBLXhVMnV3WG5PVkdIdTFDU1NKQ3o5al9TM1Q5VDE2Ul9GUFVEQWIwWUUzcFlTQQ?oc=5",
+          "pub": "Mon, 16 Nov 2026 21:52:33 GMT",
+          "source": "CNBC"
+        },
+        {
+          "title": "Trump Held Up to $83 Million in Nvidia Stock Before Price Dropped - WSJ",
+          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOdVdJMVc5Z2VFMkxZZEFtQ1ljcjl6NF9RR3U2Z3JLUjlMVC1rMjBlLS1NeExvdU9MZHVBcC1DaGZsd2lQOGt4dEQ0cG1va282emprTUUtaTRVdU1xbDNoRkFaakE1bkNtNGtJaThoVktJNmpyOUI3N1hmNFlBS1ZuYnE1aTNFMFZFQVVISHhDYWdzd21uZVFicHhGSVRRb29jRWJwMWtKRXJvSnRlOWN6Nk1ISkg4S3l4VnBERzVqWmkzeVZmYk1SZE9fQVBoZ0ZlNG5JdTFkN2c2bm1oUFM1VGNpMmJGcFBwVWF6SWNQaE1GTzk4bU11MTJXRFhta1gt?oc=5",
+          "pub": "Mon, 16 Nov 2026 20:17:42 GMT",
+          "source": "WSJ"
+        }
+      ]
     },
     {
       "symbol": "META",
@@ -78,16 +103,16 @@
           "source": "The Motley Fool"
         },
         {
-          "title": "Broadcom Stock Jumps as Nvidia’s Leadership Crisis Raises a Billion-Dollar Opportunity for Its AI Chip Business - Barchart.com",
-          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOakJ6UHRvMjNXS2RoaXRvdWdYUXJmMmdEYnM1aGZOWTJGNlpITEVmcU1SdjNVZDlONHB6eDZxazdla1VVYUNvRzQzY1M4eXM2dzBEaTNCQXRyRDNaYUdjNmo3al9PanBJRXQzN2dOWnk2cG1fUHpqT09nR3pGSGJWdWRrMm9ySWk0eWhCU1NHbm5OTzdISzJXeVVJZDVKSVR3SEQxY0E1VUx2RDBfZ3FpLXRaWU9sNGVIQ25uMjJYcDlkYmphUVdGazVTWVQ0OXI2b2kwYjluVFh6S0FMU3lfOXdudzRqTjVhbVE?oc=5",
-          "pub": "Sun, 15 Nov 2026 14:25:25 GMT",
-          "source": "Barchart.com"
+          "title": "AMD Will Capture More Market Share Than Broadcom to End November as Nvidia’s Leadership Vacuum Persists - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUWt6bE5VOVU0bU5ValJNODBLdXl0T3U5Z3d3WGpadzdobEZWbkRfS2VSUnRsUElUMVNDelF4LXpSbU9ROEZPcElTV0VDcUVrZk15a3VfcVMyNzZYUjlGbktBZWw2UTdEcUpJVEpQeWRnM211b1pwcVF5a1VkVWlSUDR2eGVLU0V3dGdKZFNKSGtNZnI0S2xQdG5n?oc=5",
+          "pub": "Mon, 16 Nov 2026 17:45:52 GMT",
+          "source": "Yahoo Finance"
         },
         {
-          "title": "What's Going On With Broadcom Stock Monday? - Benzinga",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZExEWlRSemZHajB3RkZzaHRZOVpxWW5veXZVVlk2Q0ZOY21kMHhPbV9pbkt0OE5INmktakpadVczeVNiMVVEZmdYakZUSm05cjlNWG5RNnVzOEozMENyLWp2bmpaYkRjN3hqRVZGT0JTZklkQ05LVnA1YXdHdjhIRGFmUzFnb3MwNVpxVDc4b3pRSUs3dS1fTDBTdU5fQQ?oc=5",
-          "pub": "Mon, 16 Nov 2026 14:08:16 GMT",
-          "source": "Benzinga"
+          "title": "Broadcom Is “the Best Play” on Nvidia’s CEO Exit, One Investor Argues. The Reason Is China - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM2tnd0pjMGJhdDZkTkRQa3BDblVIQzZCdlo4LWF3M0RPOXdrWnl6X1VTY0RmMXpuM2dQa0ZiYTFUN0pMcVdtbHZpbWlGcl9ublhOSnVrVkNWcmdNNUthZFJCLV9Tb3dJelByLVJTQV9oTXJMUHF3cFhOZXZjSFl1UzB5Z3JWUGxzUWh1WEFvVFNybmYxN2hacVN3?oc=5",
+          "pub": "Mon, 16 Nov 2026 23:12:59 GMT",
+          "source": "Yahoo Finance"
         }
       ]
     },
@@ -117,8 +142,8 @@
         },
         {
           "title": "Now That Jensen Huang is Out, Should Investors Buy AMD Stock Instead of Nvidia Stock? - The Globe and Mail",
-          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPdWU4cnBJSjNIWXJYWm5KOVFIZUdZNUhiRDI4OS1RdGFKOUVRMmNMeXNFY1FadnUwYUpJT0VYSlQwbXc4RjMyc3JLWHJQUGRCZlZJNDBUdEx3ckZlNUhNcDl3S0l0cmRxNzFCTGJSbWhUWWtoYkF5ektRQmtfLUJhVXBhSnV5bDlWOTNjaFJTc3BabjFNR3ZLb1RCVE1wWmFKVFFad05NalVpUG1CMUptMU5DU2lHMFJTSS1RdjdHaGJNZTdFZ0lwWU9hbG96enVvZnRMZml5TjJQUkt5QVpMdTNHVzA1bmZFdmFkVmx2X09Db1pRdGJFZFphME9WUlE?oc=5",
-          "pub": "Mon, 16 Nov 2026 22:50:48 GMT",
+          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOVjluM2FTYThjN1hZNnVpZWtCUmFCV0hJWUpPWW1VR0hLQ3A1ZE5fODRONlFkTEY4VG5yMUNrMlhqSDg0OUNoSWdlT1ZTa29RRzF0QW1ERDl2cEhkNWdZelUwMEZTdUMtNFNBSUp4Z1lWWXRCZDRpc0I1NzByV0wtOHBsbFYwa3JOT3BKb1Q2b3dqSXd0YTM4djZKS19lRmdKckRrQ1ZWZmdPLW5sZ0lkaWg1TDk4a3BNSk55RGx4LUNnemVTWGtSLUttMm1QVmFJaDdEaFFYZHkwUlhEZFZ6NzBob0pJZUNaZjBRVDJ4dk9JYXR2STRmRC13VQ?oc=5",
+          "pub": "Mon, 16 Nov 2026 22:59:35 GMT",
           "source": "The Globe and Mail"
         },
         {
@@ -256,18 +281,6 @@
       "name": "Invisio",
       "news": [
         {
-          "title": "Earnings to Watch: Invisio AB (OSTO:IVSO) Q3 2026 -- GF Value Sees 71% Upside - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOenFPUDBLWDNPNUFvQlpNVUVsWmt1WHpRaFlldldlT0RTc3FMdGRiTjJpNFY5OWpCZmhHZnFyemt5OHNIc3U4OWN1bVNOeENTRV92QlBNdnRMQWthbVJKTkM4VTUwRUlPbFRzUHJzbENzQkVBb0E5WGlsQmZRNGxQbFhQVVV4c0Y3OHk4dEUwUlhXT19oQ24wRHRybw?oc=5",
-          "pub": "Fri, 30 Oct 2026 07:00:00 GMT",
-          "source": "Yahoo Finance"
-        },
-        {
-          "title": "Earnings To Watch: Invisio AB (OSTO:IVSO) Q3 2026 -- GF Value Sees 82% Upside - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeTFwVXhMcnIxWDhPbDdJeEExX2t4RFJtbFRGdnZHalllWUpRSFFTWnlOaE51bk9nd0lIMXNTSFdVa0tmSVVkSUYyUzVBTkltek9GNXpFM0JkdHd3dkNCZzZjOGpTVEhuOVlEN1BlNjYtSV8wRnAtaWVkTU40eWdFWlZWeTVrMHV3YzgxMVV0MzNETnU1TGVtU3MxTQ?oc=5",
-          "pub": "Thu, 29 Oct 2026 07:00:00 GMT",
-          "source": "Yahoo Finance"
-        },
-        {
           "title": "Invisio loses public short seller - www.marketscreener.com",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcWlIWTYwWnFBaGg1X3U0U0RJUkpNRWxBWmJxaDNncmNSVFRBeVM4TkdHaHphdVN5cUVydmZxMjh0NEVsbXJQR2FIeUtSdzlsNU52WU5fUU42T1NLOW1BMHhLUC1uNFNWNEpMNWo2azBhOFhyNVNIbnZwWUhuOG5lWXJvTHNCR3VPVVlhUDBHSQ?oc=5",
           "pub": "Mon, 16 Nov 2026 10:23:18 GMT",
@@ -278,6 +291,18 @@
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPby1MMzNzbThrZE5QMjVOZ0NNa1RkcExXRTFNS1N1WS1RYksxOEYyWUd6SGU3QUVpNzVWcl9admJBcEh5RDFZSGJIRkZmQzhjSGR3eXdsQlNwYlZwd3ZZbHI5UHJkeWZsc0hnTTN3OHBwOE80eW5zd3F1M0NVTzgzM0tFenE2eFg5VTRsZUp4UFgwMVBTWFBkcFdyOA?oc=5",
           "pub": "Mon, 26 Oct 2026 07:00:00 GMT",
           "source": "Yahoo Finance"
+        },
+        {
+          "title": "Invisio (OM:IVSO) Stock May Still Trade At A Discount To Cash Flow - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNUhlR3g0cmtST1VtWTJIcUVEazIydXZLQjZKLUx4M2NjQURSMUZ0MHl3MDNfSEJEeE96bUgtdldXTV96VjJqb25XUXkyMDdTZ2xrRm4yMWlFOXIyREdkSDJCQ2k5dm1GQUxhdmhjLWRvZXhHbWdTVTgwTzNxTkRxbll0QlNLTmlIQm8yYWRjVjcwZzlQ?oc=5",
+          "pub": "Sat, 17 Oct 2026 07:00:00 GMT",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Did Earnings Return Just Shift Invisio's (OM:IVSO) Investment Narrative? - Simply Wall St",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVms1TmIyT3lfdy1oTTE5OXc5V1FQOGJtQ29oOHNXNnpkVm5hMUJDT01GeW1ON01na0dDdzJqb3RQS3NZQkR4TGtEWkFPbHN6SnVVSG14aGJWdlBqYktVNV9ZNjdBUEJaRkh6V1FFN1IyRnItVzdvY1JVeVRDX0tPbHc3LVpCVV9FR1RQM0xLa3VfY1ZXY3hsV0pqQjVaZHpTNVRKc1ZmNEdLR2pvWTVPYzBUSzJ2VWM5UGdwR1FydmJqa3BldWIyZ1dJRmtRVndi0gHWAUFVX3lxTE5jWUlSUmwxM3JjYTdiSjZCRXFDSl9DX1RUVGN6elZqcHJLbzJ3V0dkUmUtOGpUOGRLbDRhMC1XdEEtTzM4blZ5c1VuT3dDLTZvVl9GaXhUWURFbEdaa1JDUnpGUzBuYWlDTmxES0RtaFNnV3pleXFod0JXQkt2Q1psc05pMDQ2NHQxUnhYcGt4U3BPRjVMS254Qnd1M3dhZ3dBQzNBRDVmdUZvNjVXRjVtSlBQSGRGMlZVeUVoMk9ZZURZS3VuTXV0cXlSZXVkdHhMY0lzOWc?oc=5",
+          "pub": "Tue, 10 Nov 2026 14:19:23 GMT",
+          "source": "Simply Wall St"
         }
       ]
     },
