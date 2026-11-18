@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-11-18T16:00:48.792687+00:00",
-  "updated_at_display": "2026-11-18 16:00 UTC",
+  "updated_at": "2026-11-18T16:03:32.581048+00:00",
+  "updated_at_display": "2026-11-18 16:03 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 153.06,
+      "price": 152.47,
       "prev_close": 155.4600067138672,
       "high_52w": 243.37,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -1.5438097325471827,
-      "drawdown_pct": 37.10810699757571,
+      "day_change_pct": -1.9233285634487736,
+      "drawdown_pct": 37.3505362205695,
       "name": "NVIDIA",
       "news": [
         {
@@ -27,10 +27,10 @@
           "source": "Investor's Business Daily"
         },
         {
-          "title": "3 numbers explains why Nvidia stock is rising despite no Jensen Huang on the earnings call - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPNTZwdUdDSDBpNmVCdFJEWDVXTUJRall1Y2Z5NHpheF9QUm9jaFloU2xmVWZBenBwQm9XZHJ1LXhlaWlnRW0zQ0ppVTVTVHAxYnRSZnoxNUxpXzJ0QmpwTFVDYW9HdDFMb241Z3VTTmJSRDJHZDhLZWhxY3Bxb2s0RDBXRHA0cTN1SW15dmd4YVpGaTB4UkRxTEVMUVBYb3JDLTdqbHhYZDl5UEZlMjhLeXNXWlhsMmNfc1NYOHlkc0FXV256V1U4VVRMVV90b0J1X3Y4bm42c2FfV3haaFY5bUVTUWxjR2xyb2c?oc=5",
-          "pub": "Wed, 18 Nov 2026 10:54:46 GMT",
-          "source": "Yahoo Finance"
+          "title": "Nvidia Stock Is One of the Best Deals on Offer With 1 Big Catch - Barron's",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9td0NBTERZZTlYUl9Wb1VQcURvejRzNk41ZGk3bWdNU1ktQmdHNEFaUWV3WlNiWEFINUNqMTZTQTdHWjNmLU1uYlBhTlhDbzRNZFg4bll6YjFqZjdDeld2b2tEVFR5YlZEREw5OHUzS0hrYmlTVUE?oc=5",
+          "pub": "Wed, 18 Nov 2026 15:14:00 GMT",
+          "source": "Barron's"
         },
         {
           "title": "CoreWeave, Iren, Nebius shares sink following Nvidia earnings - CNBC",
@@ -42,14 +42,14 @@
     },
     {
       "symbol": "META",
-      "price": 614.0,
+      "price": 612.88,
       "prev_close": 618.8699951171875,
       "high_52w": 779.8200073242188,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -0.7869173098730262,
-      "drawdown_pct": 21.263882148034867,
+      "day_change_pct": -0.9678923141286331,
+      "drawdown_pct": 21.407505034018907,
       "name": "Meta Platforms",
       "news": [
         {
@@ -80,14 +80,14 @@
     },
     {
       "symbol": "AVGO",
-      "price": 354.9,
+      "price": 353.55,
       "prev_close": 341.6000061035156,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 3.893440766641565,
-      "drawdown_pct": 28.303030303030308,
+      "day_change_pct": 3.4982417104709183,
+      "drawdown_pct": 28.57575757575757,
       "name": "Broadcom",
       "news": [
         {
@@ -118,14 +118,14 @@
     },
     {
       "symbol": "AMD",
-      "price": 511.784,
+      "price": 509.805,
       "prev_close": 503.4100036621094,
       "high_52w": 658.52001953125,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 1.6634544957337147,
-      "drawdown_pct": 22.28269683216315,
+      "day_change_pct": 1.2703355696886343,
+      "drawdown_pct": 22.58321920677656,
       "name": "AMD",
       "news": [
         {
@@ -156,14 +156,14 @@
     },
     {
       "symbol": "RKLB",
-      "price": 54.115,
+      "price": 54.0,
       "prev_close": 55.04999923706055,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -1.6984545867733423,
-      "drawdown_pct": 64.16225165562913,
+      "day_change_pct": -1.9073555887602456,
+      "drawdown_pct": 64.23841059602648,
       "name": "Rocket Lab",
       "news": [
         {
@@ -194,14 +194,14 @@
     },
     {
       "symbol": "IREN",
-      "price": 15.38,
+      "price": 15.305,
       "prev_close": 15.805000305175781,
       "high_52w": 70.70700073242188,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": -2.689024340205817,
-      "drawdown_pct": 78.24826418786608,
+      "day_change_pct": -3.163557706557226,
+      "drawdown_pct": 78.3543357214103,
       "name": "IREN",
       "news": [
         {
@@ -232,14 +232,14 @@
     },
     {
       "symbol": "MILDEF.ST",
-      "price": 235.3,
+      "price": 235.5,
       "prev_close": 237.3000030517578,
       "high_52w": 266.6000061035156,
       "currency": "SEK",
       "yahoo_name": "Mildef Group AB",
       "exchange": "Stockholm",
-      "day_change_pct": -0.8428162773017654,
-      "drawdown_pct": 11.74043712938342,
+      "day_change_pct": -0.758534778174955,
+      "drawdown_pct": 11.665418376412225,
       "name": "MilDef Group",
       "news": [
         {
@@ -270,14 +270,14 @@
     },
     {
       "symbol": "IVSO.ST",
-      "price": 205.4,
+      "price": 205.2,
       "prev_close": 200.0,
       "high_52w": 332.0,
       "currency": "SEK",
       "yahoo_name": "INVISIO AB",
       "exchange": "Stockholm",
-      "day_change_pct": 2.700000000000003,
-      "drawdown_pct": 38.13253012048193,
+      "day_change_pct": 2.5999999999999943,
+      "drawdown_pct": 38.19277108433735,
       "name": "Invisio",
       "news": [
         {
