@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-18T10:30:37.281154+00:00",
-  "updated_at_display": "2026-11-18 10:30 UTC",
+  "updated_at": "2026-11-18T11:00:47.724974+00:00",
+  "updated_at_display": "2026-11-18 11:00 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
@@ -15,9 +15,9 @@
       "name": "NVIDIA",
       "news": [
         {
-          "title": "Nvidia earnings live: Nvidia posts Q3 beat, board says it will not reinstate Jensen Huang as CEO - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOSXZmeGxteXhISDdpYWJ5RllBWVZCeHVZRE1KUWdfVW1QemtGbXZVQ2QyZFZzMWV3dUMwcEkxdzZVelc3M28wMnR3QTFNSFo2SDRsMGtzNE96NjhMUXZQZEsyVHB6OGhvVTRoTDFPeUQ2bk9VekF4STZNZWxrWmp3MXRmbGdubUdJZmdaMXR3UGZRUDJhV3oydm5lbUdHR2UzR0p2LWhMTHZKeWFXbkpOdG9Ia2dNcVpiRFlDR1pGSEtLOW5aVDUzemM1ZnBWbTBFSTIyX0VVeE9XRWg0VjFjd0I3N19HVGpZdHRVcEthbHFPblZlM1pHUmwyQnVXV0JpeXVn?oc=5",
-          "pub": "Tue, 17 Nov 2026 22:13:38 GMT",
+          "title": "Nvidia earnings live: Nvidia posts Q3 beat as revenue rose 103% YOY to $115.8B, board says it will not reinstate Jensen Huang as CEO - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTGswLW45X25uQXNodGZiZnNWeFk1dTdSWm5SRktfUXBTaTY3QlA2dFR3U3hFNnpDX2dwa3VHYllDS3Roa1VyWGFEMk16alc1dHRXR1p0eUVsRk1LMEliNDJyYlJIczVmam1OT25jMjRKbUZ2UE05bGtKLWUtdldySHpvOWMyRUdmenJUaFk0eTYtalRlZll0RkkzdGdzcnMwYkR1eWpKZTdqU3VRYXpLY1BSU2MwM04yMEJmbW9YOWZvZlRleUpqd3BseDhrTE5GVEFNN0FTM0hjUjdDTFBGUUQyOWVfUQ?oc=5",
+          "pub": "Wed, 18 Nov 2026 09:18:52 GMT",
           "source": "Yahoo Finance"
         },
         {
@@ -232,14 +232,14 @@
     },
     {
       "symbol": "MILDEF.ST",
-      "price": 240.6,
+      "price": 239.7,
       "prev_close": 237.3000030517578,
       "high_52w": 266.6000061035156,
       "currency": "SEK",
       "yahoo_name": "Mildef Group AB",
       "exchange": "Stockholm",
-      "day_change_pct": 1.3906434495588336,
-      "drawdown_pct": 9.752440175646631,
+      "day_change_pct": 1.0113767034881622,
+      "drawdown_pct": 10.090024564017034,
       "name": "MilDef Group",
       "news": [
         {
@@ -270,14 +270,14 @@
     },
     {
       "symbol": "IVSO.ST",
-      "price": 207.2,
+      "price": 206.4,
       "prev_close": 200.0,
       "high_52w": 332.0,
       "currency": "SEK",
       "yahoo_name": "INVISIO AB",
       "exchange": "Stockholm",
-      "day_change_pct": 3.5999999999999943,
-      "drawdown_pct": 37.59036144578314,
+      "day_change_pct": 3.200000000000003,
+      "drawdown_pct": 37.831325301204814,
       "name": "Invisio",
       "news": [
         {
@@ -299,23 +299,23 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "IVSO Forecast — Price Target — Prediction for 2027 - TradingView",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1keUhnMUVzX0VnclVQS3Ywd29Ka1hUdVMzRndVV01Qb2xGYllhOFlfb0IyNEk1Q2VGYWViMkJXSVZDYi1FQWdLRzZqQTFlUnVocmdGRDM5ejdhaF9mQWlhaGVDZ29rZE9hdnNzU0FzVnpPX1pENHlDbl9n?oc=5",
-          "pub": "Thu, 25 Jun 2026 19:04:11 GMT",
-          "source": "TradingView"
+          "title": "INVISIO (Investment Case): US recovery lifts Q3 orders, margins lag behind - Inderes",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZW9ZRndHZ3dhNnBwRENrRHNhYnlBVHh3WGxxdkxLaXhRZDhDY1lmSnc0bzg2SVVjVEtYUVRYZGdzSEV4Vm4taGpaU3R5Wi1DWDJSSTdWbi02SkJsTjEyaGtWU1A1dndKYnp6dmI0dUhwNUNJUXpFSHM2ZGNKT2swMWlRUzZXQ1VGSC0wYlhUYWhVMG5TTzlqenY3T184TkxDLXptcUR3bi0?oc=5",
+          "pub": "Tue, 10 Nov 2026 15:04:03 GMT",
+          "source": "Inderes"
         }
       ]
     },
     {
       "symbol": "NORBT.OL",
-      "price": 164.9,
+      "price": 165.6,
       "prev_close": 166.6999969482422,
       "high_52w": 244.8000030517578,
       "currency": "NOK",
       "yahoo_name": "NORBIT",
       "exchange": "Oslo",
-      "day_change_pct": -1.0797822322702582,
-      "drawdown_pct": 32.63888972863478,
+      "day_change_pct": -0.6598662077862698,
+      "drawdown_pct": 32.3529420197812,
       "name": "Norbit ASA",
       "news": [
         {
