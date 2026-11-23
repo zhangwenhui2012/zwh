@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-23T12:30:48.043656+00:00",
-  "updated_at_display": "2026-11-23 12:30 UTC",
+  "updated_at": "2026-11-23T13:00:54.973216+00:00",
+  "updated_at_display": "2026-11-23 13:00 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
@@ -82,40 +82,40 @@
     },
     {
       "symbol": "MILDEF.ST",
-      "price": 241.2,
+      "price": 242.4,
       "prev_close": 233.6999969482422,
       "high_52w": 266.6000061035156,
       "currency": "SEK",
       "yahoo_name": "Mildef Group AB",
       "exchange": "Stockholm",
-      "day_change_pct": 3.2092439664938617,
-      "drawdown_pct": 9.527383916733035,
+      "day_change_pct": 3.722722792197818,
+      "drawdown_pct": 9.07727139890583,
       "name": "MilDef Group",
       "news": []
     },
     {
       "symbol": "IVSO.ST",
-      "price": 201.0,
+      "price": 200.4,
       "prev_close": 197.39999389648438,
       "high_52w": 332.0,
       "currency": "SEK",
       "yahoo_name": "INVISIO AB",
       "exchange": "Stockholm",
-      "day_change_pct": 1.8237113550284358,
-      "drawdown_pct": 39.45783132530121,
+      "day_change_pct": 1.5197599778492494,
+      "drawdown_pct": 39.63855421686747,
       "name": "Invisio",
       "news": []
     },
     {
       "symbol": "NORBT.OL",
-      "price": 161.0,
+      "price": 159.9,
       "prev_close": 159.5,
       "high_52w": 244.8000030517578,
       "currency": "NOK",
       "yahoo_name": "NORBIT",
       "exchange": "Oslo",
-      "day_change_pct": 0.9404388714733543,
-      "drawdown_pct": 34.23202696367616,
+      "day_change_pct": 0.2507836990595647,
+      "drawdown_pct": 34.68137336330322,
       "name": "Norbit ASA",
       "news": []
     }
