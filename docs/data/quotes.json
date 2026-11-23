@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-23T21:00:47.645496+00:00",
-  "updated_at_display": "2026-11-23 21:00 UTC",
+  "updated_at": "2026-11-23T21:30:39.039554+00:00",
+  "updated_at_display": "2026-11-23 21:30 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
@@ -15,9 +15,15 @@
       "name": "NVIDIA",
       "news": [
         {
-          "title": "Jensen Huang reinstated as Nvidia CEO. Stock skyrockets 33% - CNBC",
+          "title": "Jensen Huang reinstated as Nvidia CEO. Stock skyrockets 31% - CNBC",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9McnlkOWZjTEROTXNrdGgtS19oWmNzcTFQSFBwUUdmbzBkOVFYQWY4R2JSdloweTM0V0F1a1gyZExpV2ktdC0zcTExdGxlbVgzaFRGTFR0cjViMTZkeTdyQzMtQ0JYMmJPQUNReNIBckFVX3lxTE00WXNRTHAtbXVYeEpKUVFhaExjRzNtSVg4VWphUk04cWIxOUpRY0VQeWNtdHdCT0Y4dXRZc3pqbDRQWkZ0UFk3S3NVRTFXazFOY3pyLWgwcVZFcWFMZUQ0b2Qzd1dDQjZWV0lGd2tvaDhiQQ?oc=5",
           "pub": "Mon, 23 Nov 2026 13:59:23 GMT",
+          "source": "CNBC"
+        },
+        {
+          "title": "Dow soars 1,400 points; Nasdaq surges 6% in its best day since April 2025 as Jensen Huang returns to Nvidia - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE55Qzd6R1BVMkNsU2hwVWc4OElya24tNzEwcjFjd1NyVkczM2dDTHk2WnNzdkxlR2huZW1IcTgtMDBTUVU3WWxZNW1PeFQyaHgwdGl3LTlaVjV1cEtWa0JSQmNuQ3hnQmViVG5XYndIVEFaRFVEUzJ3?oc=5",
+          "pub": "Mon, 23 Nov 2026 21:10:00 GMT",
           "source": "CNBC"
         },
         {
@@ -27,16 +33,10 @@
           "source": "Investor's Business Daily"
         },
         {
-          "title": "Trump tells CNBC ‘I made the deal’ to reinstate Nvidia’s Jensen Huang - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ab2habU9pTTllNmRCRDdqTjgwQ3hsVFZDX1hhVkJxaVVCWHNhYjRHLXFMaWtnME41NGZ1Z1REMkh1d2Y0NUJGamJSdVJQcV9rZEV1aW9nUlhHQWN1WkFSU3RRMnZrNEpobEp5bVBoY9IBdEFVX3lxTFBXNkNGSW1MaGlybGVOX0YtaVI0YVFfd3NYMi1BenZKN2Ewd1JJT3NMMjdpaElsRF9jSThyVzBHYlg4dUxocjBjYnV1dml4czdrWHR4akNId1g3SVJYa0oyRkdEUHJPMnRUVFpkbUpxWHRtWUxE?oc=5",
-          "pub": "Mon, 23 Nov 2026 15:08:28 GMT",
-          "source": "CNBC"
-        },
-        {
-          "title": "Nvidia’s share price skyrockets as Jensen Huang returns as CEO - CNN",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOREdTMDhsYVhubG5MMzNPeFVyaXRhMy1xZmVOcFdTOWRZVmxQSlpIZTFFNEZUcExNQVEtRXVZanhhYk52ZlpaMnRRcDc3Rk5NR1BPWHJRdVZPOEtVazhtNnUxUWNRQjFmM1draENiMWV2c1M0V0ZCTEJXdy1vVklPZEZoczZfajNmQ0JB?oc=5",
-          "pub": "Mon, 23 Nov 2026 15:00:41 GMT",
-          "source": "CNN"
+          "title": "Nvidia just posted its biggest single-day stock rally since 2003 after Jensen Huang's comeback - Business Insider",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdml1dzBFbTNyWnBYRWtfSGQ3b3lwU2VhQk1VeEdTSFhFYkRZZWw5VW5RV0U3U2E1cGNHZDBwNzlOQUhUUkVUVjRPcUxaOWNDbTg3OHdhNURiNUNLaFdzN3VWR2JEUWgtcmxhWVNxWXkwMU0xcVRTQzhhWHRkMW9hMDl1akU0ZVhRWGJUc2Job09YejJteURxLWpjVzVVbWc?oc=5",
+          "pub": "Mon, 23 Nov 2026 21:03:00 GMT",
+          "source": "Business Insider"
         }
       ]
     },
@@ -129,10 +129,16 @@
       "name": "AMD",
       "news": [
         {
-          "title": "Prediction: These Will Be AMD’s and Nvidia’s Stock Prices by 2028 - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOUZUTmFNWGdrZXVXZkhPTzJhR3g1YXFmN3ZIbGxsWTd6WVZlZTdvOUx1ZVB2OFJiTXRmdFpwN1NET29tMWhCOWxxY29WeGJoSlNXXzVUaXRPOFFiOFlUcnpHTUxPd2VwTGYwU1hQMGZ1YkZvbko2V0RFU1hEVHpDbnVIMmg3Y1FSX2U3enNUNlB6ZHM1bmJxUTg4X1RIeGZK?oc=5",
-          "pub": "Sun, 22 Nov 2026 16:04:02 GMT",
+          "title": "Advanced Micro Devices, Inc. (AMD) is Attracting Investor Attention: Here is What You Should Know - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZkZxQzNLc04tWGhod0c2ZmRjeW9pNHdhekQyOENwZ3A5YjhocURDeFpjUFZSNHNnUzRWQktUcGhZUnlmTGZBdTJVcVBxTFM0bC1DRWJidVlKemJlUktpYTQxTGtsUk1xSUZTRmdFRVhEbDdDakFyWl9YSHZ0NkRnaEszRGpZQ3VXM0JyQUxZUlFjS0ZvUGRkbVM4bw?oc=5",
+          "pub": "Mon, 23 Nov 2026 13:00:05 GMT",
           "source": "Yahoo Finance"
+        },
+        {
+          "title": "Is AMD's Stock in Trouble After a Concerning Short-Seller Report? - The Globe and Mail",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdVBBOF9Jc2lOcjZFOWRETzdxTXhwQUhIazBTTjFRRnFucE1lSFFNSXBSX0JXekNYWHM5eXVlYlppZzcyZUM3ZHVOYlpreUVBdGFyZFVTU2hFQjFSTU1sb09pSXl0ZHc5cVlxZUdrcFhxTGJDQUcyWjlWaUt2OTJoUWkwVm1McHliVVVMeC1zVUtiSURGWGEzNHBUVVM3c2RXbFhsekI3Rnlidm5mSW9fZktsYTJZMkpnX3R5dlMwU3p3QXRDcnhSNHhCczBXajNzQW96Z2NFRTN5Y1FPaXVCYg?oc=5",
+          "pub": "Mon, 23 Nov 2026 20:56:22 GMT",
+          "source": "The Globe and Mail"
         },
         {
           "title": "Here's where we stand on AMD shares after Jensen Huang's return to Nvidia - CNBC",
@@ -145,12 +151,6 @@
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNLWVsV09aaUtCWVhraDVzNVlWQlRILTEtMEN0ZDdpVXFBZ2s5b3hnZTlxRFFvYmhZVzNlVnpqa2JwY3A4RDBMT3V6cnd5YXVuZW9RMFh1Zk55OXVXNlBpQ1NvREg1bjJ2dUtPZ3gxZnhQVVg4TDBmcGpDd0pSZHVVSV9lYmdha09yOFRGb0tLOA?oc=5",
           "pub": "Mon, 23 Nov 2026 02:24:00 GMT",
           "source": "Yahoo Finance"
-        },
-        {
-          "title": "Nvidia Rival AMD’s Stock Slides Sharply In Premarket After Report Alleges China Ties - Forbes",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNT2JXdThXZXpnSUF3eEMtWXRSalJvQnBiYV9kQm1ZZjRWUlQxX0hBQlRDUzhNajhEMFAyYVFYa1RiRUZ0aFlsZWpNV2RINDBNdzdFYXRfY1ByV1JRaDVwblV4WjRSWHgxSFdzMm5VNjdKVENqQmx4WGw1R0lfMVotcHJzZ19GTWVXbXdNTzRsWG1GZVFySzctMkFxNTk2WG5FRTAwNUNaQkYtMUlNd044QWlCTkF0aTlWNEdRV0RnSkJYWFdIMGNHV3dKRzQxWjBPTlA5ZmI5blBZdw?oc=5",
-          "pub": "Fri, 20 Nov 2026 11:07:05 GMT",
-          "source": "Forbes"
         }
       ]
     },
@@ -173,22 +173,22 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "What Could Send Rocket Lab Stock Higher? - Trefis",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSzFnZk5oWUpyZlQxQlNyTHBvNVBlTjFoQWhNeEJTVlRYcEhTeE9weWtFZmVxSTZicVFUdFNGWnNoa2stV0hxcnRBVXNJMHpmTFh4eUJ0cXAzaWhENW85NmZXYUNqeDRmVlhUakFQY2xKWHdhVjRnUHhFNGJiVGdURU55X0NaUi1PVENRbVVfQjdKNGdZdEg1MUxNOVpZSW04T0E?oc=5",
-          "pub": "Fri, 20 Nov 2026 10:17:42 GMT",
-          "source": "Trefis"
+          "title": "RKLB Stock Soars Pre-Market: Rocket Lab CFO Sees ‘Very Strong’ Electron Demand Ahead - Rocket Lab (NASDAQ - Benzinga",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMjVxT0dZMDFJNGxaclJjX0pIMVNKOG1jR3B5UDlIZzllZnhZLUd0cmFjSzJMVU5VRFlsbnpQWlJqM0NaeHRjRWNCRzhYaG9xVGN2X2EtT1F0S0xDbDh3Vm4yc1Nxc2N3N1JzOTEtX1JpUUpJWFNIMXNPNGxCV2NUV2xnUE5GVjRmT2d2M3BXSl83bEhCMGxoOFdFZ1EyMTFBUWdWMVdESEtiQkhPdnBmWHYwWjl0Y0s2NEZNaHJ3?oc=5",
+          "pub": "Mon, 23 Nov 2026 10:50:10 GMT",
+          "source": "Benzinga"
         },
         {
-          "title": "Rocket Lab Missed on Q3 Earnings -- and That's Great News - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxObkpYazgxZUZnYUxXN05naHNHbGw4VHpCOS1BM2ZpTVk0SGxISjFxMVk1V05kcW5MV0Z6S0pLSV9pLWlyVV84ZTB0eDZpaHN6OWUzR3NDNFRnblJqaWRIYXVOZzVldkN5V1BUb3hFUmdmSDVuM0JCdlg5ZnZkNE5IUlp5NlpYWVRIZjBTYkMtMEpTeXF4S2lvWXU0bENBZw?oc=5",
-          "pub": "Fri, 20 Nov 2026 12:27:02 GMT",
+          "title": "Why Rocket Lab Stock Rose After Neutron’s Launch Was Delayed to 2027 - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbzVzN19VeEY0Xy1SR1V4TDViNGhxd1hUT0VQOFdqd0VDOVBLU0dHbGVYMHNSc2JqUVRoSG8zZ0hEOWVqRnJIVVJod0dGNE9yU0NqMGtaNmx5bm8wSHhVTmM4ODFVZTVMc0NjTlJyNWtGbzR3bkU5Q0F6OGQ2d2l2YjY3VXdMNEJzVUo4N0FHTDVJTjZpWkZ5WmxNa3lLYmdqYlgxNnJ4b3FES2o0WC1Vaw?oc=5",
+          "pub": "Mon, 23 Nov 2026 16:00:02 GMT",
           "source": "The Motley Fool"
         },
         {
-          "title": "Jim Cramer now sees a buying opportunity in beaten-down space stock - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcE4wVTdRTTM4ZFBLQXJLUnB1Q1RtWXNHTDZxTWpHZDFVNGF6VnZfdmRUTDJQVUVVWFZRY1U1TWxOMkFIS0lzenkwNjladWNYN2N4d09hMVVhTUdwbEFMWi1nNDdEZmxKbXdzNXN4cW1va2o5aTE1SVZTMHIyT3dBY09ZNVJEQ0VCQTZHSDFkc1BhcU5rTmc?oc=5",
-          "pub": "Fri, 20 Nov 2026 18:47:00 GMT",
-          "source": "Yahoo Finance"
+          "title": "Rocket Lab advances 8% as tech shares rebound (RKLB:NASDAQ) - Seeking Alpha",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZW9NUWJfRmtqUnNZWVJvbzBDaGFVSnhncnVhcnhvYVZkd0hKdGxRS1lYVVlkSmNxTmtPN21aOVdza29EbHFfY19iUXk0RE44bG5iRm4tZzVzNklFM3NIdmlBMUZRYmNOSDJVMzMwSTJ6SFZDTV9DNVZDdnR5S2E1bml0R2pVa3M4YkE?oc=5",
+          "pub": "Mon, 23 Nov 2026 20:05:23 GMT",
+          "source": "Seeking Alpha"
         }
       ]
     },
@@ -205,9 +205,9 @@
       "name": "IREN",
       "news": [
         {
-          "title": "IREN (IREN) Could Be 83% Undervalued Following Its AI Infrastructure Rebound - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeGlnWF9yMkdpbE96SXVQdUF4aDcxdzA0THJJWlgxeEpsNWxzaWFXMVk4d2RoYjE4eE5PX0dJMEtWT25FOW9yTkJGTVA2ZGtkM1Z4dUl4MXhlQ2Q3MVdnTW04bFRNaHpud3ZCaEVUcTMxZDEwVVVZQzdCMEloR29XY1d3WjJfbmRtODNVazEzM2I4OGVOVG44VVFWOA?oc=5",
-          "pub": "Mon, 23 Nov 2026 19:11:39 GMT",
+          "title": "Nebius Drops 7% as Michael Burry Takes a Victory Lap on Neocloud Rout; IREN Falls 5%, Oracle Slides 4% - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPU3VnTnhaUGlOLUNKQkExUkNJdkhmU0JKYUwyVE52MkZQOEtndUpfU0hKZWxCbFdVOW9XOTBvYkdsTUxKNVpKeEFJVm5jRHE3eW91TFB4dldwbm5YaDF3VjUzejdqZEZkQUFoZlVUNHZEc2pxaG5KNFFieUVKNjRxX1lsNHZELTdVQ05rRG8wR2Y4eVd6dFNlZg?oc=5",
+          "pub": "Fri, 20 Nov 2026 14:17:10 GMT",
           "source": "Yahoo Finance"
         },
         {
