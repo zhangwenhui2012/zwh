@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-11-25T19:00:48.297404+00:00",
-  "updated_at_display": "2026-11-25 19:00 UTC",
+  "updated_at": "2026-11-25T19:30:38.843986+00:00",
+  "updated_at_display": "2026-11-25 19:30 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
-      "price": 147.86,
+      "price": 148.1,
       "prev_close": 155.3800048828125,
       "high_52w": 243.37,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -4.839750705687047,
-      "drawdown_pct": 39.24477133582611,
+      "day_change_pct": -4.685290677074621,
+      "drawdown_pct": 39.1461560586761,
       "name": "NVIDIA",
       "news": [
         {
@@ -27,31 +27,43 @@
           "source": "The Washington Post"
         },
         {
-          "title": "Why Nvidia's 'Jensen put' failed to stop the AI trade meltdown - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTmtSaTA4azkycF9kUE9vTHd0aTVMcUZHOGhRRS1rdjBOZ2kzVEl6TUJEVGZvblBvakU3ZW5nUFVqTWlodW4xcGdtVWF3SjAtUXk1RDdjbjltbFY1TFBDRnRLTk1kcFBoQTBSMWRHN3RCYWJUOHhXaTJ2cFR1NVQwNmdsYU5RVTVwT0dKUGxNRHRscTBYXzZockVOLW5WOHZPaENxZk1fTEM1NUt5SUJNUlo3Z25mandlejJqQQ?oc=5",
-          "pub": "Wed, 25 Nov 2026 18:53:34 GMT",
-          "source": "Yahoo Finance"
+          "title": "There's a lot more uncertainties, overhang over Nvidia stock, says Blue Whale Capital's Stephen Yiu - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBmai1zblc2QmZIR0VxcnYwa1ltY2dHeGFxQU8wVEhOLUlDV2xEOWxDQWVhbEhuMkE5U3JmaVozNGpqUUVkWU9MM3VxQXdaY1RzSUp6eElqWUk2U2ZaXzhiTFFlZVU?oc=5",
+          "pub": "Wed, 25 Nov 2026 19:00:08 GMT",
+          "source": "CNBC"
         },
         {
-          "title": "Most of Dell’s New AI Server Orders Are Now for Nvidia’s Vera Rubin - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMDZKanhtOXRLSnEzWkdzXzQ4cnh3RFNqNHJBZzQzNG1DVkpRenlBSVRNT0NoS2dlc3Y3blBTM3VTTVpqT1FvcnB6bklnWlQxNWVnRGNTUnlacmZVMGp2RTBGUHZsSDRtcGFjMjlzZnlaWmxKWWZVenNCajBuV2pzckF0YW5tNmFPZXE4c0F1dWNwd2xy?oc=5",
-          "pub": "Wed, 25 Nov 2026 18:07:06 GMT",
+          "title": "Why Nvidia Stock Is Falling Again - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVnZYQmNDcUVPbkdnb3J6b2xpMU9DVFFqbTNBdDFnTUk2cDBHbTNXQnBuVk9vRWVVdmYwN3dCWjF5RTZRSXV3dENOVGRnLU9BYjkxelMxNi1jRVpneUVmOEdoVjVSUGszREFxNE0xVjM2b2FlOXF5UDJQV0VEVEJra2lCeC1iZUpIQmF1SnZpWklreDQ2MVpjZG90NA?oc=5",
+          "pub": "Wed, 25 Nov 2026 18:53:02 GMT",
           "source": "Yahoo Finance"
         }
       ]
     },
     {
       "symbol": "META",
-      "price": 605.1,
+      "price": 606.04,
       "prev_close": 589.8200073242188,
       "high_52w": 779.8200073242188,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 2.590619593441834,
-      "drawdown_pct": 22.405171152729473,
+      "day_change_pct": 2.7499902469170103,
+      "drawdown_pct": 22.28463051627859,
       "name": "Meta Platforms",
       "news": [
+        {
+          "title": "Who qualifies for Costco’s $30-per-share dividend — plus, Meta puts share plan on hold - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSkJ4QjVnY0hlOGgzel9TX214MFk1Y3ZBZVVkU0dnM3g4TWlwMGNUMGh1OGdCVEdtSFBtaG5fLURpVkE2d3hSY3VvN08tdzd6NUtLaENaa2NhV1ZrbnFuelNQZ2dLeVU5dDVfVm44OHVqX3ZYX3o3RXBWVzNoSk9sWU5pN2JRVDJCVURTN0dSUnhUOVY0VFB4RlBLeGVQMTdPRm45MXp5dzFFclA5OWVpbTVBZw?oc=5",
+          "pub": "Tue, 24 Nov 2026 19:23:59 GMT",
+          "source": "CNBC"
+        },
+        {
+          "title": "Meta pauses Class C share issuance amid shareholder lawsuit - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNN2g3TFJ5emdHN3NnLVJ6TTFuUThTVW42UmthQXkzLWtkaUUxN3hyOWRtZWttRGdaOVFZMjZoOFJwYmJfa1ZtX0RfZ0hEai14NXFBX0s5ei1EMDhiQmhDaTQ4WHNNNEJsLVNaS25fQVh5eGpnektkOG9xSTJncXVNRjI3U3ZRLVBFTUJuOVR4TGdSbllaZ29MRUxxcU1ZbUxYcDc3MHdEV2l0Q3ZzdlpBZV9kZFcwZw?oc=5",
+          "pub": "Mon, 23 Nov 2026 22:37:54 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Meta Stock Dips: What's Going On? - Benzinga",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONG1USC01dW5MV05MYS0tLU45d2lZeUJBc0Z1LWVxSHBtMk9SUEhvN2I0WDBBMG90bWpFQ1dNbmlKUWxzN2xoTnZaa2dMakRsZkxVZWRxdXdmT3pfRXpDUUtQSHFUdXFZQnhDNjNtYUxCa3UwRlRRZ3F6cGZMdVN2bXlUbTVuaTUwWFhuMk9tcE1rcGFVYkE?oc=5",
@@ -59,35 +71,23 @@
           "source": "Benzinga"
         },
         {
-          "title": "Alphabet vs. Meta Platforms: Which Media Stock Is a Better Buy for 2027? - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZTBsV1hGeU9wUTVmeGdjMzZ3ak5fODdfeXJmWXlOMlR4U0FxVFVWTFFQNUhsMmJBRVEtSWpaYzM4RExzTnhKSFVjSzY5OFc0OTBfTkNmR24zTHJPV0d4R1RaWE44YWZsWEhUeEJtZ01wXzUxVld2MzNIZFYzZGRDTjFKTERVOVI3SWFHM2wtMl9rR2YyMDdoUTRnMVFwa3BieGc?oc=5",
-          "pub": "Sun, 22 Nov 2026 17:16:18 GMT",
+          "title": "Meta Platforms (META) Expands Muse Shopping In The UK, Is The Stock Still A Bargain? - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdjEyTVRlcWZuVV9PRHBXVFFkUGRqem8zWVh6R2tqb0lfb19HR1BpaTgtZ185eGFKWXpsakNra2dwMWNtU25sYlNaTjJOSjYxRS1YbERkZ0I4UHlEa0JJUHBLOVlOd0hoWTJpOGF1U25pTGVldl9pbzhfclFacXE1T056SXVqbUdsTnV0c2k2RHJDU0t6dTlLLXlTU1NFZw?oc=5",
+          "pub": "Wed, 25 Nov 2026 13:08:32 GMT",
           "source": "Yahoo Finance"
-        },
-        {
-          "title": "Meta Platforms, Inc. $META Stock: Twin Peaks Wealth Advisors LLC Increases Position - MarketBeat",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbDllXzh4X3lfeFlGeXpmeWt3bGxya2hiQTkwNWh1UkVqbWhuNGxrMlJ5a1B0WWtXRkNfUDQybG1ZWV85SUZJN2w1RkRjWGR5WVNlZk9iX3E2WkJLRndfa2tyX1E3TTVKeXRTRTZEdjZudFRvVVNUcWpPSDRDd2diTVotdmNCM3B4V3d6c1VvMURhcHhtelNRLVpXQnNSdlNNeS1ZemFWcGljUmxXR0dQS0Joeld1VDI1eGkwZnZ3OHBaUVpOcGZUekdUMWJsWFJUOUdXX2U4RQ?oc=5",
-          "pub": "Wed, 25 Nov 2026 10:26:37 GMT",
-          "source": "MarketBeat"
-        },
-        {
-          "title": "Tech surge sends Meta Platforms higher by 7% (META:NASDAQ) - Seeking Alpha",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYy1PUTRsNjA0REdicy0zYzZfLTZHbnV2ZGFXUDhSY3g5NHhqaEd1bWItZWpUY0toSV80QWh1bmtMX3NSaFJmQ09sY29sYUs5Njd3RHNHV0xQYXVRMHlfODc3dGZhcnVLT21fajl2QkwxZllZa3hVQkdtM1RzNE4xUEctYUQzdmts?oc=5",
-          "pub": "Mon, 23 Nov 2026 22:26:47 GMT",
-          "source": "Seeking Alpha"
         }
       ]
     },
     {
       "symbol": "AVGO",
-      "price": 295.1,
+      "price": 297.075,
       "prev_close": 301.0799865722656,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -1.986178702990701,
-      "drawdown_pct": 40.38383838383838,
+      "day_change_pct": -1.3302068390070005,
+      "drawdown_pct": 39.98484848484849,
       "name": "Broadcom",
       "news": [
         {
@@ -109,23 +109,23 @@
           "source": "The Motley Fool"
         },
         {
-          "title": "Does Broadcom's Debt Load Pose a Risk to the Stock's Outlook for FY27? - The Globe and Mail",
-          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOcXhUVTVmRXduNlJEYllWUTB0aXhiWnZwZ2ZIVXNPMktXSjJvbUFpRlRWQ0FwelFHRzMxcFJBWW9abGNEX3kxR3NuYlZRX0hFdVNzVmkzbUZDYlVwVXFRSTAtY2xzdjI3VHU0WjZYMHlqdU01bUtMRkVUcjhsMXhhc1djdE0yX0wwbzdROEdFSXVKelhjeXRKbjZGMVZWLXlYZ2IzUXl5eU5vY19Yc0d2ZWF4cVJBY05abDloS0J3U0pOdW50UnRWeDJnX2pnRHRuS3RfQmREQVgxb2FBc0ZOY0JyX0tUZw?oc=5",
-          "pub": "Wed, 25 Nov 2026 15:33:24 GMT",
+          "title": "Micron Could Generate Half a Trillion Dollars in Free Cash Flow. Why I'd Buy It Over Anthropic. - The Globe and Mail",
+          "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNWHd5TDVHX0g2RUR2TWNzb01vNVhZMUVZbU1aZ3I0Q1owemppYlQ1ZWNzWWMxLU16NE1kODhNRDdFNEVxcUkyRHpPYnVGTlBIVXI0ai10TFJ6WDQ5TzVDamJTNG9qTkNBZzM0QUdtcHJWTjNEXzR2aXBPZGlMTWVxTVpfY3pNa3MxWktHNlFzX0dIbnZURjNCT2VBMjNObUVvVTBKQXduSVU4bVNKVUVBZnd5TVIyeEtDWENSYUNHX3I2aE1waVFHYWw2UVNHNWZEMDFuTFFMZmFpdFNOU1lCTGU2OEVKc1RVa1J3cFJpT21DZmFlTVgtSDZreE1lS3ZCQk5qU25oY2I?oc=5",
+          "pub": "Wed, 25 Nov 2026 19:05:54 GMT",
           "source": "The Globe and Mail"
         }
       ]
     },
     {
       "symbol": "AMD",
-      "price": 401.32,
+      "price": 405.814,
       "prev_close": 413.2699890136719,
       "high_52w": 658.52001953125,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -2.891569514203595,
-      "drawdown_pct": 39.05728176864403,
+      "day_change_pct": -1.8041447992549957,
+      "drawdown_pct": 38.37484237929958,
       "name": "AMD",
       "news": [
         {
@@ -156,14 +156,14 @@
     },
     {
       "symbol": "RKLB",
-      "price": 46.65,
+      "price": 47.51,
       "prev_close": 45.97999954223633,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 1.4571562949847816,
-      "drawdown_pct": 69.10596026490066,
+      "day_change_pct": 3.3275347390080796,
+      "drawdown_pct": 68.53642384105962,
       "name": "Rocket Lab",
       "news": [
         {
@@ -173,35 +173,35 @@
           "source": "Benzinga"
         },
         {
+          "title": "Rocket Lab Just Grew Revenue 73%. Its Next Chapter Could Be Even Bigger - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOHZGVDhvSUp3MS1SeXNBaDAycWZBZ25wWUlGSUZqaHF6RThGQm1NdlljUGtHcUF1V0cwZy16V2UxV2RKU1d2Ty1JOUxoQjFOOGFGMTJIN0toYi0wczRZb3FDY1VLQ0QtcVpnaXJSbE4xNEgtQlE5Q3hvQXRta2c5bVRzcjRNZkNWelJGRWdhVnBWM2xIV1pmag?oc=5",
+          "pub": "Wed, 25 Nov 2026 14:03:57 GMT",
+          "source": "Yahoo Finance"
+        },
+        {
           "title": "Rocket Lab: The Next SpaceX - Seeking Alpha",
           "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1aeGp5c29iZkZzM3d2TEkxay0xMW1CR2RWMHV2dlNPRTBCd1IwMXNZSUstSzF2MllzZ0xOTUxCTjNFSWxUeWtZVEdwckl0d0FtbWlzbHJrMV9BNjBGR3dQaFljVVdYZmlJZHZma2lYLUxUS0w0ZTVORQ?oc=5",
           "pub": "Tue, 24 Nov 2026 04:24:42 GMT",
           "source": "Seeking Alpha"
         },
         {
-          "title": "Rocket Lab Just Grew Revenue 73%. Its Next Chapter Could Be Even Bigger - 24/7 Wall St.",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNM1NTSkp6NVNGZkhoNGxMNktjcllBdzVlVVA1Z2hGSTVWcXFELTBReHJSU3hPSVVWRXpKNmp6NGtuaE9kOUlZV2VkTU5Ld0t6VENvTXpLVFc5dHVOQ056VVR1R2RqNVVEZXFmd0xsSlZMM2tZcE5qNFdlRkZqQ3g5RXNuNHRpQm9nUWoxRmJJVGpHcUw0NmFTZmxQOVlfcU5tZjhpa1JGTmYydlRDeFFpVncybw?oc=5",
-          "pub": "Wed, 25 Nov 2026 14:03:00 GMT",
-          "source": "24/7 Wall St."
-        },
-        {
-          "title": "Rocket Lab (RKLB) Has 117 Launches Booked. Barclays Has a View - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZm4tbXo0X0lTQ280d01ESThQS1BHWFQzY0tnTkk1VkEzUzJhWWJJMG9laFBIVjNpaWJ3TWplWUoySHdENFJCNTBlWFpQSlRjMXBodzdEWUx2MHRza1NkUmxKMWMyM0dwbXVRc2NTUXpFcVdHdXFWSzJRZXoySGcxSTJDcE05dWdOMTFjZnhpWTlxeGdoa0pPVw?oc=5",
-          "pub": "Tue, 24 Nov 2026 19:13:33 GMT",
-          "source": "Yahoo Finance"
+          "title": "Mizuho Sees 14% Downside in Rocket Lab Even After Its 69% Fall From May’s High - TIKR.com",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObmM5X0kwS21lLXpPQUVFZ05aNmtKaU1IRDItOTdNeE80RVc1ZDBGTEhMQURZTXpJYmtMVjl6eVVSSlpmZGwtUmdPbUpuVk9oOHRsWENaXzM5alJKaGtiejZSX1NNTDBlOGFpbHBndDhheVJ5T3g5aExjYUJldGNkQzN4MXpTU1FGVmtLNUFad0FCNWhOVFEtSjdUU3NDSGl2VDIw?oc=5",
+          "pub": "Tue, 24 Nov 2026 23:26:15 GMT",
+          "source": "TIKR.com"
         }
       ]
     },
     {
       "symbol": "IREN",
-      "price": 12.815,
+      "price": 13.04,
       "prev_close": 12.949999809265137,
       "high_52w": 70.70700073242188,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": -1.042469584969036,
-      "drawdown_pct": 81.87591063507827,
+      "day_change_pct": 0.6949821780728629,
+      "drawdown_pct": 81.55769603444563,
       "name": "IREN",
       "news": [
         {
@@ -299,10 +299,10 @@
           "source": "TradingView"
         },
         {
-          "title": "Invisio AB (publ) Just Missed EPS By 22%: Here's What Analysts Think Will Happen Next - Simply Wall St",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQclBEREE4VDFKcTJ0WEZNS0RDb0I4Slp3eU9VaG5MOWg5VmdoZ2cxVTV6R0Y0MkNsMXo4TmlhZlBPVjdHQnFYMTByaHRhc1NmVDJKWjJrVkVCTFJhYXJLVmVzRFpvWF9qekV3RGJPQWhrS2hrRUNxcms4d3YtR1Q1WWpUSmhkaHV0aWhIYW0yOHNsU3Y3MXp6cjV1a21JLW16Ny0tSi1nSDlWb2FLUmtUZGROdF82QXhnLU44RGR4NXV2SnRhMTlVV0xORW96V3dx0gHWAUFVX3lxTE85emlmbFZZdVJIa2lsZFdzZjVJcFZSbUZpdGxReTdWcDUzZzgwVzY5ZXRveUptUXJJR2JiOFBkVlRWVlVjWmFvM0REZWl1ejV4bU1HYjBrRWNNdUtoSVU2bHl6d2FiWXRVUDNOSGg2cExXUjd2T3B1SGlHTHlkRjlpM0Q3SzlQLTNnRE5ULUQ3T3hXbUtTYXZkRGJFM3BkYTJpTlY4TlRSdC02MHNrTHZaRWt0RnZ3MENvUE9EWmdKSUgxN3UwSEFaTDZqRmUtRUlNbmhBX3c?oc=5",
-          "pub": "Tue, 03 Nov 2026 08:00:00 GMT",
-          "source": "Simply Wall St"
+          "title": "How Investors May Respond To Invisio (OM:IVSO) Stronger Q3 Profitability - Yahoo Finance Singapore",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdG1SazlLa0FTdXZHQ1AyTGVzQ0l1NGhYdTg3b3BGNTVMWGNVTUtLbE91UlRwRndCdXZuUGdsM2x5V3J2VENYZjE0QjFZN001Slk5WWV4OWdxZVhzcUdLakhhYXNBQktFX0JaMWgzdElZSktPR3dabGZoOGNYODVNSkVMV0RGUTVw?oc=5",
+          "pub": "Wed, 04 Nov 2026 08:00:00 GMT",
+          "source": "Yahoo Finance Singapore"
         }
       ]
     },
