@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-11-25T02:00:43.206756+00:00",
-  "updated_at_display": "2026-11-25 02:00 UTC",
+  "updated_at": "2026-11-25T02:30:37.760660+00:00",
+  "updated_at_display": "2026-11-25 02:30 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
       "price": 155.38,
-      "prev_close": 125.52999877929688,
+      "prev_close": 165.0500030517578,
       "high_52w": 243.37,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 23.77917749619715,
+      "day_change_pct": -5.858832398037226,
       "drawdown_pct": 36.154825985125534,
       "name": "NVIDIA",
       "news": [
@@ -27,36 +27,36 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "Trump says ‘it’s probably not too late’ for the US to take a stake in Nvidia - Business Insider",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPV0RjeFlHc2dpVFFRODd4WENkQ1Q0WjNUaE1RdVZESGRnUDVnNVFYeHJTYWgzV1NZU0QwU2VvTmZ2VHFHQ0lfSjkxR0tHZlJLUUNSWVhUVkMyYnZKVjBoOUZHcDAxSVNpUVd3MU1kLWZSNHVnQl9lb1lLbUtPdUN1d3ZjU3kwSm43?oc=5",
-          "pub": "Wed, 25 Nov 2026 01:03:00 GMT",
-          "source": "Business Insider"
-        },
-        {
           "title": "Nvidia Stock Faces A Historical Warning After Jensen Huang Returns - Forbes",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVkgxcmk5V1B6eFNUbm9xblpuc0gyNGFNQ3Flemo0WjJqZ3FsS29hMjA3NGdFanVJdm9fQkd4U0pnd1ExNkxYS0wyWkNfdnBsYUNNVG8zV21yQ1U3UjdwQlJQVThyTTVWX0kyZzR2cUxjdkJQc1BJcTZYYUh4Ul94WFZJczZmNjBvcXJuZ25qOEQyX0lXaXZ3Z0VJUE9oOTRiYWp3and6MFlaRDhWLWpMZm9FNDhRVEE?oc=5",
           "pub": "Wed, 25 Nov 2026 01:09:20 GMT",
           "source": "Forbes"
+        },
+        {
+          "title": "US attorney general dodges questions about Nvidia investigation - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwMzczN1VVbmtXRXpiVWdmZjlyUXllRTdXaDBlYm1PWXJpcGdVd0x5ejAwMVdyYXRTcmV2OS05bWl0MG50MUtoeGFoNjJlSjBxRnRWSlFNUnNFWm8?oc=5",
+          "pub": "Tue, 24 Nov 2026 21:19:42 GMT",
+          "source": "BBC"
         }
       ]
     },
     {
       "symbol": "META",
       "price": 589.82,
-      "prev_close": 560.8400268554688,
+      "prev_close": 597.5999755859375,
       "high_52w": 779.8200073242188,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": 5.167244090443563,
+      "day_change_pct": -1.3018701311540892,
       "drawdown_pct": 24.364597668654593,
       "name": "Meta Platforms",
       "news": [
         {
-          "title": "Meta pauses Class C share issuance amid shareholder lawsuit - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNN2g3TFJ5emdHN3NnLVJ6TTFuUThTVW42UmthQXkzLWtkaUUxN3hyOWRtZWttRGdaOVFZMjZoOFJwYmJfa1ZtX0RfZ0hEai14NXFBX0s5ei1EMDhiQmhDaTQ4WHNNNEJsLVNaS25fQVh5eGpnektkOG9xSTJncXVNRjI3U3ZRLVBFTUJuOVR4TGdSbllaZ29MRUxxcU1ZbUxYcDc3MHdEV2l0Q3ZzdlpBZV9kZFcwZw?oc=5",
-          "pub": "Mon, 23 Nov 2026 22:37:54 GMT",
-          "source": "Reuters"
+          "title": "Who qualifies for Costco’s $30-per-share dividend — plus, Meta puts share plan on hold - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSkJ4QjVnY0hlOGgzel9TX214MFk1Y3ZBZVVkU0dnM3g4TWlwMGNUMGh1OGdCVEdtSFBtaG5fLURpVkE2d3hSY3VvN08tdzd6NUtLaENaa2NhV1ZrbnFuelNQZ2dLeVU5dDVfVm44OHVqX3ZYX3o3RXBWVzNoSk9sWU5pN2JRVDJCVURTN0dSUnhUOVY0VFB4RlBLeGVQMTdPRm45MXp5dzFFclA5OWVpbTVBZw?oc=5",
+          "pub": "Tue, 24 Nov 2026 19:23:59 GMT",
+          "source": "CNBC"
         },
         {
           "title": "Meta Stock Dips: What's Going On? - Benzinga",
@@ -71,22 +71,22 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "Don’t Rush to Buy Meta Stock Yet Despite the Crash - Barchart.com",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSXhId0NFZWluMWd5TWo4Z01OVGsxTWRPT0hrRWdkczVSUUtxXzg2OFNnY0lpYnhOTmc1ODdxeW9wdWFtUU1SVFJuSGhabERLZkZha0JTNlFQSjFQMzlVMm5hQlM5ZDNoamNIbmIxWFQtUmRJek1PQnRtZlRER0VsdEIwS2pCMXRsUG1lZ1d1YmJBMU41VC1CMg?oc=5",
-          "pub": "Mon, 23 Nov 2026 12:00:02 GMT",
-          "source": "Barchart.com"
+          "title": "Meta pauses Class C share issuance amid shareholder lawsuit - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNN2g3TFJ5emdHN3NnLVJ6TTFuUThTVW42UmthQXkzLWtkaUUxN3hyOWRtZWttRGdaOVFZMjZoOFJwYmJfa1ZtX0RfZ0hEai14NXFBX0s5ei1EMDhiQmhDaTQ4WHNNNEJsLVNaS25fQVh5eGpnektkOG9xSTJncXVNRjI3U3ZRLVBFTUJuOVR4TGdSbllaZ29MRUxxcU1ZbUxYcDc3MHdEV2l0Q3ZzdlpBZV9kZFcwZw?oc=5",
+          "pub": "Mon, 23 Nov 2026 22:37:54 GMT",
+          "source": "Reuters"
         }
       ]
     },
     {
       "symbol": "AVGO",
       "price": 301.08,
-      "prev_close": 304.4100036621094,
+      "prev_close": 313.54998779296875,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -1.0939205748985983,
+      "day_change_pct": -3.9770334168223496,
       "drawdown_pct": 39.17575757575758,
       "name": "Broadcom",
       "news": [
@@ -119,12 +119,12 @@
     {
       "symbol": "AMD",
       "price": 413.27,
-      "prev_close": 424.3900146484375,
+      "prev_close": 453.4599914550781,
       "high_52w": 658.52001953125,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -2.6202347521416782,
+      "day_change_pct": -8.862963042475942,
       "drawdown_pct": 37.242606489902116,
       "name": "AMD",
       "news": [
@@ -157,26 +157,26 @@
     {
       "symbol": "RKLB",
       "price": 45.98,
-      "prev_close": 45.41999816894531,
+      "prev_close": 49.630001068115234,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": 1.2329411132331802,
+      "day_change_pct": -7.3544247220663035,
       "drawdown_pct": 69.54966887417218,
       "name": "Rocket Lab",
       "news": [
-        {
-          "title": "Rocket Lab: The Next SpaceX - Seeking Alpha",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1aeGp5c29iZkZzM3d2TEkxay0xMW1CR2RWMHV2dlNPRTBCd1IwMXNZSUstSzF2MllzZ0xOTUxCTjNFSWxUeWtZVEdwckl0d0FtbWlzbHJrMV9BNjBGR3dQaFljVVdYZmlJZHZma2lYLUxUS0w0ZTVORQ?oc=5",
-          "pub": "Tue, 24 Nov 2026 04:24:42 GMT",
-          "source": "Seeking Alpha"
-        },
         {
           "title": "Rocket Lab Stock Drops 6%: What's Happening? - Benzinga",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRDZFR2FsSUt4ZzRmYnY5bEQ0YW1EdzJpX1NTcFpYU1ZubURmQzZucDZ4NmNaaXlvTkhnZWpVWTY5TTFsWnBGeXZSbXl2YUQtdTM3OFRTZk1qeEkydnprTzRBM0lvV1lqdzBRa2RPRGpRVWVGSGVTSWh2cTdvdDdEbWpXVEJvX2hpLUZBUGxzd1Y1MjVtdVQ3ZVpCM2tTMjZNQy1V?oc=5",
           "pub": "Tue, 24 Nov 2026 18:21:29 GMT",
           "source": "Benzinga"
+        },
+        {
+          "title": "Rocket Lab: The Next SpaceX - Seeking Alpha",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1aeGp5c29iZkZzM3d2TEkxay0xMW1CR2RWMHV2dlNPRTBCd1IwMXNZSUstSzF2MllzZ0xOTUxCTjNFSWxUeWtZVEdwckl0d0FtbWlzbHJrMV9BNjBGR3dQaFljVVdYZmlJZHZma2lYLUxUS0w0ZTVORQ?oc=5",
+          "pub": "Tue, 24 Nov 2026 04:24:42 GMT",
+          "source": "Seeking Alpha"
         },
         {
           "title": "‘Don’t Blink,’ Says Investor About Rocket Lab Stock - TipRanks",
@@ -195,12 +195,12 @@
     {
       "symbol": "IREN",
       "price": 12.95,
-      "prev_close": 11.819999694824219,
+      "prev_close": 14.640000343322754,
       "high_52w": 70.70700073242188,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": 9.560070510582069,
+      "day_change_pct": -11.543717921383498,
       "drawdown_pct": 81.68498187469868,
       "name": "IREN",
       "news": [
@@ -319,28 +319,28 @@
       "name": "Norbit ASA",
       "news": [
         {
-          "title": "Norbit ASA (NORBT.OL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9pdEtwZDJfanJZc0VHc2FRZTJRTERka09Ocmh1MXRheWhHOF9LSHRfeGlGWTlUTFUyazhQNC1kU2VuTHFZUWVDeXNCb0Z3MzNnTkpVNmdORQ?oc=5",
-          "pub": "Sat, 21 Nov 2026 05:47:20 GMT",
-          "source": "Yahoo! Finance Canada"
-        },
-        {
           "title": "Key information relating to the cash dividend to be paid by NORBIT ASA - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYUlXd1U0VUlXWktaQmc0Q1k3Zm45dXZGUWtXOUdua2s5N1p1SkZDWHcySEFYaW5lTm1uenpkVWRoNmhEWE92VDJYQWRBSnJjMEtDSktkR2xPSUtnUC15M3lnTWRUOEx0N3FwdVdtdGRuaFlTLVJmT2czT2VBRlNpOGVJWHhYUS1VcmhfQlhVcDhJeWxxa29OUEFmRFdRdXh6blRveTd3?oc=5",
           "pub": "Wed, 11 Nov 2026 08:00:00 GMT",
           "source": "Yahoo Finance"
         },
         {
-          "title": "Why Norbit (OB:NORBT) Is Down 6.2% After Raising 2026 Revenue And Margin Guidance And What's Next - Simply Wall St",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQXRyakN4eGxwckVQOWN3YkZFYVFPUFl4R1Foc2xvZUpja1JQU3FmLWZMYXd2Uy1oMGFnT183VFZPRnkyUnFOcjZ2RlloMmpzVVoxX21PUEJ1UVRBR1J2aGdhOGd3N2VHN2tJbU9hcExla2JRbDJIdHZVOVU5a1hFZ0lheDJud0FsYTFOUEZqZVJvQU5JeG5lMzBHMEQxcGRqQzNScEVPMTFFTkRjZjIzYTJNblRpUVZRX1hLUnVZcll6UlnSAcgBQVVfeXFMUEdVdk1JOGpUa1pmZ2RpR2UwbUIzbWZXM21pR3BfdUdqRHM5aVFhLUYxLUtya1Bhd2lHT3pBY25JN2FIZzE2UnZyaDE1YlN6VUZkNkhrRlFTVVhvSFpiRzNiS0pXOWlmd0hyYXRwTEc0MTVySE5Ta2pkY1BtcFN0RVFxNVB4cl9JUm9veUZfSmdFZmZLeVdCZ0Z0YlNxTUU4OUFrdndKbGhXWE42c0R1RU1sZmhUNDVDbjVTalFEQ3Nzem9OSkU3elQ?oc=5",
-          "pub": "Sun, 23 Aug 2026 07:00:00 GMT",
-          "source": "Simply Wall St"
-        },
-        {
           "title": "NORBIT – Mandatory notification of trade - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZ05ramhDRm9LMUhKX3VyV0ZvMWx2S2VhNHNvZ0RpTGhGWm8zbnJpMHhDZmFGRDVTbVNsVHVEYTlxbF9QQ0lsNHU5RWEtVUZ3Si16YlRld0tpLWtyWHMxbzVvQ2pHRWFLOGFyNUkzRy1vSGdqQ3Ewcl9RYk5hQmNRMVBxaFUtZzN2dzBsLVBIc0VYOGJIekphcWV3cl9VdmRSTWc?oc=5",
           "pub": "Tue, 17 Nov 2026 10:15:00 GMT",
           "source": "Yahoo Finance"
+        },
+        {
+          "title": "Earnings call transcript: Norbit Q3 2026 revenue jumps 34% as stock rises 8% - Investing.com",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOU1JXV0QwZDc0UEx2ck9hd0dZZmNvSWppWFd6QlBudDMtU1dvcjFxTnRFbTNqZ3JraGFrUksxNjluWE8tOWg4bk9EYTdRNDR6dkxKVVBKUHFFazA4SmRBVVNiVkNJYjBRMUxTcUcxTUtzd0Zja2tWSnYxTlp3Y2ZUNGhrNkNxeEktcmozU0h4c1lyUzltdGRSYlQ1V0tMWGEtMUctUHRidUdDTlB3SUFiYmVjMmpqZ2t0TUJTNTBkQmtCQ2dPOW96RQ?oc=5",
+          "pub": "Thu, 12 Nov 2026 08:27:59 GMT",
+          "source": "Investing.com"
+        },
+        {
+          "title": "NORBT Forecast — Price Target — Prediction for 2027 - TradingView",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1GWDVHdEMzX0ZmeXk5cEpuZ3F4WFNMZm5jMzhFOEsxc0Q5TnV5YUdWcWh0VXd1c29jdGl5R0hneDJTaXBwclB1V2E4Q2ZzWWpEYkZ5UDFPRTZGZjVxOXlNcUhJQ2V1ZTliemxPRnJZYzVsR3hKV3Rr?oc=5",
+          "pub": "Fri, 26 Jun 2026 13:15:32 GMT",
+          "source": "TradingView"
         }
       ]
     }
