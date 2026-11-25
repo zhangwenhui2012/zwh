@@ -1,57 +1,63 @@
 {
-  "updated_at": "2026-11-25T00:30:35.295054+00:00",
-  "updated_at_display": "2026-11-25 00:30 UTC",
+  "updated_at": "2026-11-25T01:00:43.084708+00:00",
+  "updated_at_display": "2026-11-25 01:00 UTC",
   "quotes": [
     {
       "symbol": "NVDA",
       "price": 155.38,
-      "prev_close": 165.0500030517578,
+      "prev_close": 125.52999877929688,
       "high_52w": 243.37,
       "currency": "USD",
       "yahoo_name": "NVIDIA Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -5.858832398037226,
+      "day_change_pct": 23.77917749619715,
       "drawdown_pct": 36.154825985125534,
       "name": "NVIDIA",
       "news": [
         {
-          "title": "Nvidia live updates: Nvidia stock falls as exuberance fades after Jensen Huang's return as CEO - Yahoo Finance",
+          "title": "Nvidia live updates: Nvidia stock falls after massive rally, Jensen Huang apologizes to employees - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNYnBZTkhUUGlCUVBvdW9Mam9JbGJueElLNmRUenk3eTZ2YmhXSEJhb3VCTTlrQ0xDZzF1N3pURFZFNDROVkZhOW1Mc0JxQUhGQ25rSjdWZXdxMnZNLWFaNzJfdXdFeEpUMzFQMUl3alZfWVotcFRHRGxSRzNiWHJuSlpyaXVHTld1MDFLSy1rdDJCU1F6ME9vZDB1bzB2bS1PeHpZbTg5czJrQ1lzdFRHbUlmS3JzYlFvQnRjZ2xRT3hoR1FVMUQ2a0hNMXZwNEtYckw1Q0ZYOThJMTlobXZTY3JzdDFESjBN?oc=5",
-          "pub": "Tue, 24 Nov 2026 14:21:00 GMT",
+          "pub": "Tue, 24 Nov 2026 22:03:05 GMT",
           "source": "Yahoo Finance"
         },
         {
-          "title": "Nasdaq, S&P 500 close lower, giving up some Nvidia-fueled gains - NBC News",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORFdKT2NYVVA3VUg1d2VfS1BBdHNsQjV5WEhUWTFVb1JCWnktLXFIRmRYMHlUWU5tMFFENE9MODkyc3ozSm5MbHJpUHQ1THBRTERna1p2LUNpbzQwakc0U1JjcWcyN1Y4WS1NaV9WejAzQ2ZpamNBSXRfOVo0RHh0eFdkNll5b2hiT1RqNmFMdXdiV05E?oc=5",
-          "pub": "Tue, 24 Nov 2026 22:56:49 GMT",
-          "source": "NBC News"
+          "title": "Opinion | Nvidia proves nobody knows anything about the stock market - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTi03OVRQelFBa2FKOS1ray10bDRKZUtnekpoQl9qdjBXOUNrR2FVMFZ1OElzaE4xRlp4RDBBTGdhTmt3TVVYY3ZkdmtOTDM4cnJhdk9vUDlqM1haSGxLV29ySHFzLVk5OHBMY2wzRHZNaFpoUzdEQURVTWMtWXE5WmR3MFl3NVVOZHBmOGxwdnN1cjFRNkVYVnJ6TG02STNzWFJQMW1SRTdOZw?oc=5",
+          "pub": "Tue, 24 Nov 2026 19:45:00 GMT",
+          "source": "The Washington Post"
         },
         {
-          "title": "Colette Kress Scored a Win Worth Millions From Huang’s Return to Nvidia - Barron's",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWTlkaUJDb25mOGs1NDdvMGlHU3ZFZUZqNDhuQ2I1VGxuU0lPQlNGcV9FV21LUWZHU3VSbW1IXzFqTkpMZ1c5Xy05dDVIU3F0cWRnWmpHc1NPRGlpbzhFU1J0NzkxMmt6R1paWU92UW9HMUI3UFhwSE1oMFhwalRFMWpNWWVWOVJrZ2ctNFVsUXVXRGFoclBoSmVJdw?oc=5",
-          "pub": "Tue, 24 Nov 2026 23:00:00 GMT",
-          "source": "Barron's"
+          "title": "Nvidia live updates: Nvidia stock falls 5% following huge rally after board reinstated Jensen Huang as CEO - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSWh4SkxkZkVEYVE0bHF3bzR2azhpV1pRbVJVSzJ2dHYyTEFwcFNFNFlLb25Qa0NnekRUTUlOcXd3SDBfZlJsdDVtOFNTd0VQS0RCWC1WaWZJdURybFFnZFRCM2h1SHA2RXNpWjQzLXNNMURST3dULWp4QVBKMVkycGVmeXN1eXJCWEZkaXg5YmVaTlp2SlpfM0pidU1ZaVExbGxKZXc4VG1vLVZDQTVYSTF3R2RGalo0LWVvcmtzdzVscHl0OEpsUF9RQU1wM0MyRHhQcEQ2ZEg?oc=5",
+          "pub": "Tue, 24 Nov 2026 13:30:42 GMT",
+          "source": "Yahoo Finance"
         },
         {
-          "title": "Jensen Huang 'euphoria' wanes as Nvidia's stock slides | Market Talk - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBNTHFoNmVUSUx4UC1kSkV0QW1NZXVudWU3a21xZjZKX3BmNW0wNDQxcndXMU10S1FqOS1JUV9Ob056NUNaUTA4OGhMVlE2X0ZqVWRoLVYwVXc1eEhYWHpUZzU3ZVlJUFU?oc=5",
-          "pub": "Tue, 24 Nov 2026 22:41:47 GMT",
-          "source": "Reuters"
+          "title": "Analysis | Trump’s Nvidia gambit shows the stock market is the economy - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdkp6YllFbGVuUS04S1E1aWdta2paXzVJTE00amRvblR0dGVFVHZwVTBUVXRpZEFSMVpYNnc0bmM3YUFKZG9vX3NRdWFaTGVRblktZ1gtRk1CY25Ea2ZwV2RCS0pnMXpiTnk0OGxHRDd4eExYZC1sZlZhZ0V4ajE1LUdGWWlzUzh0X3RoZHZR?oc=5",
+          "pub": "Tue, 24 Nov 2026 23:56:22 GMT",
+          "source": "The Washington Post"
         }
       ]
     },
     {
       "symbol": "META",
       "price": 589.82,
-      "prev_close": 597.5999755859375,
+      "prev_close": 560.8400268554688,
       "high_52w": 779.8200073242188,
       "currency": "USD",
       "yahoo_name": "Meta Platforms, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -1.3018701311540892,
+      "day_change_pct": 5.167244090443563,
       "drawdown_pct": 24.364597668654593,
       "name": "Meta Platforms",
       "news": [
+        {
+          "title": "Meta pauses Class C share issuance amid shareholder lawsuit - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNN2g3TFJ5emdHN3NnLVJ6TTFuUThTVW42UmthQXkzLWtkaUUxN3hyOWRtZWttRGdaOVFZMjZoOFJwYmJfa1ZtX0RfZ0hEai14NXFBX0s5ei1EMDhiQmhDaTQ4WHNNNEJsLVNaS25fQVh5eGpnektkOG9xSTJncXVNRjI3U3ZRLVBFTUJuOVR4TGdSbllaZ29MRUxxcU1ZbUxYcDc3MHdEV2l0Q3ZzdlpBZV9kZFcwZw?oc=5",
+          "pub": "Mon, 23 Nov 2026 22:37:54 GMT",
+          "source": "Reuters"
+        },
         {
           "title": "Alphabet vs. Meta Platforms: Which Media Stock Is a Better Buy for 2027? - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZTBsV1hGeU9wUTVmeGdjMzZ3ak5fODdfeXJmWXlOMlR4U0FxVFVWTFFQNUhsMmJBRVEtSWpaYzM4RExzTnhKSFVjSzY5OFc0OTBfTkNmR24zTHJPV0d4R1RaWE44YWZsWEhUeEJtZ01wXzUxVld2MzNIZFYzZGRDTjFKTERVOVI3SWFHM2wtMl9rR2YyMDdoUTRnMVFwa3BieGc?oc=5",
@@ -65,28 +71,22 @@
           "source": "Benzinga"
         },
         {
-          "title": "Tech surge sends Meta Platforms higher by 7% (META:NASDAQ) - Seeking Alpha",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYy1PUTRsNjA0REdicy0zYzZfLTZHbnV2ZGFXUDhSY3g5NHhqaEd1bWItZWpUY0toSV80QWh1bmtMX3NSaFJmQ09sY29sYUs5Njd3RHNHV0xQYXVRMHlfODc3dGZhcnVLT21fajl2QkwxZllZa3hVQkdtM1RzNE4xUEctYUQzdmts?oc=5",
-          "pub": "Mon, 23 Nov 2026 22:26:47 GMT",
-          "source": "Seeking Alpha"
-        },
-        {
-          "title": "Meta Platforms, Inc. $META Stock Holdings Increased by Allianz SE - MarketBeat",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRXlsRW1vRngxRHBxc3N3aEZaN0VNUHdKT05MM1RGUzNCM1pOV28zOHM2Nk0yck9DTzkwdkJKTHlkY1Bmc0RNcVBLekVyTlhUSEJNdE9CbFdOMnhIU2hndjQxWXFfVVJuTHh5OEFwenhZX2JXc3V0RUVjaDdlLUhnaUNGOVVtRGwzQkdEWHNfeE0xT0h5XzctN2lVcVFlbUE2SUZHRVdHdkY2cHU5Qk93aDhrclUtVWpkM285QTY0dFY?oc=5",
-          "pub": "Tue, 24 Nov 2026 08:12:02 GMT",
-          "source": "MarketBeat"
+          "title": "Don’t Rush to Buy Meta Stock Yet Despite the Crash - Barchart.com",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSXhId0NFZWluMWd5TWo4Z01OVGsxTWRPT0hrRWdkczVSUUtxXzg2OFNnY0lpYnhOTmc1ODdxeW9wdWFtUU1SVFJuSGhabERLZkZha0JTNlFQSjFQMzlVMm5hQlM5ZDNoamNIbmIxWFQtUmRJek1PQnRtZlRER0VsdEIwS2pCMXRsUG1lZ1d1YmJBMU41VC1CMg?oc=5",
+          "pub": "Mon, 23 Nov 2026 12:00:02 GMT",
+          "source": "Barchart.com"
         }
       ]
     },
     {
       "symbol": "AVGO",
       "price": 301.08,
-      "prev_close": 313.54998779296875,
+      "prev_close": 304.4100036621094,
       "high_52w": 495.0,
       "currency": "USD",
       "yahoo_name": "Broadcom Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -3.9770334168223496,
+      "day_change_pct": -1.0939205748985983,
       "drawdown_pct": 39.17575757575758,
       "name": "Broadcom",
       "news": [
@@ -119,15 +119,21 @@
     {
       "symbol": "AMD",
       "price": 413.27,
-      "prev_close": 453.4599914550781,
+      "prev_close": 424.3900146484375,
       "high_52w": 658.52001953125,
       "currency": "USD",
       "yahoo_name": "Advanced Micro Devices, Inc.",
       "exchange": "NasdaqGS",
-      "day_change_pct": -8.862963042475942,
+      "day_change_pct": -2.6202347521416782,
       "drawdown_pct": 37.242606489902116,
       "name": "AMD",
       "news": [
+        {
+          "title": "Jensen Huang is back at Nvidia. Should AMD be worried? - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeHdDZVB1MzkxNkxhS1hDYTdwMkRiMjgzaFVjTFh2T2dZQUhId1dlMFpmdmQ0TVlQRENQQmFNVkloVGRBeTNROV85cC1vcXRBSTdGdkE4eFR0R1lCT0dxWmYwQUxtVDBRREhXVmp6M3owUERRbmw0SHIzbVJiVzhmSWdkdmNveVZVT2gyc0p0TlNfTUhvd0dvTEkwclF1VlZFR3I3ZEEtV01IR1RkME1kaTFEdE9DaWc?oc=5",
+          "pub": "Tue, 24 Nov 2026 13:00:12 GMT",
+          "source": "Yahoo Finance"
+        },
         {
           "title": "AMD Stock Shows the Market Has Stopped Making Sense After Huang’s Dramatic Return - Barron's",
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZFZiUXAwenUzWFNOTXVsanB4ZEdoeU1nMFozQTF5T0NNRnZGZG1UVnhuWXFwb3Rhc2ZlU1h5dVc1aXUydlcxdEl3ZUZGY2p5MzBQUEZGSzNWb1ZkZ2tDQnh4NTJLX2FJUUtfSmVvQllMY3FESV9uc0g5Z25fTlpBV2FHMjhJY3M?oc=5",
@@ -135,34 +141,28 @@
           "source": "Barron's"
         },
         {
-          "title": "AMD Stock Dips Overnight After Nvidia-Triggered Rally: AMD Registers 337M Shares For Resale Tied To OpenAI, Meta Warrants - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdEJEc3NMNGhjTHlKR2tiMTFLWHZrYjBTUmdsMjZseVRCWVpCdDVKUmxCV0kzYnE4MFhPQno1cHZIQzBOWGhzQ0FvNXdsN1dRcnd5RDY2VG13UnlqU1V5Yi1EZGdvTGxTdGc2XzM2RHRzbE01NGFOaThXMlhqTjVuVUlWN1RuM3FHME9kdEFEMUdud1hYVG5tRGNhRk0?oc=5",
-          "pub": "Tue, 24 Nov 2026 03:47:00 GMT",
-          "source": "Yahoo Finance"
-        },
-        {
-          "title": "Why AMD Stock Fell Today - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZ1pBNXM5YnNPai1MelRia3JSc2tBNHJkcm95Yzg2dmZpNW5xYVliZDI4UjE4THRodWQtdXQ5ZERSTy1BU2ZxdHFYcTdZSEoyV09rS01IS09wSFhBYml4RzV4SWoyQkwwbFppVzdIaW9SZ0JRQ3JRXzI3SjFlY0Z5ZklYM3I3UjdyYTlVNWZxMkZTUTQ?oc=5",
-          "pub": "Tue, 24 Nov 2026 23:25:02 GMT",
-          "source": "Yahoo Finance"
-        },
-        {
           "title": "Here's where we stand on AMD shares after Jensen Huang's return to Nvidia - CNBC",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaTN3YnRUa0JOZUxWXzhPTlUtZmkzU1NrSmZzamgtTHBYdFNOSHdyYy1nUlg3ZWU1U29jVjBXTVEwbjJKNVpCVl9VUDlzMzR5ZWxNLWhDYVBQOWdrOVljOUNBOEw1dnNHWG5ZVFVObEJzeFB0aF96ZGtyNzRTV3l3NTJwRWdFc1VMdlZKSFB5b2J4WlhXNy11dUtwTmFwZjBBTHdLaER0LVNZMzRiSUI4eFhZZFBjUXdydkZzRTlHaGw?oc=5",
           "pub": "Mon, 23 Nov 2026 17:19:36 GMT",
           "source": "CNBC"
+        },
+        {
+          "title": "AMD vs. Nvidia Stock After Jensen Huang’s Exit: 1 Trades at Nearly 4x the Other’s Earnings Multiple. Here’s the AI Chip Stock I’d Buy Now. - Barchart.com",
+          "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOTWY1TFdsWFJ4OFBwbUMyNnA5cG9RbWN4c2hzeS1qakcteXdsNmNINlJ2SkFlcG9Pdi1EWndBREgxWThsY1BaWGdDRGZ0T3ZxQWp6cHJ3dXFLa3JzT2EwX0tDY3M3WmdxTE9YQXBNOVFSbl9xWFFvMDZ3dml2V1l3dlNVRFZFRUpqQ1pORlBWd3A2dlJUUmduMlNXYlRaZy1NaWs2djJ1MFhSbXNfbUVNTGdjR0xsdnJ2WUIxN0RvOHNsM1BZN0NuWkdtaWtwX2FZdWhwaUVhUU1XYjZMaVI3R2VCQWJmdlRjRE93OE9rSGVyblNZdERGaWxxTUpaUU5CWXRSSg?oc=5",
+          "pub": "Sun, 22 Nov 2026 21:25:13 GMT",
+          "source": "Barchart.com"
         }
       ]
     },
     {
       "symbol": "RKLB",
       "price": 45.98,
-      "prev_close": 49.630001068115234,
+      "prev_close": 45.41999816894531,
       "high_52w": 151.0,
       "currency": "USD",
       "yahoo_name": "Rocket Lab Corporation",
       "exchange": "NasdaqGS",
-      "day_change_pct": -7.3544247220663035,
+      "day_change_pct": 1.2329411132331802,
       "drawdown_pct": 69.54966887417218,
       "name": "Rocket Lab",
       "news": [
@@ -195,12 +195,12 @@
     {
       "symbol": "IREN",
       "price": 12.95,
-      "prev_close": 14.640000343322754,
+      "prev_close": 11.819999694824219,
       "high_52w": 70.70700073242188,
       "currency": "USD",
       "yahoo_name": "IREN LIMITED",
       "exchange": "NasdaqGS",
-      "day_change_pct": -11.543717921383498,
+      "day_change_pct": 9.560070510582069,
       "drawdown_pct": 81.68498187469868,
       "name": "IREN",
       "news": [
@@ -243,10 +243,10 @@
       "name": "MilDef Group",
       "news": [
         {
-          "title": "Mildef Group AB (8QA.HA) stock historical prices and data - Yahoo Finance UK",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9yWDVDUy1nSXNTTDU2dVhXT1hFTjJzMlQ3NzBSd0trcDd5RUQ5clc3VU5aSlFxSzhPaW1yaHEzTDlGa0c1SGtqcmhQWEhtWDgxRTJXVmlCRWNYS2NhTDR3?oc=5",
-          "pub": "Wed, 18 Nov 2026 00:46:07 GMT",
-          "source": "Yahoo Finance UK"
+          "title": "MilDef Group (OM:MILDEF) Stock Looks About Right For Its Earnings Outlook - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYnhhVXJUN3NyeHJGZlpjMHVlSlZQR1ZoZGxPYVdZV3VFdHRFSVJadndfR0pPUk1pV21raEdHODg5SDlsVXhCUFg5aXFkWks5dGZFR1dIcDJBUnJ4UVFsbkUtZHRVVFNMd1hWVndTS0h6ZHdBNHZhZF9BdXc0Nm0yRTVCWmxMNldkLVBlbTkzdy1qV1BiUGhrdw?oc=5",
+          "pub": "Fri, 13 Nov 2026 08:00:00 GMT",
+          "source": "Yahoo Finance"
         },
         {
           "title": "Making Battlefield Tech Fuels an 80% Rally for Swedish Stock - Bloomberg.com",
@@ -261,10 +261,10 @@
           "source": "TradingView"
         },
         {
-          "title": "MilDef Group (OM:MILDEF) Stock Forecast & Analyst Predictions - Simply Wall St",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQV9TTFBVOUxkRUxRRFd6bWdhWEs4QThCZE9mVnJzMUZFY09QaWJqM0pjUHBjTkFCRTV5NWtlbDFoSl9CY2l1VUNfbkRvcm1pdmhRVjdCTXZBbzBPX2ZNbmRqNkhEQVRwMW92b1VmRnZicEM3MjdyWTZHd3pjQm5LSFZYbWpuSjZINDk4?oc=5",
-          "pub": "Fri, 23 Oct 2026 07:00:00 GMT",
-          "source": "Simply Wall St"
+          "title": "Mildef Group AB (8QA.HA) stock historical prices and data - Yahoo Finance UK",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9yWDVDUy1nSXNTTDU2dVhXT1hFTjJzMlQ3NzBSd0trcDd5RUQ5clc3VU5aSlFxSzhPaW1yaHEzTDlGa0c1SGtqcmhQWEhtWDgxRTJXVmlCRWNYS2NhTDR3?oc=5",
+          "pub": "Wed, 18 Nov 2026 00:46:07 GMT",
+          "source": "Yahoo Finance UK"
         }
       ]
     },
